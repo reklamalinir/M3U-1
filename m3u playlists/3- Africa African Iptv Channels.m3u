@@ -1,0 +1,64 @@
+#EXTM3U
+
+#################################################################################################################################### 
+#EXTINF:-1 tvg-logo="tuga.png" group-title=" African Iptv Channels", [COLOR white][B][COLOR blue]||||||||||[/COLOR]  African Iptv Channels [COLOR blue]||||||||||[/COLOR][/B][/COLOR]
+http://0.0.0.0:1234
+#################################################################################################################################### 
+
+
+
+
+#EXTINF:0, TV CONTINENTAL NIGERIA
+http://77.92.76.135:1935/tvce/livestream/playlist.m3u8
+#EXTINF:0, TVC News NIGERIA
+http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8
+#EXTINF:-1, Africa: FusionPlus TV
+http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
+#EXTINF:-1, Africa:TV Maná-Maputo
+http://195.22.19.189:1935/tvmz/tvmz3/playlist.m3u8
+#EXTINF:-1,Afrique Média TV
+http://afm.streamakaci.com/afm/afm.stream/playlist.m3u8
+#EXTINF:0,Adom TV Ghana
+#http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/AdomeTV/adm_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
+#EXTINF:0,GTV Ghana
+http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/GhanaTV/ghanatv_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
+#EXTINF:-1,1 CORCAS
+#EXTINF:-1,ADOME TV
+http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/AdomeTV/adm_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
+#EXTINF:-1,ADTV
+http://162.212.176.83:8080/mystream1.m3u8
+#EXTINF:-1,AFRICABLE
+http://162.212.176.83:8080/map-africableroku.stream.m3u8
+#EXTINF:-1,CHANNELS24
+http://myafricanmega3.tulix.tv:1935/map-channelstv/map-channelstv.stream/chunklist.m3u8?wowzasessionid=598321747
+#EXTINF:-1,CNBC Africa
+http://brightcove03-f.akamaihd.net/CNBC_ANGLE1_2@176778?
+#EXTINF:-1,CNBC AFRICA
+http://brightcove03-f.akamaihd.net/CNBC_ANGLE1_2@176778?videoId=4034050989001&lineUpId=&pubId=1571595826001&playerId=1572473874001&affiliateId=&bandwidthEstimationTest=true&v=3.4.0&fp=WIN 17,0,0,169&r=QLXNB&g=RKPUHWMRUXBO
+#EXTINF:-1,CTV
+http://162.212.176.83:8080/map-telecongo.stream.m3u8
+#EXTINF:-1,DIASPORA24
+rtmp://diaspora24.tv:1935/diaspora24tv/diaspora24
+#EXTINF:-1,GHANATV
+http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/GhanaTV/ghanatv_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
+#EXTINF:-1,MAURITANIA
+http://162.212.176.83:8080/map-mauritania.m3u8
+#EXTINF:-1,MAYA TV
+http://162.212.176.83:8080/mayatv.m3u8
+#EXTINF:-1,SULAVISION
+http://162.212.176.83:8080/sulavision.m3u8
+#EXTINF:-1,TELEBASICA
+http://162.212.176.83:8080/vicatv.m3u8
+#EXTINF:-1,TELECONGO
+http://162.212.176.83:8080/map-telecongo.stream.m3u8
+#EXTINF:-1,TV Africa
+http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/TvAfrica/tvafrica_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
+#EXTINF:-1,TV CONTINENTAL
+rtmp://77.92.76.135:1935/tvce/livestream
+
+
+
+#################################################################################################################################### 
+#EXTINF:-1 tvg-logo="tuga.png" group-title=" African Iptv Channels", [COLOR white][B][COLOR blue]||||||||||[/COLOR]  African Iptv Channels [COLOR blue]||||||||||[/COLOR][/B][/COLOR]
+http://0.0.0.0:1234
+#################################################################################################################################### 
