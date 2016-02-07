@@ -83,12 +83,51 @@ http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master1
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="bentv-ver2.png" group-title=“DESPORTO”,[COLOR blue][I][B]BENFICA TV 2[/B][/I][/COLOR]
 http://91.204.214.106:23201/stolen/233w/xenixos.7z
 
-#EXTINF:-1,ESP Canal+ Liga
-http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/43.ts
-#EXTINF:-1,ESP Canal+ Futbol
-http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/42.ts
-#EXTINF:-1,ESP Canal+ Deportes
-http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/44.ts
+#EXTM3U
+#EXTINF:-1,ES : CANAL  FUTBOL*
+http://62.210.162.88:80/live/SPORT93/131707022016/1728.ts
+#EXTINF:-1,ROM : DOLCESPORT 1*
+http://62.210.162.88:80/live/SPORT93/131707022016/1831.ts
+#EXTINF:-1,ROM : DOLCESPORT 2*
+http://62.210.162.88:80/live/SPORT93/131707022016/1832.ts
+#EXTINF:-1,ARENA1*
+http://62.210.162.88:80/live/SPORT93/131707022016/1515.ts
+#EXTINF:-1,ARENA2*
+http://62.210.162.88:80/live/SPORT93/131707022016/1516.ts
+#EXTINF:-1,ARENA3*
+http://62.210.162.88:80/live/SPORT93/131707022016/1517.ts
+#EXTINF:-1,ARENA4*
+http://62.210.162.88:80/live/SPORT93/131707022016/1518.ts
+#EXTINF:-1,UK : BT SPORTS 1 (UK)*
+http://62.210.162.88:80/live/SPORT93/131707022016/1785.ts
+#EXTINF:-1,UK : BT SPORTS 2 (UK)*
+http://62.210.162.88:80/live/SPORT93/131707022016/1786.ts
+#EXTINF:-1,btsports2*
+http://62.210.162.88:80/live/SPORT93/131707022016/1525.ts
+#EXTINF:-1,USA : SPORT USA*
+http://62.210.162.88:80/live/SPORT93/131707022016/1836.ts
+#EXTINF:-1,RU : FUTBOL 1*
+http://62.210.162.88:80/live/SPORT93/131707022016/1778.ts
+#EXTINF:-1,RU : NTV SPORT 2*
+http://62.210.162.88:80/live/SPORT93/131707022016/1777.ts
+#EXTINF:-1,RU : SPORT 1*
+http://62.210.162.88:80/live/SPORT93/131707022016/1779.ts
+#EXTINF:-1,CRO : SK1*
+http://62.210.162.88:80/live/SPORT93/131707022016/1833.ts
+#EXTINF:-1,CRO : SK2*
+http://62.210.162.88:80/live/SPORT93/131707022016/1834.ts
+#EXTINF:-1,CRO : SK3*
+http://62.210.162.88:80/live/SPORT93/131707022016/1835.ts
+#EXTINF:-1,beIN_Sports_1FR*
+http://62.210.162.88:80/live/SPORT93/131707022016/1674.ts
+#EXTINF:-1,beIN_Sports_2FR*
+http://62.210.162.88:80/live/SPORT93/131707022016/1673.ts
+#EXTINF:-1,beIN_Sports_3FR*
+http://62.210.162.88:80/live/SPORT93/131707022016/1672.ts
+#EXTINF:-1,ALB : SS 5 HD*
+http://62.210.162.88:80/live/SPORT93/131707022016/1829.ts
+#EXTINF:-1,ALB : SS 6 HD*
+http://62.210.162.88:80/live/SPORT93/131707022016/1830.ts
 
 
 
