@@ -30,6 +30,8 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlis
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15
 #EXTINF:-1 tvg-id="rtp3.pt" tvg-logo="rtp3.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 3[/B][/I][/COLOR]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15
+#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="rtp informaçao.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 3 [/B][/I][/COLOR]
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC HD[/B][/I][/COLOR]
 http://213.13.26.11:1935/live/sic/chunklist_w423840104.m3u8
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC[/B][/I][/COLOR]
@@ -43,11 +45,12 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b81400
 #EXTINF:-1 tvg-id="TVI.pt" tvg-logo="TVI.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI[/B][/I][/COLOR]
 http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="sic_noticias.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC NOTICIAS [/B][/I][/COLOR]
+http://www.t12v.com:8000/live/prevot/prevot/1123.ts
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="sic_noticias.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC NOTICIAS [/B][/I][/COLOR]
 rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html
-#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="rtp informaçao.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 3 [/B][/I][/COLOR]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="tvi_24.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI 24[/B][/I][/COLOR]
 http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b1564000.m3u8
+#EXTINF:-1 tvg-id="SIC Radical" tvg-logo="http://www.thelogodb.com/images/media/logo/ustqwy1436891230.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC RADICAL [/B][/I][/COLOR]
 #EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="rtp_africa.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP ÁFRICA[/B][/I][/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="rtp_memoria.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP MEMÓRIA[/B][/I][/COLOR]
