@@ -19,11 +19,17 @@ http://0.0.0.0:1234
 #################################################################################################################################### 
 
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 1[/B][/I][/COLOR]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 1[/B][/I][/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 1[/B][/I][/COLOR]
 http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="rtp2.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 2[/B][/I][/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="rtp2.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 2[/B][/I][/COLOR]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-logo="rtp3.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 3[/B][/I][/COLOR]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC HD[/B][/I][/COLOR]
 http://213.13.26.11:1935/live/sic/chunklist_w423840104.m3u8
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC[/B][/I][/COLOR]
@@ -74,16 +80,23 @@ http://213.13.26.13:1935/live/carcavelos.stream/magellan.m3u8
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SportTV 1.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 1 [/B][/I][/COLOR]
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SportTV 1.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 1 [/B][/I][/COLOR]
+rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SportTV 2.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 2 [/B][/I][/COLOR]
 rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="SportTV 3.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 3 [/B][/I][/COLOR]
+http://iptv.ndasat.com:88/live/000001/000001/66.ts
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="SportTV 4.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 4 [/B][/I][/COLOR]
+http://iptv.ndasat.com:88/live/000001/000001/67.ts
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="sporttv3.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 3/BENFICA TV  [/B][/I][/COLOR]
 rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 #EXTINF:-1 tvg-id="" tvg-logo="sport_tv_americas.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV AMÉRICAS [/B][/I][/COLOR]
 http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="bentv-ver1.png" group-title=“DESPORTO”,[COLOR blue][I][B]BENFICA TV 1[/B][/I][/COLOR]
+http://91.204.214.106:23201/stolen/250l/xenixos.7z
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="bentv-ver2.png" group-title=“DESPORTO”,[COLOR blue][I][B]BENFICA TV 2[/B][/I][/COLOR]
 http://91.204.214.106:23201/stolen/233w/xenixos.7z
 
-#EXTM3U
 #EXTINF:-1,ES : CANAL  FUTBOL*
 http://62.210.162.88:80/live/SPORT93/131707022016/1728.ts
 #EXTINF:-1,ROM : DOLCESPORT 1*
@@ -128,6 +141,137 @@ http://62.210.162.88:80/live/SPORT93/131707022016/1672.ts
 http://62.210.162.88:80/live/SPORT93/131707022016/1829.ts
 #EXTINF:-1,ALB : SS 6 HD*
 http://62.210.162.88:80/live/SPORT93/131707022016/1830.ts
+
+
+
+
+#EXTM3U
+#EXTINF:-1,UK SkySport News 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/11.ts
+#EXTINF:-1,UK SkySport 1 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/6.ts
+#EXTINF:-1,UK SkySport 2 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/7.ts
+#EXTINF:-1,UK SkySport 3 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/8.ts
+#EXTINF:-1,UK SkySport 4 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/9.ts
+#EXTINF:-1,UK SkySport 5 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/10.ts
+#EXTINF:-1,UK SkySport F1 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/12.ts
+#EXTINF:-1,UK BT Sport 1 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/13.ts
+#EXTINF:-1,UK BT Sport 2 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/14.ts
+#EXTINF:-1,UK BT Sport EUROPE 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/16.ts
+#EXTINF:-1,UK BT Sport ESPN 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/15.ts
+#EXTINF:-1,UK Setanta Ireland 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/17.ts
+#EXTINF:-1,UK Premier sports 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/18.ts
+#EXTINF:-1,UK Eurosport 1 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/19.ts
+#EXTINF:-1,UK Eurosport 2 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/20.ts
+#EXTINF:-1,Star Sport 1 HD 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/1.ts
+#EXTINF:-1,Star Sport 2 HD 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/2.ts
+#EXTINF:-1,Star Sport 3 HD 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/3.ts
+#EXTINF:-1,Star Sport 4 HD 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/4.ts
+#EXTINF:-1,Ten Sports 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/5.ts
+#EXTINF:-1,Canal+ Liga 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/43.ts
+#EXTINF:-1,Canal+ Futbol 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/42.ts
+#EXTINF:-1,Canal+ Deportes 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/44.ts
+#EXTINF:-1,Canal   Sport FR 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/41.ts
+#EXTINF:-1,Bein Sports 1 HD FR 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/38.ts
+#EXTINF:-1,Bein Sports 2 HD FR 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/39.ts
+#EXTINF:-1,Bein Sports 3 HD FR 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/40.ts
+#EXTINF:-1,Nordik Viasat Sport 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/58.ts
+#EXTINF:-1,Nordik Viasat Hockey 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/61.ts
+#EXTINF:-1,Nordik Viasat Golf 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/60.ts
+#EXTINF:-1,Nordik Viasat Futbol 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/59.ts
+#EXTINF:-1,Nordik Nor 2 sportkanalen 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/57.ts
+#EXTINF:-1,Nordik Fin Mtv Sport 1 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/73.ts
+#EXTINF:-1,Nordik Fin Mtv Sport 2 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/56.ts
+#EXTINF:-1,Nordik Dk Tv3 Sport 1 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/53.ts
+#EXTINF:-1,Nordik Dk Tv3 Sport 2 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/54.ts
+#EXTINF:-1,Nordik Dk Tv2 Sport 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/55.ts
+#EXTINF:-1,Arena Sport 1 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/45.ts
+#EXTINF:-1,Arena Sport 2 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/46.ts
+#EXTINF:-1,Arena Sport 3 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/47.ts
+#EXTINF:-1,Arena Sport 4 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/48.ts
+#EXTINF:-1,Arena Sport 5 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/52.ts
+#EXTINF:-1,Sport Klub 1 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/49.ts
+#EXTINF:-1,Sport Klub 2 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/50.ts
+#EXTINF:-1,Sport Klub 3 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/51.ts
+#EXTINF:-1,Russia Fotball 1 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/62.ts
+#EXTINF:-1,Russia Fotball 2 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/63.ts
+#EXTINF:-1,Russia Fotball 3 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/64.ts
+#EXTINF:-1,DOLCE SPORT 1 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/21.ts
+#EXTINF:-1,DOLCE SPORT 2 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/22.ts
+#EXTINF:-1,Bein Sports Global HD AR 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/37.ts
+#EXTINF:-1,Bein Sports 1 HD AR 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/27.ts
+#EXTINF:-1,Bein Sports 2 HD AR 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/28.ts
+#EXTINF:-1,Bein Sports 3 HD AR 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/29.ts
+#EXTINF:-1,Bein Sports 4 HD AR 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/30.ts
+#EXTINF:-1,Bein Sports 5 HD AR 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/31.ts
+#EXTINF:-1,Bein Sports 6 HD AR 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/32.ts
+#EXTINF:-1,Bein Sports 7 HD AR 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/33.ts
+#EXTINF:-1,Bein Sports 8 HD AR 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/34.ts
+#EXTINF:-1,Bein Sports 9 HD AR 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/35.ts
+#EXTINF:-1,Bein Sports 10 HD AR 
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/36.ts
+2.2.2016
+
+
+
 
 
 
