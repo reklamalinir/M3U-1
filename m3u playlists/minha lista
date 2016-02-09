@@ -50,7 +50,16 @@ http://www.t12v.com:8000/live/prevot/prevot/1123.ts
 rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="tvi_24.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI 24[/B][/I][/COLOR]
 http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b1564000.m3u8
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="tvi_24.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI 24[/B][/I][/COLOR]
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="tvi_24.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI 24[/B][/I][/COLOR]
+http://www.t12v.com:8000/live/prevot/prevot/808.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a1/Log%C3%B3tipo_TVI_Fic%C3%A7%C3%A3o.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI FICÇÃO [/B][/I][/COLOR]
+http://www.t12v.com:8000/live/prevot/prevot/1126.ts
 #EXTINF:-1 tvg-id="SIC Radical" tvg-logo="http://www.thelogodb.com/images/media/logo/ustqwy1436891230.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC RADICAL [/B][/I][/COLOR]
+http://www.t12v.com:8000/live/prevot/prevot/1159.ts
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rqrvpy1433343925.png" group title="PORTUGAL",[COLOR yellow][I][B]SIC CARAS [/B][/I][/COLOR]
+http://www.t12v.com:8000/live/prevot/prevot/1422.ts
 #EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="rtp_africa.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP ÁFRICA[/B][/I][/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="rtp_memoria.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP MEMÓRIA[/B][/I][/COLOR]
