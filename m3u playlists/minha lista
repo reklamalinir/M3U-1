@@ -1,21 +1,13 @@
-#EXTM3U 
-
-
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR]  TV SUPER TUGA [COLOR blue]|||[/COLOR][/B][/COLOR]
-http://jerrymoz.wordpress.com
-
 #EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 15-02-16 [COLOR red]|||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
-
 #EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in search free on the Internet I am not responsible for your use [COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
-
 #EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] PARA PEDIDOS DE CANAIS OU MAIS INFORMAÇÕES MANDAR EMAIL : tvsupertuga@gmail.com[COLOR red]|||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 
 
 
-
+#EXTM3U 
 
 #################################################################################################################################### 
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B][COLOR red]||||||||||[/COLOR] PORTUGUESES CHANNELS [COLOR red]||||||||||[/COLOR][/B][/COLOR]
@@ -90,7 +82,7 @@ http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/chunklist_w1713826381.m3u8
 http://cp.dmbshare.net:8000/live/liverpool/liverpool/3444.m3u8
 #EXTINF:-1 tvg-id=" GLOBO PORTUGAL.pt" tvg-logo=" GLOBO PORTUGAL_Logo.png" group-title="PORTUGAL",[COLOR yellow][I][B] GLOBO PORTUGAL[/B][/I][/COLOR]
 http://cp.dmbshare.net:8000/live/liverpool/liverpool/3445.m3u8
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uspyqq1436893244.png",PT_ODISSEIA" group-title="PORTUGAL",[COLOR yellow][I][B]PT ODISSEIA[/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uspyqq1436893244.png", ODISSEIA [COLOR red][/COLOR]
 http://www.t12v.com:8000/live/prevot/prevot/1401.ts
 #EXTINF:-1 tvg-id=" TOROS TV .pt" tvg-logo=" TOROS TV _Logo.png" group-title="PORTUGAL",[COLOR yellow][I][B] TOROS TV [/B][/I][/COLOR]
 http://cp.dmbshare.net:8000/live/liverpool/liverpool/3450.m3u8
