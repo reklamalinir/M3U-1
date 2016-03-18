@@ -1,0 +1,79 @@
+[
+{{
+        "url": "http://pastebin.com/raw/PqnZJMe4", 
+        "logos": "", 
+        "image": "", 
+        "name": "[COLOR white][B][COLOR red]||||||||||[/COLOR] WORLD IPTV CHANNELS [COLOR red]||||||||||[/COLOR][/B][/COLOR]"
+    }, 
+        "url": "http://pastebin.com/raw/PqnZJMe4", 
+        "logos": "", 
+        "image": "", 
+        "name": "[COLOR white][B][COLOR red]||||||||||[/COLOR] WORLD IPTV CHANNELS [COLOR red]||||||||||[/COLOR][/B][/COLOR]"
+    }, 
+    {
+        "url": "http://pastebin.com/raw/afUew1be", 
+        "logos": "", 
+        "image": "", 
+        "name": "[COLOR white][B][COLOR red]||||||||||[/COLOR] SPAIN IPTV Channels [COLOR red]||||||||||[/COLOR][/B][/COLOR]"
+    }, 
+    {
+        "url": "http://pastebin.com/raw/tjgwEgN9", 
+        "logos": "", 
+        "image": "", 
+        "name": "[COLOR white][B][COLOR blue]||||||||||[/COLOR]  AFRICAN IPTV CHANNELS [COLOR blue]||||||||||[/COLOR][/B][/COLOR]"
+    }, 
+    {
+        "url": "http://pastebin.com/raw/tM4D2u5y", 
+        "logos": "", 
+        "image": "", 
+        "name": "[COLOR white][B][COLOR red]||||||||||[/COLOR] TURKISH IPTV CHANNELS [COLOR red]||||||||||[/COLOR][/B][/COLOR]"
+    }, 
+    {
+        "url": "http://pastebin.com/raw/YwyNKZ3V", 
+        "logos": "", 
+        "image": "", 
+        "name": "[COLOR white][B][COLOR red]||||||||||[/COLOR] ARAB IPTV CHANNELS [COLOR red]||||||||||[/COLOR][/B][/COLOR]"
+    }, 
+    {
+        "url": "https://raw.githubusercontent.com/djlopesdacosta/M3U/master/m3u%20playlists/6-%20PLEXUS.m3u", 
+        "logos": "", 
+        "image": "", 
+        "name": "[COLOR white][B][COLOR red]||||||||||[/COLOR] PLEXUS TV [COLOR red]||||||||||[/COLOR][/B][/COLOR]"
+    }, 
+    {
+        "url": "https://raw.githubusercontent.com/djlopesdacosta/M3U/master/m3u%20playlists/ADULT.m3u", 
+        "logos": "", 
+        "image": "", 
+        "name": "[COLOR white][B][COLOR violet]||||||||||[/COLOR] ADULT XXX [COLOR violet]||||||||||[/COLOR][/B][/COLOR]"
+    }, 
+    {
+        "url": "http://pastebin.com/raw/H5gGTteK", 
+        "logos": "", 
+        "image": "", 
+        "name": "[COLOR white][B][COLOR red]||||||||||[/COLOR] INTERNACIONAIS TVS TESTE [COLOR red]||||||||||[/COLOR][/B][/COLOR]"
+    }, 
+    {
+        "url": "http://pastebin.com/raw/5cWBw3rw", 
+        "logos": "", 
+        "image": "", 
+        "name": "[COLOR white][B][COLOR red]||||||||||[/COLOR] LISTA MyIPTVChannels 1 [COLOR red]||||||||||[/COLOR][/B][/COLOR]"
+    }, 
+    {
+        "url": "http://pastebin.com/raw/cv57BjSx", 
+        "logos": "", 
+        "image": "", 
+        "name": "[COLOR white][B][COLOR red]||||||||||[/COLOR] LISTA MyIPTVChannels 2 [COLOR red]||||||||||[/COLOR][/B][/COLOR]"
+    }, 
+	{
+        "url": "https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/pt.m3u", 
+        "logos": "", 
+        "image": "", 
+        "name": "[COLOR white][B][COLOR red]||||||||||[/COLOR] LISTA MyIPTVChannels – Adriano Afonso [COLOR red]||||||||||[/COLOR][/B][/COLOR]"
+    }, 
+    {
+        "url": "https://raw.githubusercontent.com/djlopesdacosta/M3U/master/m3u%20playlists/minha%20lista", 
+        "logos": "", 
+        "image": "", 
+        "name": "[COLOR white][B][COLOR red]||||||||||[/COLOR] MINHA LISTA IPTV [COLOR red]||||||||||[/COLOR][/B][/COLOR]"
+    }
+]
