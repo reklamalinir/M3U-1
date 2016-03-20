@@ -2,7 +2,7 @@ bg <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channels>
 <channel>
-<name>[COLOR red] [I]AAAAAAAAAAAAAA[/I][/COLOR]</name>
+<name>[COLOR red] [I]http://www.paypal.me/tvdireto[/I][/COLOR]</name>
 <thumbnail>http://www.theatomicalley.com/images/paypal-logo.png</thumbnail>
 <fanart>http://www.theatomicalley.com/images/paypal-logo.png</fanart>
 </subitem>
@@ -10,7 +10,7 @@ bg <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channels>
 <channel>
-<name>[COLOR green] [I]TV SUPER TUGA[/I] [/COLOR] </name>
+<name>[COLOR green] [I]TUGA TV[/I] [/COLOR] </name>
 <thumbnail>http://img3.goodfon.su/original/1920x1080/2/49/portugal-portugaliya-flag.jpg</thumbnail>
 <fanart>http://blog.weholi.com/wp-content/uploads/2014/11/PT-Albufeira-25-1024x576.jpg</fanart>
 </subitem>
@@ -610,42 +610,32 @@ item>
 </item>
 
 <item>
-<title>[COLOR blue] [I] CANAL + TOROS [/I] [/COLOR]</title>
-<link>http://cdn.sstream.pw/live/toros_9frbv56/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
-<thumbnail>http://www.touroeouro.com/assets/site/uploads/article8599.jpg</thumbnail>  
-</item> 
-<item>
-<title>[COLOR blue] [I] TV GLOBO [/I] [/COLOR] [COLOR white] BRASIL[/COLOR]</title
-<link>$doregex[file]|User-Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<title>[COLOR blue] [I] TV GLOBO [/I] [/COLOR] [COLOR white] BRASIL[/COLOR]</title>
+<link>$doregex[getM3U8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</link>
 <regex>
-<name>file</name>
-<expres>sources.*\n.*HLS.*\n.*file: "(.*?)"</expres>
-<page>http://pxstream.tv/embed.php?file=7807872aa9aae1584-globosppod&referrer=http://ekostreams.co/ch/bobo.php&width=600&amp;height=384&amp;jwplayer=mpegdash</page> 
-<referer>http://ekostreams.co/ch/bobo.php</referer>
+<name>getM3U8</name>
+<expres>source: '(.*?)'</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[getFileName]&amp;jwplayer=mpegdash</page>
+<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
+<page>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</page>
 </regex>
+<regex>
+<name>getFileName</name>
+<expres>file='(.*?)'.*width='600</expres>
+<page>http://ekostreams.co/ch/bobo.php?width=600&amp;height=384</page>
+<page>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</page>
 <thumbnail>http://vignette2.wikia.nocookie.net/rede-globo-logopedia-2/images/e/e6/Globo-Network-Logo-(2008).png/revision/latest?cb=20140407190646</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue] [I] TV GLOBO [/I] [/COLOR] [COLOR white] BRASIL[/COLOR]</title
-<link>http://cdn.sstream.pw/live/101010/chunklist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
-<thumbnail>http://vignette2.wikia.nocookie.net/rede-globo-logopedia-2/images/e/e6/Globo-Network-Logo-(2008).png/revision/latest?cb=20140407190646</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue] [I] TV GLOBO [/I] [/COLOR] [COLOR white] BRASIL[/COLOR]</title
-<link>rtmp://62.210.83.152:1935/liverepeat01?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDE2IDg6Mjg6MjAgUE0maGFzaF92YWx1ZT1rRHB.CV1BmVTN3QS9LZWJYaDNiUzFBPT0mdmFsaWRtaW51dGVzPTMwMA== playpath=101010 swfUrl=http://ppcast.org/embedP/jwplayer/jwplayer.flash..swf live=1 pageUrl=http://ppcast.org/embedP/3.php?file=trico3&width=100%&height=100%</link>
-<thumbnail>http://vignette2.wikia.nocookie.net/rede-globo-logopedia-2/images/e/e6/Globo-Network-Logo-(2008).png/revision/latest?cb=20140407190646</thumbnail>
+</regex>
 </item>
 
 <item>
 <title>[COLOR blue] [I] TV RECORD [/I] [/COLOR] [COLOR white] BRASIL[/COLOR]</title>
-<link>$doregex[file]|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<link>$doregex[get-m3u8]|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</link>
 <regex>
-<name>file</name>
-<expres>sources.*\n.*HLS.*\n.*file: "(.*?)"</expres>
-<page>http://pxstream.tv/embed.php?file=record&referrer=http://ekostreams.co/ch/record.php&width=600&amp;height=384&amp;jwplayer=flash</page>
-<referer>http://ekostreams.co/ch/record.php</referer>
+<name>get-m3u8</name>
+<expres>source: '(.*?)'</expres>
+<page>http://pxstream.tv/embed.php?file=record</page>
+<referer>http://ekostreams.co/ch/record.php?width=600&height=384</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xrpwsp1436890926.png/medium</thumbnail>
 </regex>
 </item>
@@ -661,18 +651,6 @@ item>
 <link>rtmp://evp.mm.uol.com.br/redetv1/_definst_//redetv1</link>
 <thumbnail>http://img4.wikia.nocookie.net/__cb20110305125842/logopedia/images/e/ec/RedeTV!.png</thumbnail>
 </item>
-
-<item>
-<title>[COLOR blue] [I] BIG BROTHER [/I] [/COLOR] [COLOR white] BRASIL[/COLOR]</title>
-<link>rtmp://62.210.89.38/liverepeat01 playpath=bbb15 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf pageUrl=http://direct-stream.biz/</link>
-<thumbnail>http://bbb2016.org/wp-content/uploads/2015/06/bbb2.jpg</thumbnail>
-</item> 
-
-<item>
-<title>[COLOR blue] [I] BIG BROTHER [/I] [/COLOR] [COLOR white] BRASIL[/COLOR]</title>
-<link>http://31.204.128.112:8081/live/bbb/chunks.m3u8</link>
-<thumbnail>http://bbb2016.org/wp-content/uploads/2015/06/bbb2.jpg</thumbnail>
-</item> 
 
 <channel>              
 <name>[COLOR green] [I]PT SPORTS[/I][/COLOR]</name>
@@ -893,7 +871,7 @@ item>
 
 <item>
 <title>[COLOR blue] [I]BENFICA TV 1[/I] [/COLOR]</title>
-<link></link>
+<link>rtmp://94.176.148.211:443/liveedge/ playpath=channel5Rea swfUrl=http://www.turbocast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.turbocast.tv/megatvhd.php?ch=channel5Rea</link>
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 
@@ -1053,8 +1031,8 @@ item>
 <item>
 <title>[COLOR blue] [I]DIMSPORTS[/I] [/COLOR] [COLOR green] LIVE SPORTS [/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/dimsports.eu.cfg&amp;mode=1</jsonrpc>
-<thumbnail>https://pbs.twimg.com/profile_images/2106839637/logorojadirecta_400x400.jpg</thumbnail>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
 </item>
 
 <item>
@@ -1067,8 +1045,8 @@ item>
 <item>
 <title>[COLOR blue] [I]ROJA DIRECTA[/I] [/COLOR] [COLOR green] LIVE SPORTS [/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
-<thumbnail></thumbnail>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/dimsports.eu.cfg&amp;mode=1</jsonrpc>
+<thumbnail>https://pbs.twimg.com/profile_images/2106839637/logorojadirecta_400x400.jpg</thumbnail>
 </item>
 
 <item>
@@ -1093,17 +1071,8 @@ item>
 </item>
 
 <item>
-<title>[COLOR blue] [I]BEIN SPORTS[/COLOR][/I] </title>
-<link>http://185.56.30.123:8082/TV4001</link>
-<link>http://185.56.30.123:8082/TV4002</link>
-<link>http://185.56.30.123:8082/TV4003</link>
-<link>http://185.56.30.123:8082/TV4004</link>
-<link>http://185.56.30.123:8082/TV4005</link>
-<link>http://185.56.30.123:8082/TV4006</link>
-<link>http://185.56.30.123:8082/TV4007</link>
-<link>http://185.56.30.123:8082/TV4008</link>
-<link>http://185.56.30.123:8082/TV4009</link>
-<link>http://185.56.30.123:8082/TV4010</link>
+<title>[COLOR blue] [I]BEIN US[/COLOR][/I] </title>
+<link></link>
 <thumbnail>http://www.beinsports.fr/di/library/bein/4b/92/logo-bein-sports-1-hd_6tt6szp2b0ag1dscy6cxln08t.jpg</thumbnail>
 </item>
 
@@ -1245,6 +1214,7 @@ item>
 <thumbnail> </thumbnail>
 </item>
 
+
 <item>
 <title>[COLOR blue] [I]MOTORS TV[/COLOR][/I] </title>
 <link>rtmp://31.220.2.149:80/live playpath=motors swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=motors&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
@@ -1317,6 +1287,7 @@ item>
 
 <item>
 <title>[COLOR blue] [I]SETANTA[/COLOR][/I] </title>
+<link></link>
 <thumbnail>http://www.ettu.org/images/newsarchive/images/original/9d87bss_741d5_f_666x375.jpg </thumbnail>
 </item>
 
@@ -1422,12 +1393,6 @@ item>
 </item>
 
 <item>
-<title>[COLOR blue] [I]SKY SPORTS F1[/I] [/COLOR] </title>
-<link>http://50.97.49.87:1935/apqq/vskysf1lsh/playlist.m3u8</link>
-<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-F1-Logo.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR blue] [I] [/COLOR][/I] </title>
 <sportsdevil></sportsdevil>
 <referer></referer>
@@ -1472,45 +1437,6 @@ item>
 <thumbnail>http://www.nwtel.ca/media/channel-logos/tsn2_0.jpg</thumbnail>
 </item>
 
-<item>
-<title>[COLOR blue] [I]WWE NXT[/I] [/COLOR]</title>
-<sportsdevil>http://sports4u.tv/channel/wwe-network-live-streaming/</sportsdevil>
-<referer>http://sports4u.tv/channel/wwe-network-live-streaming/</referer>
-<thumbnail>https://blog-blogmediainc.netdna-ssl.com/upload/SportsBlogcom/10770645/0430996001457630369_filepicker.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow] [I]VIP LIVE SPORTS[/I] [/COLOR]</title>
-<sportsdevil>http://www.streamlive.to/embed/53681&width=640&height=480&autoplay=true</sportsdevil>
-<referer>http://www.streamlive.to/embed/53681&width=640&height=480&autoplay=true</referer>
-<agent>Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-<thumbnail>http://www.rockalumnicafe.com/image/vip-sports/VIPSports-Banner.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow] [I]VIP SKY F1[/I] [/COLOR]</title>
-<sportsdevil>http://www.streamlive.to/embed/72747&width=640&height=480&autoplay=true</sportsdevil>
-<referer>http://www.streamlive.to/embed/72747&width=640&height=480&autoplay=true</referer>
-<agent>Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-<thumbnail>http://www.rockalumnicafe.com/image/vip-sports/VIPSports-Banner.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow] [I]VIP NBCSN[/I] [/COLOR]</title>
-<sportsdevil>http://www.streamlive.to/embed/71137&width=640&height=480&autoplay=true</sportsdevil>
-<referer>http://www.streamlive.to/embed/71137&width=640&height=480&autoplay=true</referer>
-<agent>Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-<thumbnail>http://www.rockalumnicafe.com/image/vip-sports/VIPSports-Banner.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow] [I]VIP BEIN SPORTS ESPAÑOL[/I] [/COLOR]</title>
-<sportsdevil>http://www.streamlive.to/embed/72400&width=640&height=480&autoplay=true</sportsdevil>
-<referer>http://www.streamlive.to/embed/72400&width=640&height=480&autoplay=true</referer>
-<agent>Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-<thumbnail>http://www.rockalumnicafe.com/image/vip-sports/VIPSports-Banner.jpg</thumbnail>
-</item>
-
 <channel>
 <name>[COLOR green] [I]MOTORSPORTS[/I] [/COLOR]</name>
 <thumbnail>https://catherinephotographyblog.files.wordpress.com/2015/07/ducati-weekend-at-calabogie-motorsports-park-june-27-2015-_dsc4708.jpg</thumbnail>
@@ -1528,19 +1454,10 @@ item>
 </subitem>
 </item>
 
-<channel>              
-<name>[COLOR green] [I]UK TV[/I] [/COLOR] </name>
-<thumbnail>http://traditionalmarket.co.uk/wp-content/uploads/2015/02/uk-flag.jpg</thumbnail>
-<fanart>http://static1.squarespace.com/static/54e6a8f5e4b012d86510a340/t/55ea0aede4b09394880674c3/1441401584057/united-kingdom+image+for+web.jpg?format=1500w</fanart>
-<link>http://ignorame</link>
-<externallink>http://pastebin.com/raw/KzS24ig6</externallink>
-</subitem>
-</item>
-
 <channel>
-<name>[COLOR green] [I]SPANISH TV[/I] [/COLOR]</name>
+<name>[COLOR green] [I]LATINO TV[/I] [/COLOR]</name>
 <thumbnail>http://s3.postimg.org/8ex9f3rwj/bandeira_espanha.png</thumbnail>
-<fanart>http://www.coxandkingsusa.com/resources/images/countries/spain.jpg</fanart>
+<fanart>https://nbclatino.files.wordpress.com/2013/01/machetekill.jpg</fanart>
 </subitem>
 
 <item>       
@@ -1548,7 +1465,7 @@ item>
 <link>http://Ignoreme</link>
 <externallink>http://pastebin.com/raw/zb0bZEqy</externallink>
 <thumbnail>http://s3.postimg.org/8ex9f3rwj/bandeira_espanha.png</thumbnail>
-<fanart>http://www.coxandkingsusa.com/resources/images/countries/spain.jpg</fanart>
+<fanart>https://nbclatino.files.wordpress.com/2013/01/machetekill.jpg</fanart>
 </item>
 
 <item>       
@@ -1556,7 +1473,7 @@ item>
 <link>http://Ignoreme</link>
 <externallink>http://pastebin.com/raw/HnriLGB3</externallink>
 <thumbnail>http://s3.postimg.org/8ex9f3rwj/bandeira_espanha.png</thumbnail>
-<fanart>http://www.coxandkingsusa.com/resources/images/countries/spain.jpg</fanart>
+<fanart>https://nbclatino.files.wordpress.com/2013/01/machetekill.jpg</fanart>
 </item>
 
 <channel>
