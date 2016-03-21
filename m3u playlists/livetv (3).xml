@@ -125,19 +125,8 @@
 
 <item> 
 <title>[COLOR blue] [I] SIC [/I] [/COLOR] </title>
-<link>rtmp://$doregex[get-ip]/stream playpath=SIC813747234?id=23687&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf flashver=MAC20,0,0,306 pageUrl=http://www.liveflashplayer.net/embedplayer/SIC813747234/1/565/440</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.liveflashplayer.net/embedplayer/SIC813747234/1/565/440</page>
-<referer>http://www.liveflashplayer.net/</referer>
+<link>http://evolive-tv.com:8000/live/genio/genio/298.m3u8</link>
 <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
-</regex>
 </item>
 
 <item>
