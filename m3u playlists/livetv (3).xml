@@ -1,7 +1,8 @@
 <?xml version="1.0"?>
 
 
-<channel>      
+<channel>  
+<item>
 <title>[COLOR orange]!!!!!PINCHAR AQUI PARA HACEDER A LA LISTA!!!!![/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>http://pastebin.com/raw/HnriLGB3</externallink>
@@ -24,7 +25,7 @@
  </item>
 
 <item>  
-<title>[COLOR blue] [I] RTP 1 [/I] [/COLOR] REP</title>
+<title>[COLOR blue] [I] RTP 1 [/I] [/COLOR] </title>
 <link>http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8</link>
 <thumbnail>http://s20.postimg.org/o8bxt6059/rtp1.png</thumbnail>
    </item>
@@ -36,7 +37,7 @@
  </item>
 
 <item>
-<title>[COLOR blue] [I] RTP 2 [/I] [/COLOR] REP</title>
+<title>[COLOR blue] [I] RTP 2 [/I] [/COLOR] </title>
 <link>http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8</link>
  <thumbnail>http://s20.postimg.org/3qqzhio1p/rtp2.png</thumbnail>
 </item>
@@ -128,6 +129,12 @@
 <title>[COLOR blue] [I] SIC [/I] [/COLOR] </title>
 <link>http://evolive-tv.com:8000/live/genio/genio/298.m3u8</link>
 <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I] SIC [/I] [/COLOR] REP</title>
+<link>http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8</link>
+ <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
 </item>
 
 <item>
