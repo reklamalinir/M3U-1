@@ -1,0 +1,3710 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+	<playlist_name><![CDATA[Internet TV]]></playlist_name>
+
+	<channel>
+		<title><![CDATA[[COLOR white][B][COLOR blue]||||||||||[/COLOR] TV SUPER TUGA [COLOR blue]||||||||||[/COLOR][/B][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://jerrymoz.wordpress.com]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] [COLOR white][B] [COLOR blue]|||[/COLOR] Update 15-03-16 [COLOR blue]|||[/COLOR][/B][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://jerrymoz.wordpress.com]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR white][B][COLOR yellow]>>>>>>>>>[/COLOR] Links available in search free on the Internet I am not responsible for your use [COLOR yellow]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos [COLOR yellow]<<<<<<<<<<<[/COLOR][/B][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://jerrymoz.wordpress.com]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] [COLOR white][B] [COLOR blue]|||[/COLOR] PARA PEDIDOS DE CANAIS OU MAIS INFORMAÇÕES MANDAR EMAIL : tvsupertuga@gmail.com[COLOR blue]|||[/COLOR][/B][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://jerrymoz.wordpress.com]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] [COLOR white][B] [COLOR blue]|||[/COLOR] PARA PEDIDOS DE CANAIS OU MAIS INFORMAÇÕES MANDAR EMAIL : tvsupertuga@gmail.com[COLOR blue]|||[/COLOR][/B][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[=================================================================================00=================================================================================]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][B][COLOR green]||||||||||[/COLOR] PORTUGUESES CHANNELS [COLOR green]||||||||||[/COLOR][/B][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://0.0.0.0:1234]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]RTP 1[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]RTP 1[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ipsatpro.com:8000/live/birdman/birdman/895.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]RTP 1[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://fastroot.ddns.net:8000/live/acara/acara/1.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]RTP 2[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://fastroot.ddns.net:8000/live/acara/acara/2.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]RTP 2[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]RTP 3[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]RTP 3 [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://evolive-tv.com:8000/live/genio/genio/299.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]SIC HD[/B][/I][/COLOR]  [COLOR yellow] >>teste<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://evolive-tv.com:8000/live/genio/genio/298.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]SIC[/B][/I][/COLOR]   [COLOR yellow] >>teste<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3459.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]SIC[/B][/I][/COLOR] [COLOR yellow] >>OFF<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://213.13.26.11:1935/live/sic/hasbahca.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]SIC SD[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/Mark/Mark/3459.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]TVI HD[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w103393150_b814000_49365.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]TVI[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://fastroot.ddns.net:8000/live/acara/acara/127.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]TVI[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]TVI[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3442.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]SIC NOTICIAS [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://fastroot.ddns.net:8000/live/acara/acara/5.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]SIC NOTICIAS [/B][/I][/COLOR] [COLOR yellow] >>OFF<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]TVI 24[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b1564000.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]TVI 24[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]TVI 24[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://fastroot.ddns.net:8000/live/acara/acara/6.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]TVI FICÇÃO [/B][/I][/COLOR]   [COLOR yellow] >>OFF<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ipsatpro.com:8000/live/85200/85200/886.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] +TVI [/B][/I][/COLOR]  [COLOR yellow] >>OFF<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://evolive-tv.com:8000/live/genio/genio/298.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]SIC RADICAL HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://fastroot.ddns.net:8000/live/acara/acara/9.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]SIC RADICAL [/B][/I][/COLOR]    [COLOR yellow] >>OFF<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://$doregex[get-ip]/live playpath=sicradicalx?id=84768&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sicradicalx/1/650/500]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]SIC K [/B][/I][/COLOR]   [COLOR yellow] >>OFF<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://www.t12v.com:8000/live/riahi/riahi/1164.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]SIC K [/B][/I][/COLOR]    [COLOR yellow] >>OFF<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://www.t12v.com:8000/live/lamjed/lamjed/1164.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]SIC CARAS HD [/B][/I][/COLOR]       [COLOR yellow] >>OFF<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/13.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]SIC CARAS [/B][/I][/COLOR]       [COLOR yellow] >>OFF<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://www.t12v.com:8000/live/prevot/prevot/1422.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]SIC MULHER [/B][/I][/COLOR]   [COLOR yellow] >>teste<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ipsatpro.com:8000/live/85200/85200/913.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]RTP ÁFRICA HD[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://fastroot.ddns.net:8000/live/acara/acara/13.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]RTP ÁFRICA[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]RTP MEMÓRIA HD[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://fastroot.ddns.net:8000/live/acara/acara/12.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]RTP MEMÓRIA[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria?mag swfVfy=1 live=1 timeout=15]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]RTP MADEIRA HD[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://fastroot.ddns.net:8000/live/acara/acara/14.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]RTP MADEIRA[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]RTP AÇORES HD[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ipsatpro.com:8000/live/190337745188/19033774518873/893.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]RTP AÇORES[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtprtpacores?mag swfVfy=1 live=1 timeout=15]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]RTP INTERNACIONAL[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]MTV PORTUGAL[/B][/I][/COLOR]  [COLOR yellow] >>teste<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://1sn.ns1.name:18800/live/test/test2/2889.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]ECONÓMICO TV[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://213.13.26.41:1935/live/etv_direto/playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]EURONEWS[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_pt.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]EURONEWS[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]TPA[/B][/I][/COLOR] [COLOR yellow] >>OFF<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://0.0.0.0:1234]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]TV LISBOA[/B][/I][/COLOR]  [COLOR yellow] >>OFF<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://213.13.26.11:1935/live/tvldireto/livestrem.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]TV CABO VERDE[/B][/I][/COLOR]  [COLOR yellow] >>OFF<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://213.13.26.11/live playpath=rtc_teste swfUrl=http://assets.web.sapo.io/sapovideo/swf/flvplayer-sapo.swf?v110713&file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24&live=rtmp://{$hostname}/live/rtc_teste&movref=http%3A%2F%2Fpt.online-television.net%2F952-rtc.html pageUrl=http://pt.online-television.net/952-rtc.html#.VImSJHu8q48 Conn=S:OK live=1]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B]TV PARLAMENTO[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/chunklist_w1713826381.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] TV SERIES HD[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ipsatpro.com:8000/live/fatihamca/fatihamca/930.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] TV SERIES[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3444.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] GLOBO PORTUGAL[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3445.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] TV GLOBO HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://evolive-tv.com:8000/live/genio/genio/289.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] TV GLOBO PREMIUN[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ipsatpro.com:8000/live/birdman/birdman/931.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] TV RECORD[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ipsatpro.com:8000/live/birdman/birdman/917.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] ODISSEIA HD[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3469.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] ODISSEIA[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/52.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] TOROS TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3450.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] TOROS TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/66.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] SYFY [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3451.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] PANDA BIGGS [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://1sn.ns1.name:18800/live/test/test2/2885.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] PANDA HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/57.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] PANDA [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3468.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] JIM JAM [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/55.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] NICKELODEON HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/58.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] NICKELODEON [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3470.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] NATIONAL GEOGRAPHIC HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3471.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] NATIONAL GEOGRAPHIC [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://c.securestreaming.xyz:1935/live/natgeoLQkYv/chunklist_w752632707.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzEzNDc5OCZoYXNoX3ZhbHVlPTQyY2QwOTI5MDY2OWUwYjQ4MGYxMTY1Njc2MjYzMjg0JnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] NATIONAL GEOGRAPHIC SD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/54.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] NAT GEO WILD HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://www.t12v.com:8000/live/john/john/1182.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] NAT GEO WILD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3472.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] MOV HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3473.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] MOV HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/41.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] HOLLYWOD HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/39.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] HOLLYWOD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3475.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] HOLLYWOD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://c.securestreaming.xyz:1935/live/hollywoodTlGw3/chunklist_w1477038967.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzEzODc3NyZoYXNoX3ZhbHVlPWUzMTlhNGY2YzgzNWEzMjY5ODE0YTc3MWU2ZGE4YWQ2JnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] FOX NEWS [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3476.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] FOX MOVIES [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3477.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] FOX COMEDY HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ts-iptv.dyndns.tv:8000/live/alessandra/felipa/34.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] FOX MOVIES HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/43.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] FOX MOVIES SD [/B][/I][/COLOR] [COLOR yellow] >>OFF<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3477.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] FOX LIFE HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/48.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] FOX LIFE [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3478.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] FOX CRIME HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3479.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] FOX CRIME HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/49.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] FOX CRIME SD[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://c.securestreaming.xyz:1935/live/foxcrimeTLVOF/chunklist_w931024935.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzEzODkwMSZoYXNoX3ZhbHVlPWNkY2I2ODM1NmI1YTUwNWM5Yzg0ZGZkZDQ0MTlmNzg3JnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] FOX HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3480.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] FOX HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/47.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] FOX [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ts-iptv.dyndns.tv:8000/live/alessandra/felipa/31.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] EUROSPORT HD  [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3482.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] EUROSPORT  [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ipsatpro.com:8000/live/birdman/birdman/928.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] EUROSPORT  [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://85.25.43.23:8080/hls/volex_04.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] EUROSPORT 2 [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3481.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] EENTERTAINMENT [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3483.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] DISNEY JUNIOR HD [/B][/I][/COLOR]  [COLOR yellow] >>teste<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://www.t12v.com:8000/live/okba/okba/1213.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] DISNEY JUNIOR [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3484.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] DISNEY CHANNEL HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/56.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] DISNEY CHANNEL [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3485.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] DISCOVERY HD[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/53.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] DISCOVERY SD[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://c.securestreaming.xyz:1935/live/discoverymDuit/chunklist_w1570853830.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzEzODQ0NyZoYXNoX3ZhbHVlPTYwMzRhZmQ5MDkwNjRhNDAxNzJmZDg4YjQ2OTlkYjc0JnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] DISCOVERY SHOWCASE [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3487.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] CINEMUNDO HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/40.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] CINEMUNDO [/B][/I][/COLOR]  [COLOR yellow] >>teste<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3489.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] CHELSEA TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3490.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] CARTOON NETWORK HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://www.t12v.com:8000/live/riahi/riahi/1161.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] CARTOON NETWORK [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3491.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] CANAL Q [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3492.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] CANAL HISTORIA [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3493.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] CANAL HISTORIA [/B][/I][/COLOR]  [COLOR yellow] >>OFF<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/51.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] CANAL HISTORIA SD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://c.securestreaming.xyz:1935/live/historialTuF1/playlist.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzQyNDExNSZoYXNoX3ZhbHVlPTRlMDM1NWY0ZjE4NDUxYTdlZDNkYjlhMWNlYjJmMGY2JnZhbGlkbWludXRlcz0zMCZpcD1DSCY= conn=S:OK  [COLOR yellow] >>OFF<< [/COLOR]]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] CACA E PESCA [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3494.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] CACA E PESCA [/B][/I][/COLOR]  [COLOR yellow] >>OFF<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/67.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] CACAVIZION TV [/B][/I][/COLOR] [COLOR yellow] >>OFF<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://0.0.0.0:1234]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] TLC [/B][/I][/COLOR]  [COLOR yellow] >>OFF<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/50.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] BABY FIRST [/B][/I][/COLOR]  [COLOR yellow] >>OFF<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/59.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] BABY TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3497.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] AXN HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3498.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] AXN HD [/B][/I][/COLOR]   [COLOR yellow] >>OFF<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/44.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] AXN [/B][/I][/COLOR]  [COLOR yellow] >>OFF<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://c.securestreaming.xyz:1935/live/axnpCrwz/chunklist_w1762303413.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzEzOTIzNyZoYXNoX3ZhbHVlPWJlZGNiYmU4YjJiNTZmMTY4Y2QzOTc5M2U4NmVmYjUwJnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] AXN BLACK HD [/B][/I][/COLOR]  [COLOR yellow] >>teste<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/46.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] AXN WHITE HD [/B][/I][/COLOR]    [COLOR yellow] >>teste<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/45.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] TVCINE 1 [/B][/I][/COLOR]    [COLOR yellow] >>teste<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ipsatpro.com:8000/live/fatihamca/fatihamca/936.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] TVCINE 2 [/B][/I][/COLOR]      [COLOR yellow] >>teste<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ipsatpro.com:8000/live/fatihamca/fatihamca/935.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] TVCINE 3 [/B][/I][/COLOR]      [COLOR yellow] >>teste<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ipsatpro.com:8000/live/fatihamca/fatihamca/934.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] TVCINE 4 [/B][/I][/COLOR]     [COLOR yellow] >>teste<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ipsatpro.com:8000/live/fatihamca/fatihamca/933.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] AMC [/B][/I][/COLOR]  [COLOR yellow] >>teste<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/42.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] AMC [/B][/I][/COLOR]   [COLOR yellow] >>OFF<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3499.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] A&E [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3500.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] IURD TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://xiurdtveux.api.channel.livestream.com/3.0/playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] A BOLA TV HD [/B][/I][/COLOR]  [COLOR yellow] >>OFF<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ipsatpro.com:8000/live/birdman/birdman/910.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] CM TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3488.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR red][I][B] TVI A QUINTA [/B][/I][/COLOR]   [COLOR yellow] >>OFF<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[=================================================================================00=================================================================================]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR white][B][COLOR blue]||||||||||[/COLOR] PORTUGUESES CHANNELS 2 [COLOR blue]||||||||||[/COLOR][/B][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://0.0.0.0:1234]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[RTP 1]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[RTP 1]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[RTP 1]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://luckyiptv.ddns.net:23000/live/andi/andi/12051.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[RTP 2]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[SIC]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://213.13.26.11:1935/live/sic/chunklist_w423840104.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[SIC]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://213.13.26.11:1935/live/sic/livestream.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[SIC]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[SIC]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://213.13.26.13/live playpath=sic swfUrl=http://js.sapo.pt/Projects/Video/150825R1/flash/videojs.swf pageUrl=http://videos.sapo.pt/ShZNJuwCiSpfkjYs7YNk]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[TVI]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[TVI]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://www.t12v.com:8000/live/prevot/prevot/1125.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[RTP 3]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[SIC Notícias]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://213.13.26.11:1935/live/sicnoticias/livestream.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[SIC Notícias]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://213.13.26.42/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?live=rtmp%3A%2F%2F%7B%24hostname%7D%2Flive%2Fsicnoticias&file=http%3A%2F%2Frd3.videos.sapo.pt%2Fsyqqba8JjeKyS8WFMA1H%2Fmov%2F24&autoStart=1 live=1]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[SIC Notícias]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://www.t12v.com:8000/live/prevot/prevot/1123.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[SIC Radical]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://www.t12v.com:8000/live/prevot/prevot/1159.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[SIC CARAS]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://www.t12v.com:8000/live/prevot/prevot/1422.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[TVI24]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[TVI24]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://www.t12v.com:8000/live/prevot/prevot/808.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[Plus TVI]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://luckyiptv.ddns.net:23000/live/andi/andi/12054.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[TVI Ficção]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://www.t12v.com:8000/live/prevot/prevot/1126.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[Económico TV]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://213.13.26.41:1935/live/etv_direto/playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[Economico TV]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://luckyiptv.ddns.net:23000/live/andi/andi/12070.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[CM TV]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://www.t12v.com:8000/live/prevot/prevot/498.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[Euronews]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[RTP Internacional]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[RTP África]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[RTP Memória]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria?mag swfVfy=1 live=1 timeout=15]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[RTP Memoria]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://luckyiptv.ddns.net:23000/live/andi/andi/12045.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[RTP Madeira]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[RTP Madeira]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://luckyiptv.ddns.net:23000/live/andi/andi/12046.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[RTP Açores]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtprtpacores?mag swfVfy=1 live=1 timeout=15]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[tvL]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://213.13.26.11:1935/live/tvldireto/livestream.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[Porto Canal]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://www.t12v.com:8000/live/prevot/prevot/1130.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[TPA Internacional]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://www.t12v.com:8000/live/prevot/prevot/1383.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[ARTV - Canal Parlamento]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtsp://www.canal.parlamento.pt/Live]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[ARTV - Canal Parlamento]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[=================================================================================00=================================================================================]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR blue]» » DESPORTO « «[/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://0.0.0.0:1234]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR blue][I][B]SPORT TV 1 HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://evolive-tv.com:8000/live/genio/genio/291.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR blue][I][B]SPORT TV 1 [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/17.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR blue][I][B]SPORT TV 1 [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://www.t12v.com:8000/live/okba/okba/501.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR blue][I][B]SPORT TV 1 SD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3457.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lawngreen]SPORT TV 1[/B][/COLOR] Plexus]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[plugin://program.plexus/?mode=1&url=acestream://62623d8609e3d9e19ed08e3a4b018d8603e16ae5&mode=1&name=acestream&mode=1&name=SPORTS]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR blue][I][B]SPORT TV 2 HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://evolive-tv.com:8000/live/genio/genio/292.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR blue][I][B]SPORT TV 2 [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/19.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR blue][I][B]SPORT TV 2 SD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3456.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR blue][I][B]SPORT TV 3 HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://evolive-tv.com:8000/live/genio/genio/293.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR blue][I][B]SPORT TV 3 SD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3458.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR blue][I][B]SPORT TV 4 HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://evolive-tv.com:8000/live/genio/genio/294.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR blue][I][B]SPORT TV 4 SD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3455.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR blue][I][B]SPORT TV 5 HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://evolive-tv.com:8000/live/genio/genio/295.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR blue][I][B]SPORT TV 5 SD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3454.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR blue][I][B]SPORT TV AMÉRICAS [/B][/I][/COLOR]  [COLOR yellow] >>OFF<< [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master1300kbps.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR blue][I][B]PORTO CANAL HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/8.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR blue][I][B]PORTO CANAL [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://www.t12v.com:8000/live/okba/okba/1130.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR blue][I][B]PORTO CANAL [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3467.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR blue][I][B]BENFICA TV HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/27.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR blue][I][B]BENFICA TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3496.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR blue][I][B]BENFICA TV 2 HD[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3495.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR blue][I][B]BENFICA TV 2[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://evolive-tv.com:8000/live/genio/genio/296.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR blue][I][B]SPORTING TV HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3452.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR blue][I][B]SPORTING TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/29.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR blue][I][B]SPORTING TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[=================================================================================00=================================================================================]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow]» » SPORTS INTERNACIONAIS« « «[/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://0.0.0.0:1234]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][I][B]Arena Sport 1 [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://bit.do/Arenass1]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][I][B]Arena Sport 2 [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://bit.do/Arenass2]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][I][B]Arena Sport 3 [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://bit.do/Arenass3]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][I][B]Arena Sport 4 [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://bit.do/Arenass4]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][I][B]Arena Sport 5 [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://bit.do/Arenass5]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][I][B]Motores Tv [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://31.220.2.149:80/live playpath=motors swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://yotv.co/embedo.php?live=motors&vw=620&vh=490 token=%Zrey(nKa@#Z]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][I][B]FOX Motorsport [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://motorsport.hopto.org:8080/]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][I][B]Live Motor Sport 1 [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://motorsport.hopto.org:8081/]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][I][B]Live Motor Sport 2 [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://motorsport.hopto.org:8082/]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][I][B]Live Motor Sport 3 [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://motorsport.hopto.org:8083/]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][I][B]Live Motor Sport 4 [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://motorsport.hopto.org:8084/]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][I][B]Sky Sports 1 [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv21_6vhudlq8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][I][B]Sky Sports 2 [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv22_j5p1mted]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][I][B]Sky Sports 3 [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv23_5px3ntfs]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][I][B]Sky Sports 4 [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv24_f84rdmkk]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][I][B]Sky Sports 5 [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv25_wt250ssk]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][I][B] MOTORS TV HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://www.t12v.com:8000/live/john/john/1166.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][I][B] MOTORS TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3474.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][I][B]SPORT TV 1 HD PT [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://1sn.ns1.name:18800/live/test/test2/211.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][I][B]SPORT TV 2 HD PT [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://1sn.ns1.name:18800/live/test/test2/212.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][I][B] REAL MADRID TV HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://evolive-tv.com:8000/live/genio/genio/278.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][I][B] REAL MADRID TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cp.dmbshare.net:8000/live/liverpool/liverpool/3466.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][I][B] BARÇA TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://evolive-tv.com:8000/live/genio/genio/277.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][I][B] Bein Sports [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://iptv2014.mine.nu:8000/get.php?username=free2633939668&password=56ea5e29063c3&type=m3u]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][I][B] Bein Sports [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[=================================================================================00=================================================================================]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR orange]» » BRASIL« «[/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://0.0.0.0:1234]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR orange][I][B]BIG BROTHER BRASIL [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://208.115.227.212:1935/RedeCanaisBBB/myStream]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR orange][I][B]TV GLOBO [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cast2.player.tv.br:1935/8126/8126/live.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR orange][I][B]TV GLOBO [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://213.163.65.116:8081/live/record/playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR orange][I][B]TV GLOBO [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://62.210.83.180:1935/liverepeat/101010/live.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR orange][I][B]TV GLOBO [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://62.210.82.241:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDE1IDY6NDE6MzcgUE0maGFzaF92YWx1ZT1WRGVVNzIwNmdVcGVJY3BsTW1qUG53PT0mdmFsaWRtaW51dGVzPTMwMA==/ playpath=101010  swfUrl=http://ppcast.org/embedP/jwplayer/jwplayer.flash.swf?IGOR_RANGEL  pageUrl=http://ppcast.org/embedP/3.php?file=zuca3a14&width=100%25&height=100%25]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR orange][I][B]TV RECORD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cast2.player.tv.br:1935/8126/8126/live.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR orange][I][B]TV RECORD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://wz3.dnip.com.br/tvgazetamt/ playpath=tvgazetamt.sdp swfUrl=http://www.cxtv.com.br/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-online/tv-record]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR orange][I][B]TV RECORD RONDONIA [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://cast2.player.tv.br/8126/8126]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR orange][I][B]TV RECORD PERNAMBUCO [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://rtmp.cdn.upx.net.br:80/00161/myStream.sdp]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR orange][I][B]TV RECORD ESPIRITO SANTO [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://flash.midiaip.com.br:1935/tvvitoria/Sample1/playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR orange][I][B]TV RECORD NEWS [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://flash.midiaip.com.br/recordnewses/recordnewses]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR orange][I][B]SBT [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://187.18.187.5/livepkgr/ playpath=tvjangadeiro1 swfUrl=http://tribunadoceara.uol.com.br/tv-jangadeiro/wp-content/themes/2013_jangadeiro_tv/js/jwplayer/jwplayer.flash.swf live=1 timeout=10 pageUrl=http://tribunadoceara.uol.com.br/tv-jangadeiro/ao-vivo/]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR orange][I][B]SBT [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://rtmp.9c2c.upx.net.br:1935/9c2c/myStream_all/live.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR orange][I][B]TERRA NOTICIAS [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://wowza1.videos.movile.com:1935/live/noticias_1.smil/livestream.m3u8?BRASILIPTV]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR orange][I][B]BH NEWS [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://50.17.213.76/3125 playpath=3125-hotmedia.sdp  swfUrl=http://www.z1on.com/flashjw/playerjw.swf?IGOR_RANGEL  pageUrl=http://www.z1on.com/flashjw/3125/?src=iframe&embed=1&controlbar=1]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR orange][I][B]FOLHA TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://wowza1.videos.movile.com:1935/live/noticias_1.smil/livestream.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR orange][I][B]REDE TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://31.204.128.112:8081/live/redetv/playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR orange][I][B]TV APARECIDA [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/Paz.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR orange][I][B]CANAL RURAL [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://7149o.ls.azioncdn.net:1935/7149o/canal_rural.sdp/live.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR orange][I][B]TV CULTURA [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://s5.procergs.com.br:1935/tve/stve/live.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR orange][I][B]CANAL ESCOLA [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR orange][I][B]MEGA TV[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://rtmp.cdn.upx.net.br:1935/00135_4/myStream.sdp/live.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR orange][I][B]TV BRASIL [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://ebcremuxlivefs.fplive.net/ebcremuxlive-ebctvbrasil/ playpath=stream1 swfUrl=http://www.tvonlinegratis.tv/canais/player/universal.swf? pageUrl=http://www.tvonlinegratis.tv/canais/tvbrasil.php]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR orange][I][B]TV BRASIL [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR orange][I][B]TV GAZETA[/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://shflash.directradios.com:1935/gazeta3/stream/live.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR orange][I][B]AMAZON SAT [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://livela.sambatech.com.br:80/hls-live/livepkgr/amazonsat3_3e9c859611a5e7fbedc785bd33c418b5/liveevent/livestream.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[MTV]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://212.20.42.114:4022/udp/225.54.23.112:5000]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[MTV Dance]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://212.20.42.114:4022/udp/225.54.23.124:5000]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[MTV Hits]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://212.20.42.114:4022/udp/225.54.23.125:5000]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[MTV ROCKS]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://212.20.42.114:4022/udp/225.54.23.126:5000]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[MTV life HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://212.20.42.114:4022/udp/225.54.41.10:5000]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[VH1 Classic]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://212.20.42.114:4022/udp/225.54.23.127:5000]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[VH1 Classic]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[=================================================================================00]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush]» » MUSICA TV « « «[/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://0.0.0.0:1234]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]VEVO 1 HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]VEVO 2 HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]VEVO 3 HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]ONE 1 [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://rtmp.one.by:1300]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]ONE 2 [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://rtmp.one.by:1400]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]ONE 3 [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://rtmp.one.by:1499]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]ONE 4 [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://rtmp.one.by:2300]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]DJING [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cdn.djing.com/tv/05.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]DJING IBIZA [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://www.djing.com/tv/d-05.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]DJING ANIMATION [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://www.djing.com/tv/a-05.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]DJING DJS [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://www.djing.com/tv/tmp/Hedonist_April_2015_DjingMedium/stream-5-2600000/index.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]DJING CLASSIC [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://www.djing.com/tv/i-05.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]JUCE TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]VOX TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://stream.smcloud.net/live2/vox/vox_720p]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]RADIO MONTE CARLO TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://fms.105.net:1935/live/rmc1]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]CAPITAL TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]HEART TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]VIRGIN TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://fms.105.net:1935/live/virgin2]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]M6 MUSIC [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]1 HD [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://109.239.142.62/live/livestream3]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]RADIO U TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/ playpath=mp4:radioutv1 swfUrl=http://radiou.com/jwplayer/jwplayer.flash.swf pageUrl=http://radiou.com/tv/]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]AFRICA MUSICA [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]PIK [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://87.245.214.43/streaming/pik_hd/126/hd/playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]HOT HOT HOT [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://www.djing.com/tv/hothothot.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]UNDERGROUND [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://www.djing.com/tv/underground.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]DANCEFLOOR [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://www.djing.com/tv/dancefloor.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]DREAM TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]ESKA BEST MUSIC [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://stream.smcloud.net/live2/best/best_720p]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]CLUBLAND [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]NOW MUSIC [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]RADIO 5 TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://fms.105.net/live/105Test1]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]POLO PARTY TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://stream.smcloud.net/live2/polo_party/polo_party_720p]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]ESKA ROCK TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]KISS TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]ULTRA FIESTA [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]AMAZING TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]REAL HIP HOP TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://rhn.tulix.tv/live/Stream1/playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]BIG POND MUSIC [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]HDMEDIA 3D [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://hdmedia3d.vintera.tv:1935/hdmedia3d/hdmedia3d.stream/playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]MCM TOP [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://fe-mos.svc.iptv.rt.ru/hls/CH_C02_MCMTOP/variant.m3u8?version=2]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]MTV DANCE [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://fe-mos.svc.iptv.rt.ru/hls/CH_C06_MTVDANCE/variant.m3u8?version=2]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]MTV HITS [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://fe-mos.svc.iptv.rt.ru/hls/CH_C02_MTVHITS/variant.m3u8?version=2]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]MIAMI MUSIC TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://74.208.152.93/music/stream3/stream.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR lavenderblush][I][B]SPORTTIME 1 MUSIC [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel1_800.mp4.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green][COLOR white]||[/COLOR][B] MUSIC CHANNELS [COLOR white]||[/COLOR][/B][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://jerrymoz.wordpress.com]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] VH1 Classic Europe [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://iptvcanales.com/xw/cable.php?canal=96&player=playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] MTV Live [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://iptvcanales.com/xw/cable.php?canal=97&player=playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] VH1 [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://iptvcanales.com/xw/cable.php?canal=98&player=playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] MTV [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://iptvcanales.com/xw/cable.php?canal=99&player=playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] VEVO EUROPEIO [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/06/prog_index.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] VEVO [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] VEVO 1 [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] VEVO 2 [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8#sthash.5BTmv7D4.dpuf]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] MTV Live [/COLOR] (rtmp)]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://83.218.202.202/live playpath=wt_mtv.stream swfUrl=http://webtv.md/swf/WebTV.swf live=1]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] VOX TV [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://stream.smcloud.net/live2/vox/vox_720p/playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] M2O [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] MIMUSICA[/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green]Africa: FusionPlus TV[/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] Ocko TV [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://194.79.52.76:1935/ockoi/ockoHQ1/playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] TV VIRGIN RADIO [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://wow01.105.net/live/virgin1/playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] BEST MUSIC [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://stream.smcloud.net/live2/best/best_720p]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] PLANETA POP [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] First Music Channel [/COLOR][COLOR red] NEW [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://rtmp.one.by/SD/1muz]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] CAPITAL TV [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] M6 [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] COLOSAL TV [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] Alb Music [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://188.138.17.8:1935/albuk/albmus.stream]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] DJING HOT [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://www.djing.com/tv/hothothot.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] DJING DANCEFLOOR [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://www.djing.com/tv/dancefloor.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] DJING [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://www.djing.com/tv/noaudio_PT.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] KISS TV [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] POLO PARTY TV [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://stream.smcloud.net/live2/polo_party/polo_party_720p/playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] MUSICBOX [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://teleclub.fr/musicbox.mp4?sd=10&_Maghrebstar.com_rebase=on]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] SPORT TIME MUSIC [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green][I][B] MTV DANCE [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/63.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green][I][B] TRACE TV [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/64.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green][I][B] AFRO MUSIC [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/65.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green][I][B]SPORT-TIME 1 [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://mediaptv.zapto.org:88/live/free/iptv/69.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green][I][B]SPORT-TIME 1 [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[=================================================================================00]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen]» » NOTÍCIAS INTERNACIONAIS « «[/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://0.0.0.0:1234]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen][I][B]CNN NEWS (USA) [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen][I][B]CBS NEWS (USA) [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen][I][B]WGN NEWS CHICAGO (USA) [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen][I][B]BLOOMBERG (USA) [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://wownet.ro/str/0426.m3u8|X-Forwarded-For=81.17.18.50]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen][I][B]BFMTV (FRA) [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen][I][B]TVE 24 (ESP) [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen][I][B]RUSSIA TODAY [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen][I][B]ABC NEWS (USA) [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen][I][B]CNBC NEWS (USA) [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen][I][B]WFTV FLORIDA (USA) [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://bcoveliveios-i.akamaihd.net/hls/live/207141/268012959001/WFTV_EVENTLIVE1/WFTV_EVENTLIVE1_800.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen][I][B]GLOBAL CA (CAN) [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434307348~exp=1434307948~acl=/i/*~id=5a91003f-0e87-4f31-b475-5beb4de69407~hmac=8011c2346009544656a3195d1e9e03e511efc6523dab9644debf3692f630fe77]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen][I][B]GLOBAL HALIFAX (CAN) [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434307535~exp=1434308135~acl=/i/*~id=17e92158-bbde-4665-a37c-817c97c7569c~hmac=1afe142fae8d05bad8895371e0834b246ce53e26af2bd6090227741f043668bd]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen][I][B]GLOBAL TORONTO (CAN) [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434303944~exp=1434304544~acl=/i/*~id=3f0edb02-c4e5-4596-8950-4331b8ce1baf~hmac=4acbecb511f7c3beaf085123ab9097c7a6acbd5d857fd4cefbfdfb733b666f57]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen][I][B]I24 (ISR) [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen][I][B]NEWS 12 Connecticut (USA) [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://fs-bbe3010000000000.id.cdn.cv.net/vxedge/fs-bbe3010000000000/fs-bbe3010000000000]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen][I][B]FRANCE 24 (FRA) [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://myafricanmega4.tulix.tv:1935/map-france24/map-france24roku.stream]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen][I][B]SKY TG24 (ITA) [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen][I][B]RAI NEWS 24 (ITA) [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://origin2.live.web.tv.streamprovider.net/streams/121612976e4808528d2ba7edc446887c/index.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen][I][B]BLOOMBERG (USA) [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen][I][B]BLOOMBERG (USA) [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cdn3.videos.bloomberg.com/btv/us/master.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen][I][B]DW LATINO (ALE) [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen][I][B]eNCA (AFRICA SUL) [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/enca/ls_satlink/b_,264,528,828,.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen][I][B]ANN7 SOUTH AFRICA [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://46.4.25.213/live-ann7/ann7-mid.stream]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen][I][B]C5N (ARG) [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen][I][B]AZTECA NOTICIAS (MEX) [/B][/I][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen]FASHION TV[/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://edgeb.streaming.sk/fashiontv/fashiontv.stream/playlist.m3u8?wowzasessionid=1005101551]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen]EURONEWS[/COLOR] (pt)]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/27-live.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen]C-SPAN NEWS[/COLOR] HQ]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase=on]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen]C-SPAN NEWS 2[/COLOR] HQ]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&rebase=on]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen]NHK WORLD TV[/COLOR] (usa)]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen]Tiemps em directo[/COLOR] (esp)]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:beauties_web/master.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellowgreen] Weather Nation[/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[UK : BBC 1*]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://62.210.162.88:80/live/bbc_uk134/151619032016/2141.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[UK : BBC 2*]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://62.210.162.88:80/live/bbc_uk134/151619032016/2142.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[UK : BBC 3*]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://62.210.162.88:80/live/bbc_uk134/151619032016/2143.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[UK : BBC 3*]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[=================================================================================00]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR Orange][B][COLOR white]||||||||||[/COLOR] NETHERLANDS TV [COLOR white]||||||||||[/COLOR][/B][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://0.0.0.0:1234]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[----- CANALI OLANDESI LIVE -----]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9157.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL Ziggo Sport Racing]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9174.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL Ziggo Sport Golf]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9170.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL Ziggo Sport 1 Voetbal]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9171.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL VERONICA HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9192.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL TV OOST HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9193.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL TLC HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9194.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL Sport 1 Select HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9181.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL SPORT 1 GOLF HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9196.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL SPORT 1 EXTRA 2 HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9197.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL SPORT 1 EXTRA 1 HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9198.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL SBS 9]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9191.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL SBS 6 HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9199.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL RTV Drenthe]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9158.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL RTV 7]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9159.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL RTL Telekids]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9190.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL RTL 8 HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9164.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL RTL 7 HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9163.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL RTL 7]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9162.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL RTL 5 HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9161.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL RTL 4 HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9160.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL OMROEP BRABANT HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9200.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL NPO Politiek/Best]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9169.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL NPO POLITIEK / SPORT HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9201.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL NPO HUMOR TV HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9202.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL NPO Doc]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9168.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL NPO 3 HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9167.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL NPO 2 HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9166.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL NPO 101 HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9203.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL NPO 1 HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9165.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL NICKELODEON/SPIKE HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9204.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL NICK TOONS HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9205.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL NICK JR HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9206.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL NET5 HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9207.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL NAT GEO WILD HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9208.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL MTV HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9209.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL L1 LIMBURG HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9210.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL KETNET HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9211.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL Investigation Discovery HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9212.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL HISTORY NL HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9213.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL HBO HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9187.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL HBO 3]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9189.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL HBO 2]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9188.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL Fox Sports 6 Internationaal]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9179.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL Fox Sports 5 Eredivisie]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9178.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL Fox Sports 4 Internationaal]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9177.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL Fox Sports 3 Eredivisie]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9176.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL Fox Sports 2 Internationaal]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9175.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL Fox Sports 1 Eredivisie HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9180.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL FOX LIFE HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9214.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL FOX HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9215.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL FOX CHANNEL NL HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9216.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL Film 1 Sundance]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9183.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL Film 1 Spotlight]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9184.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL Film 1 Premiere HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9182.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL Film 1 Comedy & Kids]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9185.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL Film 1 Action HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9186.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL EUROSPORT HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9217.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL E! ENTERTAINMENT HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9219.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL DISCOVERY CHANNEL HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9220.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL COMEDY CENTRAL HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9221.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL CARTOON NL HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9222.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL BABY TV HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9223.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL AT 5 HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9224.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL 24KITCHEN HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9225.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL 192 TV HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9226.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL 13TH STREET HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://cobra-iptv.noip.me:8000/live/123/123/9227.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NL 13TH STREET HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[=================================================================================00]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR pink][B][COLOR white]« «[/COLOR] INFANTIS TV [COLOR white]« «[/COLOR][/B][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://0.0.0.0:1234]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR pink] TELE ARAQUA [/COLOR](esp)]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://stream.telearagua.com/telearagua/telearagua_240p/inspirationlinks.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR pink] CARTOONS CLASSIC [/COLOR](usa)]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://72.13.93.186:80/cartoonclassics]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR pink]South Park - Uncensored[/COLOR] (ingles)]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR pink]Simpsons [/COLOR](ingles)]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://154.57.145.183:80/hls/52dada61bdf13/stream.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR pink]Simpsons [/COLOR](ingles)]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR pink]Disney [/COLOR] (esp) (rtmp)]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://31.220.0.82/privatestream playpath=disneyy1?keys=nWoA21Fm1Sm7irAPfUe7jQ&keyt=1448245912 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR pink]Nickelodeon Latinoamerica[/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://iptvcanales.com/xw/cable.php?canal=28&player=playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR pink]Cartoon Network Latinoamerica[/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://iptvcanales.com/xw/cable.php?canal=29&player=playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR pink]Disney XD Norte[/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://iptvcanales.com/xw/cable.php?canal=30&player=playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR pink]Discovery Kids America Latina[/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://iptvcanales.com/xw/cable.php?canal=80&player=playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR pink]Tooncast[/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://iptvcanales.com/xw/cable.php?canal=81&player=playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR pink]Bandamax[/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://iptvcanales.com/xw/cable.php?canal=39&player=playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR pink]Bandamax[/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[=================================================================================00]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green][B][COLOR white]||[/COLOR] DOCUMENTARIOS&VIDA SELVAGEM [COLOR white]||[/COLOR][/B][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://jerrymoz.wordpress.com]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green]History [/COLOR](esp)]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://iptvcanales.com/xw/cable.php?canal=38&player=playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green]Discovery Home & Health Latinoamerica[/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://iptvcanales.com/xw/cable.php?canal=95&player=playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green]Investigation Discovery Latinoamerica[/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://iptvcanales.com/xw/cable.php?canal=84&player=playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green]National Geographic Latinoamerica[/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://iptvcanales.com/xw/cable.php?canal=37&player=playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green]Animal Planet Latinoamerica[/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://iptvcanales.com/xw/cable.php?canal=83&player=playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[Animal Planet]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://80.80.160.168/live/1/live.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[tlC]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://80.80.160.168/live/2/live.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[Travel Ch.]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://80.80.160.168/live/3/live.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[Planet Green]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://80.80.160.168/live/4/live.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[Discovery ID. HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://80.80.160.168/live/5/live.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[SHO HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://80.80.160.168/live/7/live.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[Discovery Ch. HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://80.80.160.168/live/8/live.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[Discovery SCI. HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://80.80.160.168/live/9/live.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[Discovery SCI. HD]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[=================================================================================00]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green][COLOR yellow][B][COLOR white]||[/COLOR] CHANNELS NASA TV [COLOR white]||[/COLOR][/B][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://jerrymoz.wordpress.com]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][B]NASA PUBLIC[/B] [COLOR lawngreen]SD[/COLOR][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://iphone-streaming.ustream.tv/ustreamVideo/6540154/streams/live/playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][B]NASA PUBLIC[/B] [COLOR lawngreen]HD[/COLOR][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][B]NASA TV EDUCATIONAL[/B] [COLOR lawngreen]SD[/COLOR][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://iphone-streaming.ustream.tv/ustreamVideo/10208765/streams/live/playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][B]NASA TV EDUCATIONAL[/B] [COLOR lawngreen]HD[/COLOR][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://nasatv-lh.akamaihd.net/i/NASA_102@319272/master.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][B]NASA TV MEDIA[/B] [COLOR lawngreen]SD[/COLOR][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://iphone-streaming.ustream.tv/ustreamVideo/10414700/streams/live/playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][B]NASA TV MEDIA[/B] [COLOR lawngreen]HD[/COLOR][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://nasatv-lh.akamaihd.net/i/NASA_103@319271/master.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][B]LIVE ISS STREAM[/B] [COLOR lawngreen]SD[/COLOR][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://iphone-streaming.ustream.tv/ustreamVideo/17074538/streams/live/playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR yellow][B]LIVE ISS STREAM[/B] [COLOR lawngreen]SD[/COLOR][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[=================================================================================00]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green][B][COLOR white]||[/COLOR] ESTAÇOES RADIO [COLOR white]||[/COLOR][/B][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://jerrymoz.wordpress.com]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green][B][COLOR white]||[/COLOR] ESTAÇOES RADIO [COLOR white]||[/COLOR][/B][/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://jerrymoz.wordpress.com]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] GOLO FM [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://176.9.88.190:9992/;]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] Radio Atlântida [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://94.23.76.235:9926]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] MyTopFm SM [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://195.8.58.150:35006/]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] MyTopFm Terceira [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://195.8.58.150:35008/]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] Canal FM [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://centova.radio.com.pt:9466/]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] TREEHOUSE [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://4.31.30.159:9091]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] YTV [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://4.31.30.159:9001]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] CIDADE FM [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://195.23.102.208/cidadefmlc/ playpath=cidadefmlc.sdp swfUrl=http://cdn.webrad.io/swf/soundmanager2_flash9.swf live=1 pageUrl=http://www.radioonline.com.pt/#radio-cidade-fm]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] PORTUGAL SW [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://centova.radios.pt:8495/;]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] VODAFONE FM [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://195.23.102.206/autometadata5/ playpath=vodafone.sdp swfUrl=http://www.vodafone.fm/flash/soundmanager2_flash9.swf?ts=1425470563156 live=1 pageUrl=http://www.vodafone.fm/]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] RFM CLUBBING [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://7719.live.streamtheworld.com:80/RFMCLUBBINGAAC_SC]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] RFM [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://7719.live.streamtheworld.com/RFM_SC]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] RFM Oceano Pacifico [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://7749.live.streamtheworld.com:3690/OCEANPACIFIC_SC]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] RFM 80s [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://7749.live.streamtheworld.com:3690/GR80SRFM_SC]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] Radio M80 [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://7719.live.streamtheworld.com:80/GR80SRFMAAC_SC]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] Radio TOP 80 [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://live.top80.fm:8086/;]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] Radio COMERCIAL [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[mmsh://195.23.102.196/comercialcbr96?referrer=http://radiocomercial.clix.pt/asx/dynamic_channel.aspigrekrndigual80706&MSWMExt=.asf]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] NOVA ERA [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://stream.radio.com.pt:9478/stream]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] R94 FM [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://195.8.58.150:35022/;stream.nsv]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] SUPER FM [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://94.23.76.235:9956/]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] HIPER FM [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://85.25.73.243:10460/]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] Radio Total Fm [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://94.126.173.23:8000/;stream/1]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] Radio ANTENA 1 [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[mms://195.245.168.21/antena1]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] Radio ANTENA 2 [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[mms://195.245.168.21/antena2]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] Radio ANTENA 3 [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[mms://195.245.168.21/antena3]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] Radio ORBITAL [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://195.23.85.126:8401/1]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] Radio RENASCENÇA [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://7709.live.streamtheworld.com:3690/RADIO_RENASCENCA_SC?.wma]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] MEGA FM [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://7719.live.streamtheworld.com:3690/MEGA_HITS_SC?.wma]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] Radio VIVA 80 [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://streaming.radionomy.com/VIVA80]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] Rádio RLCB Dance [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://rlcbdance.no-ip.org:8431/;]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] WHMSonic AutoDJ [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://72.55.156.247:9734/;stream.nsv]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] 105 CASCAIS [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://94.23.76.235:9896/;stream/1]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] RADIO AMALIA [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://stream.radio.com.pt:9496/stream]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] Radio Douro Nacional [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://94.23.76.235:9996/;]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[[COLOR green] Radio MIRA ONLINE [/COLOR]]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://185.32.188.17:8051/]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[RÁDIO]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://rsync.com.br:1935/rsync00025/rsync.sdp/live.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[RÁDIO 104.9 FM]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://srv6.zoeweb.tv:1935/z306-live/stream/livestream.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[RÁDIO CACIQUE AM 760]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://srv6.zoeweb.tv:1935/z631-live/stream/livestream.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[RÁDIO CBN RJ]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://media.sgr.globo.com:1935/VideoCBN/cbnrj1.sdp/live.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[RÁDIO CBN SP]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/live.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[RÁDIO GLOBO 1100 AM SP]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://media.sgr.globo.com:1935/VideoRadioGlobo/gamsp1.sdp/live.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[RÁDIO GLOBO 98.1 FM RJ]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://media.sgr.globo.com:1935/VideoRadioGlobo/gamrj2.sdp/live.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[RÁDIO RURAL DE GUARABIRA]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://srv6.zoeweb.tv:1935/z376-live/stream/livestream.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[RÁDIO SENTINELA DO VALE SC]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://rtmp.cdn.upx.net.br:1935/0be3_live2/myStream.sdp/live.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[RÁDIO VOX 90.3 FM – STUDIO]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://rtmp.cdn.upx.net.br:1935/00093_1/myStream.sdp/live.m3u8]]></stream_url>
+	</channel>
+
+</items>
+

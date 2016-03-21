@@ -1,0 +1,1142 @@
+﻿#EXTM3U
+
+#EXTINF:-1, [B][COLOR blue]CANAIS INTERNACIONAIS[/COLOR][/B]
+http://0.0.0.0
+
+------------------------------------------------------------------------------------
+#EXTINF:-1, [B][COLOR red]CHINA[/COLOR][/B]
+http://0.0.0.0
+#EXTINF:-1, CHC TV
+http://202.199.27.91/chchd.m3u8
+#EXTINF:-1, HUNAN TV
+http://202.199.27.91/hunanhd.m3u8
+#EXTINF:-1, New Channel
+http://202.199.27.91/ahhd.m3u8
+#EXTINF:-1, ZJ TV
+http://202.199.27.91/zjhd.m3u8
+#EXTINF:-1, DF TV
+http://202.199.27.91/dfhd.m3u8
+#EXTINF:-1, SZ TV
+http://202.199.27.91/szhd.m3u8
+#EXTINF:-1, B T V1
+http://202.199.27.91/btv1hd.m3u8
+#EXTINF:-1, JS TV
+http://202.199.27.91/jshd.m3u8
+#EXTINF:-1, TJ TV
+http://202.199.27.91/tjhd.m3u8
+#EXTINF:-1, HB TV
+http://202.199.27.91/hbhd.m3u8
+#EXTINF:-1, GD TV
+http://202.199.27.91/gdhd.m3u8
+#EXTINF:-1, LN TV
+http://202.199.27.91/lnhd.m3u8
+#EXTINF:-1, HLJ TV
+http://202.199.27.91/hljhd.m3u8
+#EXTINF:-1, B T V2
+http://202.199.27.91/btv2hd.m3u8
+#EXTINF:-1, B T V3
+http://202.199.27.91/btv3.m3u8
+#EXTINF:-1, B T V4
+http://202.199.27.91/btv4.m3u8
+#EXTINF:-1, B T V5
+http://202.199.27.91/btv5.m3u8
+#EXTINF:-1, B T V6
+http://202.199.27.91/btv6hd.m3u8
+#EXTINF:-1, B T V7
+http://202.199.27.91/btv7.m3u8
+#EXTINF:-1, B T V8
+http://202.199.27.91/btv8.m3u8
+#EXTINF:-1, B T V9
+http://202.199.27.91/btv9.m3u8
+#EXTINF:-1, B T V10
+http://202.199.27.91/btv10.m3u8
+#EXTINF:-1, GS TV
+http://202.199.27.91/gstv.m3u8
+#EXTINF:-1, SX TV
+http://202.199.27.91/sxtv.m3u8
+#EXTINF:-1, DN TV
+http://202.199.27.91/dntv.m3u8
+#EXTINF:-1, CQ Tv
+http://202.199.27.91/cqtv.m3u8
+#EXTINF:-1, Jl TV
+http://202.199.27.91/jltv.m3u8
+#EXTINF:-1, GX TV
+http://202.199.27.91/gxtv.m3u8
+#EXTINF:-1, HN TV
+http://202.199.27.91/hntv.m3u8
+#EXTINF:-1, NX TV
+http://202.199.27.91/nxtv.m3u8
+#EXTINF:-1, YN TV
+http://202.199.27.91/yntv.m3u8
+#EXTINF:-1, LY TV
+http://202.199.27.91/lytv.m3u8
+#EXTINF:-1, XM TV
+http://202.199.27.91/xmtv.m3u8
+#EXTINF:-1, BT TV
+http://202.199.27.91/bttv.m3u8
+#EXTINF:-1, HeB TV
+http://202.199.27.91/hebtv.m3u8
+
+----------------------------------------------------------------------------------------------------------
+#EXTINF:-1, [B][COLOR yellow]Documentaries[/COLOR][/B]
+http://0.0.0.0
+#EXTINF:0, HISTORY [ES]
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, HISTORY HD
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, NATGEO (ES)
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, NATGEO HD
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, NATGEO WILD [ES]
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, NATGEO WILD HD
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, DISCOVERY WORLD [ES]
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, DISCOVERY WORLD HD
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, DISCOVERY CHANNEL [ES]
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, DISCOVERY CHANNEL HD
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, DISCOVERY THEATER [ENG]
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, DISCOVERY THEATER HD
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, DISCOVERY SCIENCE
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, DISCOVERY SCIENCE HD
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, DISCOVERY CIVILIZATION
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0,DISCOVERY CIVILIZATION HD
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, DISCOVERY TURBO
+http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, DISCOVERY TURBO HD
+http://200.76.77.237/LIVE/H01/CANAL383/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, ANIMAL PLANET [ES]
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, ANIMAL PLANET HD
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, LIFETIME
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, LIFETIME HD
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, TLC
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, TLC HD
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, WOBI
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, H&H [ES]
+http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, H&H HD
+http://200.76.77.237/LIVE/H01/CANAL374/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+----------------------------------------------------------------------------------------------------------
+#EXTINF:-1, [B][COLOR red]DUBAI[/COLOR][/B]
+http://0.0.0.0
+#EXTINF:-1,Dubai
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8?v=1053886998
+#EXTINF:-1,Sama dubai
+http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/gmswf.m3u8?v=1053886998
+#EXTINF:-1,Dubai drama
+http://dmi.mangomolo.com:1935/dubaidrama/smil:dubaidrama.stream.smil/gmswf.m3u8?v=1053886998
+#EXTINF:-1,Future tv
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/gmswf.m3u8
+
+-------------------------------------------------------
+#EXTINF:-1, [B][COLOR red]ESPANHA[/COLOR][/B]
+http://0.0.0.0
+#EXTINF:-1,ES : TVE 1*
+http://62.210.162.88:80/live/ES94/142708022016/1722.ts
+#EXTINF:-1,ES : LA 2*
+http://62.210.162.88:80/live/ES94/142708022016/1723.ts
+#EXTINF:-1,ES : TV3 24*
+http://62.210.162.88:80/live/ES94/142708022016/1762.ts
+#EXTINF:-1,ES : TRAVEL TV*
+http://62.210.162.88:80/live/ES94/142708022016/1754.ts
+#EXTINF:-1,ES : RTP ASTURIAS*
+http://62.210.162.88:80/live/ES94/142708022016/1747.ts
+#EXTINF:-1,ES : RT EN ESPAÑOL HD*
+http://62.210.162.88:80/live/ES94/142708022016/1757.ts
+#EXTINF:-1,ES : ONDA SEVILLA*
+http://62.210.162.88:80/live/ES94/142708022016/1761.ts
+#EXTINF:-1,ES : MEGA*
+http://62.210.162.88:80/live/ES94/142708022016/1742.ts
+#EXTINF:-1,ES : LA SEXTA*
+http://62.210.162.88:80/live/ES94/142708022016/1726.ts
+#EXTINF:-1,ES : ANTENA 3*
+http://62.210.162.88:80/live/ES94/142708022016/1724.ts
+#EXTINF:-1,ES : INTERECONOMIA*
+http://62.210.162.88:80/live/ES94/142708022016/1758.ts
+#EXTINF:-1,ES : GALIZA TV EUROPA*
+http://62.210.162.88:80/live/ES94/142708022016/1745.ts
+#EXTINF:-1,ES : GALIZA TV AMERICA*
+http://62.210.162.88:80/live/ES94/142708022016/1746.ts
+#EXTINF:-1,ES : FOX*
+http://62.210.162.88:80/live/ES94/142708022016/1739.ts
+#EXTINF:-1,ES : FOX SPORTS*
+http://62.210.162.88:80/live/ES94/142708022016/1731.ts
+#EXTINF:-1,ES : FOX SPORTS 2*
+http://62.210.162.88:80/live/ES94/142708022016/1732.ts
+#EXTINF:-1,ES : ESPN*
+http://62.210.162.88:80/live/ES94/142708022016/1734.ts
+#EXTINF:-1,ES : ESPN HD*
+http://62.210.162.88:80/live/ES94/142708022016/1733.ts
+#EXTINF:-1,ES : ESPN 3*
+http://62.210.162.88:80/live/ES94/142708022016/1736.ts
+#EXTINF:-1,ES : ESPN 2*
+http://62.210.162.88:80/live/ES94/142708022016/1735.ts
+#EXTINF:-1,ES : CANAL  FUTBOL*
+http://62.210.162.88:80/live/ES94/142708022016/1728.ts
+#EXTINF:-1,ES : EXTREMADURA TV*
+http://62.210.162.88:80/live/ES94/142708022016/1748.ts
+#EXTINF:-1,ES : EURONEWS*
+http://62.210.162.88:80/live/ES94/142708022016/1756.ts
+#EXTINF:-1,ES : CEUTA TV*
+http://62.210.162.88:80/live/ES94/142708022016/1753.ts
+#EXTINF:-1,ES : CASTILLA LA MANCHA TV*
+http://62.210.162.88:80/live/ES94/142708022016/1750.ts
+#EXTINF:-1,ES : CANAL+ ESTRENOS*
+http://62.210.162.88:80/live/ES94/142708022016/1721.ts
+#EXTINF:-1,ES : CANAL DCINE*
+http://62.210.162.88:80/live/ES94/142708022016/1737.ts
+#EXTINF:-1,ES : CANAL COMEDIA*
+http://62.210.162.88:80/live/ES94/142708022016/1738.ts
+#EXTINF:-1,ES : AXN WHITE*
+http://62.210.162.88:80/live/ES94/142708022016/1741.ts
+#EXTINF:-1,ES : CANAL COSTA*
+http://62.210.162.88:80/live/ES94/142708022016/1759.ts
+#EXTINF:-1,ES : ANIME TV*
+http://62.210.162.88:80/live/ES94/142708022016/1755.ts
+#EXTINF:-1,ES : ANDORRA TV*
+http://62.210.162.88:80/live/ES94/142708022016/1749.ts
+#EXTINF:-1,ES : 13 TV*
+http://62.210.162.88:80/live/ES94/142708022016/1744.ts
+#EXTINF:-1,ES_la 1*
+http://62.210.162.88:80/live/ES94/142708022016/1539.ts
+#EXTINF:-1,ES_la2*
+http://62.210.162.88:80/live/ES94/142708022016/1540.ts
+#EXTINF:-1,ES_tnt*
+http://62.210.162.88:80/live/ES94/142708022016/1535.ts
+#EXTINF:-1,ES_xtra*
+http://62.210.162.88:80/live/ES94/142708022016/1534.ts
+#EXTINF:-1,ES_telesur*
+http://62.210.162.88:80/live/ES94/142708022016/1538.ts
+#EXTINF:-1,ES_hollywood*
+http://62.210.162.88:80/live/ES94/142708022016/1533.ts
+#EXTINF:-1,ES_FDF*
+http://62.210.162.88:80/live/ES94/142708022016/1532.ts
+#EXTINF:-1,ES_cuatro*
+http://62.210.162.88:80/live/ES94/142708022016/1536.ts
+#EXTINF:-1,ES_clan*
+http://62.210.162.88:80/live/ES94/142708022016/1541.ts
+#EXTINF:-1,ES_C  TOROS*
+http://62.210.162.88:80/live/ES94/142708022016/1531.ts
+#EXTINF:-1,ES_C  DEPORT HD*
+http://62.210.162.88:80/live/ES94/142708022016/1530.ts
+
+-------------------------------------------------------
+#EXTINF:-1, [B][COLOR red]FRANCA[/COLOR][/B]
+http://0.0.0.0
+#EXTINF:-1,FR : TF1*
+http://62.210.162.88:80/live/FR94/1347022016/1816.ts
+#EXTINF:-1,FR : M6*
+http://62.210.162.88:80/live/FR94/1347022016/1819.ts
+#EXTINF:-1,FR : FRANCE O*
+http://62.210.162.88:80/live/FR94/1347022016/1800.ts
+#EXTINF:-1,FR : FRANCE 2*
+http://62.210.162.88:80/live/FR94/1347022016/1797.ts
+#EXTINF:-1,FR : FRANCE 3*
+http://62.210.162.88:80/live/FR94/1347022016/1794.ts
+#EXTINF:-1,FR : FRANCE 4*
+http://62.210.162.88:80/live/FR94/1347022016/1798.ts
+#EXTINF:-1,FR : FRANCE 5*
+http://62.210.162.88:80/live/FR94/1347022016/1799.ts
+#EXTINF:-1,FR : D8*
+http://62.210.162.88:80/live/FR94/1347022016/1795.ts
+#EXTINF:-1,FR : D17*
+http://62.210.162.88:80/live/FR94/1347022016/1796.ts
+#EXTINF:-1,FR : W9*
+http://62.210.162.88:80/live/FR94/1347022016/1838.ts
+#EXTINF:-1,FR_NRJ12*
+http://62.210.162.88:80/live/FR94/1347022016/1320.ts
+#EXTINF:-1,FR : RTS UN*
+http://62.210.162.88:80/live/FR94/1347022016/1818.ts
+#EXTINF:-1,FR : RTS DEUX*
+http://62.210.162.88:80/live/FR94/1347022016/1817.ts
+#EXTINF:-1,FR_6TER*
+http://62.210.162.88:80/live/FR94/1347022016/1322.ts
+#EXTINF:-1,FR:CanalCinema
+http://62.210.162.88:80/live/FR94/1347022016/1299.ts
+#EXTINF:-1,FR:CanalFamily
+http://62.210.162.88:80/live/FR94/1347022016/1298.ts
+#EXTINF:-1,FR:PLANETE HD
+http://62.210.162.88:80/live/FR94/1347022016/1295.ts
+#EXTINF:-1,FR_RMC DECOUVERTE*
+http://62.210.162.88:80/live/FR94/1347022016/1327.ts
+#EXTINF:-1,FR_ARTE*
+http://62.210.162.88:80/live/FR94/1347022016/1325.ts
+#EXTINF:-1,FR_I TELE*
+http://62.210.162.88:80/live/FR94/1347022016/1326.ts
+#EXTINF:-1,FR_BFM TV*
+http://62.210.162.88:80/live/FR94/1347022016/1330.ts
+#EXTINF:-1,FR_BFM BUSINESS*
+http://62.210.162.88:80/live/FR94/1347022016/1331.ts
+#EXTINF:-1,FR_GULLI*
+http://62.210.162.88:80/live/FR94/1347022016/1328.ts
+#EXTINF:-1,FR:DESNEYCINEMAHD
+http://62.210.162.88:80/live/FR94/1347022016/1293.ts
+
+------------------------------------------------------------------------------------------------------
+#EXTINF:-1, [B][COLOR red]HUNGRIA[/COLOR][/B]
+http://0.0.0.0
+#EXTINF:-1,Light Channel TV
+rtsp://streamer1.streamhost.org/salive/hungarian
+#EXTINF:-1,Oxygen_Hir_TV_640_360
+rtmp://91.82.85.41:1935/liverelay/o2tv.sdp
+#EXTINF:-1,Dunaujvaros DSTV_MX
+http://91.82.85.71:1935/liverelay/dstv.sdp/playlist.m3u8
+
+-----------------------------------------------------------------------------------
+#EXTINF:-1, [B][COLOR red]INGLATERRA[/COLOR][/B]
+http://0.0.0.0
+
+#EXTINF:0, Food Network
+http://llnw.live.simplestream.com/coder2/coder.channels.channel2/hls/3/playlist.m3u8
+
+#EXTINF:0, World Fashion Channel [B][COLOR green]FHD[/COLOR][/B]
+http://btv-net.mediacdn.ru/TVB7/wfhdeu/track_0_3000/playlist.m3u8
+
+#EXTINF:0, ABC [B][COLOR blue]HD[/COLOR][/B]
+http://lv7.oedg.ustvnow.com/dvrtest/mp4:FEEC6WHTMUSTVNOW4/chunklist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1921fc4f0400f082ec3baee8c0a5b680f6bebd7add991d91c9571bf8c068de65f466d3
+
+#EXTINF:0, CBS [B][COLOR blue]HD[/COLOR][/B]
+http://lv7.oedg.ustvnow.com/dvrtest/mp4:831C3WHP0USTVNOW4/playlist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1921fc4f0400f082ec3baee8c0a5b680f6bebd7add991d91c9571bf8c068de65f466d3
+
+#EXTINF:0, NBC [B][COLOR blue]HD[/COLOR][/B]
+http://lv7.oedg.ustvnow.com/dvrtest/mp4:53AE6WGALUSTVNOW4/chunklist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1921fc4f0400f082ec3baee8c0a5b680f6bebd7add991d91c9571bf8c068de65f466d3
+
+#EXTINF:0, PBS [B][COLOR blue]HD[/COLOR][/B]
+http://lv7.oedg.ustvnow.com/dvrtest/mp4:C1AAFWPSUUSTVNOW3/chunklist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1921fc4f0400f082ec3baee8c0a5b680f6bebd7add991d91c9571bf8c068de65f466d3
+
+#EXTINF:0, The CW [B][COLOR blue]HD[/COLOR][/B]
+http://lv7.oedg.ustvnow.com/dvrtest/mp4:65A04WLYHUSTVNOW3/chunklist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1921fc4f0400f082ec3baee8c0a5b680f6bebd7add991d91c9571bf8c068de65f466d3
+
+#EXTINF:0, Russia Today [B][COLOR blue]HD[/COLOR][/B]
+http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/chunklist.m3u8|X-Forwarded-For=78.43.32.8
+
+#EXTINF:0, Nasa TV Public [B][COLOR blue]HD[/COLOR][/B]
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
+#EXTINF:0, Nasa TV Educational [B][COLOR blue]HD[/COLOR][/B]
+http://nasatv-lh.akamaihd.net/i/NASA_102@319272/master.m3u8
+
+#EXTINF:0, Nasa TV Media [B][COLOR blue]HD[/COLOR][/B]
+http://nasatv-lh.akamaihd.net/i/NASA_103@319271/master.m3u8
+
+#EXTINF:0, ABC News [B][COLOR blue]HD[/COLOR][/B]
+http://abclive.abcnews.com/i/abc_live4@136330/index_2500_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0, Fox [B][COLOR blue]HD[/COLOR][/B]
+http://lv7.oedg.ustvnow.com/dvrtest/mp4:0948BWPMTUSTVNOW4/chunklist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1921fc4f0400f082ec3baee8c0a5b680f6bebd7add991d91c9571bf8c068de65f466d3
+
+#EXTINF:0, Arirang TV World [B][COLOR blue]HD[/COLOR][/B]
+http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
+
+#EXTINF:0, EL FINANCIERO BLOOMERANG
+http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+--------------------------------------------------------------------------------
+#EXTINF:-1, [B][COLOR red]ITALY[/COLOR][/B]
+http://0.0.0.0
+#EXTINF:-1,-=====TivuSat=====-
+http://iptv-online.ddns.net:8000/live/silvio/silvio/46.ts
+#EXTINF:-1,Rai 1 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/104.ts
+#EXTINF:-1,Rai 2 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/105.ts
+#EXTINF:-1,Rai 3 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/106.ts
+#EXTINF:-1,Rete 4 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/107.ts
+#EXTINF:-1,Canale 5 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/108.ts
+#EXTINF:-1,Italia 1 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/109.ts
+#EXTINF:-1,Italia 2
+http://iptv-online.ddns.net:8000/live/silvio/silvio/352.ts
+#EXTINF:-1,RAI 4
+http://iptv-online.ddns.net:8000/live/silvio/silvio/1707.ts
+#EXTINF:-1,RAI 5
+http://iptv-online.ddns.net:8000/live/silvio/silvio/1708.ts
+#EXTINF:-1,Rai News 24
+http://iptv-online.ddns.net:8000/live/silvio/silvio/2081.ts
+#EXTINF:-1,RAI MOVIE
+http://iptv-online.ddns.net:8000/live/silvio/silvio/1712.ts
+#EXTINF:-1,RAI SPORT 1
+http://iptv-online.ddns.net:8000/live/silvio/silvio/2036.ts
+#EXTINF:-1,Rai Sport 2
+http://iptv-online.ddns.net:8000/live/silvio/silvio/2146.ts
+#EXTINF:-1,Rai Gulp
+http://iptv-online.ddns.net:8000/live/silvio/silvio/1588.ts
+#EXTINF:-1,Iris
+http://iptv-online.ddns.net:8000/live/silvio/silvio/351.ts
+#EXTINF:-1,Mediaset Extra
+http://iptv-online.ddns.net:8000/live/silvio/silvio/376.ts
+#EXTINF:-1,Rai Premium
+http://iptv-online.ddns.net:8000/live/silvio/silvio/3060.ts
+#EXTINF:-1,La 5
+http://iptv-online.ddns.net:8000/live/silvio/silvio/353.ts
+#EXTINF:-1,La 7
+http://iptv-online.ddns.net:8000/live/silvio/silvio/430.ts
+#EXTINF:-1,LA7 D
+http://iptv-online.ddns.net:8000/live/silvio/silvio/1704.ts
+#EXTINF:-1,Video Calabria
+http://iptv-online.ddns.net:8000/live/silvio/silvio/2454.ts
+#EXTINF:-1,Canale_7
+http://iptv-online.ddns.net:8000/live/silvio/silvio/85.ts
+#EXTINF:-1,Giallo
+http://iptv-online.ddns.net:8000/live/silvio/silvio/1586.ts
+#EXTINF:-1,RealTime +1
+http://iptv-online.ddns.net:8000/live/silvio/silvio/2235.ts
+#EXTINF:-1,Laeffe
+http://iptv-online.ddns.net:8000/live/silvio/silvio/2230.ts
+#EXTINF:-1,RSI La 1 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/2154.ts
+#EXTINF:-1,RSI La 2 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/2153.ts
+#EXTINF:-1,-=====Smile Tv-Eagle Serie TV=====-
+http://iptv-online.ddns.net:8000/live/silvio/silvio/2033.ts
+#EXTINF:-1,Smile Kids Tv
+http://iptv-online.ddns.net:8000/live/silvio/silvio/2032.ts
+#EXTINF:-1,-=====Notizie=====-
+http://iptv-online.ddns.net:8000/live/silvio/silvio/885.ts
+#EXTINF:-1,Sky Tg 24
+http://iptv-online.ddns.net:8000/live/silvio/silvio/379.ts
+#EXTINF:-1,N 24
+http://iptv-online.ddns.net:8000/live/silvio/silvio/575.ts
+#EXTINF:-1,TgCom 24
+http://iptv-online.ddns.net:8000/live/silvio/silvio/1532.ts
+#EXTINF:-1,-=====Sky-Cinema=====-
+http://iptv-online.ddns.net:8000/live/silvio/silvio/47.ts
+#EXTINF:-1,Sky Cinema 1 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/9.ts
+#EXTINF:-1,Sky Cinema +1 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/343.ts
+#EXTINF:-1,Sky Cinema + 24 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/10.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/120.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/15.ts
+#EXTINF:-1,Cinema Family +1 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/1492.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/13.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/12.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/121.ts
+#EXTINF:-1,Sky Cinema Max +1 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/346.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/118.ts
+#EXTINF:-1,Sky Cinema Classic HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/16.ts
+#EXTINF:-1,-=====Intrattenimento=====-
+http://iptv-online.ddns.net:8000/live/silvio/silvio/227.ts
+#EXTINF:-1,Sky Uno HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/668.ts
+#EXTINF:-1,Sky Uno +1 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/347.ts
+#EXTINF:-1,Sky Atlantic HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/152.ts
+#EXTINF:-1,Sky Atlantic +1 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/390.ts
+#EXTINF:-1,Fox Life HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/219.ts
+#EXTINF:-1,Fox Life +1
+http://iptv-online.ddns.net:8000/live/silvio/silvio/2236.ts
+#EXTINF:-1,Fox HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/119.ts
+#EXTINF:-1,Fox +1
+http://iptv-online.ddns.net:8000/live/silvio/silvio/701.ts
+#EXTINF:-1,Comedy Central
+http://iptv-online.ddns.net:8000/live/silvio/silvio/344.ts
+#EXTINF:-1,Fox Crime HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/160.ts
+#EXTINF:-1,Fox Crime +1
+http://iptv-online.ddns.net:8000/live/silvio/silvio/700.ts
+#EXTINF:-1,Fox Crime +2
+http://iptv-online.ddns.net:8000/live/silvio/silvio/778.ts
+#EXTINF:-1,Fox Comedy HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/220.ts
+#EXTINF:-1,Fox Animation HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/221.ts
+#EXTINF:-1,Axn HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/222.ts
+#EXTINF:-1,AXN +1
+http://iptv-online.ddns.net:8000/live/silvio/silvio/722.ts
+#EXTINF:-1,AXN Sci-FI
+http://iptv-online.ddns.net:8000/live/silvio/silvio/223.ts
+#EXTINF:-1,Sky Arte HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/218.ts
+#EXTINF:-1,LEI
+http://iptv-online.ddns.net:8000/live/silvio/silvio/129.ts
+#EXTINF:-1,LEI +1
+http://iptv-online.ddns.net:8000/live/silvio/silvio/809.ts
+#EXTINF:-1,-=====Bambini=====-
+http://iptv-online.ddns.net:8000/live/silvio/silvio/375.ts
+#EXTINF:-1,Alice
+http://iptv-online.ddns.net:8000/live/silvio/silvio/2071.ts
+#EXTINF:-1,Boomerang
+http://iptv-online.ddns.net:8000/live/silvio/silvio/670.ts
+#EXTINF:-1,Boing
+http://iptv-online.ddns.net:8000/live/silvio/silvio/2243.ts
+#EXTINF:-1,Cartoon Network
+http://iptv-online.ddns.net:8000/live/silvio/silvio/2242.ts
+#EXTINF:-1,Cartonito
+http://iptv-online.ddns.net:8000/live/silvio/silvio/2244.ts
+#EXTINF:-1,Rai Yoyo
+http://iptv-online.ddns.net:8000/live/silvio/silvio/3059.ts
+#EXTINF:-1,Disney Junior
+http://iptv-online.ddns.net:8000/live/silvio/silvio/2078.ts
+#EXTINF:-1,Disney channel
+http://iptv-online.ddns.net:8000/live/silvio/silvio/2136.ts
+#EXTINF:-1,Frisbee
+http://iptv-online.ddns.net:8000/live/silvio/silvio/2139.ts
+#EXTINF:-1,Super
+http://iptv-online.ddns.net:8000/live/silvio/silvio/2147.ts
+#EXTINF:-1,-=====Cultura=====-
+http://iptv-online.ddns.net:8000/live/silvio/silvio/196.ts
+#EXTINF:-1,National Geografic HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/123.ts
+#EXTINF:-1,National Geographic +1
+http://iptv-online.ddns.net:8000/live/silvio/silvio/2238.ts
+#EXTINF:-1,National Geo People HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/330.ts
+#EXTINF:-1,History Channell HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/331.ts
+#EXTINF:-1,History +1
+http://iptv-online.ddns.net:8000/live/silvio/silvio/1343.ts
+#EXTINF:-1,Discovery HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/225.ts
+#EXTINF:-1,Discovery Travel HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/329.ts
+#EXTINF:-1,NatGeo Wild HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/397.ts
+#EXTINF:-1,Animal Planet
+http://iptv-online.ddns.net:8000/live/silvio/silvio/373.ts
+#EXTINF:-1,Pesca&Caccia
+http://iptv-online.ddns.net:8000/live/silvio/silvio/328.ts
+#EXTINF:-1,Caccia&Pesca
+http://iptv-online.ddns.net:8000/live/silvio/silvio/374.ts
+#EXTINF:-1,CI Crime+Inv HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/216.ts
+#EXTINF:-1,Gambero Rosso HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/348.ts
+#EXTINF:-1,Focus
+http://iptv-online.ddns.net:8000/live/silvio/silvio/871.ts
+#EXTINF:-1,Explora HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/811.ts
+#EXTINF:-1,DMAX
+http://iptv-online.ddns.net:8000/live/silvio/silvio/300.ts
+#EXTINF:-1,Realtime
+http://iptv-online.ddns.net:8000/live/silvio/silvio/301.ts
+#EXTINF:-1,Poker Italia
+http://iptv-online.ddns.net:8000/live/silvio/silvio/355.ts
+#EXTINF:-1,Cielo
+http://iptv-online.ddns.net:8000/live/silvio/silvio/130.ts
+#EXTINF:-1,Sky 3D
+http://iptv-online.ddns.net:8000/live/silvio/silvio/391.ts
+#EXTINF:-1,-=====Sky-Sport=====-
+http://iptv-online.ddns.net:8000/live/silvio/silvio/20.ts
+#EXTINF:-1,Supercalcio HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/125.ts
+#EXTINF:-1,Fox Sport HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/333.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/19.ts
+#EXTINF:-1,Sky Sport Plus
+http://iptv-online.ddns.net:8000/live/silvio/silvio/21.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/134.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/117.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/161.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/57.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/332.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/304.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/810.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/768.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/814.ts
+#EXTINF:-1,Gazzetta TV
+http://iptv-online.ddns.net:8000/live/silvio/silvio/1874.ts
+#EXTINF:-1,Juventus Tv
+http://iptv-online.ddns.net:8000/live/silvio/silvio/489.ts
+#EXTINF:-1,Inter Channel
+http://iptv-online.ddns.net:8000/live/silvio/silvio/520.ts
+#EXTINF:-1,Milan Channel
+http://iptv-online.ddns.net:8000/live/silvio/silvio/825.ts
+#EXTINF:-1,Lazio Channel
+http://iptv-online.ddns.net:8000/live/silvio/silvio/2645.ts
+#EXTINF:-1,SportItalia
+http://iptv-online.ddns.net:8000/live/silvio/silvio/2245.ts
+#EXTINF:-1,ROMA TV
+http://iptv-online.ddns.net:8000/live/silvio/silvio/820.ts
+#EXTINF:-1,Moto GP
+http://iptv-online.ddns.net:8000/live/silvio/silvio/302.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/226.ts
+#EXTINF:-1,Eurosport 1 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/356.ts
+#EXTINF:-1,Eurosport 2 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/357.ts
+#EXTINF:-1,Super Tennis HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/679.ts
+#EXTINF:-1,-=====Mediaset-Premium=====-
+http://iptv-online.ddns.net:8000/live/silvio/silvio/24.ts
+#EXTINF:-1,Premium Cinema HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/69.ts
+#EXTINF:-1,Premium Crime +24
+http://iptv-online.ddns.net:8000/live/silvio/silvio/33.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/1351.ts
+#EXTINF:-1,Premium Cinema 2 +24
+http://iptv-online.ddns.net:8000/live/silvio/silvio/1362.ts
+#EXTINF:-1,Premium Cinema Comedy
+http://iptv-online.ddns.net:8000/live/silvio/silvio/1523.ts
+#EXTINF:-1,Premium Cinema. Emotion
+http://iptv-online.ddns.net:8000/live/silvio/silvio/28.ts
+#EXTINF:-1,Premium Cinema. Energy
+http://iptv-online.ddns.net:8000/live/silvio/silvio/29.ts
+#EXTINF:-1,Premium Aciotion HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/1340.ts
+#EXTINF:-1,Premium Action +24
+http://iptv-online.ddns.net:8000/live/silvio/silvio/27.ts
+#EXTINF:-1,Premium Crime HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/1531.ts
+#EXTINF:-1,Premium Cinema +24
+http://iptv-online.ddns.net:8000/live/silvio/silvio/25.ts
+#EXTINF:-1,Premium STORIES
+http://iptv-online.ddns.net:8000/live/silvio/silvio/32.ts
+#EXTINF:-1,Premium Joy
+http://iptv-online.ddns.net:8000/live/silvio/silvio/31.ts
+#EXTINF:-1,Premium Studio Universal
+http://iptv-online.ddns.net:8000/live/silvio/silvio/30.ts
+#EXTINF:-1,Premium BBC
+http://iptv-online.ddns.net:8000/live/silvio/silvio/138.ts
+#EXTINF:-1,Premium Discovery World
+http://iptv-online.ddns.net:8000/live/silvio/silvio/34.ts
+#EXTINF:-1,Premium Disney Channel
+http://iptv-online.ddns.net:8000/live/silvio/silvio/36.ts
+#EXTINF:-1,Premium Cartoon Network
+http://iptv-online.ddns.net:8000/live/silvio/silvio/35.ts
+#EXTINF:-1,Premium Sport
+http://iptv-online.ddns.net:8000/live/silvio/silvio/1879.ts
+#EXTINF:-1,Premium Sport HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/1341.ts
+#EXTINF:-1,Premium Calcio HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/1880.ts
+#EXTINF:-1,Premium Calcio 1 HD
+http://iptv-online.ddns.net:8000/live/silvio/silvio/836.ts
+#EXTINF:-1,Premium Calcio 2 HD - In diretta Funziona
+http://iptv-online.ddns.net:8000/live/silvio/silvio/1525.ts
+#EXTINF:-1,Premium Calcio 3 HD - In diretta Funziona
+http://iptv-online.ddns.net:8000/live/silvio/silvio/1526.ts
+#EXTINF:-1,Premium Calcio 4 HD - In diretta Funziona
+http://iptv-online.ddns.net:8000/live/silvio/silvio/1527.ts
+#EXTINF:-1,Premium Calcio 5 HD - In diretta Funziona
+http://iptv-online.ddns.net:8000/live/silvio/silvio/1528.ts
+#EXTINF:-1,Premium Calcio 6 HD - In diretta Funziona
+http://iptv-online.ddns.net:8000/live/silvio/silvio/1529.ts
+#EXTINF:-1,Premium Calcio 7 HD - In diretta Funziona
+http://iptv-online.ddns.net:8000/live/silvio/silvio/1530.ts
+#EXTINF:-1,-=====Sky-Primafila=====-
+http://iptv-online.ddns.net:8000/live/silvio/silvio/49.ts
+#EXTINF:-1,primafila 1 Minions
+http://iptv-online.ddns.net:8000/movie/silvio/silvio/3378.mkv
+#EXTINF:-1,primafila 2 Mission Impossible Rogue Nation
+http://iptv-online.ddns.net:8000/movie/silvio/silvio/3194.mkv
+#EXTINF:-1,primafila 3 Città Di Carta
+http://iptv-online.ddns.net:8000/movie/silvio/silvio/3425.mkv
+#EXTINF:-1,primafila 4 Ex Machina
+http://iptv-online.ddns.net:8000/movie/silvio/silvio/3426.mkv
+#EXTINF:-1,primafila 5 Oscure Presenze
+http://iptv-online.ddns.net:8000/movie/silvio/silvio/3427.mkv
+#EXTINF:-1,primafila 6 Third Person
+http://iptv-online.ddns.net:8000/movie/silvio/silvio/3197.mkv
+#EXTINF:-1,primafila 7 Ant Man
+http://iptv-online.ddns.net:8000/movie/silvio/silvio/3167.mkv
+#EXTINF:-1,primafila 8 Ho ucciso Napoleone
+http://iptv-online.ddns.net:8000/movie/silvio/silvio/3379.mkv
+#EXTINF:-1,primafila 9 Affare Fatto
+http://iptv-online.ddns.net:8000/movie/silvio/silvio/1226.mkv
+#EXTINF:-1,primafila 10 Unfriended
+http://iptv-online.ddns.net:8000/movie/silvio/silvio/3168.mkv
+#EXTINF:-1,primafila 11 Ted 2 2015 ITA
+http://iptv-online.ddns.net:8000/movie/silvio/silvio/1460.mkv
+#EXTINF:-1,-=====Sky-Select-Deutschland=====-
+http://iptv-online.ddns.net:8000/live/silvio/silvio/50.ts
+#EXTINF:-1,select 1 Codename U.N.C.L.E.
+http://iptv-online.ddns.net:8000/movie/silvio/silvio/3440.mkv
+#EXTINF:-1,select 2 Die Entführung von Bus 657
+http://iptv-online.ddns.net:8000/movie/silvio/silvio/3441.mkv
+#EXTINF:-1,select 3 Fantastic Four
+http://iptv-online.ddns.net:8000/movie/silvio/silvio/3442.mkv
+#EXTINF:-1,select 4 Magic Mike XXL
+http://iptv-online.ddns.net:8000/movie/silvio/silvio/3443.mkv
+#EXTINF:-1,select 5 Minions
+http://iptv-online.ddns.net:8000/movie/silvio/silvio/3444.mkv
+#EXTINF:-1,select 6 Unknown User
+http://iptv-online.ddns.net:8000/movie/silvio/silvio/3445.mkv
+#EXTINF:-1,Select 7 Mission Impossible Rogue Nation
+http://iptv-online.ddns.net:8000/movie/silvio/silvio/3260.mkv
+#EXTINF:-1,select 8 Der fremde in mir
+http://iptv-online.ddns.net:8000/movie/silvio/silvio/3446.mkv
+#EXTINF:-1,select 9 The Transporter refueled
+http://iptv-online.ddns.net:8000/movie/silvio/silvio/3447.mkv
+#EXTINF:-1,select 10 Vacation Wir sind die Griswolds
+http://iptv-online.ddns.net:8000/movie/silvio/silvio/3448.mkv
+
+--------------------------------------------------------------------------------
+#EXTINF:-1, [B][COLOR red]ISRAEL[/COLOR][/B]
+http://0.0.0.0
+#EXTINF: 0,IL LAND
+http://sw.gostreaming.tv:1935/live/smil:myStream.smil/playlist.m3u8
+#EXTINF:-1,Shalom Tv
+http://109.68.190.192:1935/israil/israil.stream/playlist.m3u8
+#EXTINF: 0,Hidabrut
+http://w3.013.gostreaming.tv:1935/Hidabrut/smil:myStream.smil/playlist.m3u8
+#EXTINF: 0,Mair Tv
+http://82.80.198.100:1935/live/live1/playlist.m3u8
+
+------------------------------------------------------------------------------------
+#EXTINF:-1, [B][COLOR red]LATVIA[/COLOR][/B]
+http://0.0.0.0
+#EXTINF:-1,Vremja
+rtmp://streamer1.tvdom.tv/stream/Vremja.stream_720p
+#EXTINF:-1,Dom Kino
+rtmp://streamer1.tvdom.tv/stream/Dom_kino.stream_720p
+#EXTINF:-1,Karusel
+rtmp://streamer1.tvdom.tv/stream/Karusel.stream_720p
+#EXTINF:-1,MUZ1
+rtmp://streamer1.tvdom.tv/stream/MUZ1.stream_720p
+#EXTINF:-1,NTV
+rtmp://streamer1.tvdom.tv/stream/NTV.stream_720p
+#EXTINF:-1,PBK
+rtmp://streamer1.tvdom.tv/stream/PBK.stream_720p
+#EXTINF:-1,PBMK
+rtmp://streamer1.tvdom.tv/stream/PBMK.stream_720p
+#EXTINF:-1,REN
+rtmp://streamer1.tvdom.tv/stream/REN.stream_720p
+#EXTINF:-1,Telekafe
+rtmp://streamer1.tvdom.tv/stream/Telekafe.stream_720p
+
+------------------------------------------------------------------------------------
+#EXTINF:-1, [B][COLOR red]MEXICO[/COLOR][/B]
+http://0.0.0.0
+#EXTINF:-1 tvg-ID="" tvg-name="FOX" tvg-logo="http://img-youpeliculas.com/images/2014/07/14/canalfox.png" group-title="Entretenimiento",FOX
+http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX" tvg-logo="http://img-youpeliculas.com/images/2014/07/14/canalfox.png" group-title="Entretenimiento",FOX HQ
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX1 HD" tvg-logo="http://img-youpeliculas.com/images/2015/02/27/fox1hd.png" group-title="Cine",FOX1 HQ
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX1 HD" tvg-logo="http://img-youpeliculas.com/images/2015/02/27/fox1hd.png" group-title="Cine",FOX1 HQ
+http://200.76.77.237:80/LIVE/H01/CANAL415/PROFILE03.m3u8?-2020/1703-20151018T105438.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Action" tvg-logo="http://img-youpeliculas.com/images/2015/02/27/foxactionoZOcL.png" group-title="Cine",FOX Action
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Movies" tvg-logo="http://img-youpeliculas.com/images/2015/02/27/FOXMOVIESHD.png" group-title="Cine",FOX Movies
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Movies" tvg-logo="http://oneplay.tv/uploads/video_thumbs/foxcinemaqaSR.png" group-title="Cine",FOX CINEMA
+http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Movies" tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_1163_2_2998.png" group-title="Cine",FOX FAMILY
+http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1tvg-ID="" tvg-name="FOX Movies" tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2014/10/FOX-Classic-Logo-01.png" group-title="Cine",FOX CLASSIC
+http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX life" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/foxlife.png" group-title="Entretenimiento",FOX LIFE
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FX" tvg-logo="http://img-youpeliculas.com/images/2014/09/28/fxhd.png" group-title="Entretenimiento",FX,FX HD
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cinecanal+" tvg-logo="http://img-youpeliculas.com/images/2014/10/19/cinecanmas.png" group-title="Cine",CINECANAL+
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cinecanal" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/cinecanal.png" group-title="Cine",CINECANAL
+http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TNT" tvg-logo="http://img-youpeliculas.com/images/2014/07/14/tnt.png" group-title="Cine",TNT HD
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TNT" tvg-logo="http://img-youpeliculas.com/images/2014/07/14/tnt.png" group-title="Cine",TNT LA
+http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-name="TNT Series" tvg-logo="http://img-youpeliculas.com/images/2015/03/25/tntseries.png" group-title="Entretenimiento",TNT SERIES
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Golden HD" tvg-logo="http://img-youpeliculas.com/images/2014/09/27/goldenhd.png" group-title="Cine",GOLDEN HD
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Golden HD" tvg-logo="http://img-youpeliculas.com/images/2014/09/27/goldenhd.png" group-title="Cine",GOLDEN HD
+http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Filme Zone HD" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/filmezone.png" group-title="Cine",FILM ZONE HD
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="De Pelicula HD" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/depeli.png" group-title="Cine",De Pelicula HD
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AMC" tvg-logo="http://img-youpeliculas.com/images/2014/10/19/amc.png" group-title="Cine",AMC
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Space" tvg-logo="http://img-youpeliculas.com/images/2014/09/29/spacec.png" group-title="Cine",SPACE
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cinemax" tvg-logo="http://img-youpeliculas.com/images/2014/10/19/cinemax1.png" group-title="Cine",CINEMAX
+http://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Studio Universal" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/stuuni.png" group-title="Cine",STUDIO UNIVERSAL
+http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TCM" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/tcmc.png" group-title="Cine",TCM
+http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A&E" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/canalae.png" group-title="Entretenimiento",A&E
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN" tvg-logo="http://img-youpeliculas.com/images/2014/09/28/axnhd.png" group-title="Entretenimiento",AXN HD
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony" tvg-logo="http://img-youpeliculas.com/images/2014/07/14/canalsony.png" group-title="Entretenimiento",SONY HD
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Warner channel" tvg-logo="http://img-youpeliculas.com/images/2015/03/25/warnerhd.png" group-title="Entretenimiento",WARNER HD
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Universal Channel HD" tvg-logo="http://img-youpeliculas.com/images/2015/03/25/unihd.png" group-title="Cine",UNIVERSAL HD
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TruTV" tvg-logo="http://img-youpeliculas.com/images/2014/09/27/tru.png" group-title="Entretenimiento",TRUE TV HD
+http://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Comedy Central" tvg-logo="http://img-youpeliculas.com/images/2014/09/27/comedy.png" group-title="Entretenimiento",COMEDY CENTRAL HD
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Unicable" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/unicable.png" group-title="Entretenimiento",U UNICABLE HD
+http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Azcorazon" tvg-logo="http://img-youpeliculas.com/images/2014/10/19/azcora.png" group-title="TV Abierta",AZ CORAZON HD
+http://200.76.77.237/LIVE/H01/CANAL250/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBC entertainment" tvg-logo="http://img-youpeliculas.com/images/2014/09/27/bbc.png" group-title="Entretenimiento",BBC ENTERTAINMENT
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="E!" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/eee.png" group-title="Entretenimiento",E!
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Universal Channel HD" tvg-logo="http://img-youpeliculas.com/images/2015/03/25/unihd.png" group-title="Cine",UNIVERSAL CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SyFy" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/syfy.png" group-title="Entretenimiento",SyFy
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Investigation Discovery" tvg-logo="http://img-youpeliculas.com/images/2014/09/27/idd.png" group-title="Entretenimiento", ID INVESTIGATION DISCOVERY
+http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-name="Gourmet" tvg-logo="http://img-youpeliculas.com/images/2014/09/28/elgourmet.png" group-title="Entretenimiento",GOURMET TV
+http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-name="Garaje TV" tvg-logo="http://img-youpeliculas.com/images/2015/03/25/garajetv.png" group-title="Entretenimiento",GARAGE TV
+http://200.76.77.237/LIVE/H01/CANAL269/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-name="glitz" tvg-logo="http://img-youpeliculas.com/images/2014/09/27/glitz.png" group-title="Entretenimiento",GLITZ
+http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Distrito Comedia" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/distritocomedia.png" group-title="Entretenimiento",DISTRITO COMEDIA
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TBS" tvg-logo="http://img-youpeliculas.com/images/2014/09/27/tbs.png" group-title="Entretenimiento",TBS
+http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,CASA
+http://200.76.77.237/LIVE/H01/CANAL274/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="tlnovelas" tvg-logo="http://img-youpeliculas.com/images/2014/07/14/tlnovelas.png" group-title="Entretenimiento",TLNOVELAS
+http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Kids" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/discoverykids.png" group-title="Infantil",DISCOVERY KIDS
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CBeebies" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/cbee.png" group-title="Infantil",CBEEBIES BBC
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Jr" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/disnerjunior.png" group-title="Infantil",DISNEY JUNIOR
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="nick jr" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/nickjr.png" group-title="Infantil",NICK JR
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Channel" tvg-logo="http://img-youpeliculas.com/images/2014/10/19/disneychanneln.png" group-title="Infantil",DISNEY CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Channel" tvg-logo="http://vignette1.wikia.nocookie.net/qm-coorpration-channel/images/6/6e/Nicktoons.png" group-title="Infantil",NICKTOONS
+http://200.76.77.237/LIVE/H01/CANAL314/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="nick HD" tvg-logo="http://img-youpeliculas.com/images/2014/09/28/nickhd.png" group-title="Infantil",NICK HD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="nick" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/nick.png" group-title="Infantil",NICK
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cartoon Network" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/cn.png" group-title="Infantil",CARTOON NETWORK
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney XD" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/disneyxdesp.png" group-title="Infantil",DISNEY XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Boomerang" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/boomerang.png" group-title="Infantil",BOOMERANG
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TIIN" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/tiin.png" group-title="Infantil",TIIN
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="tooncast" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/tooncast.png" group-title="Infantil",TOON CAST
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NATGEO WILD" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/natwild.png" group-title="Mundo y Cultura",NAT GEO WILD
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="World Discovery HD" tvg-logo="http://img-youpeliculas.com/images/2015/03/30/discowor.png" group-title="Mundo y Cultura",DISCOVERY WORLD
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery channel" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/dc.png" group-title="Mundo y Cultura",DISCOVERY CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Animal Planet" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/animalplanet.png" group-title="Mundo y Cultura",ANIMALS PLANET DISCOVERY
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="H&H Discovery" tvg-logo="http://img-youpeliculas.com/images/2014/09/27/hhd.png" group-title="Mundo y Cultura",H&H DISCOVERY
+http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NATGEO" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/natgreo.png" group-title="Mundo y Cultura",NATIONAL GEOGRAPHIC CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Lifetime" tvg-logo="http://img-youpeliculas.com/images/2014/10/02/lifetime.png" group-title="Mundo y Cultura",LIFETIME
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Science" tvg-logo="http://img-youpeliculas.com/images/2014/09/27/sci.png" group-title="Mundo y Cultura",Discovery Science
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Civilization" tvg-logo="http://img-youpeliculas.com/images/2014/09/27/discv.png" group-title="Mundo y Cultura",DISCOVERY CIVILIZATION
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Turbo" tvg-logo="http://img-youpeliculas.com/images/2014/09/27/turbo.png" group-title="Mundo y Cultura",DISCOVERY TURBO
+http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TLC" tvg-logo="http://img-youpeliculas.com/images/2014/09/27/tlc.png" group-title="Mundo y Cultura",TLC DISCOVERY
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV live" tvg-logo="https://upload.wikimedia.org/wikipedia/it/archive/9/91/20141015105606!MTV_Live_HD_Logo.png" group-title="Mundo y Cultura",MTV LIVE
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV" tvg-logo="http://vignette4.wikia.nocookie.net/the-hills/images/7/75/MTV_Logo_white1.png" group-title="Mundo y Cultura",MTV
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELEHIT" tvg-logo="http://www.tvctepa.com/servidorweb/images/Logos%20PNG/logo-telehit.png" group-title="Mundo y Cultura",TELEHIT
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bandamax" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/58/Bandamax_2010.png" group-title="Mundo y Cultura",BANDAMAX
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="1 classic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Vh1_classic.png" group-title="Mundo y Cultura",1 classic
+http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VH1" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/3/30/VH1_India.png" group-title="Mundo y Cultura",VH1
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PX tv" tvg-logo="http://www.pxtv.tv/wp-content/uploads/2015/10/Logo-Rojo-Con-Slogan-2500px-300x169.png" group-title="Deportes",PX TV
+http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN+" tvg-logo="http://img-youpeliculas.com/images/2015/10/07/espnm.png" group-title="Deportes",ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN+" tvg-logo="http://img-youpeliculas.com/images/2015/10/07/espnm.png" group-title="Deportes",ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN2" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/espn2.png" group-title="Deportes",ESPN 2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 3" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/espn3.png" group-title="Deportes",ESPN 3
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Sports" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/foxsports.png" group-title="Deportes",FOX SPORTS
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Sports 2" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/foxsp2.png" group-title="Deportes",FOX 2 SPORTS
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+
+----------------------------------------------------------------------------------------------------------
+#EXTINF:-1, [B][COLOR red]MOLDAVIA/ROMENIA[/COLOR][/B]
+http://0.0.0.0
+#EXTINF:0, MBC HD
+http://87.248.160.8/edge/smil:mbc/playlist.m3u8
+#EXTINF:0, Moldova 1
+http://87.248.160.8/edge/smil:m1/playlist.m3u8
+#EXTINF:0, Moldova Sport HD
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+#EXTINF:0, Publika TV
+http://87.248.160.8/edge/smil:publica/playlist.m3u8
+#EXTINF:0, Realitatea TV
+http://87.248.160.8/edge/smil:realitate/playlist.m3u8
+#EXTINF:0, TVR
+http://87.248.160.8/edge/smil:tvr/playlist.m3u8
+#EXTINF:1, Pro tv
+http://87.248.160.8/edge/smil:protv/playlist.m3u8
+#EXTINF:1, M1
+http://87.248.160.8/edge/smil:m1/playlist.m3u8
+#EXTINF:1, Tvr
+http://87.248.160.8/edge/smil:tvr/playlist.m3u8
+#EXTINF:1, Bravo
+http://87.248.160.8/edge/smil:tnt/playlist.m3u8
+#EXTINF:1, Rtr
+http://87.248.160.8/edge/smil:rtrp/playlist.m3u8
+#EXTINF:1, N4
+http://87.248.160.8/edge/smil:n4/playlist.m3u8
+#EXTINF:1, Alt tv
+http://87.248.160.8/edge/smil:alttv/playlist.m3u8
+#EXTINF:1, Accent
+http://87.248.160.8/edge/smil:accent/playlist.m3u8
+#EXTINF:1, Ren tv
+http://87.248.160.8/edge/smil:rentv/playlist.m3u8
+#EXTINF:1, Busuioc tv
+http://87.248.160.8/edge/smil:busuioc/playlist.m3u8
+#EXTINF:1, 2Plus tv
+http://87.248.160.8/edge/smil:2plus/playlist.m3u8
+#EXTINF:1, Canal3
+http://87.248.160.8/edge/smil:canal3/playlist.m3u8
+#EXTINF:0, Russia Today
+http://87.248.160.8/edge/smil:rust/playlist.m3u8
+#EXTINF:0, DW
+http://87.248.160.8/edge/smil:dw/playlist.m3u8
+
+------------------------------------------------------------------------------------
+#EXTINF:-1, [B][COLOR red]TURQUIA[/COLOR][/B]
+http://0.0.0.0
+#EXTINF:-1,7/24 TV
+http://ift.tt/1NzwqeH
+#EXTINF:-1,360
+http://ift.tt/1OTkMtZ
+#EXTINF:-1,BEYAZ TV
+http://ift.tt/1OTkMu3
+#EXTINF:-1,BLOOMBERG HT
+http://ift.tt/1IEGgvj
+#EXTINF:-1,BLOOMBERG HT
+http://ift.tt/1OTkNhs
+#EXTINF:-1,CNN TÜRK HD
+http://ift.tt/1OTkMKp
+#EXTINF:-1,CNN TÜRK
+http://ift.tt/1IEGfHD
+#EXTINF:-1,DİSNEY CHANNEL
+http://ift.tt/1IEGgvn
+#EXTINF:-1,DREAM TV
+http://ift.tt/1wlhi73
+#EXTINF:-1,DREAM TV
+http://ift.tt/1IEGgvp
+#EXTINF:-1,DREAM TÜRK TV
+http://ift.tt/1OTkNxW
+#EXTINF:-1,DREAM TÜRK TV
+http://ift.tt/1wlhi75
+#EXTINF:-1,FLASH TV
+http://ift.tt/1RWIF68
+#EXTINF:-1,HABERTÜRK
+http://ift.tt/1OTkMKA
+#EXTINF:-1,HABERTÜRK
+http://ift.tt/1IEGfHJ
+#EXTINF:-1,IRMAK TV
+http://ift.tt/1OTkNy5
+#EXTINF:-1,KANAL 7 HD
+http://ift.tt/1IEGfHL
+#EXTINF:-1,KANAL 7 HD
+http://ift.tt/1OTkNy7
+#EXTINF:-1,KANAL 7 AVRUPA
+http://ift.tt/1IEGfHN
+#EXTINF:-1,KANAL 7 AVRUPA
+http://ift.tt/1OTkNyb
+#EXTINF:-1,KANAL A
+http://ift.tt/1HahiNi
+#EXTINF:-1,KANAL A
+http://ift.tt/1IEGgLO
+#EXTINF:-1,KANAL D
+http://ift.tt/1OTkNOp
+#EXTINF:-1,KANAL D
+http://ift.tt/1IEGgLR
+#EXTINF:-1,KANAL D
+http://ift.tt/1UJ35ke
+#EXTINF:-1,KANAL D
+http://ift.tt/1IEGgLT
+#EXTINF:-1,KANALTÜRK
+http://ift.tt/1iFP5ZZ
+#EXTINF:-1,NUMBER ONE TV
+http://ift.tt/1RWIFTt
+#EXTINF:-1,NUMBER ONE TÜRK TV
+http://ift.tt/1HahiNg
+#EXTINF:-1,POWER TV
+http://ift.tt/1OZGRIb
+#EXTINF:-1,POWERTÜRK TV
+http://ift.tt/1NugyIH
+#EXTINF:-1,SAMANYOLU EU
+http://ift.tt/1IEGh2b
+#EXTINF:-1,SAMANYOLU HABER
+http://ift.tt/1OTkPWC
+#EXTINF:-1,SHOW TV HD
+http://ift.tt/1IEGfY7
+#EXTINF:-1,SHOW TV HD
+http://ift.tt/1OTkPWK
+#EXTINF:-1,SHOWTÜRK
+http://ift.tt/1IEGh2e
+#EXTINF:-1,SHOWTÜRK
+http://ift.tt/1OTkNOH
+#EXTINF:-1,SHOWTÜRK
+http://ift.tt/1IEGfYb
+#EXTINF:-1,TGRT EU
+http://ift.tt/1IEGh2i
+#EXTINF:-1,TGRT HABER
+http://ift.tt/1OTkQd2
+#EXTINF:-1,TRT 1 HD
+http://ift.tt/1wlhiE2
+#EXTINF:-1,TRT 1 HD
+http://ift.tt/1IEGfYg
+#EXTINF:-1,TRT BELGESEL
+http://ift.tt/1VEL6Lq
+#EXTINF:-1,TRT ÇOCUK
+http://ift.tt/1N97qde
+#EXTINF:-1,TRT ÇOCUK
+http://ift.tt/1IEGh2q
+#EXTINF:-1,TRT HABER HD
+http://ift.tt/1xhMprn
+#EXTINF:-1,TRT HABER HD
+http://ift.tt/1OTkO51
+#EXTINF:-1,TRT HD
+http://ift.tt/1xhMrzn
+#EXTINF:-1,TRT HD
+http://ift.tt/1IEGhiG
+#EXTINF:-1,TRT MÜZİK
+http://ift.tt/1IC1YML
+#EXTINF:-1,TRT SPOR
+http://ift.tt/1FyAKqe
+#EXTINF:-1,TV2
+http://ift.tt/1IEGiTL
+#EXTINF:-1,TV2
+http://ift.tt/1OTkQd8
+#EXTINF:-1,TV8
+http://ift.tt/1NugyIr
+#EXTINF:-1,TVEM
+http://ift.tt/1HahfRz
+#EXTINF:-1,ÜLKE TV HD
+http://ift.tt/1OTkQdd
+#EXTINF:-1,ÜLKE TV HD
+http://ift.tt/1IEGhiL
+#EXTINF:-1,YABAN TV
+http://ift.tt/1IEGiTT
+#EXTINF:-1,YUMURCAK TV
+http://ift.tt/1OTkOlB
+
+
+----------------------------------------------------------------------------------------
+#EXTINF:-1, [B][COLOR red]UCRANIA[/COLOR][/B]
+http://0.0.0.0
+#EXTINF:-1, First National
+http://kirito.la.net.ua/tv/9001.m3u8
+#EXTINF: -1,1 + 1
+http://kirito.la.net.ua/tv/9002.m3u8
+#EXTINF:-1, TET
+http://kirito.la.net.ua/tv/9010.m3u8
+#EXTINF:-1, TONIS
+http://kirito.la.net.ua/tv/9011.m3u8
+#EXTINF:-1, Gamma
+http://kirito.la.net.ua/tv/9015.m3u8
+#EXTINF: -1,2 + 2
+http://kirito.la.net.ua/tv/9016.m3u8
+#EXTINF:-1, PlyusPlyus
+http://kirito.la.net.ua/tv/9017.m3u8
+#EXTINF:-1, Mega
+http://kirito.la.net.ua/tv/9021.m3u8
+#EXTINF:-1, QTV [COLOR orange]OFF[/COLOR]
+http://kirito.la.net.ua/tv/9022.m3u8
+#EXTINF:-1, Ru Music
+http://kirito.la.net.ua/tv/9025.m3u8
+#EXTINF:-1, MusicBox UA
+http://kirito.la.net.ua/tv/9028.m3u8
+#EXTINF:-1, Dobro
+http://kirito.la.net.ua/tv/9031.m3u8
+#EXTINF:-1, NewsOne
+http://kirito.la.net.ua/tv/9034.m3u8
+#EXTINF:-1, Busines
+http://kirito.la.net.ua/tv/9036.m3u8
+#EXTINF:-1, Ubr
+http://kirito.la.net.ua/tv/9038.m3u8
+#EXTINF:-1, CHP.INFO
+http://kirito.la.net.ua/tv/9039.m3u8
+#EXTINF:-1, Maxxi-TV
+http://kirito.la.net.ua/tv/9041.m3u8
+#EXTINF:-1, Planet
+http://kirito.la.net.ua/tv/9042.m3u8
+#EXTINF:-1, Rymp
+http://kirito.la.net.ua/tv/9044.m3u8
+#EXTINF:-1, Curler
+http://kirito.la.net.ua/tv/9047.m3u8
+#EXTINF: -1,112
+http://kirito.la.net.ua/tv/9053.m3u8
+#EXTINF:-1, About everything
+http://kirito.la.net.ua/tv/9055.m3u8
+#EXTINF:-1, UNIAN TV
+http://kirito.la.net.ua/tv/9065.m3u8
+#EXTINF:-1, Ukraine Today
+http://kirito.la.net.ua/tv/9068.m3u8
+#EXTINF:-1, EuroNews
+http://kirito.la.net.ua/tv/9070.m3u8
+#EXTINF:-1, Gromadska-TB
+http://kirito.la.net.ua/tv/1001.m3u8
+#EXTINF:-1, Espreso HD
+http://kirito.la.net.ua/tv/1002.m3u8
+#EXTINF:-1, Hel.tv
+http://kirito.la.net.ua/tv/1004.m3u8
