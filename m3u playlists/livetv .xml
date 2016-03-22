@@ -26,34 +26,34 @@
 
  
 
+
+
+
+
+
 <item>
-<title>[COLOR blue]FASHION TV [/COLOR]</title>
-<link>http://hls.tv.iptv.ink/fashionuk@201755.m3u8|X-Forwarded-For=81.17.18.55</link>
-</regex>
-<thumbnail>http://logos.streamsites.eu/2435_fashion-tv_overview.png</thumbnail>
+<title>[COLOR=blue]  RTP1 [/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/rtp1.jpg</thumbnail>
 </item>
 
+<item>
+<title>[COLOR=blue]  RTP1 [/COLOR]</title>
+<link>http://ipsatpro.com:8000/live/birdman/birdman/895.ts</link>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/rtp1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=blue]RTP2 [/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/rtp2.jpg</thumbnail>
+</item>
 
 <item>
 <title>[COLOR=blue]RTP MADEIRA [/COLOR]</title>
 <link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8</link>
 <thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/rtp_madeira.jpg</thumbnail>
 </item>
-
-
-<item>
-<title>[COLOR=blue]  RTP1 [/COLOR]</title>
-<link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/chunklist_b600000_slpt.m3u8</link>
-<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/rtp1.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR=blue]RTP2 [/COLOR]</title>
-<link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/chunklist_b600000_slpt.m3u8</link>
-<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/rtp2.jpg</thumbnail>
-</item>
-
 
 <item>
 <title>[COLOR=blue]RTP ACORES [/COLOR]</title>
@@ -98,41 +98,12 @@ title: 'http://futebolpthd.blogspot.pt/',
 <regex>
 </item>
 
-
 <item>
-<title>[COLOR=blue]SIC ( EXTRA )[/COLOR]</title>
-<link>http://213.13.26.11:1935/live/sic/chunklist_w423840104.m3u8 </link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.embeducaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>pk</name>
-<expres>ea=(.*)'</expres>
-<page>http://www.embeducaster.com/embedplayer/SIC39849405/1/670/460</page>
-<referer>http://www.embeducaster.com</referer>
+<title>[COLOR=blue]SIC [/COLOR]</title>
+<link>http://cp.dmbshare.net:8000/live/Mark/Mark/3459.ts</link>
 <thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/sic.jpg</thumbnail>
+<regex>
 </item>
-
-
-<item>
-<title>[COLOR=blue]SIC ( EXTRA )[/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/stream playpath=sicdsgdhgsd3y8ds?id=17305$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=17 </link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.liveflashplayer.net:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>pk</name>
-<expres>ea=(.*)'</expres>
-<page>http://www.liveflashplayer.net/embedplayer/sicdsgdhgsd3y8ds/1/600/450</page>
-<referer>http://www.liveflashplayer.net</referer>
-<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/sic.jpg</thumbnail>
-</regex>
-<item>
-
 
 <item>
 <title>[COLOR=blue]SIC NOTICIAS [/COLOR]</title>
