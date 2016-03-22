@@ -556,6 +556,18 @@ title: 'http://futebolpthd.blogspot.pt/',
 <referer>http://www.embeducaster.com</referer>
 <thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/syfy_universal_pt.jpg</thumbnail>
 </regex>
+
+
+<item>
+<title>[COLOR lime]                                                gggg                    [/COLOR]</title>
+<link>http://Ignoreme</link>
+ <thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
 <item>
 <title>[COLOR blue] ROJADIRECTA  [/COLOR] [COLOR yellow]( SPORTS DEVIL )[/COLOR]</title>
 <link>ignorme</link>
