@@ -54,10 +54,10 @@ http://evolive-tv.com:8000/live/genio/genio/299.m3u8
 http://evolive-tv.com:8000/live/genio/genio/298.m3u8
 
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wvwtwt1435096287.png" group-title="PORTUGAL",[COLOR red][I][B]SIC[/B][/I][/COLOR]   [COLOR yellow] >>teste<< [/COLOR]
-http://evolive-tv.com:8000/live/genio/genio/298.ts
+http://213.13.26.11:1935/live/sic/chunklist_w423840104.m3u8
 
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wvwtwt1435096287.png" group-title="PORTUGAL",[COLOR red][I][B]SIC[/B][/I][/COLOR] [COLOR yellow] >>OFF<< [/COLOR]
-http://213.13.26.11:1935/live/sic/hasbahca.m3u8
+http://iptv2014.mine.nu:8000/live/free2633939668/56ea5e29063c3/1887.m3u8
 
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wvwtwt1435096287.png" group-title="PORTUGAL",[COLOR red][I][B]SIC SD[/B][/I][/COLOR]
 http://cp.dmbshare.net:8000/live/Mark/Mark/3459.ts
@@ -72,7 +72,7 @@ http://api.iptv.ink/pl.m3u8?ch=77600478
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
 
 #EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png" group-title="PORTUGAL",[COLOR red][I][B]TVI[/B][/I][/COLOR]
-
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rswvxv1433344605.png" group-title="PORTUGAL",[COLOR red][I][B]SIC NOTICIAS [/B][/I][/COLOR]
 
@@ -198,7 +198,7 @@ http://evolive-tv.com:8000/live/genio/genio/289.m3u8
 
 
 #EXTINF:-1 tvg-id="SYFY.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qxpsqp1433432599.png" group-title="PORTUGAL",[COLOR red][I][B] SYFY [/B][/I][/COLOR]
-
+http://cp.dmbshare.net:8000/live/graham/graham/3451.m3u8
 
 #EXTINF:-1 tvg-id="SYFY.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qxpsqp1433432599.png" group-title="PORTUGAL",[COLOR red][I][B] SYFY [/B][/I][/COLOR]
 http://evolive-tv.com:8000/live/genio/genio/288.m3u8
@@ -216,7 +216,7 @@ http://evolive-tv.com:8000/live/genio/genio/288.m3u8
 
 
 #EXTINF:-1 tvg-id=" NICKELODEON.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/vrsuxp1434268186.png" group-title="PORTUGAL",[COLOR red][I][B] NICKELODEON HD [/B][/I][/COLOR]
-
+http://cp.dmbshare.net:8000/live/graham/graham/3470.m3u8
 
 #EXTINF:-1 tvg-id=" NICKELODEON.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/vrsuxp1434268186.png" group-title="PORTUGAL",[COLOR red][I][B] NICKELODEON [/B][/I][/COLOR]
 
@@ -228,13 +228,13 @@ http://evolive-tv.com:8000/live/genio/genio/288.m3u8
 http://c.securestreaming.xyz:1935/live/natgeoLQkYv/chunklist_w752632707.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzEzNDc5OCZoYXNoX3ZhbHVlPTQyY2QwOTI5MDY2OWUwYjQ4MGYxMTY1Njc2MjYzMjg0JnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/spurwy1433945957.png" group-title="PORTUGAL",[COLOR red][I][B] NATIONAL GEOGRAPHIC SD [/B][/I][/COLOR]
-
+http://cp.dmbshare.net:8000/live/graham/graham/3471.m3u8
 
 #EXTINF:-1 tvg-id=" NAT GEO WILD.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ypptyq1433943719.png" group-title="PORTUGAL",[COLOR red][I][B] NAT GEO WILD HD [/B][/I][/COLOR]
 
 
 #EXTINF:-1 tvg-id=" NAT GEO WILD.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ypptyq1433943719.png" group-title="PORTUGAL",[COLOR red][I][B] NAT GEO WILD [/B][/I][/COLOR]
-
+http://cp.dmbshare.net:8000/live/graham/graham/3472.m3u8
 
 #EXTINF:-1 tvg-id=" MOV  HD.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yusxxt1452596924.png" group-title="PORTUGAL",[COLOR red][I][B] MOV HD [/B][/I][/COLOR]
 
@@ -255,7 +255,7 @@ http://c.securestreaming.xyz:1935/live/hollywoodTlGw3/chunklist_w1477038967.m3u8
 
 
 #EXTINF:-1 tvg-id=" FOX MOVIES.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/sxuwxq1435104089.png" group-title="PORTUGAL",[COLOR red][I][B] FOX MOVIES [/B][/I][/COLOR]
-
+http://cp.dmbshare.net:8000/live/graham/graham/3477.m3u8
 
 #EXTINF:-1 tvg-id=" FOX MOVIES.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rtsvtv1448198376.png" group-title="PORTUGAL",[COLOR red][I][B] FOX COMEDY HD [/B][/I][/COLOR] 
 
@@ -267,13 +267,13 @@ http://c.securestreaming.xyz:1935/live/hollywoodTlGw3/chunklist_w1477038967.m3u8
 
 
 #EXTINF:-1 tvg-id=" FOX LIFE.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rttuur1433432546.png" group-title="PORTUGAL",[COLOR red][I][B] FOX LIFE HD [/B][/I][/COLOR]
-
+http://cp.dmbshare.net:8000/live/graham/graham/3478.m3u8
 
 #EXTINF:-1 tvg-id=" FOX LIFE.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rttuur1433432546.png" group-title="PORTUGAL",[COLOR red][I][B] FOX LIFE [/B][/I][/COLOR]
 
 
 #EXTINF:-1 tvg-id=" FOX CRIME  HD.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxut1436892701.png" group-title="PORTUGAL",[COLOR red][I][B] FOX CRIME HD [/B][/I][/COLOR]
-
+http://cp.dmbshare.net:8000/live/graham/graham/3479.m3u8
 
 #EXTINF:-1 tvg-id=" FOX CRIME  HD.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxut1436892701.png" group-title="PORTUGAL",[COLOR red][I][B] FOX CRIME HD [/B][/I][/COLOR]
 
@@ -282,7 +282,7 @@ http://c.securestreaming.xyz:1935/live/hollywoodTlGw3/chunklist_w1477038967.m3u8
 http://c.securestreaming.xyz:1935/live/foxcrimeTLVOF/chunklist_w931024935.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzEzODkwMSZoYXNoX3ZhbHVlPWNkY2I2ODM1NmI1YTUwNWM5Yzg0ZGZkZDQ0MTlmNzg3JnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
 
 #EXTINF:-1 tvg-id=" FOX  HD.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xquwxv1436847349.png" group-title="PORTUGAL",[COLOR red][I][B] FOX HD [/B][/I][/COLOR]
-
+http://cp.dmbshare.net:8000/live/graham/graham/3480.m3u8
 
 #EXTINF:-1 tvg-id=" FOX  HD.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xquwxv1436847349.png" group-title="PORTUGAL",[COLOR red][I][B] FOX HD [/B][/I][/COLOR]
 
@@ -306,25 +306,25 @@ http://85.25.43.23:8080/hls/volex_04.m3u8
 
 
 #EXTINF:-1 tvg-id=" DISNEY JUNIOR.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qrqxyp1433430351.png" group-title="PORTUGAL",[COLOR red][I][B] DISNEY JUNIOR HD [/B][/I][/COLOR]  [COLOR yellow] >>teste<< [/COLOR]
-
+http://cp.dmbshare.net:8000/live/graham/graham/3484.m3u8
 
 #EXTINF:-1 tvg-id=" DISNEY JUNIOR.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qrqxyp1433430351.png" group-title="PORTUGAL",[COLOR red][I][B] DISNEY JUNIOR [/B][/I][/COLOR]
 
 
 #EXTINF:-1 tvg-id=" DISNEY CHANNEL.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ruywvx1435106173.png" group-title="PORTUGAL",[COLOR red][I][B] DISNEY CHANNEL HD [/B][/I][/COLOR]
-
+http://cp.dmbshare.net:8000/live/graham/graham/3485.m3u8
 
 #EXTINF:-1 tvg-id=" DISNEY CHANNEL.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ruywvx1435106173.png" group-title="PORTUGAL",[COLOR red][I][B] DISNEY CHANNEL [/B][/I][/COLOR]
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/discoverychannel.png" group-title="PORTUGAL",[COLOR red][I][B] DISCOVERY HD[/B][/I][/COLOR]
-
+http://cp.dmbshare.net:8000/live/graham/graham/3487.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/discoverychannel.png" group-title="PORTUGAL",[COLOR red][I][B] DISCOVERY SD[/B][/I][/COLOR]
 http://c.securestreaming.xyz:1935/live/discoverymDuit/chunklist_w1570853830.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzEzODQ0NyZoYXNoX3ZhbHVlPTYwMzRhZmQ5MDkwNjRhNDAxNzJmZDg4YjQ2OTlkYjc0JnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
 
 #EXTINF:-1 tvg-id=" DISCOVERY SHOWCASE.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qqwypw1435092052.png" group-title="PORTUGAL",[COLOR red][I][B] DISCOVERY SHOWCASE [/B][/I][/COLOR]
-
+http://cp.dmbshare.net:8000/live/graham/graham/3486.m3u8
 
 #EXTINF:-1 tvg-id=" CINEMUNDO.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rrrvxy1436845857.png" group-title="PORTUGAL",[COLOR red][I][B] CINEMUNDO HD [/B][/I][/COLOR]
 
@@ -336,7 +336,7 @@ http://c.securestreaming.xyz:1935/live/discoverymDuit/chunklist_w1570853830.m3u8
 
 
 #EXTINF:-1 tvg-id=" CARTOON NETWORK.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rqswvs1435142683.png" group-title="PORTUGAL",[COLOR red][I][B] CARTOON NETWORK HD [/B][/I][/COLOR]   
-
+http://cp.dmbshare.net:8000/live/graham/graham/3491.m3u8
 
 #EXTINF:-1 tvg-id=" CARTOON NETWORK.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rqswvs1435142683.png" group-title="PORTUGAL",[COLOR red][I][B] CARTOON NETWORK [/B][/I][/COLOR]       
 
@@ -345,7 +345,7 @@ http://c.securestreaming.xyz:1935/live/discoverymDuit/chunklist_w1570853830.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png" group-title="PORTUGAL",[COLOR red][I][B] CANAL HISTORIA [/B][/I][/COLOR]
-
+http://cp.dmbshare.net:8000/live/graham/graham/3493.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png" group-title="PORTUGAL",[COLOR red][I][B] CANAL HISTORIA [/B][/I][/COLOR]  [COLOR yellow] >>OFF<< [/COLOR]
 
@@ -369,10 +369,10 @@ http://c.securestreaming.xyz:1935/live/historialTuF1/playlist.m3u8?v&Token=c2Vyd
 
 
 #EXTINF:-1 tvg-id=" BABYTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwyswv1433940875.png" group-title="PORTUGAL",[COLOR red][I][B] BABY TV [/B][/I][/COLOR]
-
+http://cp.dmbshare.net:8000/live/graham/graham/3497.m3u8
 
 #EXTINF:-1 tvg-id=" AXNHD.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rysqvw1445113783.png" group-title="PORTUGAL",[COLOR red][I][B] AXN HD [/B][/I][/COLOR]
-
+http://cp.dmbshare.net:8000/live/graham/graham/3498.m3u8
 
 #EXTINF:-1 tvg-id=" AXNHD.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rysqvw1445113783.png" group-title="PORTUGAL",[COLOR red][I][B] AXN HD [/B][/I][/COLOR]   [COLOR yellow] >>OFF<< [/COLOR]
 
@@ -411,13 +411,13 @@ http://ipsatpro.com:8000/live/fatihamca/fatihamca/934.m3u8
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/933.m3u8
 
 #EXTINF:-1 tvg-id=" AMCpt" tvg-logo="http://www.thelogodb.com/images/media/logo/tssypq1449496871.png" group-title="PORTUGAL",[COLOR red][I][B] AMC [/B][/I][/COLOR]  [COLOR yellow] >>teste<< [/COLOR]
-
+http://cp.dmbshare.net:8000/live/graham/graham/3499.m3u8
 
 #EXTINF:-1 tvg-id=" AMCpt" tvg-logo="http://www.thelogodb.com/images/media/logo/tssypq1449496871.png" group-title="PORTUGAL",[COLOR red][I][B] AMC [/B][/I][/COLOR]   [COLOR yellow] >>OFF<< [/COLOR]
 
 
 #EXTINF:-1 tvg-id=" A&Ept" tvg-logo="http://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png" group-title="PORTUGAL",[COLOR red][I][B] A&E [/B][/I][/COLOR]   
-
+http://cp.dmbshare.net:8000/live/graham/graham/3500.m3u8
 
 #EXTINF:-1 tvg-id="Kitchen HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qpsqps1436892971.png" group-title="PORTUGAL",[COLOR red][I][B] 24 Kitchen HD [/B][/I][/COLOR]   [COLOR yellow] >>OFF<< [/COLOR]
 
@@ -722,14 +722,19 @@ http://iptv2014.mine.nu:8000/get.php?username=free2633939668&password=56ea5e2906
 #EXTINF:-1 tvg-id=""tv-logo=“http://2.bp.blogspot.com/-4g0cDO2loRI/VhqF0rihqdI/AAAAAAAACsE/CmT3nikVFjc/s1600/S36rZFMtoc-AAYhoAAIyIV6Hxxg421.png” group-title=“BRASIL”,[COLOR orange]» » BRASIL« «[/COLOR]
 http://0.0.0.0:1234
 
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.accuware.com/blog/wp-content/uploads/2014/01/big_brother_brasil_logo_1.jpg" group-title=“BRASIL”,[COLOR orange][I][B]BIG BROTHER BRASIL [/B][/I][/COLOR]
 rtmp://208.115.227.212:1935/RedeCanaisBBB/myStream
 
+#EXTINF:-1 tvg-logo="http://noticiasdatvbrasil.files.wordpress.com/2011/06/adtv-audienciadetv201146.jpg" group-title=“BRASIL”,[COLOR orange][I][B]TV GLOBO INTERNACIONAL[/B][/I][/COLOR]
+http://art.nextv.ca:80/nextv/globo/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yspusx1435103750.png" group-title=“BRASIL”,[COLOR orange][I][B]TV GLOBO [/B][/I][/COLOR]
 http://cast2.player.tv.br:1935/8126/8126/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/tolololpedia/images/a/a9/LogoRedeTV.png/revision/latest?cb=20130825082509" group-title=“BRASIL”,[COLOR orange][I][B]TRede TV HD[/B][/I][/COLOR]
-http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/globosp.png" group-title=“BRASIL”,[COLOR orange][I][B]TV GLOBO [/B][/I][/COLOR]
 http://213.163.65.116:8081/live/record/playlist.m3u8
@@ -744,7 +749,7 @@ rtmp://62.210.82.241:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDE1IDY
 http://cast2.player.tv.br:1935/8126/8126/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xrpwsp1436890926.png" group-title=“BRASIL”,[COLOR orange][I][B]TV RECORD [/B][/I][/COLOR]
-rtmp://wz3.dnip.com.br/tvgazetamt/ playpath=tvgazetamt.sdp swfUrl=http://www.cxtv.com.br/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-online/tv-record 
+http://cast2.player.tv.br:1935/8126/8126/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xrpwsp1436890926.png" group-title=“BRASIL”,[COLOR orange][I][B]TV RECORD RONDONIA [/B][/I][/COLOR] 
 rtmp://cast2.player.tv.br/8126/8126
@@ -764,6 +769,9 @@ rtmp://187.18.187.5/livepkgr/ playpath=tvjangadeiro1 swfUrl=http://tribunadocear
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rvtpxp1437610838.png" group-title=“BRASIL”,[COLOR orange][I][B]SBT [/B][/I][/COLOR]
 http://rtmp.9c2c.upx.net.br:1935/9c2c/myStream_all/live.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rvtpxp1437610838.png" group-title=“BRASIL”,[COLOR orange][I][B]SBT [/B][/I][/COLOR]
+http://192.99.46.182:1935/pioneira-tv/pioneira-tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://s1.trrsf.com/atm/3/core/_img/terra-logo-white-bg-v3.jpg" group-title=“BRASIL”,[COLOR orange][I][B]TERRA NOTICIAS [/B][/I][/COLOR]
 http://wowza1.videos.movile.com:1935/live/noticias_1.smil/livestream.m3u8?BRASILIPTV
 
@@ -775,6 +783,9 @@ http://wowza1.videos.movile.com:1935/live/noticias_1.smil/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vxwvux1437613674.png" group-title=“BRASIL”,[COLOR orange][I][B]REDE TV [/B][/I][/COLOR]
 http://31.204.128.112:8081/live/redetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/tolololpedia/images/a/a9/LogoRedeTV.png/revision/latest?cb=20130825082509" group-title=“BRASIL”,[COLOR orange][I][B]TRede TV HD[/B][/I][/COLOR]
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-yFfCf3KfMQA/UzeD5rPXpUI/AAAAAAAAh50/z2Eak_nTLQ4/s1600/tv_aparecida.png" group-title=“BRASIL”,[COLOR orange][I][B]TV APARECIDA [/B][/I][/COLOR]
 http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/Paz.m3u8
@@ -803,7 +814,11 @@ http://shflash.directradios.com:1935/gazeta3/stream/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv14.net/wp-content/uploads/2010/09/Amazon-Sat.jpg" group-title=“BRASIL”,[COLOR orange][I][B]AMAZON SAT [/B][/I][/COLOR]
 http://livela.sambatech.com.br:80/hls-live/livepkgr/amazonsat3_3e9c859611a5e7fbedc785bd33c418b5/liveevent/livestream.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.businessnetworking.com.br/wp-content/uploads/2015/10/TV_Diario_logo_2000.png" group-title=“BRASIL”,[COLOR orange][I][B]TV DIÁRIO [/B][/I][/COLOR]
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-7yFuDHH4gkA/VDhwOHsmbCI/AAAAAAAAjfE/cvy0Q0idxUA/s1600/mix-tv-logo.png" group-title=“BRASIL”,[COLOR orange][I][B]MIX TV  [/B][/I][/COLOR]
+http://xmixtvbrx.api.channel.livestream.com/3.0/playlist.m3u8
 
 =================================================================================00
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=MUSICA,[COLOR lavenderblush]» » MUSICA TV « « «[/COLOR]
@@ -1378,24 +1393,87 @@ http://stream.radio.com.pt:9496/stream
 http://94.23.76.235:9996/; 
 #EXTINF:-1 radio="true"tvg-logo="radiomira.jpg" group-title="RADIOS",[COLOR green] Radio MIRA ONLINE [/COLOR] 
 http://185.32.188.17:8051/
-
-#EXTINF:-1 radio="true",RÁDIO
-http://rsync.com.br:1935/rsync00025/rsync.sdp/live.m3u8
-#EXTINF:-1 radio="true",RÁDIO 104.9 FM
-http://srv6.zoeweb.tv:1935/z306-live/stream/livestream.m3u8
-#EXTINF:-1 radio="true",RÁDIO CACIQUE AM 760
-http://srv6.zoeweb.tv:1935/z631-live/stream/livestream.m3u8
-#EXTINF:-1 radio="true",RÁDIO CBN RJ
-http://media.sgr.globo.com:1935/VideoCBN/cbnrj1.sdp/live.m3u8
-#EXTINF:-1 radio="true",RÁDIO CBN SP
-http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/live.m3u8
-#EXTINF:-1 radio="true",RÁDIO GLOBO 1100 AM SP
-http://media.sgr.globo.com:1935/VideoRadioGlobo/gamsp1.sdp/live.m3u8
-#EXTINF:-1 radio="true",RÁDIO GLOBO 98.1 FM RJ
-http://media.sgr.globo.com:1935/VideoRadioGlobo/gamrj2.sdp/live.m3u8
-#EXTINF:-1 radio="true",RÁDIO RURAL DE GUARABIRA
-http://srv6.zoeweb.tv:1935/z376-live/stream/livestream.m3u8
-#EXTINF:-1 radio="true",RÁDIO SENTINELA DO VALE SC
-http://rtmp.cdn.upx.net.br:1935/0be3_live2/myStream.sdp/live.m3u8
-#EXTINF:-1 radio="true",RÁDIO VOX 90.3 FM – STUDIO
-http://rtmp.cdn.upx.net.br:1935/00093_1/myStream.sdp/live.m3u8
+#EXTINF:-1 radio="true"tvg-logo="Radio_Comercial.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]COMERCIAL [/B][/I][/COLOR]
+rtmp://195.23.102.206/comerciallc playpath=comerciallc.sdp swfUrl=http://radiocomercial.iol.pt/player/scripts/player.swf pageUrl=http://radiocomercial.iol.pt/player/
+#EXTINF:-1 radio="true"tvg-logo="rfmclubbing.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RFM CLUBBING [/B][/I][/COLOR]
+http://7719.live.streamtheworld.com:80/RFMCLUBBINGAAC_SC
+#EXTINF:-1 radio="true"tvg-logo="m80.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]M80 [/B][/I][/COLOR]
+rtmp://195.23.102.206/m80lc playpath=m80lc.sdp swfUrl=m80.iol.pt/player/player.swf?v=1.0 live=1 pageUrl=http://m80.iol.pt/
+#EXTINF:-1 radio="true"tvg-logo="94fm.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]94FM [/B][/I][/COLOR]
+http://195.8.58.150:35022
+#EXTINF:-1 radio="true"tvg-logo="nostalgia.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]NOSTALGIA [/B][/I][/COLOR]
+http://centova.radios.pt:8435
+#EXTINF:-1 radio="true"tvg-logo="superfm.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]SUPER FM [/B][/I][/COLOR]
+http://94.23.76.235:9956/
+#EXTINF:-1 radio="true"tvg-logo="hiperfm.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]HIPER FM [/B][/I][/COLOR]
+http://85.25.73.243:10460/
+#EXTINF:-1 radio="true"tvg-logo="antena1.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]ANTENA 1 [/B][/I][/COLOR]
+mms://rdp.oninet.pt/antena1
+#EXTINF:-1 radio="true"tvg-logo="antena2.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]ANTENA 2 [/B][/I][/COLOR]
+rtmp://195.245.168.29:1935/liveradio/ playpath=antena280a swfUrl=http://cdn.radiosfm.org/swf/soundmanager2_flash9.swf live=1 timeout=15 pageUrl=http://www.radioonline.com.pt
+#EXTINF:-1 radio="true"tvg-logo="rdpafrica.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RDP AFRICA [/B][/I][/COLOR]
+rtmp://195.245.168.29:1935/liveradio/ playpath=rdpafrica80a swfUrl=http://cdn.webrad.io/swf/soundmanager2_flash9.swf live=1 timeout=15 pageUrl=http://www.radioonline.com.pt
+#EXTINF:-1 radio="true"tvg-logo="antena3_pt.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]ANTENA 3 [/B][/I][/COLOR]
+mms://rdp.oninet.pt/antena3
+#EXTINF:-1 radio="true"tvg-logo="oceano_pacifico.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]OCEANO PACIFICO [/B][/I][/COLOR]
+http://7719.live.streamtheworld.com:3690/OCEANPACIFIC_SC
+#EXTINF:-1 radio="true"tvg-logo="megahits" group-title="RADIOS",[COLOR mediumslateblue][I][B]MEGA HITS [/B][/I][/COLOR]
+http://7719.live.streamtheworld.com:3690/MEGA_HITS_SC?.wma
+#EXTINF:-1 radio="true"tvg-logo="Tropical.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]TROPICAL FM [/B][/I][/COLOR]
+http://radio1.suaradionanet.net:10308/stream?type=.flv
+#EXTINF:-1 radio="true"tvg-logo="RR.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RENASCENÇA [/B][/I][/COLOR]
+http://7709.live.streamtheworld.com:3690/RADIO_RENASCENCA_SC?.wma
+#EXTINF:-1 radio="true"tvg-logo="RFM.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RFM [/B][/I][/COLOR]
+http://7719.live.streamtheworld.com/RFM_SC
+#EXTINF:-1 radio="true"tvg-logo="rfm_80s.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RFM 80 [/B][/I][/COLOR]
+http://11073.live.streamtheworld.com/GR80SRFMAAC?
+#EXTINF:-1 radio="true"tvg-logo="Orbital.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]ORBITAL [/B][/I][/COLOR]
+http://195.23.85.126:8401/1
+#EXTINF:-1 radio="true"tvg-logo="rlcb_dance.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RLCB DANCE[/B][/I][/COLOR]
+http://rlcbdance.no-ip.org:8431/
+#EXTINF:-1 radio="true"tvg-logo="total_fm.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]TOTAL FM[/B][/I][/COLOR]
+http://94.126.173.23:8000/;stream/1
+#EXTINF:-1 radio="true"tvg-logo="novaera.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]NOVA ERA[/B][/I][/COLOR]
+http://stream.radio.com.pt:9478/stream
+#EXTINF:-1 radio="true"tvg-logo="top80.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]TOP 80[/B][/I][/COLOR]
+http://live.top80.fm:8086/
+#EXTINF:-1 radio="true"tvg-logo="vdf.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]VODAFONE FM [/B][/I][/COLOR]
+rtmp://195.23.102.206/autometadata5/ playpath=vodafone.sdp swfUrl=http://www.vodafone.fm/flash/soundmanager2_flash9.swf?ts=1425470563156 live=1 pageUrl=http://www.vodafone.fm/
+#EXTINF:-1 radio="true"tvg-logo="radar.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RADAR [/B][/I][/COLOR]
+http://stream.radio.com.pt:8497/stream
+#EXTINF:-1 radio="true"tvg-logo="radioamalialogo.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]AMÁLIA [/B][/I][/COLOR]
+http://stream.radio.com.pt:9496/stream
+#EXTINF:-1 radio="true"tvg-logo="sim.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]SIM [/B][/I][/COLOR]
+http://62.48.143.117/RADIO_SIM_SC
+#EXTINF:-1 radio="true"tvg-logo="torres_novasfm.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]TORRES NOVAS FM [/B][/I][/COLOR]
+http://centova.radios.pt:8475
+#EXTINF:-1 radio="true"tvg-logo="smooth.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]SMOOTH FM [/B][/I][/COLOR]
+rtmp://195.23.102.206/smoothlc playpath=smoothlc.sdp
+#EXTINF:-1 radio="true"tvg-logo="cidadefm.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]CIDADE FM [/B][/I][/COLOR]
+rtmp://195.23.102.206:1935/cidadefmlc playpath=cidadefmlc.sdp
+#EXTINF:-1 radio="true"tvg-logo="rastamusic.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]REGAEE RADIO 808[/B][/I][/COLOR]
+http://66.225.205.5:80
+#EXTINF:-1 radio="true"tvg-logo="Radio_Top_40.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RADIO TOP 40[/B][/I][/COLOR]
+http://31.12.64.204:8000/A-RADIO-TOP-40
+#EXTINF:-1 radio="true"tvg-logo="ruc.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RUC[/B][/I][/COLOR]
+http://ruc2.cidadedecoimbra.com:8000
+#EXTINF:-1 radio="true"tvg-logo="lamego.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]CLUBE LAMEGO[/B][/I][/COLOR]
+rtmp://aacplus.stream10.net:1935/sfera playpath=7050 swfUrl=http://www.rclamego.pt/player/aacplayer.swf pageUrl=http://www.rclamego.pt/player/aacplayer.swf
+#EXTINF:-1 radio="true"tvg-logo="RDN.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]DOURO NACIONAL[/B][/I][/COLOR]
+http://94.23.76.235:9996/
+#EXTINF:-1 radio="true"tvg-logo="popular_fm.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]POPULAR FM[/B][/I][/COLOR]
+http://195.8.58.150:32281/
+#EXTINF:-1 radio="true"tvg-logo="oxigenio.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]OXIGENIO[/B][/I][/COLOR]
+http://centova.radios.pt:9498
+#EXTINF:-1 radio="true"tvg-logo="ultrafm.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]ULTRA FM[/B][/I][/COLOR]
+http://centova.radios.pt:9506
+#EXTINF:-1 radio="true"tvg-logo="antena_minho.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]ANTENA MINHO[/B][/I][/COLOR]
+http://centova.radios.pt:9464
+#EXTINF:-1 radio="true"tvg-logo="saturno.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RADIO SATURNO[/B][/I][/COLOR]
+http://radiosaturno.dyndns.org:8000
+#EXTINF:-1 radio="true"tvg-logo="marginal.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]MARGINAL[/B][/I][/COLOR]
+http://centova.radios.pt:8499
+#EXTINF:-1 radio="true"tvg-logo="kizomba.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]KIZOMBA[/B][/I][/COLOR]
+http://192.81.248.194:8548/
+#EXTINF:-1 radio="true"tvg-logo="maiskizomba.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]MAIS KIZOMBA[/B][/I][/COLOR]
+http://109.71.41.250:8123/
