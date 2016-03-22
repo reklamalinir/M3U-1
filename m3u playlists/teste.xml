@@ -12,7 +12,7 @@
 
     <item>
         <title>POKER CHANNEL</title>
-        <link>mms://some/place/pokerchannel</link>
+        <link>https://raw.githubusercontent.com/djlopesdacosta/M3U/master/m3u%20playlists/1-%20WORLD%20IPTV%20CHANNELS.m3u</link>
         <thumbnail>http://channel.png</thumbnail>
         <genre>Poker</genre>
         <info>The Poker Channel – Europe’s largest dedicated gaming TV network is available online to a global audience, and to more than 30 million cable and satellite homes in Europe and Latin America.</info>
@@ -23,13 +23,13 @@
     
 	<item>
         <title>NHK - World</title>         
-        <link>rtmp://some/place playpath=nhkworldhd swfUrl="http://player.0.3.6.2.swf" pageUrl="http://nhkworld/r/movie/" swfVfy=true live=true</link>
+        <link>http://evolive-tv.com:8000/live/genio/genio/298.m3u8</link>
         <thumbnail>http://header_logo.gif</thumbnail>
     </item>
 	
     <item>
         <title>BBC World</title>         
-        <link>rtmp://some/place playpath=bbcworld1_en_high.sdp swfUrl="http://some/place/player.swf" pageUrl="http://some/place/10-bbc-world-news-english" swfVfy=true live=true</link>
+        <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15</link>
         <thumbnail>http://some/place.jpg</thumbnail>
 	
 </items>
