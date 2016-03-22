@@ -54,7 +54,7 @@ http://evolive-tv.com:8000/live/genio/genio/299.m3u8
 http://evolive-tv.com:8000/live/genio/genio/298.m3u8
 
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wvwtwt1435096287.png" group-title="PORTUGAL",[COLOR red][I][B]SIC[/B][/I][/COLOR]   [COLOR yellow] >>teste<< [/COLOR]
-http://213.13.26.11:1935/live/sic/chunklist_w423840104.m3u8
+http://c.securestreaming.xyz:1935/live/sichjdebiUW6/chunklist_w89969947.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzEzODA1MiZoYXNoX3ZhbHVlPWI0Y2VjNzdkOWFmNzc5MTlmNjkwOGU0MTE2N2NlZmIzJnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D   conn=S:OK
 
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wvwtwt1435096287.png" group-title="PORTUGAL",[COLOR red][I][B]SIC[/B][/I][/COLOR] [COLOR yellow] >>OFF<< [/COLOR]
 http://iptv2014.mine.nu:8000/live/free2633939668/56ea5e29063c3/1887.m3u8
@@ -75,7 +75,7 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b81400
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rswvxv1433344605.png" group-title="PORTUGAL",[COLOR red][I][B]SIC NOTICIAS [/B][/I][/COLOR]
-
+http://cp.dmbshare.net:8000/live/Mark/Mark/3459.m3u8
 
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rswvxv1433344605.png" group-title="PORTUGAL",[COLOR red][I][B]SIC NOTICIAS [/B][/I][/COLOR] [COLOR yellow] >>OFF<< [/COLOR]
 
@@ -171,7 +171,7 @@ http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/chunklist_w1713826381.m3u8
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/930.m3u8
 
 #EXTINF:-1 tvg-id="TVSERIES.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xppsrs1436898382.png" group-title="PORTUGAL",[COLOR red][I][B] TV SERIES[/B][/I][/COLOR]
-
+http://iptv2014.mine.nu:8000/live/free2633939668/56ea5e29063c3/1883.m3u8
 
 #EXTINF:-1 tvg-id="GLOBOPORTUGAL.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uxvspy1433473246.png" group-title="PORTUGAL",[COLOR red][I][B] GLOBO PORTUGAL[/B][/I][/COLOR]
 
@@ -386,26 +386,26 @@ http://c.securestreaming.xyz:1935/live/axnpCrwz/chunklist_w1762303413.m3u8?v&Tok
 #EXTINF:-1 tvg-id=" AXNHD.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/vvwysx1445114035.png" group-title="PORTUGAL",[COLOR red][I][B] AXN WHITE HD [/B][/I][/COLOR]    [COLOR yellow] >>teste<< [/COLOR]
 
 
-#EXTINF:-1 tvg-id=" TVCINE1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yxtrst1436898282.png" group-title="PORTUGAL",[COLOR red][I][B] TVCINE 1 HD [/B][/I][/COLOR]    [COLOR yellow] >>OFF<< [/COLOR]   
-
+#EXTINF:-1 tvg-id=" TVCINE1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yxtrst1436898282.png" group-title="PORTUGAL",[COLOR red][I][B] TVCINE 1 HD [/B][/I][/COLOR]    [COLOR yellow] >>teste<< [/COLOR] 
+http://iptv2014.mine.nu:8000/live/free2633939668/56ea5e29063c3/1879.m3u8
 
 #EXTINF:-1 tvg-id=" TVCINE1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yxtrst1436898282.png" group-title="PORTUGAL",[COLOR red][I][B] TVCINE 1 [/B][/I][/COLOR]    [COLOR yellow] >>teste<< [/COLOR]
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/936.m3u8
 
-#EXTINF:-1 tvg-id=" TVCINE2.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rpssrv1436898306.png" group-title="PORTUGAL",[COLOR red][I][B] TVCINE 2 HD [/B][/I][/COLOR]  [COLOR yellow] >>OFF<< [/COLOR]
-
+#EXTINF:-1 tvg-id=" TVCINE2.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rpssrv1436898306.png" group-title="PORTUGAL",[COLOR red][I][B] TVCINE 2 HD [/B][/I][/COLOR]  [COLOR yellow] >>teste<< [/COLOR]
+http://iptv2014.mine.nu:8000/live/free2633939668/56ea5e29063c3/1880.m3u8
 
 #EXTINF:-1 tvg-id=" TVCINE2.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rpssrv1436898306.png" group-title="PORTUGAL",[COLOR red][I][B] TVCINE 2 [/B][/I][/COLOR]      [COLOR yellow] >>teste<< [/COLOR]
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/935.m3u8
 
-#EXTINF:-1 tvg-id=" TVCINE3.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwyv1436898334.png" group-title="PORTUGAL",[COLOR red][I][B] TVCINE 3 HD [/B][/I][/COLOR]   [COLOR yellow] >>OFF<< [/COLOR]
-
+#EXTINF:-1 tvg-id=" TVCINE3.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwyv1436898334.png" group-title="PORTUGAL",[COLOR red][I][B] TVCINE 3 HD [/B][/I][/COLOR]   [COLOR yellow] >>teste<< [/COLOR]
+http://iptv2014.mine.nu:8000/live/free2633939668/56ea5e29063c3/1881.m3u8
 
 #EXTINF:-1 tvg-id=" TVCINE3.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwyv1436898334.png" group-title="PORTUGAL",[COLOR red][I][B] TVCINE 3 [/B][/I][/COLOR]      [COLOR yellow] >>teste<< [/COLOR]
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/934.m3u8
 
-#EXTINF:-1 tvg-id=" TVCINE4.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qswqxx1436898355.png" group-title="PORTUGAL",[COLOR red][I][B] TVCINE 4 HD [/B][/I][/COLOR]   [COLOR yellow] >>OFF<< [/COLOR]
-
+#EXTINF:-1 tvg-id=" TVCINE4.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qswqxx1436898355.png" group-title="PORTUGAL",[COLOR red][I][B] TVCINE 4 HD [/B][/I][/COLOR]   [COLOR yellow] >>teste<< [/COLOR]
+http://iptv2014.mine.nu:8000/live/free2633939668/56ea5e29063c3/1882.m3u8
 
 #EXTINF:-1 tvg-id=" TVCINE4.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qswqxx1436898355.png" group-title="PORTUGAL",[COLOR red][I][B] TVCINE 4 [/B][/I][/COLOR]     [COLOR yellow] >>teste<< [/COLOR]
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/933.m3u8
@@ -566,10 +566,10 @@ http://0.0.0.0:1234
 http://evolive-tv.com:8000/live/genio/genio/291.m3u8
 
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/urqtvs1436898824.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 1 [/B][/I][/COLOR]
-http://mediaptv.zapto.org:88/live/free/iptv/17.ts
+http://mediaptv.zapto.org:88/live/free/iptv/17.m3u8
 
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/urqtvs1436898824.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 1 [/B][/I][/COLOR]
-http://www.t12v.com:8000/live/okba/okba/501.ts
+http://iptv2014.mine.nu:8000/live/free2633939668/56ea5e29063c3/1871.m3u8
 
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/urqtvs1436898824.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 1 SD [/B][/I][/COLOR]
 http://cp.dmbshare.net:8000/live/liverpool/liverpool/3457.m3u8
@@ -584,7 +584,7 @@ http://evolive-tv.com:8000/live/genio/genio/292.m3u8
 http://mediaptv.zapto.org:88/live/free/iptv/19.ts
 
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uuvrpw1436898843.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 2 SD [/B][/I][/COLOR]
-
+http://iptv2014.mine.nu:8000/live/free2633939668/56ea5e29063c3/1872.m3u8
 
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qrwvps1436886569.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 3 HD [/B][/I][/COLOR]
 http://evolive-tv.com:8000/live/genio/genio/293.m3u8
@@ -596,13 +596,13 @@ http://evolive-tv.com:8000/live/genio/genio/293.m3u8
 http://evolive-tv.com:8000/live/genio/genio/294.m3u8
 
 #EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wywyss1436887367.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 4 SD [/B][/I][/COLOR]
-
+http://iptv2014.mine.nu:8000/live/free2633939668/56ea5e29063c3/1874.m3u8
 
 #EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ruyqvt1436886834.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 5 HD [/B][/I][/COLOR]
 http://evolive-tv.com:8000/live/genio/genio/295.m3u8
 
 #EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 5 SD [/B][/I][/COLOR]
-
+http://iptv2014.mine.nu:8000/live/free2633939668/56ea5e29063c3/1875.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.getsatellite.com/channels/sport-tv-americas.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV AMÉRICAS [/B][/I][/COLOR]  [COLOR yellow] >>OFF<< [/COLOR]
 http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
@@ -1477,3 +1477,31 @@ http://centova.radios.pt:8499
 http://192.81.248.194:8548/
 #EXTINF:-1 radio="true"tvg-logo="maiskizomba.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]MAIS KIZOMBA[/B][/I][/COLOR]
 http://109.71.41.250:8123/
+#EXTINF:-1 radio="true"tvg-logo="ibiza_sonica.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]IBIZA SONICA [/B][/I][/COLOR]
+http://stream2.wft.es:1025/;stream.mp3
+
+
+
+
+
+
+#EXTINF:-1 radio="true",RÁDIO
+http://rsync.com.br:1935/rsync00025/rsync.sdp/live.m3u8
+#EXTINF:-1 radio="true",RÁDIO 104.9 FM
+http://srv6.zoeweb.tv:1935/z306-live/stream/livestream.m3u8
+#EXTINF:-1 radio="true",RÁDIO CACIQUE AM 760
+http://srv6.zoeweb.tv:1935/z631-live/stream/livestream.m3u8
+#EXTINF:-1 radio="true",RÁDIO CBN RJ
+http://media.sgr.globo.com:1935/VideoCBN/cbnrj1.sdp/live.m3u8
+#EXTINF:-1 radio="true",RÁDIO CBN SP
+http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/live.m3u8
+#EXTINF:-1 radio="true",RÁDIO GLOBO 1100 AM SP
+http://media.sgr.globo.com:1935/VideoRadioGlobo/gamsp1.sdp/live.m3u8
+#EXTINF:-1 radio="true",RÁDIO GLOBO 98.1 FM RJ
+http://media.sgr.globo.com:1935/VideoRadioGlobo/gamrj2.sdp/live.m3u8
+#EXTINF:-1 radio="true",RÁDIO RURAL DE GUARABIRA
+http://srv6.zoeweb.tv:1935/z376-live/stream/livestream.m3u8
+#EXTINF:-1 radio="true",RÁDIO SENTINELA DO VALE SC
+http://rtmp.cdn.upx.net.br:1935/0be3_live2/myStream.sdp/live.m3u8
+#EXTINF:-1 radio="true",RÁDIO VOX 90.3 FM – STUDIO
+http://rtmp.cdn.upx.net.br:1935/00093_1/myStream.sdp/live.m3u8
