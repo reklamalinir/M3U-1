@@ -1,234 +1,75 @@
-?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+    <channels_info> <!-- this is opitonal -->
+      <title>Testing XML</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>News</genre>
+      <description>this is the descripton string</description>
+      <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+      <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+      <date>04.01.2013</date>
+      <credits>divingmule, Johnny Cache</credits>
+    </channels_info>
+    
+    <channel>
+    <name>News</name>
+    <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+    <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+        <items>
+            <item>
+                <title>POKER CHANNEL</title>
+                <link>mms://some/place/pokerchannel</link>
+                <thumbnail>http://channel.png</thumbnail>
+                <genre>Poker</genre>
+                <info>The Poker Channel – Europe’s largest dedicated gaming TV network is available online to a global audience, and to more than 30 million cable and satellite homes in Europe and Latin America.</info>
+                <date>07.12.2011</date>  <!-- format - dd.mm.yyyy -->
+                <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
+                <fanart>http://fanart.jpg</fanart>
+            </item>
+            
+            <item>
+                <title>News 4</title>         
+                <link>rtmp://some/place playpath=some_place swfUrl="http://player.swf pageUrl=http://nhkworld/r/movie/ swfVfy=true live=true</link>
+                <thumbnail>C:\my_thumbs\news.png</thumbnail>
+            </item>
+        </items>
+    </channel>
 
+    <channel>
+    <name>Television</name>
+    <thumbnail>http://television.png</thumbnail>
+    <fanart>http://fanart.jpg</fanart>
+    <subchannel>
+        <name>Tv 1</name>
+        <thumbnail>http://television.png</thumbnail>
+        <fanart>http://fanart.jpg</fanart>
+            <subitems>
+                <subitem>
+                <title>tv1-1</title>
+                <link>mms://some/place</link>
+                <thumbnail>http://thumb.png </thumbnail>
+                </subitem>
 
-
-<item>
-    <title>[COLOR yellow]SI OSGUSTA MI LISTA VOTAR POR MAIL GRACIAS/[COLOR orange]tauro2425@live.com[/COLOR]</title>
-    <link>http://Ignoreme</link>
-    <externallink></externallink>
-    </item>
-
- <item>
-    <title>[COLOR lime]                                    J A V I                               [/COLOR]</title>
-    <link>http://Ignoreme</link>
-    <externallink></externallink>
-<thumbnail>http://imaginee.es/wp-content/uploads/2014/12/Letras-JAVI-20.jpg</thumbnail>
-    </item>
-
- 
- <item>
-    <title> [COLOR yellow][B][I]                     ACTUALIZADO--17/03/2016               [/B][/I][/COLOR]</title>
-    <link>http://Ignoreme</link>
-    <externallink></externallink>
-<thumbnail>http://imaginee.es/wp-content/uploads/2014/12/Letras-JAVI-20.jpg</thumbnail>
-	</item>
-
-
-
-<item>
-    <title>[COLOR blue]YA DISPONIBLE EN SECCION PELICULA , ESPAÑOLAS ,[COLOR orange] OCHO APELLIDOS CATALANES[/COLOR]</title>
-    <link>http://Ignoreme</link>
-    <externallink></externallink>
-    </item>
-
-
-
-<item>
-        <title>[COLOR red]NUEVA ACTUALIZACION /[COLOR yellow]NUEVO LINK 29/02/2016 [/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://pastebin.com/raw/kX4C8ut5</externallink>
-<thumbnail>https://i.ytimg.com/vi/t7k-osHvLKY/hqdefault.jpg</thumbnail>
-<fanart></fanart>
+                <subitem>
+                <title>tv1-2</title>
+                <link>http://some/place/channel_4.mp4</link>
+                <thumbnail>http://thumb.png</thumbnail>
+                </subitem>
+            </subitems>	
+        </channel>
+    </subchannel>
+    
+    <items>
+        <item>
+        <title>FILM 4</title>
+        <link>mms://some/place</link>
+        <thumbnail>http://thumb.png </thumbnail>
         </item>
 
-
-<item>
-        <title>[COLOR turquoise]TDT/Plus/Documentales/Deporte[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://pastebin.com/raw.php?i=nrUmwuzk</externallink>
-<thumbnail>http://imagenes.es.sftcdn.net/es/scrn/69676000/69676099/espana-tv-10-700x393.jpg</thumbnail>
-<fanart></fanart>
+        <item>
+        <title>CHANNEL 4</title>
+        <link>http://some/place/channel_4.mp4</link>
+        <thumbnail>http://thumb.png</thumbnail>
         </item>
+    </items>	
+    </channel>
 
-<item>
-<title>[COLOR turquoise]Todos los Canales de /[COLOR yellow]CINESTRENOSTV[/COLOR]</title>
-<thumbnail>http://website.informer.com/thumbnails/280x202/c/cinestrenostv.tv.png</thumbnail>
-<fanart>http://website.informer.com/thumbnails/280x202/c/cinestrenostv.tv.png</fanart>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param2]</title>
-<sportsdevil>http://cinestrenostv.tv[makelist.param1]</sportsdevil>
-<referer></referer>
-<thumbnail>[makelist.param3]</thumbnail>
-]]></listrepeat>
-<expres>a href="(.*)".*title="(.*?)".*?src="(.*?)"</expres>
-<page>http://cinestrenostv.tv/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-<item>
-        <title>[COLOR turquoise]Canales Inestables[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://pastebin.com/raw/sUwsgimm</externallink>
-<thumbnailhttps://teledigoyo.files.wordpress.com/2013/03/mapa_televisiones_autonomicas_espana.jpg</thumbnail>
-<fanarthttp://imaginee.es/wp-content/uploads/2014/12/Letras-JAVI-20.jpg</fanart>
-        </item>
-
-<item>
-        <title>[COLOR turquoise]Autonomicos[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://pastebin.com/raw/BGMH4d1Y</externallink>
-<thumbnail>https://teledigoyo.files.wordpress.com/2013/03/mapa_televisiones_autonomicas_espana.jpg</thumbnail>
-<fanart>http://imaginee.es/wp-content/uploads/2014/12/Letras-JAVI-20.jpg</fanart>
-        </item>
-
-<item>
-        <title>[COLOR turquoise]Canales [COLOR pink] Infantiles[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://pastebin.com/raw.php?i=5WesXYyD</externallink>
-<thumbnail>http://www.adslzone.tv/app/uploads/2013/06/Dibujo12.jpg</thumbnail>
-<fanart>http://imaginee.es/wp-content/uploads/2014/12/Letras-JAVI-20.jpg</fanart>
-        </item>
-
-<item>
-        <title>[COLOR turquoise]Taquillas[/COLOR][COLOR orange]**[/COLOR][COLOR blue]C +[/COLOR][COLOR orange]**[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://pastebin.com/raw.php?i=Wwpu47Yd</externallink>
-<thumbnail>http://www1.plus.es/img/logos_aperturas/canal-plus-taquilla.png</thumbnail>
-<fanart>http://imaginee.es/wp-content/uploads/2014/12/Letras-JAVI-20.jpg</fanart>
-        </item>
-
-
-
-<item>
-        <title>[COLOR turquoise]Peliculas[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://pastebin.com/raw/Ev3yMK7g</externallink>
-<thumbnail>http://d3sdoylwcs36el.cloudfront.net/cinema_ciak.jpg</thumbnail>
-<fanart>http://d3sdoylwcs36el.cloudfront.net/cinema_ciak.jpg</fanart>
-        </item>
-
-<item>
-        <title>[COLOR turquoise]Peliculas [COLOR pink]Infantiles[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://pastebin.com/raw.php?i=HJxXAy1M</externallink>
-<thumbnail>http://www.motionkids-tv.com/wp-content/uploads/2013/04/peliculas-infantiles-dibujos-para-ninos-clasicos.jpg</thumbnail>
-<fanart>http://imaginee.es/wp-content/uploads/2014/12/Letras-JAVI-20.jpg</fanart>
-        </item>
-<item>
-        <title>[COLOR turquoise]Sagas[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://pastebin.com/raw/hy4pJp8A</externallink>
-<thumbnail>http://www.spirit-of-rock.com/les%20goupes/S/Saga/pics/logo.jpg</thumbnail>
-<fanart>http://www.spirit-of-rock.com/les%20goupes/S/Saga/pics/logo.jpg</fanart>
-        </item>
-
-<item>
-        <title>[COLOR turquoise]Todo Series[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://pastebin.com/raw/Hi7acMm4</externallink>
-<thumbnail>http://img06.deviantart.net/7e0d/i/2012/361/4/3/tv_series_folder_icons_pack_by_atti12-d5pcf5z.png</thumbnail>
-<fanart>http://img06.deviantart.net/7e0d/i/2012/361/4/3/tv_series_folder_icons_pack_by_atti12-d5pcf5z.png</fanart>
-        </item>
-
-
-<item>
-        <title>[COLOR turquoise]Series [COLOR pink]  Infantiles[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://pastebin.com/raw.php?i=HzvqBFy7</externallink>
-<thumbnail>https://mediasatgroup.files.wordpress.com/2014/03/childhood-cartoon.jpg</thumbnail>
-<fanart>http://imaginee.es/wp-content/uploads/2014/12/Letras-JAVI-20.jpg</fanart>
-        </item>
-
-<item>
-        <title>[COLOR turquoise]Emisoras de Radio de España[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://pastebin.com/raw.php?i=brvepbn9</externallink>
-<thumbnail>http://www.cocoua.es/iamgenes/com.bestonlineradio.radiospain.png</thumbnail>
-<fanart>http://imaginee.es/wp-content/uploads/2014/12/Letras-JAVI-20.jpg</fanart>
-        
-        </item>
-
-
-<item>
-        <title>[COLOR turquoise]Conciertos[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://pastebin.com/raw.php?i=Q3hs3SuF</externallink>
-<thumbnail>http://telecincostatic-a.akamaihd.net/nosolomusica/rincon_de_tena/conciertos/Conciertos-logo_MDSIMA20120827_0235_1.jpg</thumbnail>
-<fanart>http://imaginee.es/wp-content/uploads/2014/12/Letras-JAVI-20.jpg</fanart>
-        </item>
-
-
-
-<item>
-        <title>[COLOR turquoise]Camara en Directo[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://pastebin.com/raw.php?i=0b3VPt0u</externallink>
-<thumbnail>https://lh3.ggpht.com/wERufMU0GMMyfuGXmIJj3UXGhyjC3l_V6CYKooaMHz936Fp_GvWV0gSPsc6KJ_kYXSKC=w300</thumbnail>
-<fanart>http://imaginee.es/wp-content/uploads/2014/12/Letras-JAVI-20.jpg</fanart>
-<info>AQUI PODEMOS VER CAMARAS WEB SITUADAS EN DISTISTAS PARTES DEL MUNDO TOTALMENTE EN DIRECTO</info>
-        </item>
-
-
-
-
-<item>
-        <title>[COLOR turquoise]Canales Inestables[/COLOR]</title>
-        <linkhttp://Ignoreme</link>
-        <externallinkhttp://pastebin.com/raw/Gy9JjhhQ</externallink>
-<thumbnail>http://imaginee.es/wp-content/uploads/2014/12/Letras-JAVI-20.jpg</thumbnail>
-<fanart></fanart>
-        </item>
-
-
-
-
-
-
- 
-<item>
-        <title>[COLOR turquoise]Musica[/COLOR]</title>
-        <linkhttp://Ignoreme</link>
-        <externallink>http://pastebin.com/raw.php?i=nbsJ1M7b</externallink>
-<thumbnail>http://radiomilenium.com/fotos/bandera%20musica.jpg</thumbnail>
-<fanart>http://imaginee.es/wp-content/uploads/2014/12/Letras-JAVI-20.jpg</fanart>
-        </item>
-
-<item>
-        <title>[COLOR turquoise]Roja Directa[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://pastebin.com/raw.php?i=Kpq8VM6V</externallink>
-<thumbnail>http://novaley.es/wp-content/uploads/2014/04/img340_1.jpg</thumbnail>
-<fanart>http://novaley.es/wp-content/uploads/2014/04/img340_1.jpg</fanart>
-        </item>
-
-
-
-<item>
-        <title>[COLOR turquoise]Mexico[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://pastebin.com/raw.php?i=8NNC1ADv</externallink>
-<thumbnail>http://embamex.sre.gob.mx/francia/images/stories/bandera%20mex2.jpg</thumbnail>
-<fanart>http://embamex.sre.gob.mx/francia/images/stories/bandera%20mex2.jpg</fanart>
-        </item>
-
-
-
-<item>
-        <title>[COLOR turquoise]Portugal[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://pastebin.com/raw.php?i=Hg3fuke1</externallink>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/2000px-Flag_of_Portugal.svg.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/2000px-Flag_of_Portugal.svg.png</fanart>
-        </item>
-<item>
-        <title>[COLOR turquoise]Otras listas[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://pastebin.com/raw.php?i=X3snfcNg</externallink>
-<thumbnail>http://comps.canstockphoto.es/can-stock-photo_csp9812406.jpg</thumbnail>
-<fanart></fanart>
-        </item>
+</channels>	
