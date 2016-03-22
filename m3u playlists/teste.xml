@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
 <channels>
     <channels_info> <!-- this is opitonal -->
       <title>Testing XML</title> <!-- if channels_info, a title is required, other elements are optional -->
@@ -17,7 +18,7 @@
         <items>
             <item>
                 <title>POKER CHANNEL</title>
-                <link>mms://some/place/pokerchannel</link>
+                <link>http://evolive-tv.com:8000/live/genio/genio/298.m3u8</link>
                 <thumbnail>http://channel.png</thumbnail>
                 <genre>Poker</genre>
                 <info>The Poker Channel – Europe’s largest dedicated gaming TV network is available online to a global audience, and to more than 30 million cable and satellite homes in Europe and Latin America.</info>
@@ -28,8 +29,8 @@
             
             <item>
                 <title>News 4</title>         
-                <link>rtmp://some/place playpath=some_place swfUrl="http://player.swf pageUrl=http://nhkworld/r/movie/ swfVfy=true live=true</link>
-                <thumbnail>C:\my_thumbs\news.png</thumbnail>
+                <link>rtmp://$doregex[get-ip]/stream playpath=SIC813747234?id=23687&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf flashver=MAC20,0,0,306 pageUrl=http://www.liveflashplayer.net/embedplayer/SIC813747234/1/565/440</link>
+                <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
             </item>
         </items>
     </channel>
@@ -75,37 +76,155 @@
 
 </channels>	
 
-<items>
-    <items_info> <!-- this is opitonal -->
-      <title>Testing XML</title> <!-- a title is required, other elements are optional -->
-      <genre>News</genre>
-      <description>this is the descripton string</description>
-      <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-      <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
-      <date>04.01.2013</date>
-      <credits>divingmule, Johnny Cache</credits>
-    </items_info>
+<item>  
+<title>[COLOR blue] [I] RTP 1 [/I] [/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://s20.postimg.org/o8bxt6059/rtp1.png</thumbnail>
+ </item>
 
-    <item>
-        <title>POKER CHANNEL</title>
-        <link>https://raw.githubusercontent.com/djlopesdacosta/M3U/master/m3u%20playlists/1-%20WORLD%20IPTV%20CHANNELS.m3u</link>
-        <thumbnail>http://channel.png</thumbnail>
-        <genre>Poker</genre>
-        <info>The Poker Channel – Europe’s largest dedicated gaming TV network is available online to a global audience, and to more than 30 million cable and satellite homes in Europe and Latin America.</info>
-        <date>07.12.2011</date>  <!-- format - dd.mm.yyyy -->
-        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-        <fanart>http://fanart.jpg</fanart>
-    </item>
-    
-	<item>
-        <title>NHK - World</title>         
-        <link>http://evolive-tv.com:8000/live/genio/genio/298.m3u8</link>
-        <thumbnail>http://header_logo.gif</thumbnail>
-    </item>
-	
-    <item>
-        <title>BBC World</title>         
-        <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15</link>
-        <thumbnail>http://some/place.jpg</thumbnail>
-	
-</items>
+<item>  
+<title>[COLOR blue] [I] RTP 1 [/I] [/COLOR] REP</title>
+<link>http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8</link>
+<thumbnail>http://s20.postimg.org/o8bxt6059/rtp1.png</thumbnail>
+   </item>
+
+<item>
+<title>[COLOR blue] [I] RTP 2 [/I] [/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://s20.postimg.org/3qqzhio1p/rtp2.png</thumbnail>
+ </item>
+
+<item>
+<title>[COLOR blue] [I] RTP 2 [/I] [/COLOR] REP</title>
+<link>http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8</link>
+ <thumbnail>http://s20.postimg.org/3qqzhio1p/rtp2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I] RTP 3 [/I] [/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15</link>
+ <thumbnail>http://s20.postimg.org/tbfeszjgd/rtp_3.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I] RTP AÇORES [/I] [/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpacores swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://s20.postimg.org/yslvbr4n1/rtp_ac_ores.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I] RTP AÇORES [/I] [/COLOR]</title>
+<link></link>
+<thumbnail>http://s20.postimg.org/yslvbr4n1/rtp_ac_ores.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I] RTP ÁFRICA [/I] [/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://s20.postimg.org/qodr70i7x/rtp_africa.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I] RTP ÁFRICA [/I] [/COLOR]</title>
+<link></link>
+<thumbnail>http://s20.postimg.org/qodr70i7x/rtp_africa.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I] RTP MADEIRA [/I] [/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://s20.postimg.org/mj7fyu9tp/rtp_madeira.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I] RTP MADEIRA [/I] [/COLOR]</title>
+<link></link>
+<thumbnail>http://s20.postimg.org/mj7fyu9tp/rtp_madeira.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I] RTP MEMÓRIA [/I] [/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://s20.postimg.org/j0vg2g8xp/rtp_memoria.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I] RTP MEMÓRIA [/I] [/COLOR]</title>
+<link></link>
+<thumbnail>http://s20.postimg.org/j0vg2g8xp/rtp_memoria.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I] RTP INTERNACIONAL [/I] [/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://s20.postimg.org/ckhvymb0d/rtp_internacional.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I] RTP INTERNACIONAL [/I] [/COLOR]</title>
+<link></link>
+<thumbnail>http://s20.postimg.org/ckhvymb0d/rtp_internacional.png</thumbnail>
+</item>
+
+<item> 
+<title>[COLOR blue] [I] SIC [/I] [/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live/ playpath=sic90?id=85765$doregex[pk] swfVfy=1 conn=S:OK swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/sic90/1/650/500 live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embeducaster.com/embedplayer/sic90/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
+</regex>
+</item>
+
+<item> 
+<title>[COLOR blue] [I] SIC [/I] [/COLOR] </title>
+<link>rtmp://$doregex[get-ip]/stream playpath=SIC813747234?id=23687&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf flashver=MAC20,0,0,306 pageUrl=http://www.liveflashplayer.net/embedplayer/SIC813747234/1/565/440</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.liveflashplayer.net/embedplayer/SIC813747234/1/565/440</page>
+<referer>http://www.liveflashplayer.net/</referer>
+<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR blue] [I] SIC [/I] [/COLOR] REP</title>
+<link>http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8</link>
+ <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I] SIC CARAS [/I] [/COLOR] </title>
+<link></link>
+ <thumbnail>http://www.thelogodb.com/images/media/logo/rqrvpy1433343925.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I] SIC MULHER  [/I] [/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=sicm02?id=84770&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sicm02/1/599/399</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/sicm02/1/599/399</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/suyuur1436891341.png/medium</thumbnail>
+</regex>
+</item>
