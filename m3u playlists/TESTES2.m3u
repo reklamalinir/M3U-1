@@ -1,1537 +1,232 @@
-#EXTM3U
-#EXTINF:0,<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<channel>  
-#EXTINF:0,<item>
-<title>[COLOR orange]!!!!!PINCHAR AQUI PARA HACEDER A LA LISTA!!!!![/COLOR]</title>
-#EXTINF:0,<link>http://Ignoreme</link>
-<externallink>http://pastebin.com/raw/HnriLGB3</externallink>
-#EXTINF:0,<thumbnail>http://s3.postimg.org/8ex9f3rwj/bandeira_espanha.png</thumbnail>
-<fanart>https://nbclatino.files.wordpress.com/2013/01/machetekill.jpg</fanart>
-#EXTINF:0,</item>
-<channel>
-#EXTINF:0,<item>
-<name>[COLOR green] [I]TUGA TV[/I] [/COLOR] </name>
-#EXTINF:0,<thumbnail>http://img3.goodfon.su/original/1920x1080/2/49/portugal-portugaliya-flag.jpg</thumbnail>
-<fanart>http://blog.weholi.com/wp-content/uploads/2014/11/PT-Albufeira-25-1024x576.jpg</fanart>
-#EXTINF:0,</subitem>
-</item>
-#EXTINF:0,<item>  
-<title>[COLOR blue] [I] RTP 1 [/I] [/COLOR]</title>
-#EXTINF:0,<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15</link>
-<thumbnail>http://s20.postimg.org/o8bxt6059/rtp1.png</thumbnail>
-#EXTINF:0, </item>
-<item>  
-#EXTINF:0,<title>[COLOR blue] [I] RTP 1 [/I] [/COLOR] </title>
-<link>http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8</link>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/o8bxt6059/rtp1.png</thumbnail>
-   </item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I] RTP 2 [/I] [/COLOR]</title>
-#EXTINF:0,<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15</link>
-<thumbnail>http://s20.postimg.org/3qqzhio1p/rtp2.png</thumbnail>
-#EXTINF:0, </item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] RTP 2 [/I] [/COLOR] </title>
-<link>http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8</link>
-#EXTINF:0, <thumbnail>http://s20.postimg.org/3qqzhio1p/rtp2.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I] RTP 3 [/I] [/COLOR]</title>
-#EXTINF:0,<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15</link>
- <thumbnail>http://s20.postimg.org/tbfeszjgd/rtp_3.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] RTP AÇORES [/I] [/COLOR]</title>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpacores swfVfy=1 live=1 timeout=15</link>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/yslvbr4n1/rtp_ac_ores.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I] RTP AÇORES [/I] [/COLOR]</title>
-#EXTINF:0,<link></link>
-<thumbnail>http://s20.postimg.org/yslvbr4n1/rtp_ac_ores.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] RTP ÁFRICA [/I] [/COLOR]</title>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15</link>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/qodr70i7x/rtp_africa.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I] RTP ÁFRICA [/I] [/COLOR]</title>
-#EXTINF:0,<link></link>
-<thumbnail>http://s20.postimg.org/qodr70i7x/rtp_africa.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] RTP MADEIRA [/I] [/COLOR]</title>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15</link>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/mj7fyu9tp/rtp_madeira.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I] RTP MADEIRA [/I] [/COLOR]</title>
-#EXTINF:0,<link></link>
-<thumbnail>http://s20.postimg.org/mj7fyu9tp/rtp_madeira.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] RTP MEMÓRIA [/I] [/COLOR]</title>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria swfVfy=1 live=1 timeout=15</link>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/j0vg2g8xp/rtp_memoria.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I] RTP MEMÓRIA [/I] [/COLOR]</title>
-#EXTINF:0,<link></link>
-<thumbnail>http://s20.postimg.org/j0vg2g8xp/rtp_memoria.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] RTP INTERNACIONAL [/I] [/COLOR]</title>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional swfVfy=1 live=1 timeout=15</link>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/ckhvymb0d/rtp_internacional.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I] RTP INTERNACIONAL [/I] [/COLOR]</title>
-#EXTINF:0,<link></link>
-<thumbnail>http://s20.postimg.org/ckhvymb0d/rtp_internacional.png</thumbnail>
-#EXTINF:0,</item>
-<item> 
-#EXTINF:0,<title>[COLOR blue] [I] SIC [/I] [/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live/ playpath=sic90?id=85765$doregex[pk] swfVfy=1 conn=S:OK swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/sic90/1/650/500 live=true timeout=10</link>
-#EXTINF:0,<regex>
-<name>get-ip</name>
-#EXTINF:0,<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-#EXTINF:0,</regex>
-<regex>
-#EXTINF:0,<name>pk</name>
-<expres>ea=(.*)'</expres>
-#EXTINF:0,<page>http://www.embeducaster.com/embedplayer/sic90/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
-</regex>
-#EXTINF:0,</item>
-<item> 
-#EXTINF:0,<title>[COLOR blue] [I] SIC [/I] [/COLOR] </title>
-<link>http://evolive-tv.com:8000/live/genio/genio/298.m3u8</link>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I] SIC [/I] [/COLOR] REP</title>
-#EXTINF:0,<link>http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8</link>
- <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] SIC [/I] [/COLOR] REP</title>
-<link>http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8</link>
-#EXTINF:0, <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I] SIC CARAS [/I] [/COLOR] </title>
-#EXTINF:0,<link></link>
- <thumbnail>http://www.thelogodb.com/images/media/logo/rqrvpy1433343925.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] SIC MULHER  [/I] [/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=sicm02?id=84770&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sicm02/1/599/399</link>
-#EXTINF:0,<regex>
-<name>get-ip</name>
-#EXTINF:0,<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-#EXTINF:0,</regex>
-<regex>
-#EXTINF:0,<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-#EXTINF:0,<page>http://www.embeducaster.com/embedplayer/sicm02/1/599/399</page>
-<referer>http://www.embeducaster.com/</referer>
-#EXTINF:0,<thumbnail>http://www.thelogodb.com/images/media/logo/suyuur1436891341.png/medium</thumbnail>
-</regex>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] SIC RADICAL [/I] [/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=sicradicalx?id=84768&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sicradicalx/1/650/500</link>
-#EXTINF:0,<regex>
-<name>get-ip</name>
-#EXTINF:0,<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-#EXTINF:0,</regex>
-<regex>
-#EXTINF:0,<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-#EXTINF:0,<page>http://www.embeducaster.com/embedplayer/sicradicalx/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-#EXTINF:0,<thumbnail>http://www.thelogodb.com/images/media/logo/ustqwy1436891230.png/medium</thumbnail>
-</regex>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] TVI [/I] [/COLOR]</title>
-<link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w103393150_b814000_49365.m3u8</link>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/wpg1htu7x/TVI.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I] TVI [/I] [/COLOR] REP</title>
-#EXTINF:0,<link>http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8</link>
-<thumbnail>http://s20.postimg.org/wpg1htu7x/TVI.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] TVI [/I] [/COLOR][COLOR red]OFF[/COLOR]</title>
-</link>rtmp://$doregex[get-ip]/live/ playpath=tvi003?id=82684$doregex[pk] conn=S:OK swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/tviko9/1/670/460 live=true timeout=17</link>
-#EXTINF:0,<regex>
-<name>get-ip</name>
-#EXTINF:0,<expres>redirect=(.*)</expres>
-<page>http://www.embeducaster.com:1935/loadbalancer</page>
-#EXTINF:0,</regex>
-<regex>
-#EXTINF:0,<name>pk</name>
-<expres>ea=(.*)'</expres>
-#EXTINF:0,<page>http://www.embeducaster.com/embedplayer/tvi003/1/650/500</page>
-<referer>http://www.embeducaster.com</referer>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/wpg1htu7x/TVI.png</thumbnail>
-</regex>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] TVI FICÇÃO [/I] [/COLOR]</title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-#EXTINF:0,<regex>
-<name>ip</name>
-#EXTINF:0,<expres>redirect=(.*)</expres>
-<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
-#EXTINF:0,</regex>
-<regex>
-#EXTINF:0,<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-#EXTINF:0,<page>http://www.embedezcast.com/membedplayer/tvicrl/1/650/500</page>
-<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 OPR/33.0.1990.115</agent>
-#EXTINF:0,<referer>http://www.embedezcast.com</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/vsvuyy1433357902.png/medium</thumbnail>
-#EXTINF:0,</regex>
-</item>
-#EXTINF:0,<item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] TVI REALITY A QUINTA[/I] [/COLOR]</title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-#EXTINF:0,<regex>
-<name>ip</name>
-#EXTINF:0,<expres>redirect=(.*)</expres>
-<page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
-#EXTINF:0,</regex>
-<regex>
-#EXTINF:0,<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-#EXTINF:0,<page>http://www.mipsplayer.com/membedplayer/ggffgfwwew/1/545/380</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-#EXTINF:0,<referer>http://www.mips.tv</referer>
-<thumbnail>http://www.atelevisao.com/wp-content/uploads/2015/09/tviReality.jpg</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] SIC NOTICIAS [/I] [/COLOR]</title>
-<link></link>
-#EXTINF:0,</regex>
-</item>
-#EXTINF:0,item>
-<title>[COLOR blue] [I] SIC NOTICIAS [/I] [/COLOR]</title>
-#EXTINF:0,<link>$doregex[get-m3u8]|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/601.4.4</link>
-<regex>
-#EXTINF:0,<name>get-m3u8</name>
-<expres>source: '(.*?)'</expres>
-#EXTINF:0,<page>http://mytvfree2.me/sic-noticias</page>
-<referer>http://mytvfree2.me/</referer>
-#EXTINF:0,<thumbnail>http://www.thelogodb.com/images/media/logo/xrpwsp1436890926.png/medium</thumbnail>
-</regex>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] SIC NOTICIAS [/I] [/COLOR] EUROPE ONLY</title>
-<link>rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html</link>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] TVI 24 [/I] [/COLOR]</title>
-<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8</link>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/koulh3mt9/tvi_24.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I] A BOLA TV [/I] [/COLOR]</title>
-#EXTINF:0,<link>rtmp://$doregex[get-ip]/stream playpath=BOLA33888338?id=23688$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
-<regex>
-#EXTINF:0,<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-#EXTINF:0,<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
-</regex>
-#EXTINF:0,<regex>
-<name>pk</name>
-#EXTINF:0,<expres>ea=(.*)'</expres>
-<page>http://www.liveflashplayer.net/embedplayer/BOLA33888338/1/565/440</page>
-#EXTINF:0,<referer>http://www.liveflashplayer.net</referer>
-<thumbnail>http://s20.postimg.org/u3s3bcbb1/a_bola_tv.jpg</thumbnail>
-#EXTINF:0,</regex>
-</item>
-#EXTINF:0,item>
-<title>[COLOR blue] [I] A BOLA TV [/I] [/COLOR]</title>
-#EXTINF:0,<link>rtmp://$doregex[get-ip]/stream playpath=abolatvg?id=85984$doregex[pk] conn=S:OK swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/abolatvg/1/650/500 live=true timeout=10</link>
-<regex>
-#EXTINF:0,<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-#EXTINF:0,<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-#EXTINF:0,<regex>
-<name>pk</name>
-#EXTINF:0,<expres>ea=(.*)'</expres>
-<page>http://www.embeducaster.com/embedplayer/abolatvg/1/650/500</page>
-#EXTINF:0,<referer>http://www.embeducaster.com</referer>
-<thumbnail>http://s20.postimg.org/u3s3bcbb1/a_bola_tv.jpg</thumbnail>
-#EXTINF:0,</regex>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I] CM TV [/I] [/COLOR]</title>
-#EXTINF:0,<link>rtmp://$doregex[get-ip]/stream playpath=cmtvb?id=21917$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
-<regex>
-#EXTINF:0,<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-#EXTINF:0,<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
-</regex>
-#EXTINF:0,<regex>
-<name>pk</name>
-#EXTINF:0,<expres>ea=(.*)'</expres>
-<page>http://www.liveflashplayer.net/embedplayer/cmtvb/1/650/500</page>
-#EXTINF:0,<referer>http://www.liveflashplayer.net</referer>
-<thumbnail>http://mb.web.sapo.io/1/0/2/8c10cca436228677d10be1cb5d21794e2464a.jpg</thumbnail>
-#EXTINF:0,</regex>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I] PORTO CANAL / SPORTING TV [/I] [/COLOR]</title>
-#EXTINF:0,<sportsdevil>http://www.thefeed2all.eu/watch/408917/10/watch-xonetv.html</sportsdevil>
-<referer>http://www.thefeed2all.eu/watch/408917/10/watch-xonetv.html</referer>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/t1r3ka799/Porto_Canal.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I] PORTO CANAL [/I] [/COLOR]</title>
-#EXTINF:0,<link>rtmp://$doregex[get-ip]/live playpath=portocanalxx?id=83399&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/portocanalxx/1/650/500</link>
-<regex>
-#EXTINF:0,<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-#EXTINF:0,<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-#EXTINF:0,<regex>
-<name>get-pk</name>
-#EXTINF:0,<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/portocanalxx/1/650/500</page>
-#EXTINF:0,<referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://s20.postimg.org/t1r3ka799/Porto_Canal.png</thumbnail>
-#EXTINF:0,</regex>
-<item> 
-#EXTINF:0,<title>[COLOR blue] [I] HOLLYWOOD [/I] [/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=hollywoodx?id=84769&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/hollywoodx/1/650/500</link>
-#EXTINF:0,<regex>
-<name>get-ip</name>
-#EXTINF:0,<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-#EXTINF:0,</regex>
-<regex>
-#EXTINF:0,<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-#EXTINF:0,<page>http://www.embeducaster.com/embedplayer/hollywoodx/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/yr2qquo1p/canal_hollywood_es.png</thumbnail>
-</regex>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] AXN [/I] [/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=axn1x?id=84753&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/axn1x/1/650/500</link>
-#EXTINF:0,<regex>
-<name>get-ip</name>
-#EXTINF:0,<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-#EXTINF:0,</regex>
-<regex>
-#EXTINF:0,<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-#EXTINF:0,<page>http://www.embeducaster.com/embedplayer/axn1x/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/h64tfhhrx/axn1.png</thumbnail>
-</regex>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] AXN WHITE [/I] [/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=axnwhitex?id=77969&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/axnwhitex/1/650/500</link>
-#EXTINF:0,<regex>
-<name>get-ip</name>
-#EXTINF:0,<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-#EXTINF:0,</regex>
-<regex>
-#EXTINF:0,<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-#EXTINF:0,<page>http://www.embeducaster.com/embedplayer/axnwhitex/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/qcn42rn0d/AXN_White.png</thumbnail>
-</regex>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] TV CINE 1 [/I] [/COLOR]</title>
-<link>http://ipsatpro.com:8000/live/fatihamca/fatihamca/936.m3u8</link>
-#EXTINF:0,<thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine1.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I] TV CINE 2 [/I] [/COLOR]</title>
-#EXTINF:0,<link>http://ipsatpro.com:8000/live/fatihamca/fatihamca/935.m3u8</link>
-<thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine2.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] TV CINE 3 [/I] [/COLOR]</title>
-<link>http://ipsatpro.com:8000/live/fatihamca/fatihamca/934.m3u8</link>
-#EXTINF:0,<thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine3.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I] TV CINE 4 [/I] [/COLOR]</title>
-#EXTINF:0,<link>http://ipsatpro.com:8000/live/fatihamca/fatihamca/933.m3u8</link>
-<thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine4.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] TV SERIES [/I] [/COLOR]</title>
-<link>http://ipsatpro.com:8000/live/fatihamca/fatihamca/930.m3u8</link>
-#EXTINF:0,<thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvseries.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I] FOX [/I] [/COLOR]</title>
-#EXTINF:0,<link>rtmp://$doregex[get-ip]/live/ playpath=foxcrl?id=24274$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
-<regex>
-#EXTINF:0,<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-#EXTINF:0,<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
-</regex>
-#EXTINF:0,<regex>
-<name>pk</name>
-#EXTINF:0,<expres>ea=(.*)'</expres>
-<page>http://www.embedezcast.com/embedplayer/foxcrl/1/650/500</page>
-#EXTINF:0,<referer>http://www.embedezcast.com</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/qtturr1433362023.png/medium</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] FOX MOVIES [/I] [/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live/ playpath=sical?id=24913$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
-#EXTINF:0,<regex>
-<name>get-ip</name>
-#EXTINF:0,<expres>redirect=(.*)</expres>
-<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
-#EXTINF:0,</regex>
-<regex>
-#EXTINF:0,<name>pk</name>
-<expres>ea=(.*)'</expres>
-#EXTINF:0,<page>http://www.embedezcast.com/embedplayer/sical/1/599/399</page>
-<referer>http://www.embedezcast.com</referer>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/5rqpttyyl/foxmovies.png</thumbnail>
-</regex>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] FOX CRIME [/I] [/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=foxcrimex?id=84766&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/foxcrimex/1/650/500</link>
-#EXTINF:0,<regex>
-<name>get-ip</name>
-#EXTINF:0,<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-#EXTINF:0,</regex>
-<regex>
-#EXTINF:0,<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-#EXTINF:0,<page>http://www.embeducaster.com/embedplayer/foxcrimex/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/bpqqyudrx/foxcrime.png</thumbnail>
-</regex>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] FOX LIFE [/I] [/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/stream playpath=foxlifea?id=19709$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
-#EXTINF:0,<regex>
-<name>get-ip</name>
-#EXTINF:0,<expres>redirect=(.*)</expres>
-<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
-#EXTINF:0,</regex>
-<regex>
-#EXTINF:0,<name>pk</name>
-<expres>ea=(.*)'</expres>
-#EXTINF:0,<page>http://www.liveflashplayer.net/embedplayer/foxlifea/1/650/500</page>
-<referer>http://www.liveflashplayer.net</referer>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/rp9eie9tp/foxlife.png</thumbnail>
-</regex>
-#EXTINF:0,<item>
- 
-#EXTINF:0,<item> 
-<title>[COLOR blue] [I] MTV [/I] [/COLOR]</title>
-#EXTINF:0,<link>rtmp://$doregex[get-ip]/live playpath=mtvax?id=84773&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/mtvax/1/650/500</link>
-<regex>
-#EXTINF:0,<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-#EXTINF:0,<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-#EXTINF:0,<regex>
-<name>get-pk</name>
-#EXTINF:0,<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/mtvax/1/650/500</page>
-#EXTINF:0,<referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://s20.postimg.org/9esouo30d/mtv_us.png</thumbnail>
-#EXTINF:0,</regex>
-</item>
-#EXTINF:0,<item> 
-<title>[COLOR blue] [I] NAT GEO [/I] [/COLOR]</title>
-#EXTINF:0,<link>rtmp://$doregex[get-ip]/live playpath=natgeoax?id=84757&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/natgeoax/1/650/500</link>
-<regex>
-#EXTINF:0,<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-#EXTINF:0,<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-#EXTINF:0,<regex>
-<name>get-pk</name>
-#EXTINF:0,<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/natgeoax/1/650/500</page>
-#EXTINF:0,<referer>http://www.embeducaster.com/</referer>
-<thumbnail>https://yt3.ggpht.com/-2tol5SGixqs/AAAAAAAAAAI/AAAAAAAAAAA/gI_3L64uED0/s900-c-k-no/photo.jpg</thumbnail>
-#EXTINF:0,</regex>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I] DISCOVERY [/I] [/COLOR]</title>
-#EXTINF:0,<link>rtmp://$doregex[get-ip]/live playpath=discoveryx?id=84775&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/discoveryx/1/650/500</link>
-<regex>
-#EXTINF:0,<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-#EXTINF:0,<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-#EXTINF:0,<regex>
-<name>get-pk</name>
-#EXTINF:0,<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/discoveryx/1/650/500</page>
-#EXTINF:0,<referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://s20.postimg.org/8u92e8ke5/discovery_pt.png</thumbnail>
-#EXTINF:0,</regex>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I] HISTÓRIA [/I] [/COLOR]</title>
-#EXTINF:0,<link>rtmp://$doregex[get-ip]/stream playpath=historiab?id=21918$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
-<regex>
-#EXTINF:0,<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-#EXTINF:0,<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
-</regex>
-#EXTINF:0,<regex>
-<name>pk</name>
-#EXTINF:0,<expres>ea=(.*)'</expres>
-<page>http://www.liveflashplayer.net/embedplayer/historiab/1/650/500</page>
-#EXTINF:0,<referer>http://www.liveflashplayer.net</referer>
-<thumbnail>http://s20.postimg.org/j9ju0w6yl/historia.png</thumbnail>
-#EXTINF:0,</regex>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I] ODISSEIA [/I] [/COLOR] [COLOR red] [/COLOR]</title>
-#EXTINF:0,<link>rtmp://$doregex[get-ip]/live playpath=odisseiax?id=84765&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/odisseiax/1/650/500</link>
-<regex>
-#EXTINF:0,<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-#EXTINF:0,<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-#EXTINF:0,<regex>
-<name>get-pk</name>
-#EXTINF:0,<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/odisseiax/1/650/500</page>
-#EXTINF:0,<referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/uspyqq1436893244.png/medium</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] EURONEWS [/I] [/COLOR]</title>
-<link>rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp</link>
-#EXTINF:0,<thumbnail>http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png/medium</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I] ECONÓMICO TV [/I] [/COLOR]</title>
-#EXTINF:0,<link>http://213.13.26.41:1935/live/etv_direto/playlist.m3u8</link>
-<thumbnail>http://s20.postimg.org/45t2j1v7h/etv_pt.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] CANAL PARLAMENTO [/I] [/COLOR]</title>
-<link>rtsp://www.canal.parlamento.pt/Live</link>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/ctxu7ihbx/canalparl_grande.jpg</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I] CAPELINHA FÁTIMA [/I] [/COLOR]</title>
-#EXTINF:0,<link>http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8</link>
-<thumbnail>http://s20.postimg.org/406xqeud9/capelinha1_54b4541111391.jpg</thumbnail>  
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] TV GLOBO [/I] [/COLOR] [COLOR white] BRASIL[/COLOR]</title>
-<link>$doregex[getM3U8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</link>
-#EXTINF:0,<regex>
-<name>getM3U8</name>
-#EXTINF:0,<expres>source: '(.*?)'</expres>
-<page>http://pxstream.tv/embed.php?file=$doregex[getFileName]&amp;jwplayer=mpegdash</page>
-#EXTINF:0,<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
-<page>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</page>
-#EXTINF:0,</regex>
-<regex>
-#EXTINF:0,<name>getFileName</name>
-<expres>file='(.*?)'.*width='600</expres>
-#EXTINF:0,<page>http://ekostreams.co/ch/bobo.php?width=600&amp;height=384</page>
-<page>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</page>
-#EXTINF:0,<thumbnail>http://vignette2.wikia.nocookie.net/rede-globo-logopedia-2/images/e/e6/Globo-Network-Logo-(2008).png/revision/latest?cb=20140407190646</thumbnail>
-</regex>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] TV RECORD [/I] [/COLOR] [COLOR white] BRASIL[/COLOR]</title>
-<link>$doregex[get-m3u8]|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</link>
-#EXTINF:0,<regex>
-<name>get-m3u8</name>
-#EXTINF:0,<expres>source: '(.*?)'</expres>
-<page>http://pxstream.tv/embed.php?file=record</page>
-#EXTINF:0,<referer>http://ekostreams.co/ch/record.php?width=600&height=384</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/xrpwsp1436890926.png/medium</thumbnail>
-#EXTINF:0,</regex>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I] BAND [/I] [/COLOR] [COLOR white] BRASIL[/COLOR]</title>
-#EXTINF:0,<link>rtmp://187.18.187.5/livepkgr playpath=nordestv3 swfUrl= live=1 pageUrl=?ChannelsON</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/wpupqw1437611744.png/medium</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] REDE TV [/I] [/COLOR] [COLOR white] BRASIL[/COLOR]</title>
-<link>rtmp://evp.mm.uol.com.br/redetv1/_definst_//redetv1</link>
-#EXTINF:0,<thumbnail>http://img4.wikia.nocookie.net/__cb20110305125842/logopedia/images/e/ec/RedeTV!.png</thumbnail>
-</item>
-#EXTINF:0,<channel>              
-<name>[COLOR green] [I]PT SPORTS[/I][/COLOR]</name>
-#EXTINF:0,<thumbnail>http://41.media.tumblr.com/tumblr_m90uvzGVpK1rbv2ubo1_1280.jpg</thumbnail>
-<fanart>http://noticias.portalvox.com/wp-content/uploads/sites/5/2014/11/Cristiano-Ronaldo-Portugak.jpg</fanart>
-#EXTINF:0,</subitem>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]SPORT TV 1[/I] [/COLOR]</title>
-#EXTINF:0,<link>rtmp://$doregex[get-ip]/live playpath=pissudo?id=86251&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/pissudo/1/599/399</link>
-<regex>
-#EXTINF:0,<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-#EXTINF:0,<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-#EXTINF:0,<regex>
-<name>get-pk</name>
-#EXTINF:0,<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/pissudo/1/599/399</page>
-#EXTINF:0,<referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
-#EXTINF:0,</regex>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]SPORT TV 1[/I] [/COLOR] </title>
-#EXTINF:0,<link>rtmp://$doregex[get-ip]/live/ playpath=sp1abc?id=25649$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/embedplayer/sp1abc/1/650/500 live=true timeout=10</link>
-<regex>
-#EXTINF:0,<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-#EXTINF:0,<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
-</regex>
-#EXTINF:0,<regex>
-<name>pk</name>
-#EXTINF:0,<expres>ea=(.*)'</expres>
-<page>http://www.embedezcast.com/embedplayer/sp1abc/1/650/500</page>
-#EXTINF:0,<referer>http://www.embedezcast.com</referer>
-<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
-#EXTINF:0,</regex>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]SPORT TV 1[/I] [/COLOR]</title>
-#EXTINF:0,<sportsdevil>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</sportsdevil>
-<referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
-</item>
-#EXTINF:0,<item> 
-<title>[COLOR blue] [I]SPORT TV 1[/I] [/COLOR]</title>
-#EXTINF:0,<sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil>
-<referer>http://cdn2.zuuk.org/</referer>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]SPORT TV 1 [/I] [/COLOR] </title>
-#EXTINF:0,<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv</sportsdevil>
-<referer>http://www.sportvdireto.online/</referer>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]SPORT TV 1[/I] [/COLOR] [COLOR red] OFF[/COLOR]</title>
-#EXTINF:0,<link>$doregex[getM3U8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</link>
-<regex>
-#EXTINF:0,<name>getM3U8</name>
-<expres>source: '(.*?)'</expres>
-#EXTINF:0,<page>http://pxstream.tv/embed.php?file=$doregex[getFileName]&amp;jwplayer=flash</page>
-<referer>http://antena.mytvfree2.me/sportiva.php?id=23476</referer>
-#EXTINF:0,<page>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</page>
-</regex>
-#EXTINF:0,<regex>
-<name>getFileName</name>
-#EXTINF:0,<expres>file='(.*?)'</expres>
-<page>http://antena.mytvfree2.me/sportiva.php?id=23476</page>
-#EXTINF:0,<page>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</page>
-<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
-#EXTINF:0,</regex>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]SPORT TV 2[/I] [/COLOR]</title>
-#EXTINF:0,<link>rtmp://$doregex[get-ip]/live playpath=sp2101?id=85935&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sp2101/1/599/399</link>
-<regex>
-#EXTINF:0,<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-#EXTINF:0,<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-#EXTINF:0,<regex>
-<name>get-pk</name>
-#EXTINF:0,<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/caralhon/1/599/399</page>
-#EXTINF:0,<referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
-#EXTINF:0,</regex>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SPORT TV 2[/I] [/COLOR]</title>
-<sportsdevil>http://www.idimsports.eu/watch/408917/2/watch-xonetv.html</sportsdevil>
-#EXTINF:0,<referer>http://www.idimsports.eu/watch/408917/2/watch-xonetv.html</referer>
-<thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SPORT TV 2[/I] [/COLOR]</title>
-<link>rtmp://94.176.148.211:443/liveedge/ playpath=channel45OoJ swfUrl=http://www.turbocast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.turbocast.tv/megatvhd.php?ch=channel45OoJ</link>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]SPORT TV 2 [/I] [/COLOR]</title>
-#EXTINF:0,<sportsdevil>http://cdn2.zuuk.org/sporttv2.php?width=599&height=399</sportsdevil>
-<referer>http://cdn2.zuuk.org/</referer>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]SPORT TV 2 [/I] [/COLOR] </title>
-#EXTINF:0,<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv2</sportsdevil>
-<referer>http://www.sportvdireto.online/</referer>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]SPORT TV 2[/I] [/COLOR] [COLOR red] OFF[/COLOR]</title>
-#EXTINF:0,<link>rtmp://$doregex[get-ip]/stream playpath=nflaziados?id=242714$doregex[pk] conn=S:OK swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf pageUrl=http://www.mipsplayer.com/ live=true timeout=10</link>
-<regex>
-#EXTINF:0,<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-#EXTINF:0,<page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
-</regex>
-#EXTINF:0,<regex>
-<name>pk</name>
-#EXTINF:0,<expres>ea=(.*)'</expres>
-<page>http://www.mipsplayer.com/embedplayer/nflaziados/1/680/460</page>
-#EXTINF:0,<referer>http://www.mips.tv</referer>
-<thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
-#EXTINF:0,</regex>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SPORT TV 3[/I] [/COLOR]</title>
-<sportsdevil>http://www.idimsports.eu/watch/408917/3/watch-xonetv.html</sportsdevil>
-#EXTINF:0,<referer>http://www.idimsports.eu/watch/408917/3/watch-xonetv.html</referer>
-<thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SPORT TV 3[/I] [/COLOR]</title>
-<sportsdevil>http://www.thefeed2all.eu/watch/408917/3/watch-xonetv.html</sportsdevil>
-#EXTINF:0,<referer>http://www.thefeed2all.eu/watch/408917/3/watch-xonetv.html</referer>
-<thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SPORT TV 3 [/I] [/COLOR]</title>
-<sportsdevil>http://cdn2.zuuk.org/sporttv3.php</sportsdevil>
-#EXTINF:0,<referer>http://cdn2.zuuk.org/</referer>
-<thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SPORT TV 3 [/I] [/COLOR][COLOR red] OFF[/COLOR]</title>
-<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv3</sportsdevil>
-#EXTINF:0,<referer>http://www.sportvdireto.online/</referer>
-<thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SPORT TV 4[/I] [/COLOR]</title>
-<sportsdevil>http://www.thefeed2all.eu/watch/408917/4/watch-xonetv.html</sportsdevil>
-#EXTINF:0,<referer>http://www.thefeed2all.eu/watch/408917/4/watch-xonetv.html</referer>
-<thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SPORT TV 4 [/I] [/COLOR]</title>
-<sportsdevil>http://cdn2.zuuk.org/sporttv4.php</sportsdevil>
-#EXTINF:0,<referer>http://cdn2.zuuk.org/</referer>
-<thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SPORT TV 4 [/I] [/COLOR]</title
-<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv4</sportsdevil>
-#EXTINF:0,<referer>http://www.sportvdireto.online/</referer>
-<thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SPORT TV 4 [/I] [/COLOR]</title
-<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv4-2</sportsdevil>
-#EXTINF:0,<referer>http://www.sportvdireto.online/</referer>
-<thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SPORT TV 5[/I] [/COLOR]</title>
-<sportsdevil>http://www.idimsports.eu/watch/408917/5/watch-xonetv.html</sportsdevil>
-#EXTINF:0,<referer>http://www.idimsports.eu/watch/408917/5/watch-xonetv.html</referer>
-<thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SPORT TV 5 [/I] [/COLOR] [COLOR red] OFF[/COLOR]</title>
-<sportsdevil>http://cdn2.zuuk.org/sporttv5.php</sportsdevil>
-#EXTINF:0,<referer>http://cdn2.zuuk.org/</referer>
-<thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SPORT TV 5 [/I] [/COLOR] [COLOR red] OFF[/COLOR]</title>
-<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv5</sportsdevil>
-#EXTINF:0,<referer>http://www.sportvdireto.online/</referer>
-<thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]BENFICA TV 1[/I] [/COLOR]</title>
-<link>rtmp://94.176.148.211:443/liveedge/ playpath=channel5Rea swfUrl=http://www.turbocast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.turbocast.tv/megatvhd.php?ch=channel5Rea</link>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]BENFICA TV 1[/I] [/COLOR]</title>
-#EXTINF:0,<link>rtmp://$doregex[get-ip]/live playpath=caralhof?id=85529&amp;pk=$doregex[get-pk] timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/caralhof/1/650/500</link>
-<regex>
-#EXTINF:0,<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-#EXTINF:0,<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-#EXTINF:0,<regex>
-<name>get-pk</name>
-#EXTINF:0,<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/caralhof/1/650/500</page>
-#EXTINF:0,<referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
-#EXTINF:0,</regex>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]BENFICA TV 1[/I] [/COLOR]</title>
-#EXTINF:0,<sportsdevil>http://antena.mytvfree2.me/btv1.php</sportsdevil>
-<referer>http://mytvfree.me/ver/benfica-tv-direto</referer>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]BENFICA TV 1[/I] [/COLOR]</title>
-#EXTINF:0,<sportsdevil>http://reformadostv.comunidades.net/index.php</sportsdevil>
-<referer>http://www.tvportugalhd.eu/</referer>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
-</item>
-#EXTINF:0,<item> 
-<title>[COLOR blue] [I]BENFICA TV 1[/I] [/COLOR]</title>
-#EXTINF:0,<sportsdevil>http://www.desportonline.com/index.php?canal=benficatv</sportsdevil>
-<referer>http://www.sportvdireto.online/</referer>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
-</item>
-#EXTINF:0,<item> 
-<title>[COLOR blue] [I]BENFICA TV 1[/I] [/COLOR]</title>
-#EXTINF:0,<sportsdevil>http://www.thefeed2all.eu/watch/408917/6/watch-xonetv.html</sportsdevil>
-<referer>http://www.thefeed2all.eu/watch/408917/6/watch-xonetv.html</referer>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]BENFICA TV 1[/I] [/COLOR]</title>
-#EXTINF:0,<sportsdevil>http://cdn2.zuuk.org/benficatv.php</sportsdevil>
-<referer>http://cdn2.zuuk.org/</referer>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
-</item>
-#EXTINF:0,<item> 
-<title>[COLOR blue] [I]BENFICA TV 1[/I] [/COLOR] [COLOR red] OFF[/COLOR]</title>
-#EXTINF:0,<link>rtmp://$doregex[get-ip]/live/ playpath=slbyeuch?id=21599$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/slbyeuch/1/555/435 live=true</link>
-<regex>
-#EXTINF:0,<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-#EXTINF:0,<page>http://www.streamifypublisher.com:1935/loadbalancer</page>
-</regex>
-#EXTINF:0,<regex>
-<name>pk</name>
-#EXTINF:0,<expres>ea=(.*)'</expres>
-<page>http://www.streamifyplayer.com/embedplayer/slbyeuch/1/555/435</page>
-#EXTINF:0,<referer>http://www.streamifyplayer.com</referer>
-<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]BENFICA TV 2[/I] [/COLOR] </title>
-<link>rtmp://$doregex[get-ip]/live/ playpath=caralhob?id=24820$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/embedplayer/caralhob/1/650/500 live=true timeout=10</link>
-#EXTINF:0,<regex>
-<name>get-ip</name>
-#EXTINF:0,<expres>redirect=(.*)</expres>
-<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
-#EXTINF:0,</regex>
-<regex>
-#EXTINF:0,<name>pk</name>
-<expres>ea=(.*)'</expres>
-#EXTINF:0,<page>http://www.embedezcast.com/embedplayer/caralhob/1/650/500</page>
-<referer>http://www.embedezcast.com</referer>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/u2u3hnhvh/btv2_ver1.png</thumbnail>
-</regex>
-#EXTINF:0,</item>
-<item> 
-#EXTINF:0,<title>[COLOR blue] [I]BENFICA TV 2[/I] [/COLOR]</title>
-<sportsdevil>http://www.desportonline.com/index.php?canal=benficatv</sportsdevil>
-#EXTINF:0,<referer>http://www.sportvdireto.online/</referer>
-<thumbnail>http://s20.postimg.org/eve3xaq0t/btv2_ver1.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]BENFICA TV 2[/I] [/COLOR]</title>
-<sportsdevil>http://www.thefeed2all.eu/watch/408917/7/watch-xonetv.html</sportsdevil>
-#EXTINF:0,<referer>http://www.thefeed2all.eu/watch/408917/7/watch-xonetv.html</referer>
-<thumbnail>http://s20.postimg.org/u2u3hnhvh/btv2_ver1.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]BENFICA TV 2[/I] [/COLOR]</title>
-<sportsdevil>http://cdn2.zuuk.org/benficatv_2.php</sportsdevil>
-#EXTINF:0,<referer>http://cdn2.zuuk.org/</referer>
-<thumbnail>http://s20.postimg.org/u2u3hnhvh/btv2_ver1.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SPORTING TV  [/I] [/COLOR]</title> 
-<link>rtmp://$doregex[get-ip]/live/ playpath=sportyaza?id=21983$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf live=true pageUrl=http://www.streamifyplayer.com/embedplayer/sportyaza/1/555/430</link>
-#EXTINF:0,<regex>
-<name>get-ip</name>
-#EXTINF:0,<expres>redirect=(.*)</expres>
-<page>http://www.streamifypublisher.com:1935/loadbalancer</page>
-#EXTINF:0,</regex>
-<regex>
-#EXTINF:0,<name>pk</name>
-<expres>ea=(.*)'</expres>
-#EXTINF:0,<page>http://www.streamifyplayer.com/embedplayer/sportyaza/1/555/430</page>
-<referer>http://www.streamifyplayer.com</referer>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/j0p0j7nst/sporting_tv_pt.png</thumbnail> 
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]EUROSPORT [/I] [/COLOR]</title>
-#EXTINF:0,<link>rtmp://$doregex[get-ip]/live/ playpath=eurosport0x?id=24421$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/embedplayer/eurosport0x/1/650/500 live=true timeout=10</link>
-<regex>
-#EXTINF:0,<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-#EXTINF:0,<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
-</regex>
-#EXTINF:0,<regex>
-<name>pk</name>
-#EXTINF:0,<expres>ea=(.*)'</expres>
-<page>http://www.embedezcast.com/embedplayer/eurosport0x/1/650/500</page>
-#EXTINF:0,<referer>http://www.embedezcast.com</referer>
-<thumbnail>http://www.telezones.com/wp-content/uploads/2015/03/Eurosport-HD-Live-Telezones1.png</thumbnail>
-#EXTINF:0,</regex>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]EUROSPORT [/I] [/COLOR]</title>
-#EXTINF:0,<link>http://c.securestreaming.xyz:1935/live/euro1b50R2/playlist.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzIwNjI2MiZoYXNoX3ZhbHVlPTZmYTlmMjBhODQyNjE1YmZlOWNlZDY0YTY5Nzg2ZjU0JnZhbGlkbWludXRlcz0zMCZpcD1ERSY=</link>
-<thumbnail>http://www.telezones.com/wp-content/uploads/2015/03/Eurosport-HD-Live-Telezones1.png</thumbnail>
-#EXTINF:0,</item>
-<channel>
-#EXTINF:0,<name>[COLOR green] [I]WORLD SPORTS[/I] [/COLOR]</name>
-<thumbnail>http://www.dream-box.tv/_Media/Images/ProjectBlock/Works/Logos/SportsZone/Big5.jpg</thumbnail>
-#EXTINF:0,<fanart>http://2.bp.blogspot.com/-Sgy4vshwbig/TnFSM1ZbMAI/AAAAAAAAABQ/HlY30S3q5LI/s1600/fotografia.JPG</fanart>
-</subitem>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]DIMSPORTS[/I] [/COLOR] [COLOR green] LIVE SPORTS [/COLOR]</title>
-<link>ignorme</link>
-#EXTINF:0,<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
-<thumbnail></thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]LIVE FOOTBALL VIDEO[/I] [/COLOR] [COLOR green] LIVE SPORTS [/COLOR]</title>
-<link>ignorme</link>
-#EXTINF:0,<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/livefootballvideo.com.cfg&amp;mode=1</jsonrpc>
-<thumbnail>https://pbs.twimg.com/profile_images/3162217818/2ee4b2f728ef9867d4e1d86e17bb2ef5.jpeg</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]ROJA DIRECTA[/I] [/COLOR] [COLOR green] LIVE SPORTS [/COLOR]</title>
-<link>ignorme</link>
-#EXTINF:0,<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/dimsports.eu.cfg&amp;mode=1</jsonrpc>
-<thumbnail>https://pbs.twimg.com/profile_images/2106839637/logorojadirecta_400x400.jpg</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]TV DIRETO[/I] [/COLOR] [COLOR green] WORLD TV [/COLOR]</title>
-<link>ignorme</link>
-#EXTINF:0,<jsonrpc>plugin://plugin.video.direto/?item=url=https://dl.dropboxusercontent.com/s/nas88bq6anx5wce/sports.plx?dl=0&amp;mode=1</jsonrpc>
-<thumbnail>https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/plugin.video.direto/icon.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]BEIN 1  FR[/COLOR][/I] [COLOR red] [I] MAMAHD [/I][/COLOR]</title>
-<sportsdevil>http://mamahd.com/watch-bein-1-france-live-stream-1.html</sportsdevil>
-#EXTINF:0,<referer>http://mamahd.com</referer>
-<thumbnail>http://www.beinsports.fr/di/library/bein/4b/92/logo-bein-sports-1-hd_6tt6szp2b0ag1dscy6cxln08t.jpg?t=-724511221</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]BEIN 2  FR[/COLOR][/I] [COLOR red] [I] MAMAHD [/I][/COLOR]</title>
-<sportsdevil>http://mamahd.com/watch-bein-2-france-live-stream-1.html</sportsdevil>
-#EXTINF:0,<referer>http://mamahd.com</referer>
-<thumbnail>http://blog.lenodal.com/uploads/actualitedelhabillage/2012/beinsport-2012_logo_chaine2.jpg</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]BEIN US[/COLOR][/I] </title>
-<link></link>
-#EXTINF:0,<thumbnail>http://www.beinsports.fr/di/library/bein/4b/92/logo-bein-sports-1-hd_6tt6szp2b0ag1dscy6cxln08t.jpg</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]BOXNATION[/I] [/COLOR] [COLOR red] [I] MAMAHD [/I][/COLOR]</title>
-#EXTINF:0,<sportsdevil>http://mamahd.com/watch-box-nation-live-streaming-free-online-1.html</sportsdevil>
-<referer>http://mamahd.com</referer>
-#EXTINF:0,<thumbnail>http://www.paywizard.com/sites/default/files/boxnation.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]BOXNATION[/COLOR][/I] </title>
-#EXTINF:0,<link></link>
-<thumbnail>https://lh3.googleusercontent.com/-jZmOqSwCj0U/AAAAAAAAAAI/AAAAAAAAAQ4/SDyiqralFdE/s120-c/photo.jpg</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]BT SPORT 1[/I] [/COLOR] [COLOR red] [I] MAMAHD [/I][/COLOR]</title>
-<sportsdevil>http://mamahd.com/watch-bt-sport-1-live-streaming-1.html</sportsdevil>
-#EXTINF:0,<referer>http://mamahd.com</referer>
-<thumbnail>http://www.premierleague.com/content/premierleague/en-gb/commercial/bt-sport/_jcr_content/bodypsys/image.img.png/1369990888755.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]BT SPORT 2[/I] [/COLOR] [COLOR red] [I] MAMAHD [/I][/COLOR]</title>
-<sportsdevil>http://mamahd.com/watch-bt-sport-2-live-stream-1.html</sportsdevil>
-#EXTINF:0,<referer>http://mamahd.com</referer>
-<thumbnail>http://www.premierleague.com/content/premierleague/en-gb/commercial/bt-sport/_jcr_content/bodypsys/image.img.png/1369990888755.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]BT SPORT 1[/COLOR][/I] </title>
-<sportsdevil>http://ibrod.tv/btsports1.html</sportsdevil>
-#EXTINF:0,<referer>http://ibrod.tv/btsports1.html</referer>
-<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]BT SPORT 2[/COLOR][/I] </title>
-<sportsdevil>http://ibrod.tv/btsports2.html</sportsdevil>
-#EXTINF:0,<referer>http://ibrod.tv/btsports2.html</referer>
-<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]BT SPORT 2[/COLOR][/I] </title>
-<link>rtmp://185.63.255.60:80/live playpath=b2t swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://rocktv.co/embedx.php?live=b2t&vw=736&vh=438 live=1 token=%Zrey(nKa@#Z</link>
-#EXTINF:0,<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]BT SPORT ESPN[/COLOR][/I] </title>
-#EXTINF:0,<link></link>
-<thumbnail>http://mediaportal-uk-logos.googlecode.com/svn/trunk/TV/Simple/BT%20Sport%20ESPN%20HD.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]BT SPORT ESPN[/COLOR][/I] [COLOR red] [I] MAMAHD [/I][/COLOR]</title>
-<sportsdevil>http://mamahd.com/watch-espn-uk-live-stream-1.html</sportsdevil
-#EXTINF:0,<referer>http://mamahd.com</referer>
-<thumbnail>http://mediaportal-uk-logos.googlecode.com/svn/trunk/TV/Simple/BT%20Sport%20ESPN%20HD.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]BT SPORT EUROPE[/COLOR][/I] </title>
-<sportsdevil>http://hdfree.tv/watch/32/bt-sport-europe-live-stream.html</sportsdevil>
-#EXTINF:0,<referer>http://hdfree.tv/tvlogos.html</referer>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bt_sport_europe_uk.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]CHELSEA TV[/COLOR][/I] </title>
-<sportsdevil>http://sports4u.tv/channel/chelsea-tv-live-stream/</sportsdevil>
-#EXTINF:0,<referer>http://sports4u.tv/</referer>
-<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2011/09/Chelsea-TV-Logo.jpg</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]DIGI SPORT 1[/COLOR][/I] </title>
-<link>http://85.25.43.23:8080/hls/volex_02.m3u8</link>
-#EXTINF:0,<thumbnail>http://1.bp.blogspot.com/-N8HUnx1PvIY/Vm1aNXKgbdI/AAAAAAAAC74/av34pdT_S7k/s1600/digi_sport_cz.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]DIGI SPORT 2[/COLOR][/I] </title>
-#EXTINF:0,<link>http://85.25.43.23:8080/hls/volex_03.m3u8</link>
-<thumbnail>http://3.bp.blogspot.com/-fHcOkR_AfA0/Vk9pEAJZGvI/AAAAAAAAAoc/pyhfJm-xTYM/s1600/digi_sport2.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]EUROSPORT 1[/COLOR][/I] </title>
-<sportsdevil>http://ibrod.tv/eurosports1.html</sportsdevil>
-#EXTINF:0,<referer>http://ibrod.tv/eurosports1.html</referer>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]EUROSPORT 1[/COLOR][/I] </title>
-<link>http://85.25.43.23:8080/hls/volex_04.m3u8</link>
-#EXTINF:0,<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]EUROSPORT 2[/COLOR][/I] </title>
-#EXTINF:0,<sportsdevil>http://ibrod.tv/eurosports2.html</sportsdevil>
-<referer>http://ibrod.tv/eurosports2.html</referer>
-#EXTINF:0,<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/british_eurosport_2.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]EUROSPORT 2[/COLOR][/I] </title>
-#EXTINF:0,<link></link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/british_eurosport_2.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]FOOTBALL REPORT[/COLOR][/I] </title>
-<link>http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist.m3u8</link>
-#EXTINF:0,<thumbnail>http://www.iptvlinksss.com/wp-content/uploads/2015/12/football-report-fubo-tv-America-logo-design-26.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]FOX SPORTS 1[/COLOR][/I] </title>
-#EXTINF:0,<link>rtmp://31.220.2.149:80/live playpath=fox1ree swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=fox1ree&vw=620&vh=490 token=%Zrey(nKa@#Z</link>
-<thumbnail>http://img4.wikia.nocookie.net/__cb20140414164158/logopedia/images/6/6f/Logo_fox_sports.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]LFCTV[/COLOR][/I] </title>
-<link></link>
-#EXTINF:0,<thumbnail>http://www.empireofthekop.com/anfield/wp-content/uploads/2011/02/liverpool-fc-wallpapers-ynwa.jpg</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]LFCTV[/COLOR][/I] </title>
-#EXTINF:0,<link></link>
-<thumbnail> </thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]MOTORS TV[/COLOR][/I] </title>
-<link>rtmp://31.220.2.149:80/live playpath=motors swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=motors&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
-#EXTINF:0,<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]MOTORS TV[/COLOR][/I] </title>
-#EXTINF:0,<link></link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR=blue] [I]MUTV [/I] [/COLOR]</title>
-<sportsdevil>http://www.thefeed2all.eu/watch/408917/9/watch-xonetv.html</sportsdevil>
-#EXTINF:0,<referer>http://www.thefeed2all.eu/watch/408917/9/watch-xonetv.html</referer>
-<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/MUTV.jpg</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]NBCSN[/COLOR][/I] </title>
-<sportsdevil>http://www.shadow-net.me/channels/NBC-Sports-Netw..html</sportsdevil>
-#EXTINF:0,<referer>http://www.shadow-net.me/channels/NBC-Sports-Netw..html</referer>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2014/01/nbcsn-logo-600x401.jpg</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]NBCSN[/COLOR][/I] </title>
-<sportsdevil>http://hdfree.tv/nbc-sports-live-stream.html</sportsdevil>
-#EXTINF:0,<referer>http://hdfree.tv/tvlogos.html</referer>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2014/01/nbcsn-logo-600x401.jpg</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]NBCSN GOLF[/COLOR][/I] </title>
-<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
-#EXTINF:0,<thumbnail>http://www.underconsideration.com/brandnew/archives/golf_channel_logo_detail.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]POKER CENTRAL[/COLOR][/I] </title>
-#EXTINF:0,<link>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8</link>
-<thumbnail>http://channelpear.com/images/media/9997.jpg</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]PREMIER SPORTS[/COLOR][/I] </title>
-<sportsdevil>http://ibrod.tv/premier.html</sportsdevil>
-#EXTINF:0,<referer>http://ibrod.tv/premier.html</referer>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/premier_sports.png </thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]PREMIER SPORTS[/COLOR][/I] </title>
-<link>rtmp://31.220.2.149:80/live playpath=premier swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=premier&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
-#EXTINF:0,<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/premier_sports.png </thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]RACING UK[/COLOR][/I] </title>
-#EXTINF:0,<link></link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/racing_uk.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]REAL MADRID TV[/COLOR][/I] </title>
-<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on</link>
-#EXTINF:0,<thumbnail>http://www.imaginaus.com/wp-content/uploads/2014/02/real-madrid.jpg</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]SETANTA[/COLOR][/I] </title>
-#EXTINF:0,<link></link>
-<thumbnail>http://www.ettu.org/images/newsarchive/images/original/9d87bss_741d5_f_666x375.jpg </thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SETANTA IRELAND[/COLOR][/I] </title>
-<sportsdevil>http://www.shadow-net.me/channels/Setanta-Ireland.html</sportsdevil>
-#EXTINF:0,<referer>http://www.shadow-net.me/channels/Setanta-Ireland.html</referer>
-<thumbnail>http://www.ettu.org/images/newsarchive/images/original/9d87bss_741d5_f_666x375.jpg </thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SKY BUNDESLIGA[/COLOR][/I] </title>
-<sportsdevil>http://www.shadow-net.me/channels/Sky-Bundesliga-1.html</sportsdevil>
-#EXTINF:0,<referer>http://www.shadow-net.me/channels/Sky-Bundesliga-1.html</referer>
-<thumbnail>https://www.teleclub.ch/sky/uploads/media_items/sky-news-280613.786.180.s.jpg</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SKY BUNDESLIGA[/COLOR][/I] [COLOR red] [I] MAMAHD [/I][/COLOR]</title>
-<sportsdevil>http://mamahd.com/watch-sky-bundesliga-1-live-stream-1.html</sportsdevil>
-#EXTINF:0,<referer>http://mamahd.com</referer>
-<thumbnail>https://www.teleclub.ch/sky/uploads/media_items/sky-news-280613.786.180.s.jpg</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SKY CALCIO[/COLOR][/I] [COLOR red] [I] MAMAHD [/I][/COLOR]</title>
-<sportsdevil>http://mamahd.com/sky-calcio-1-live-stream-1.html</sportsdevil>
-#EXTINF:0,<referer>http://mamahd.com</referer>
-<thumbnail>http://www.themoodboard.com/wp-content/uploads/2013/08/MIN_SC2013.jpg</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SKY SPORTS 1[/I] [/COLOR] [COLOR red] [I] MAMAHD [/I][/COLOR]</title>
-<sportsdevil>http://mamahd.com/watch-sky-sports-1-live-stream-1.html</sportsdevil>
-#EXTINF:0,<referer>http://mamahd.com</referer>
-<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-1-Logo.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SKY SPORTS 2[/I] [/COLOR] [COLOR red] [I] MAMAHD [/I][/COLOR]</title>
-<sportsdevil>http://mamahd.com/watch-sky-sports-2-live-streaming-free-1.html</sportsdevil>
-#EXTINF:0,<referer>http://mamahd.com</referer>
-<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-2-Logo.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SKY SPORTS 3[/I] [/COLOR] [COLOR red] [I] MAMAHD [/I][/COLOR]</title>
-<sportsdevil>http://mamahd.com/watch-sky-sports-3-live-stream-1.html</sportsdevil>
-#EXTINF:0,<referer>http://mamahd.com</referer>
-<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SKY SPORTS 4[/I] [/COLOR] [COLOR red] [I] MAMAHD [/I][/COLOR]</title>
-<sportsdevil>http://mamahd.com/watch-sky-sports-4-live-stream-1.html</sportsdevil>
-#EXTINF:0,<referer>http://mamahd.com</referer>
-<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-4-Logo.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SKY SPORTS 5[/I] [/COLOR] [COLOR red] [I] MAMAHD [/I][/COLOR]</title>
-<sportsdevil>http://mamahd.com/watch-sky-sports-5-live-stream-1.html</sportsdevil>
-#EXTINF:0,<referer>http://mamahd.com</referer>
-<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-5-Logo.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SKY SPORTS F1[/I] [/COLOR] [COLOR red] [I] MAMAHD [/I][/COLOR]</title>
-<sportsdevil>http://mamahd.com/watch-sky-sports-formula-1-live-stream-1.html</sportsdevil>
-#EXTINF:0,<referer>http://mamahd.com</referer>
-<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-F1-Logo.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SKY SPORTS 1[/I] [/COLOR] [COLOR red] [I] IBROD [/I][/COLOR]</title>
-<sportsdevil>http://ibrod.tv/skysports1.html</sportsdevil>
-#EXTINF:0,<referer>http://ibrod.tv/skysports1.html</referer>
-<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-1-Logo.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SKY SPORTS 2[/I] [/COLOR] [COLOR red] [I] IBROD [/I][/COLOR]</title>
-<sportsdevil>http://ibrod.tv/skysports2.html</sportsdevil>
-#EXTINF:0,<referer>http://ibrod.tv/skysports2.html</referer>
-<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-2-Logo.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SKY SPORTS 3[/I] [/COLOR] [COLOR red] [I] IBROD [/I][/COLOR]</title>
-<sportsdevil>http://ibrod.tv/skysports3.html</sportsdevil>
-#EXTINF:0,<referer>http://ibrod.tv/skysports3.html</referer>
-<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SKY SPORTS 4[/I] [/COLOR] [COLOR red] [I] IBROD [/I][/COLOR]</title>
-<sportsdevil>http://ibrod.tv/skysports4.html</sportsdevil>
-#EXTINF:0,<referer>http://ibrod.tv/skysports4.html</referer>
-<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-4-Logo.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SKY SPORTS 5[/I] [/COLOR] [COLOR red] [I] IBROD [/I][/COLOR]</title>
-<sportsdevil>http://ibrod.tv/skysports5.html</sportsdevil>
-#EXTINF:0,<referer>http://ibrod.tv/skysports5.html</referer>
-<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-5-Logo.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] [/COLOR][/I] </title>
-<sportsdevil></sportsdevil>
-#EXTINF:0,<referer></referer>
-<thumbnail></thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SPORTSNET ONE[/I] [/COLOR]</title>
-<link>rtmp://185.63.255.18:80/live playpath=sprt1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=sprt1&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
-#EXTINF:0,<thumbnail>http://img4.wikia.nocookie.net/__cb20140410170629/logopedia/images/4/41/Snone-1-.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]SPORTSNET ONE[/I] [/COLOR]</title>
-#EXTINF:0,<sportsdevil></sportsdevil>
-<referer></referer>
-#EXTINF:0,<thumbnail>http://img4.wikia.nocookie.net/__cb20140410170629/logopedia/images/4/41/Snone-1-.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]SPORTSNET ONTARIO[/I] [/COLOR]</title>
-#EXTINF:0,<link>rtmp://185.63.255.60:80/live playpath=ontrio swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://yotv.co/embedu.php?live=ontrio&vw=620&vh=490 token=%Zrey(nKa@#Z timeout=13</link>
-<thumbnail>http://metalkettle.co/logos/logos1/Sportsnet%20Ontario.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]SPORTSNET WORLD[/I] [/COLOR]</title>
-<sportsdevil>http://www.shadownet.me/channels/Sportsnet-World.html</sportsdevil>
-#EXTINF:0,<referer>http://www.sdw-net.co</referer>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Sportsnet_World_HD_logo.PNG/800px-Sportsnet_World_HD_logo.PNG</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I]TSN 1[/I] [/COLOR]</title>
-<link>rtmp://185.63.255.18:80/live playpath=ts1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=ts1&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
-#EXTINF:0,<thumbnail>http://www.nwtel.ca/media/channel-logos/tsn1_0.jpg</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I]TSN 2[/I] [/COLOR]</title>
-#EXTINF:0,<link>rtmp://185.63.255.60:80/live playpath=tsnx2 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=tsnx2&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
-<thumbnail>http://www.nwtel.ca/media/channel-logos/tsn2_0.jpg</thumbnail>
-#EXTINF:0,</item>
-<channel>
-#EXTINF:0,<name>[COLOR green] [I]MOTORSPORTS[/I] [/COLOR]</name>
-<thumbnail>https://catherinephotographyblog.files.wordpress.com/2015/07/ducati-weekend-at-calabogie-motorsports-park-june-27-2015-_dsc4708.jpg</thumbnail>
-#EXTINF:0,<fanart>http://autoaction.com.au/wp-content/uploads/2015/01/J5R8719.jpg</fanart>
-<externallink>http://pastebin.com/raw/v1WZGFw7</externallink>
-#EXTINF:0,</subitem>
-</item>
-#EXTINF:0,<channel>              
-<name>[COLOR green] [I]USA TV[/I] [/COLOR] </name>
-#EXTINF:0,<thumbnail>http://www.kuhnglobal.net/wp-content/uploads/2013/01/2009-usa-flag-graphics.jpg</thumbnail>
-<fanart>http://f.fwallpapers.com/images/beautiful-chicago-illinois-usa-4.jpg</fanart>
-#EXTINF:0,<link>http://ignorame</link>
-<externallink>http://pastebin.com/raw/cnSA8yVD</externallink>
-#EXTINF:0,</subitem>
-</item>
-#EXTINF:0,<channel>
-<name>[COLOR green] [I]LATINO TV[/I] [/COLOR]</name>
-#EXTINF:0,<thumbnail>http://s3.postimg.org/8ex9f3rwj/bandeira_espanha.png</thumbnail>
-<fanart>https://nbclatino.files.wordpress.com/2013/01/machetekill.jpg</fanart>
-#EXTINF:0,</subitem>
-<item>       
-#EXTINF:0,<title>[COLOR orange]SPAIN[/COLOR]</title>
-<link>http://Ignoreme</link>
-#EXTINF:0,<externallink>http://pastebin.com/raw/zb0bZEqy</externallink>
-<thumbnail>http://s3.postimg.org/8ex9f3rwj/bandeira_espanha.png</thumbnail>
-#EXTINF:0,<fanart>https://nbclatino.files.wordpress.com/2013/01/machetekill.jpg</fanart>
-</item>
-#EXTINF:0,<item>       
-<title>[COLOR orange]!!!!!PINCHAR AQUI PARA HACEDER A LA LISTA!!!!![/COLOR]</title>
-#EXTINF:0,<link>http://Ignoreme</link>
-<externallink>http://pastebin.com/raw/HnriLGB3</externallink>
-#EXTINF:0,<thumbnail>http://s3.postimg.org/8ex9f3rwj/bandeira_espanha.png</thumbnail>
-<fanart>https://nbclatino.files.wordpress.com/2013/01/machetekill.jpg</fanart>
-#EXTINF:0,</item>
-<channel>
-#EXTINF:0,<name>[COLOR green] [I]MUSIC[/I] [/COLOR]</name>
-<thumbnail>https://tiestoclublife.files.wordpress.com/2014/09/dj_tiesto_club_life_img389.jpg</thumbnail>
-#EXTINF:0,<fanart>https://tiestoclublife.files.wordpress.com/2014/09/dj_tiesto_club_life_img389.jpg</fanart>
-<externallink>http://pastebin.com/raw/ikty9w5c</externallink>
-#EXTINF:0,</subitem>
-</item>
-#EXTINF:0,<channel>
-<name>[COLOR green] [I]RADIO[/I] [/COLOR]</name>
-#EXTINF:0,<thumbnail>http://d1hw6n3yxknhky.cloudfront.net/000125841_prevstill.jpeg</thumbnail>
-<fanart>http://iloveradio.eu/images/hpimage_5417721cda855-2.png</fanart>
-#EXTINF:0,</subitem>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR green] [I]PORTUGAL[/I] [/COLOR]</title>
-#EXTINF:0,<thumbnail>http://img3.goodfon.su/original/1920x1080/2/49/portugal-portugaliya-flag.jpg</thumbnail>
-<fanart>http://static.panoramio.com/photos/original/217747.jpg</fanart>
-#EXTINF:0,<link>ignorame</link>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR=blue] [I] ANTENA 1 [/I] [/COLOR]</title>
-#EXTINF:0,<link>rtmp://195.245.168.29:1935/liveradio/ playpath=antena180a swfUrl=http://cdn.webrad.io/swf/soundmanager2_flash9.swf live=1 pageUrl=http://www.radioonline.com.pt/#antena-1</link>
-<thumbnail>http://s20.postimg.org/691p8rbr1/8027869_orig.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR=blue] [I] RDP INTERNACIONAL [/I] [/COLOR]</title>
-<link>rtmp://195.245.168.29:1935/liveradio/ playpath=rdpint80a swfUrl=http://cdn.webrad.io/swf/soundmanager2_flash9.swf live=1 pageUrl=http://www.radioonline.com.pt/#rdp-internacional</link>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/642jctttp/RDP_Internacional.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR=blue] [I] TSF [/I] [/COLOR]</title>
-#EXTINF:0,<link>http://tsfdirecto.tsf.pt/tsfdirecto.mp3</link>
-<thumbnail>http://s20.postimg.org/pcv0p3ol9/83819.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR=blue] [I] RADIO RENASCENÃÇA [/I] [/COLOR]</title>
-<link>http://7739.live.streamtheworld.com/RADIO_RENASCENCA_SC</link>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/q18glscot/rr76anos48429410_664x373.jpg</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR=blue] [I] ANTENA 3[/I] [/COLOR]</title>
-#EXTINF:0,<link>rtmp://195.245.168.29:1935/liveradio/ playpath=antena380a swfUrl=http://cdn.webrad.io/swf/soundmanager2_flash9.swf live=1 pageUrl=http://www.radioonline.com.pt/#antena-3
- </link>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/wve5xqfy5/Antena_3_RGB_pos_horiz.jpg</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR=blue] [I] MEGA HITS [/I] [/COLOR]</title>
-#EXTINF:0,<link>http://7749.live.streamtheworld.com/MEGA_HITS_SC</link>
-<thumbnail>http://s20.postimg.org/6uv9ilw71/lg_megafm_cmyk_pos.jpg</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR=blue] [I] RFM [/I] [/COLOR]</title>
-<link>http://7709.live.streamtheworld.com/RFM_SC</link>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/jv70f1irh/rfm_icone.jpg</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR=blue] [I] RADIO COMERCIAL [/I] [/COLOR]</title>
-#EXTINF:0,<link>rtmp://195.23.102.206/comerciallc/ playpath=comerciallc.sdp swfUrl=http://cdn.webrad.io/swf/soundmanager2_flash9.swf live=1 pageUrl=http://www.radioonline.com.pt/#radio-comercial</link>
-<thumbnail>http://s20.postimg.org/llq1gj0al/R_dio_Comercial.jpg</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR=blue] [I] HIPER FM [/I] [/COLOR]</title>
-<link>http://109.71.41.250:8158/;</link>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/dg3e4mmnx/Hiper_FM.jpg</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR=blue] [I] 80S RFM [/I] [/COLOR]</title>
-#EXTINF:0,<link>http://7739.live.streamtheworld.com/GR80SRFM_SC</link>
-<thumbnail>http://s20.postimg.org/l7k436qt9/logo80_RFMPlayer.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR=blue] [I] RADIO M80 [/I] [/COLOR]</title>
-<link>rtmp://195.23.102.206/m80mp3/ playpath=m80mp3.sdp swfUrl=http://cdn.webrad.io/swf/soundmanager2_flash9.swf live=1 pageUrl=http://www.radioonline.com.pt/#radio-m80</link>
-#EXTINF:0,<thumbnail>http://s20.postimg.org/gpmeou059/mzl_uucykuav.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR green] [I]TORONTO[/I] [/COLOR]</title>
-#EXTINF:0,<thumbnail>http://jaquikarr.com/members/wp-content/uploads/2015/07/Flag-Canadian.jpg</thumbnail>
-<fanart>http://www.cityofwaterfalls.ca/wp-content/uploads/2015/02/ShermanFalls2w.jpg</fanart>
-#EXTINF:0,<link>ignorame</link>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I] Z103.5 [/I] [/COLOR]</title>
-#EXTINF:0,<link>http://ice8.securenetsystems.net/CIDC?&playSessionID=18AC6587-92F1-2B69-74D1C3A6F5A225DA</link>
-<thumbnail>http://scottandkat.ca/wp-content/uploads/2013/07/Fox_ListenLive_Banner.jpg</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] 99.9 VIRGIN RADIO [/I] [/COLOR]</title>
-<link>http://ckfm-mp3.akacast.akamaistream.net/7/318/102120/v1/astral.akacast.akamaistream.net/ckfm-mp3</link>
-#EXTINF:0,<thumbnail>http://toronto.virginradio.ca/Pics/lol_header.jpg</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I] KISS 92.5 [/I] [/COLOR]</title>
-#EXTINF:0,<link>http://radio_ckis-lh.akamaihd.net/i/TOR925_1@176956/master.m3u8</link>
-<thumbnail>https://pbs.twimg.com/profile_images/635911682133499905/MiY_X1NQ.png</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] 104.5 CHUM FM [/I] [/COLOR]</title>
-<link>http://chumfm-mp3.akacast.akamaistream.net/7/441/102120/v1/astral.akacast.akamaistream.net/chumfm-mp3</link>
-#EXTINF:0,<thumbnail>http://1.bp.blogspot.com/-xnqIRW6i3Jo/VYoXWIJW6xI/AAAAAAAAMeU/i8S_bL7jkFo/s1600/chum_logo.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I] CLASSICAL 96.3 [/I] [/COLOR]</title>
-#EXTINF:0,<link>http://zoomcast.vs.hc1.ca/cfmz.mp3</link>
-<thumbnail>http://joyceelkhoury.com/wp-content/uploads/2015/10/logo-classical963.jpg</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] Q 107 [/I] [/COLOR]</title>
-<link>http://live.leanstream.co/CILQFM-MP3?tunein</link>
-#EXTINF:0,<thumbnail>http://img.corusradio.com/fb-like-icons/1500x1500/cilqfm.jpg</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I] AM 640 [/I] [/COLOR]</title>
-#EXTINF:0,<link>http://live.leanstream.co/CFMJAM-MP3?tunein
-</link>
-#EXTINF:0,<thumbnail>https://upload.wikimedia.org/wikipedia/en/archive/3/34/20130124230744!Talk_Radio_AM640.png</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR blue] [I] TSN RADIO 1050 [/I] [/COLOR]</title>
-#EXTINF:0,<link>http://provisioning.streamtheworld.com/pls/CHUMAM.pls?DIST=TuneIn&TGT=TuneIn&maxServers=2</link>
-<thumbnail>https://pbs.twimg.com/profile_images/489769210147389441/qeMJSAgD_400x400.jpeg</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<title>[COLOR blue] [I] 102.1 THE EDGE [/I] [/COLOR]</title>
-<link>http://live.leanstream.co/CFNYFM-MP3?tunein</link>
-#EXTINF:0,<thumbnail>https://pbs.twimg.com/profile_images/461144201191636993/piw7C_8__400x400.jpeg</thumbnail>
-</item>
-#EXTINF:0,<channel>
-<name>[COLOR green] [I]ADULT[/I] [/COLOR]</name>
-#EXTINF:0,<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
-<fanart>http://bitcoingarden.tk/wp-content/uploads/2014/07/warning_adult_content_01.jpg</fanart>
-#EXTINF:0,</subitem>
-</item>
-#EXTINF:0,<item>
-<parentalblock>false</parentalblock>
-#EXTINF:0,<title>[COLOR white] [I]CHECK SETTINGS TO ACTIVATE[/I] [/COLOR]</title>
-<link>ignorame</link>
-#EXTINF:0,<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
-</item>
-#EXTINF:0,<item>
-<parentalblock>true</parentalblock>
-#EXTINF:0,<title>[COLOR blue] [I]PLAYBOY[/I] [/COLOR]</title>
-<link>http://5.152.199.130/iptv/TWKABPT539/527/index.m3u8</link>
-#EXTINF:0,<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
-</item>
-#EXTINF:0,<item>
-<parentalblock>true</parentalblock>
-#EXTINF:0,<title>[COLOR blue] [I]PASSION[/I] [/COLOR]</title>
-<link>http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8</link>
-#EXTINF:0,<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
-</item>
-#EXTINF:0,<item>
-<parentalblock>true</parentalblock>
-#EXTINF:0,<title>[COLOR blue] [I]RUSSIAN NIGHTS[/I] [/COLOR]</title>
-<link></link>
-#EXTINF:0,<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
-</item>
-#EXTINF:0,<item>
-<parentalblock>true</parentalblock>
-#EXTINF:0,<title>[COLOR blue] [I]HOT SHOTS [/I] [/COLOR]</title>
-<link></link>
-#EXTINF:0,<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
-</item>
-#EXTINF:0,<item>
-<parentalblock>true</parentalblock>
-#EXTINF:0,<title>[COLOR blue] [I]OKADAI[/I] [/COLOR]</title>
-<link></link>
-#EXTINF:0,<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
-</item>
-#EXTINF:0,<item>
-<parentalblock>true</parentalblock>
-#EXTINF:0,<title>[COLOR blue] [I]BRAZZERS EUROPE[/I] [/COLOR]</title>
-<link></link>
-#EXTINF:0,<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
-</item>
-#EXTINF:0,<item>
-<parentalblock>true</parentalblock>
-#EXTINF:0,<title>[COLOR blue] [I]BRAZZERS[/I] [/COLOR]</title>
-<link>http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers</link>
-#EXTINF:0,<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
-</item>
-#EXTINF:0,<item>
-<parentalblock>true</parentalblock>
-#EXTINF:0,<title>[COLOR blue] [I]LATINAS[/I] [/COLOR]</title>
-<link>http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8</link>
-#EXTINF:0,<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
-</item>
-#EXTINF:0,<item>
-<parentalblock>true</parentalblock>
-#EXTINF:0,<title>[COLOR blue] [I]SPICE TV[/I] [/COLOR]</title>
-<link>rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499</link>
-#EXTINF:0,<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
-</item>
-#EXTINF:0,<item>
-<parentalblock>true</parentalblock>
-#EXTINF:0,<title>[COLOR blue] [I]STORM BABES[/I] [/COLOR]</title>
-<link>http://playback.d2see.com:1935/wavemachine-live01/mp4:playboytv_channel2/playlist.m3u8</link>
-#EXTINF:0,<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
-</item>
-#EXTINF:0,<item>
-<parentalblock>true</parentalblock>
-#EXTINF:0,<title>[COLOR blue] [I]HOT PT[/I] [/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live/ playpath=regopleudo?id=25638$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/embedplayer/regopleudo/1/599/399 live=true timeout=10</link>
-#EXTINF:0,<regex>
-<name>get-ip</name>
-#EXTINF:0,<expres>redirect=(.*)</expres>
-<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
-#EXTINF:0,</regex>
-<regex>
-#EXTINF:0,<name>pk</name>
-<expres>ea=(.*)'</expres>
-#EXTINF:0,<page>http://www.embedezcast.com/embedplayer/regopleudo/1/599/399</page>
-<referer>http://www.embedezcast.com</referer>
-#EXTINF:0,<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
-</regex>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<parentalblock>true</parentalblock>
-<title>[COLOR blue] [I]DORCEL CLIP[/I] [/COLOR]</title>
-#EXTINF:0,<link>http://rfhahlsr.porndig.com/videos/2014/12/73824_20150119_MP4.smil/chunklist_b730000.m3u8</link>
-<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
-#EXTINF:0,</item>
-<item>
-#EXTINF:0,<parentalblock>true</parentalblock>
-<title>[COLOR blue] [I]PRIVATE TV CLIP[/I] [/COLOR]</title>
-#EXTINF:0,<link>http://rfhahlsr.porndig.com/videos/2015/08/112381_20150827_MP4.smil/chunklist_b730000.m3u8</link>
-<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
-#EXTINF:0,</item>
-ate.jpg</thumbnail>
-#EXTINF:0,</item>
-
+#EXTINF:-1,Kix
+http://212.231.144.15:4000/play/a00j
+#EXTINF:-1,True Christmas
+http://212.231.144.15:4000/play/a00e
+#EXTINF:-1,BT Sport 1 HD
+http://212.231.144.15:4000/play/a00o
+#EXTINF:-1,BT Sport 2 HD
+http://212.231.144.15:4000/play/a00p
+#EXTINF:-1,Bloomberg
+http://212.231.144.15:4000/play/a009
+#EXTINF:-1,QVC
+http://212.231.144.15:4000/play/a01i
+#EXTINF:-1,Food Network
+http://212.231.144.15:4000/play/a00b
+#EXTINF:-1,True Drama
+http://212.231.144.15:4000/play/a00h
+#EXTINF:-1,True Ent
+http://212.231.144.15:4000/play/a00g
+#EXTINF:-1,True Movies 2
+http://212.231.144.15:4000/play/a00f
+#EXTINF:-1,BT Sport EurHD
+http://212.231.144.15:4000/play/a00q
+#EXTINF:-1,POP
+http://212.231.144.15:4000/play/a00i
+#EXTINF:-1,4seven
+http://212.231.144.15:5000/play/a003
+#EXTINF:-1,BBC Two HD
+http://212.231.144.15:5000/play/a006
+#EXTINF:-1,BBC One HD
+http://212.231.144.15:5000/play/a007
+#EXTINF:-1,Discovery Shed
+http://212.231.144.15:5000/play/a00v
+#EXTINF:-1,DMAX
+http://212.231.144.15:5000/play/a00r
+#EXTINF:-1,ITV HD
+http://212.231.144.15:5000/play/a00b
+#EXTINF:-1,BBC Two Eng
+http://212.231.144.15:9000/play/a003
+#EXTINF:-1,CBeebies
+http://212.231.144.15:9000/play/a00a
+#EXTINF:-1,BBC One East W
+http://212.231.144.15:9000/play/a006
+#EXTINF:-1,BBC One West
+http://212.231.144.15:9000/play/a005
+#EXTINF:-1,BBC RB 1
+http://212.231.144.15:9000/play/a008
+#EXTINF:-1,BBC One CI
+http://212.231.144.15:9000/play/a007
+#EXTINF:-1,BBC One Lon
+http://212.231.144.15:9000/play/a002
+#EXTINF:-1,bbc4
+http://212.231.144.15:9000/play/a004
+#EXTINF:-1,ITV +1
+http://212.231.144.15:9001/play/a008
+#EXTINF:-1,ITV4
+http://212.231.144.15:9001/play/a004
+#EXTINF:-1,ITV
+http://212.231.144.15:9001/play/a006
+#EXTINF:-1,ITVBe
+http://212.231.144.15:9001/play/a005
+#EXTINF:-1,ITV2
+http://212.231.144.15:9001/play/a003
+#EXTINF:-1,ITV
+http://212.231.144.15:9001/play/a002
+#EXTINF:-1,BBC Two Wales
+http://212.231.144.15:9002/play/a008
+#EXTINF:-1,BBC R3
+http://212.231.144.15:9002/play/a009
+#EXTINF:-1,BBC R4 Ex
+http://212.231.144.15:9002/play/a00f
+#EXTINF:-1,BBC 6 Music
+http://212.231.144.15:9002/play/a00b
+#EXTINF:-1,BBC One Wales
+http://212.231.144.15:9002/play/a007
+#EXTINF:-1,BBC Parliament
+http://212.231.144.15:9002/play/a006
+#EXTINF:-1,BBC One W Mid
+http://212.231.144.15:9002/play/a00c
+#EXTINF:-1,BBC R Ulster
+http://212.231.144.15:9002/play/a00k
+#EXTINF:-1,BBC R Cymru
+http://212.231.144.15:9002/play/a00j
+#EXTINF:-1,BBC R Wales
+http://212.231.144.15:9002/play/a00i
+#EXTINF:-1,BBC R Scot.
+http://212.231.144.15:9002/play/a00h
+#EXTINF:-1,BBC R4 FM
+http://212.231.144.15:9002/play/a00a
+#EXTINF:-1,BBC WS
+http://212.231.144.15:9002/play/a00g
+#EXTINF:-1,BBC One Yk&Li
+http://212.231.144.15:9002/play/a003
+#EXTINF:-1,TLC
+http://212.231.144.15:9100/play/a00r
+#EXTINF:-1,discovsci
+http://212.231.144.15:9100/play/a00f
+#EXTINF:-1,quest
+http://212.231.144.15:9100/play/a00j
+#EXTINF:-1,discov
+http://212.231.144.15:9100/play/a00c
+#EXTINF:-1,Disc.History
+http://212.231.144.15:9100/play/a00m
+#EXTINF:-1,turbo
+http://212.231.144.15:9100/play/a00i
+#EXTINF:-1,Animal Planet
+http://212.231.144.15:9100/play/a00l
+#EXTINF:-1,home
+http://212.231.144.15:9100/play/a00h
+#EXTINF:-1,id
+http://212.231.144.15:9100/play/a00k
+#EXTINF:-1,Dave
+http://212.231.144.15:9101/play/a00x
+#EXTINF:-1,W
+http://212.231.144.15:9101/play/a013
+#EXTINF:-1,Eden+1
+http://212.231.144.15:9101/play/a00w
+#EXTINF:-1,alibi
+http://212.231.144.15:9101/play/a012
+#EXTINF:-1,Good Food +1
+http://212.231.144.15:9101/play/a00z
+#EXTINF:-1,YESTERDAY+1
+http://212.231.144.15:9101/play/a010
+#EXTINF:-1,Dave ja vu
+http://212.231.144.15:9101/play/a00y
+#EXTINF:-1,Home+1
+http://212.231.144.15:9101/play/a00v
+#EXTINF:-1,GOLD
+http://212.231.144.15:9101/play/a011
+#EXTINF:-1,Sony Chnl +1
+http://212.231.144.15:9102/play/a009
+#EXTINF:-1,Syfy
+http://212.231.144.15:9110/play/a007
+#EXTINF:-1,Bike
+http://212.231.144.15:9110/play/a006
+#EXTINF:-1,PBS America
+http://212.231.144.15:9110/play/a009
+#EXTINF:-1,Craft Extra
+http://212.231.144.15:9110/play/a008
+#EXTINF:-1,Universal
+http://212.231.144.15:9110/play/a002
+#EXTINF:-1,Create & Craft
+http://212.231.144.15:9110/play/a00a
+#EXTINF:-1,Sky Comedy
+http://212.231.144.15:9111/play/a003
+#EXTINF:-1,Sky Family
+http://212.231.144.15:9111/play/a006
+#EXTINF:-1,Sky ScFi/Horror 
+http://212.231.144.15:9111/play/a005
+#EXTINF:-1,Sky Disney
+http://212.231.144.15:9111/play/a00b
+#EXTINF:-1,Sky Select
+http://212.231.144.15:9111/play/a007
+#EXTINF:-1,Sky DramaRom
+http://212.231.144.15:9111/play/a009
+#EXTINF:-1,Sky 90s
+http://212.231.144.15:9111/play/a008
+#EXTINF:-1,Sky Premiere
+http://212.231.144.15:9111/play/a004
+#EXTINF:-1,Sky Action
+http://212.231.144.15:9111/play/a002
+#EXTINF:-1,Sky Thriller
+http://212.231.144.15:9111/play/a00a
+#EXTINF:-1 tvg-logo="BBC One.png" group-title="UK and USA",[COLOR lime][I][B]BBC ONE [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="BBC Two.png" group-title="UK and USA",[COLOR lime][I][B]BBC TWO [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="BBC News.png" group-title="UK and USA",[COLOR lime][I][B]BBC NEWS [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="E4.png" group-title="UK and USA",[COLOR lime][I][B]E4 [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="ITV1.png" group-title="UK and USA",[COLOR lime][I][B]ITV [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="ITV2.png" group-title="UK and USA",[COLOR lime][I][B]ITV 2 [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="ITV4.png" group-title="UK and USA",[COLOR lime][I][B]ITV 4 [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="ITV3.png" group-title="UK and USA",[COLOR lime][I][B]ITV 3 [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="itv_uk_be.png" group-title="UK and USA",[COLOR lime][I][B]ITVBe [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="Channel 5.png" group-title="UK and USA",[COLOR lime][I][B]CHANNEL 5 [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="5 USA.png" group-title="UK and USA",[COLOR lime][I][B]5 USA [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="5 Star.png" group-title="UK and USA",[COLOR lime][I][B]5 STAR [/B][/I][/COLOR] 
+#EXTINF:-1 tvg-logo="Channel 4.png" group-title="UK and USA",[COLOR lime][I][B]CHANNEL 4 [/B][/I][/COLOR]  
+#EXTINF:-1 tvg-logo="More4 +1.png" group-title="UK and USA",[COLOR lime][I][B]MORE4 + 1 [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="Film4.png" group-title="UK and USA",[COLOR lime][I][B]FILM4 [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="ITV1 +1.png" group-title="UK and USA",[COLOR lime][I][B]ITV+1 [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="London-Live.png" group-title="UK and USA",[COLOR lime][I][B]LONDON LIVE [/B][/I][/COLOR]
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:-1 tvg-logo="ftv-logo.png" group-title="UK and USA",[COLOR lime][I][B]FASHION HD [/B][/I][/COLOR]
+rtmp://95.67.8.43:1935/live/fashionhd
+#EXTINF:-1 tvg-logo="rt-logo.png" group-title="UK and USA",[COLOR lime][I][B]RT DOCUMENTARIES [/B][/I][/COLOR]
+http://rt-lh.akamaihd.net/i/ch_05@325609/index_720p_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="nasa tv.png" group-title="UK and USA",[COLOR lime][I][B]NASA TV [/B][/I][/COLOR]
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+#EXTINF:-1 tvg-logo="mbc_action.png" group-title="UK and USA",[COLOR lime][I][B]MBC ACTION [/B][/I][/COLOR]
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:-1 tvg-logo="mbc_max.png" group-title="UK and USA",[COLOR lime][I][B]MBC MAX [/B][/I][/COLOR]
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:-1 tvg-logo="MBC2_Logo.png" group-title="UK and USA",[COLOR lime][I][B]MBC 2 [/B][/I][/COLOR]
+http://63.237.48.23/ios/MBC2/MBC2.m3u8
+#EXTINF:-1 tvg-logo="mbc4.png" group-title="UK and USA",[COLOR lime][I][B]MBC 4 [/B][/I][/COLOR]
+http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
+#EXTINF:-1 tvg-logo="Cartoon Network.png" group-title="UK and USA",[COLOR lime][I][B]CARTOON NETWORK [/B][/I][/COLOR]
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="South Park.png" group-title="UK and USA",[COLOR lime][I][B]SOUTH PARK [/B][/I][/COLOR]
+http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
+#EXTINF:-1,GR:NATGEO
+http://over.ddns.net:65203/
+#EXTINF:-1,GR:DISCOVERY
+http://over.ddns.net:65204/
+#EXTINF:-1,GR:HISTORY
+http://over.ddns.net:65205/
+#EXTINF:-1,GR:FOX
+http://over.ddns.net:65206/
+#EXTINF:-1,GR:FOXLIFE
+http://over.ddns.net:65207/
+#EXTINF:-1,GR:IDX
+http://over.ddns.net:65208/
+#EXTINF:-1,GR:Mad
+http://over.ddns.net:65209/
+#EXTINF:-1,GR:Animal Planet
+http://over.ddns.net:65210/
+#EXTINF:-1,GR:Nat geo Wild
+http://over.ddns.net:65211/
+#EXTINF:-1,USA:CINEMA1
+http://over.ddns.net:65301/
+#EXTINF:-1,USA:CINEMA2
+http://over.ddns.net:65302/
+#EXTINF:-1,USA:CINEMA3
+http://over.ddns.net:65303/
+#EXTINF:-1,USA:CINEMA4
+http://over.ddns.net:65304/
+#EXTINF:-1,USA:CINEMA5
+http://over.ddns.net:65305/
+#EXTINF:-1,USA:CINEMA6
+http://over.ddns.net:65306/
+#EXTINF:-1,USA:CINEMA7
+http://over.ddns.net:65307/
+#EXTINF:-1,USA:CINEMA8
+http://over.ddns.net:65308/
