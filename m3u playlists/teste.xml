@@ -1,230 +1,171 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-<channels>
-    <channels_info> <!-- this is opitonal -->
-      <title>Testing XML</title> <!-- if channels_info, a title is required, other elements are optional -->
-      <genre>News</genre>
-      <description>this is the descripton string</description>
-      <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-      <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
-      <date>04.01.2013</date>
-      <credits>divingmule, Johnny Cache</credits>
-    </channels_info>
-    
-    <channel>
-    <name>News</name>
-    <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-    <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
-        <items>
-            <item>
-                <title>POKER CHANNEL</title>
-                <link>http://evolive-tv.com:8000/live/genio/genio/298.m3u8</link>
-                <thumbnail>http://channel.png</thumbnail>
-                <genre>Poker</genre>
-                <info>The Poker Channel – Europe’s largest dedicated gaming TV network is available online to a global audience, and to more than 30 million cable and satellite homes in Europe and Latin America.</info>
-                <date>07.12.2011</date>  <!-- format - dd.mm.yyyy -->
-                <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-                <fanart>http://fanart.jpg</fanart>
-            </item>
-            
-            <item>
-                <title>News 4</title>         
-                <link>rtmp://$doregex[get-ip]/stream playpath=SIC813747234?id=23687&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf flashver=MAC20,0,0,306 pageUrl=http://www.liveflashplayer.net/embedplayer/SIC813747234/1/565/440</link>
-                <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
-            </item>
-        </items>
-    </channel>
-
-    <channel>
-    <name>Television</name>
-    <thumbnail>http://television.png</thumbnail>
-    <fanart>http://fanart.jpg</fanart>
-    <subchannel>
-        <name>Tv 1</name>
-        <thumbnail>http://television.png</thumbnail>
-        <fanart>http://fanart.jpg</fanart>
-            <subitems>
-                <subitem>
-                <title>tv1-1</title>
-                <link>mms://some/place</link>
-                <thumbnail>http://thumb.png </thumbnail>
-                </subitem>
-
-                <subitem>
-                <title>tv1-2</title>
-                <link>http://some/place/channel_4.mp4</link>
-                <thumbnail>http://thumb.png</thumbnail>
-                </subitem>
-            </subitems>	
-        </channel>
-    </subchannel>
-    
-    <items>
-        <item>
-        <title>FILM 4</title>
-        <link>mms://some/place</link>
-        <thumbnail>http://thumb.png </thumbnail>
-        </item>
-
-        <item>
-        <title>CHANNEL 4</title>
-        <link>http://some/place/channel_4.mp4</link>
-        <thumbnail>http://thumb.png</thumbnail>
-        </item>
-    </items>	
-    </channel>
-
-</channels>	
-
-<item>  
-<title>[COLOR blue] [I] RTP 1 [/I] [/COLOR]</title>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15</link>
-<thumbnail>http://s20.postimg.org/o8bxt6059/rtp1.png</thumbnail>
- </item>
-
-<item>  
-<title>[COLOR blue] [I] RTP 1 [/I] [/COLOR] REP</title>
-<link>http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8</link>
-<thumbnail>http://s20.postimg.org/o8bxt6059/rtp1.png</thumbnail>
-   </item>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <item>
-<title>[COLOR blue] [I] RTP 2 [/I] [/COLOR]</title>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15</link>
-<thumbnail>http://s20.postimg.org/3qqzhio1p/rtp2.png</thumbnail>
- </item>
-
-<item>
-<title>[COLOR blue] [I] RTP 2 [/I] [/COLOR] REP</title>
-<link>http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8</link>
- <thumbnail>http://s20.postimg.org/3qqzhio1p/rtp2.png</thumbnail>
+<title>[COLOR red]Welcome[/COLOR][COLOR blue]to Golden-TV[/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>http://pastebin.com/raw/kftSMv8A</externallink>
+<fanart>https://goo.gl/9oQCFk</fanart>
+<thumbnail>https://goo.gl/dg0cqX</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue] [I] RTP 3 [/I] [/COLOR]</title>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15</link>
- <thumbnail>http://s20.postimg.org/tbfeszjgd/rtp_3.png</thumbnail>
+<title>[COLOR red]TV--[/COLOR][COLOR blue]CUBANA[/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>http://pastebin.com/raw/k0Y8rp39</externallink>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+<thumbnail>https://goo.gl/nIYW25</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue] [I] RTP AÇORES [/I] [/COLOR]</title>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpacores swfVfy=1 live=1 timeout=15</link>
-<thumbnail>http://s20.postimg.org/yslvbr4n1/rtp_ac_ores.png</thumbnail>
+<title>[COLOR red]Welcome[/COLOR][COLOR blue]LatinoAmerica IPTV[/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>http://pastebin.com/raw/qSuaKe7L</externallink>
+<fanart>https://goo.gl/9oQCFk</fanart>
+<thumbnail>http://hasbahcaiptv.com/xml/images/America.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue] [I] RTP AÇORES [/I] [/COLOR]</title>
-<link></link>
-<thumbnail>http://s20.postimg.org/yslvbr4n1/rtp_ac_ores.png</thumbnail>
+<title>[COLOR red]Welcome[/COLOR][COLOR blue]Movies-Online[/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>http://pastebin.com/raw/sYGnNZXL</externallink>
+<fanart>https://goo.gl/9oQCFk</fanart>
+<thumbnail>https://goo.gl/XSkhzG</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue] [I] RTP ÁFRICA [/I] [/COLOR]</title>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15</link>
-<thumbnail>http://s20.postimg.org/qodr70i7x/rtp_africa.png</thumbnail>
+<title>[COLOR red]Welcome[/COLOR][COLOR blue]Sport-TV[/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>http://pastebin.com/raw/5Hp9BDeK</externallink>
+<fanart>https://goo.gl/9oQCFk</fanart>
+<thumbnail>https://goo.gl/zoznXa</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue] [I] RTP ÁFRICA [/I] [/COLOR]</title>
-<link></link>
-<thumbnail>http://s20.postimg.org/qodr70i7x/rtp_africa.png</thumbnail>
+<title>[COLOR red]Welcome[/COLOR][COLOR blue]Movies-Online 2[/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>http://pastebin.com/raw/btXVdFW4</externallink>
+<fanart>https://goo.gl/9oQCFk</fanart>
+<thumbnail>https://goo.gl/XSkhzG</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue] [I] RTP MADEIRA [/I] [/COLOR]</title>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15</link>
-<thumbnail>http://s20.postimg.org/mj7fyu9tp/rtp_madeira.png</thumbnail>
+<title>[COLOR blue]Movies[/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.exodus/?action=movieNavigator</jsonrpc>
+<thumbnail>http://orig04.deviantart.net/4e6c/f/2015/052/6/f/movies_general_folder_icon_by_zsotti60-d8ix5rx.png</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
 </item>
 
 <item>
-<title>[COLOR blue] [I] RTP MADEIRA [/I] [/COLOR]</title>
-<link></link>
-<thumbnail>http://s20.postimg.org/mj7fyu9tp/rtp_madeira.png</thumbnail>
+<title>[COLOR blue]Series[/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.exodus/?action=tvNavigator</jsonrpc>
+<thumbnail>http://i.imgur.com/OD1vguc.png</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
 </item>
 
 <item>
-<title>[COLOR blue] [I] RTP MEMÓRIA [/I] [/COLOR]</title>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria swfVfy=1 live=1 timeout=15</link>
-<thumbnail>http://s20.postimg.org/j0vg2g8xp/rtp_memoria.png</thumbnail>
+<title>[COLOR red]Friend Addon-[/COLOR][COLOR blue]Salt[/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.saltshd.lite/?section:MODES.BROWSE</jsonrpc>
+<thumbnail>https://goo.gl/qtoqUr</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
 </item>
 
 <item>
-<title>[COLOR blue] [I] RTP MEMÓRIA [/I] [/COLOR]</title>
-<link></link>
-<thumbnail>http://s20.postimg.org/j0vg2g8xp/rtp_memoria.png</thumbnail>
+<title>[COLOR red]Friend Addon-[/COLOR][COLOR blue]Adryan[/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/list.xml</externallink>
+<fanart>http://s3.amazonaws.com/fotor.cdn/share.url/26b9e599d254404ca5e2bf3f28834982.jpeg</fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/641261136185176064/i6ml-Nbv.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue] [I] RTP INTERNACIONAL [/I] [/COLOR]</title>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional swfVfy=1 live=1 timeout=15</link>
-<thumbnail>http://s20.postimg.org/ckhvymb0d/rtp_internacional.png</thumbnail>
+<title>[COLOR red]Friend Addon-[/COLOR][COLOR blue]BASSFOX[/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>http://pastebin.com/raw/yHp4GtB6</externallink>
+<fanart>http://s3.amazonaws.com/fotor.cdn/share.url/26b9e599d254404ca5e2bf3f28834982.jpeg</fanart>
+<thumbnail>http://www.redeneobux.com/wp-content/uploads/2015/06/bass-fox-addon-plugin-xbmc-kodi.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue] [I] RTP INTERNACIONAL [/I] [/COLOR]</title>
-<link></link>
-<thumbnail>http://s20.postimg.org/ckhvymb0d/rtp_internacional.png</thumbnail>
-</item>
-
-<item> 
-<title>[COLOR blue] [I] SIC [/I] [/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live/ playpath=sic90?id=85765$doregex[pk] swfVfy=1 conn=S:OK swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/sic90/1/650/500 live=true timeout=10</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>pk</name>
-<expres>ea=(.*)'</expres>
-<page>http://www.embeducaster.com/embedplayer/sic90/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
-</regex>
-</item>
-
-<item> 
-<title>[COLOR blue] [I] SIC [/I] [/COLOR] </title>
-<link>rtmp://$doregex[get-ip]/stream playpath=SIC813747234?id=23687&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf flashver=MAC20,0,0,306 pageUrl=http://www.liveflashplayer.net/embedplayer/SIC813747234/1/565/440</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.liveflashplayer.net/embedplayer/SIC813747234/1/565/440</page>
-<referer>http://www.liveflashplayer.net/</referer>
-<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
-</regex>
+<title>[COLOR red]Welcome[/COLOR][COLOR blue]to MIX IPTV[/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>http://pastebin.com/raw/umxHB0zv</externallink>
+<fanart>https://goo.gl/9oQCFk</fanart>
+<thumbnail>https://goo.gl/Elq49c</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue] [I] SIC [/I] [/COLOR] REP</title>
-<link>http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8</link>
- <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
+<title>[COLOR red]Friend Addon-[/COLOR][COLOR blue]Stallion[/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>http://pastebin.com/raw.php?i=bCtX50xV</externallink>
+<fanart>http://s3.amazonaws.com/fotor.cdn/share.url/601e3b5743f14e409b95b19134aca84c.jpeg</fanart>
+<thumbnail>http://s19.postimg.org/4discu5gj/icon.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue] [I] SIC CARAS [/I] [/COLOR] </title>
-<link></link>
- <thumbnail>http://www.thelogodb.com/images/media/logo/rqrvpy1433343925.png</thumbnail>
+<title>[COLOR red]Welcome[/COLOR][COLOR blue]to Online World Music[/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>http://pastebin.com/raw/LKen2BMs</externallink>
+<fanart>https://goo.gl/9oQCFk</fanart>
+<thumbnail>http://www.mypositiveperspective.com/images/internet-radio.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue] [I] SIC MULHER  [/I] [/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=sicm02?id=84770&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sicm02/1/599/399</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/sicm02/1/599/399</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/suyuur1436891341.png/medium</thumbnail>
-</regex>
+<title>[COLOR red]Friend Addon-[/COLOR][COLOR blue]Aloflix[/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>http://dl.dropboxusercontent.com/s/ukw944z5k82jdk0/AloFlix.xml</externallink>
+<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
+<thumbnail>http://i.imgur.com/iYCbuTY.jpg</thumbnail>
 </item>
+
+<item>
+<title>[COLOR red]Friend Addon-[/COLOR][COLOR blue]Vaughnlive[/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>https://copy.com/Ey00BvdkXAFmV2lB</externallink>
+<fanart></fanart>
+<thumbnail>https://goo.gl/h6H55h</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Friend Addon-[/COLOR][COLOR blue]Coatal[/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>http://googledrive.com/host/0B7s3iHobrWwGZlplM3czbXBiQWs/catoal.xml</externallink>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+<thumbnail>http://www.redeneobux.com/wp-content/uploads/2016/01/Catoal-Addon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Friend Addon-[/COLOR][COLOR blue]Javi Team[/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>http://pastebin.com/raw/HnriLGB3</externallink>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/669518637770932224/AlDQkUb2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Friend Addon-[/COLOR][COLOR blue]Jaleman[/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>http://jalemanproductions.com/iptv/ministalker.xml</externallink>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+<thumbnail>https://goo.gl/JdalBi</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Welcome[/COLOR][COLOR blue]Kid-Channels[/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>http://pastebin.com/raw/rTrEaXjQ</externallink>
+<fanart>https://goo.gl/9oQCFk</fanart>
+<thumbnail>https://goo.gl/JMcTba</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Welcome[/COLOR][COLOR blue]USA IPTV[/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>http://pastebin.com/raw/PyrgW06W</externallink>
+<fanart>https://goo.gl/9oQCFk</fanart>
+<thumbnail>http://www.maaxtv.com/wp-content/uploads/2013/03/USA.png</thumbnail>
+</item>
+
+</Channel>
