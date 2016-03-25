@@ -1,6 +1,12 @@
 bg <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
+<channels>
+<channel>
+<name>[COLOR red] [I]http://www.paypal.me/tvdireto[/I][/COLOR]</name>
+<thumbnail>http://www.theatomicalley.com/images/paypal-logo.png</thumbnail>
+<fanart>http://www.theatomicalley.com/images/paypal-logo.png</fanart>
+</subitem>
+</item>
 
 <item> 
 <title>400 Days (2015) [1080p]</title>
