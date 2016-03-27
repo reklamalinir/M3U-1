@@ -2,18 +2,787 @@
 
 
 
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 15-02-16 [COLOR red]|||[/COLOR][/B][/COLOR]
-http://jerrymoz.wordpress.com
+#EXTINF:-1,RTP 1
+http://fastroot.ddns.net:8000/live/festas/festas/1.m3u8
+#EXTINF:-1,RTP 1 (LOW)
+http://fastroot.ddns.net:8000/live/festas/festas/124.m3u8
+#EXTINF:-1,RTP 2
+http://fastroot.ddns.net:8000/live/festas/festas/2.m3u8
+#EXTINF:-1,RTP 2 (LOW)
+http://fastroot.ddns.net:8000/live/festas/festas/125.m3u8
+#EXTINF:-1,SIC
+http://fastroot.ddns.net:8000/live/festas/festas/3.m3u8
+#EXTINF:-1,SIC (LOW)
+http://fastroot.ddns.net:8000/live/festas/festas/126.m3u8
+#EXTINF:-1,TVI
+http://fastroot.ddns.net:8000/live/festas/festas/4.m3u8
+#EXTINF:-1,TVI (LOW)
+http://fastroot.ddns.net:8000/live/festas/festas/127.m3u8
+#EXTINF:-1,SIC NOTICIAS
+http://fastroot.ddns.net:8000/live/festas/festas/5.m3u8
+#EXTINF:-1,TVI 24
+http://fastroot.ddns.net:8000/live/festas/festas/6.m3u8
+#EXTINF:-1,RTP 3
+http://fastroot.ddns.net:8000/live/festas/festas/7.m3u8
+#EXTINF:-1,SIC MULHER
+http://fastroot.ddns.net:8000/live/festas/festas/8.m3u8
+#EXTINF:-1,SIC RADICAL
+http://fastroot.ddns.net:8000/live/festas/festas/9.m3u8
+#EXTINF:-1,CANAL Q
+http://fastroot.ddns.net:8000/live/festas/festas/10.m3u8
+#EXTINF:-1,PORTO CANAL
+http://fastroot.ddns.net:8000/live/festas/festas/11.m3u8
+#EXTINF:-1,RTP MEMORIA
+http://fastroot.ddns.net:8000/live/festas/festas/12.m3u8
+#EXTINF:-1,RTP AFRICA
+http://fastroot.ddns.net:8000/live/festas/festas/13.m3u8
+#EXTINF:-1,RTP MADEIRA
+http://fastroot.ddns.net:8000/live/festas/festas/14.m3u8
+#EXTINF:-1,RTP ACORES
+http://fastroot.ddns.net:8000/live/festas/festas/15.m3u8
+#EXTINF:-1,CMTV
+http://fastroot.ddns.net:8000/live/festas/festas/16.m3u8
+#EXTINF:-1,TVC1 HD
+http://fastroot.ddns.net:8000/live/festas/festas/17.m3u8
+#EXTINF:-1,TVC 1 HD (LOW)
+http://fastroot.ddns.net:8000/live/festas/festas/177.m3u8
+#EXTINF:-1,TVC2 HD
+http://fastroot.ddns.net:8000/live/festas/festas/18.m3u8
+#EXTINF:-1,TVC 2 HD (LOW)
+http://fastroot.ddns.net:8000/live/festas/festas/178.m3u8
+#EXTINF:-1,TVC3 HD
+http://fastroot.ddns.net:8000/live/festas/festas/19.m3u8
+#EXTINF:-1,TVC 3 HD (LOW)
+http://fastroot.ddns.net:8000/live/festas/festas/179.m3u8
+#EXTINF:-1,TVC4 HD
+http://fastroot.ddns.net:8000/live/festas/festas/20.m3u8
+#EXTINF:-1,TVC 4 HD (LOW)
+http://fastroot.ddns.net:8000/live/festas/festas/180.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://fastroot.ddns.net:8000/live/festas/festas/21.m3u8
+#EXTINF:-1,HOLLYWOOD HD
+http://fastroot.ddns.net:8000/live/festas/festas/22.m3u8
+#EXTINF:-1,FOX MOVIES
+http://fastroot.ddns.net:8000/live/festas/festas/23.m3u8
+#EXTINF:-1,CINEMUNDO
+http://fastroot.ddns.net:8000/live/festas/festas/24.m3u8
+#EXTINF:-1,MOV HD
+http://fastroot.ddns.net:8000/live/festas/festas/25.m3u8
+#EXTINF:-1,AXN HD
+http://fastroot.ddns.net:8000/live/festas/festas/26.m3u8
+#EXTINF:-1,AXN HD (LOW)
+http://fastroot.ddns.net:8000/live/festas/festas/182.m3u8
+#EXTINF:-1,AXN WHITE HD
+http://fastroot.ddns.net:8000/live/festas/festas/27.m3u8
+#EXTINF:-1,AXN WHITE HD (LOW)
+http://fastroot.ddns.net:8000/live/festas/festas/183.m3u8
+#EXTINF:-1,AXN BLACK HD
+http://fastroot.ddns.net:8000/live/festas/festas/28.m3u8
+#EXTINF:-1,AXN BLACK HD (LOW)
+http://fastroot.ddns.net:8000/live/festas/festas/184.m3u8
+#EXTINF:-1,FOX HD
+http://fastroot.ddns.net:8000/live/festas/festas/29.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://fastroot.ddns.net:8000/live/festas/festas/30.m3u8
+#EXTINF:-1,FOX CRIME HD
+http://fastroot.ddns.net:8000/live/festas/festas/31.m3u8
+#EXTINF:-1,SYFY
+http://fastroot.ddns.net:8000/live/festas/festas/32.m3u8
+#EXTINF:-1,FOX COMEDY
+http://fastroot.ddns.net:8000/live/festas/festas/33.m3u8
+#EXTINF:-1,E! ENTERTAINMENT
+http://fastroot.ddns.net:8000/live/festas/festas/34.m3u8
+#EXTINF:-1,CBS REALITY
+http://fastroot.ddns.net:8000/live/festas/festas/35.m3u8
+#EXTINF:-1,TV SERIES HD
+http://fastroot.ddns.net:8000/live/festas/festas/36.m3u8
+#EXTINF:-1,TVC SERIES (LOW)
+http://fastroot.ddns.net:8000/live/festas/festas/181.m3u8
+#EXTINF:-1,TVI FICÇAO
+http://fastroot.ddns.net:8000/live/festas/festas/37.m3u8
+#EXTINF:-1,SIC CARAS
+http://fastroot.ddns.net:8000/live/festas/festas/38.m3u8
+#EXTINF:-1,TVI REALITY
+http://fastroot.ddns.net:8000/live/festas/festas/39.m3u8
+#EXTINF:-1,CAMARA REALITY
+http://fastroot.ddns.net:8000/live/festas/festas/40.m3u8
+#EXTINF:-1,MOSAICO TVI REALiTY
+http://fastroot.ddns.net:8000/live/festas/festas/41.m3u8
+#EXTINF:-1,SPORTV 1
+http://fastroot.ddns.net:8000/live/festas/festas/42.m3u8
+#EXTINF:-1,SPORTV 1 HD
+http://fastroot.ddns.net:8000/live/festas/festas/48.m3u8
+#EXTINF:-1,SPORTV 1 HD (LOW)
+http://fastroot.ddns.net:8000/live/festas/festas/43.m3u8
+#EXTINF:-1,SPORTV 2
+http://fastroot.ddns.net:8000/live/festas/festas/44.m3u8
+#EXTINF:-1,SPORTV 2 HD
+http://fastroot.ddns.net:8000/live/festas/festas/49.m3u8
+#EXTINF:-1,SPORTV 2 HD (LOW)
+http://fastroot.ddns.net:8000/live/festas/festas/118.m3u8
+#EXTINF:-1,SPORTV 3
+http://fastroot.ddns.net:8000/live/festas/festas/45.m3u8
+#EXTINF:-1,SPORTV 3 HD
+http://fastroot.ddns.net:8000/live/festas/festas/50.m3u8
+#EXTINF:-1,SPORTV 3 HD (LOW)
+http://fastroot.ddns.net:8000/live/festas/festas/119.m3u8
+#EXTINF:-1,SPORTV 4
+http://fastroot.ddns.net:8000/live/festas/festas/46.m3u8
+#EXTINF:-1,SPORTV 4 HD
+http://fastroot.ddns.net:8000/live/festas/festas/51.m3u8
+#EXTINF:-1,SPORTV 4 HD (LOW)
+http://fastroot.ddns.net:8000/live/festas/festas/120.m3u8
+#EXTINF:-1,SPORTV 5
+http://fastroot.ddns.net:8000/live/festas/festas/47.m3u8
+#EXTINF:-1,SPORTV 5 HD
+http://fastroot.ddns.net:8000/live/festas/festas/52.m3u8
+#EXTINF:-1,SPORTV 5 HD (LOW)
+http://fastroot.ddns.net:8000/live/festas/festas/121.m3u8
+#EXTINF:-1,BTV 1
+http://fastroot.ddns.net:8000/live/festas/festas/53.m3u8
+#EXTINF:-1,BTV 1 HD
+http://fastroot.ddns.net:8000/live/festas/festas/56.m3u8
+#EXTINF:-1,BTV 1 HD (LOW)
+http://fastroot.ddns.net:8000/live/festas/festas/54.m3u8
+#EXTINF:-1,BTV 2
+http://fastroot.ddns.net:8000/live/festas/festas/55.m3u8
+#EXTINF:-1,BTV 2 HD
+http://fastroot.ddns.net:8000/live/festas/festas/57.m3u8
+#EXTINF:-1,BTV 2 HD (LOW)
+http://fastroot.ddns.net:8000/live/festas/festas/122.m3u8
+#EXTINF:-1,SPORTING TV
+http://fastroot.ddns.net:8000/live/festas/festas/58.m3u8
+#EXTINF:-1,SPORTING TV HD
+http://fastroot.ddns.net:8000/live/festas/festas/59.m3u8
+#EXTINF:-1,SPORTING HD (LOW)
+http://fastroot.ddns.net:8000/live/festas/festas/123.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://fastroot.ddns.net:8000/live/festas/festas/60.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://fastroot.ddns.net:8000/live/festas/festas/61.m3u8
+#EXTINF:-1,EUROSPORT NEWS
+http://fastroot.ddns.net:8000/live/festas/festas/62.m3u8
+#EXTINF:-1,MOTORVISION
+http://fastroot.ddns.net:8000/live/festas/festas/63.m3u8
+#EXTINF:-1,MOTORS TV
+http://fastroot.ddns.net:8000/live/festas/festas/64.m3u8
+#EXTINF:-1,PFC
+http://fastroot.ddns.net:8000/live/festas/festas/65.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://fastroot.ddns.net:8000/live/festas/festas/66.m3u8
+#EXTINF:-1,CHELSEA TV
+http://fastroot.ddns.net:8000/live/festas/festas/67.m3u8
+#EXTINF:-1,FUEL TV
+http://fastroot.ddns.net:8000/live/festas/festas/68.m3u8
+#EXTINF:-1,A BOLA TV
+http://fastroot.ddns.net:8000/live/festas/festas/69.m3u8
+#EXTINF:-1,CACAVISION
+http://fastroot.ddns.net:8000/live/festas/festas/70.m3u8
+#EXTINF:-1,CAÇA E PESCA
+http://fastroot.ddns.net:8000/live/festas/festas/71.m3u8
+#EXTINF:-1,TOROS TV
+http://fastroot.ddns.net:8000/live/festas/festas/72.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://fastroot.ddns.net:8000/live/festas/festas/73.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://fastroot.ddns.net:8000/live/festas/festas/74.m3u8
+#EXTINF:-1,DISCOVERY HD SHOWCASE
+http://fastroot.ddns.net:8000/live/festas/festas/75.m3u8
+#EXTINF:-1,DISCOVERY
+http://fastroot.ddns.net:8000/live/festas/festas/76.m3u8
+#EXTINF:-1,TLC
+http://fastroot.ddns.net:8000/live/festas/festas/77.m3u8
+#EXTINF:-1,ODISSEIA
+http://fastroot.ddns.net:8000/live/festas/festas/78.m3u8
+#EXTINF:-1,A&E
+http://fastroot.ddns.net:8000/live/festas/festas/79.m3u8
+#EXTINF:-1,RECORD NEWS
+http://fastroot.ddns.net:8000/live/festas/festas/80.m3u8
+#EXTINF:-1,FOX NEWS
+http://fastroot.ddns.net:8000/live/festas/festas/81.m3u8
+#EXTINF:-1,GLOBO PREMIUM
+http://fastroot.ddns.net:8000/live/festas/festas/83.m3u8
+#EXTINF:-1,GLOBO PORTUGAL
+http://fastroot.ddns.net:8000/live/festas/festas/84.m3u8
+#EXTINF:-1,TV RECORD
+http://fastroot.ddns.net:8000/live/festas/festas/85.m3u8
+#EXTINF:-1,EURONEWS
+http://fastroot.ddns.net:8000/live/festas/festas/86.m3u8
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://fastroot.ddns.net:8000/live/festas/festas/87.m3u8
+#EXTINF:-1,BABY TV
+http://fastroot.ddns.net:8000/live/festas/festas/90.m3u8
+#EXTINF:-1,SIC K
+http://fastroot.ddns.net:8000/live/festas/festas/91.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://fastroot.ddns.net:8000/live/festas/festas/92.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://fastroot.ddns.net:8000/live/festas/festas/93.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://fastroot.ddns.net:8000/live/festas/festas/94.m3u8
+#EXTINF:-1,JIM JAM
+http://fastroot.ddns.net:8000/live/festas/festas/95.m3u8
+#EXTINF:-1,PANDA BIGGS
+http://fastroot.ddns.net:8000/live/festas/festas/96.m3u8
+#EXTINF:-1,PANDA
+http://fastroot.ddns.net:8000/live/festas/festas/97.m3u8
+#EXTINF:-1,NICKELODEON
+http://fastroot.ddns.net:8000/live/festas/festas/98.m3u8
+#EXTINF:-1,CANAL HISTORIA
+http://fastroot.ddns.net:8000/live/festas/festas/99.m3u8
+#EXTINF:-1,BLOOMBERG
+http://fastroot.ddns.net:8000/live/festas/festas/89.m3u8
+#EXTINF:-1,OUTDOOR HD
+http://fastroot.ddns.net:8000/live/festas/festas/88.m3u8
+#EXTINF:-1,FOOD NETWORK HD
+http://fastroot.ddns.net:8000/live/festas/festas/101.m3u8
+#EXTINF:-1,24 KITCHEN HD
+http://fastroot.ddns.net:8000/live/festas/festas/100.m3u8
+#EXTINF:-1,TRACE URBAN
+http://fastroot.ddns.net:8000/live/festas/festas/102.m3u8
+#EXTINF:-1,AMC
+http://fastroot.ddns.net:8000/live/festas/festas/104.m3u8
+#EXTINF:-1,VH1
+http://fastroot.ddns.net:8000/live/festas/festas/105.m3u8
+#EXTINF:-1,AFRO MUSIC
+http://fastroot.ddns.net:8000/live/festas/festas/107.m3u8
+#EXTINF:-1,MTV PORTUGAL
+http://fastroot.ddns.net:8000/live/festas/festas/108.m3u8
+#EXTINF:-1,MCM POP
+http://fastroot.ddns.net:8000/live/festas/festas/109.m3u8
+#EXTINF:-1,C- MUSIC
+http://fastroot.ddns.net:8000/live/festas/festas/106.m3u8
+#EXTINF:-1,HOT
+http://fastroot.ddns.net:8000/live/festas/festas/113.m3u8
+#EXTINF:-1,PENTHOUSE HD1
+http://fastroot.ddns.net:8000/live/festas/festas/110.m3u8
+#EXTINF:-1,PLAYBOY
+http://fastroot.ddns.net:8000/live/festas/festas/112.m3u8
+#EXTINF:-1,VENUS
+http://fastroot.ddns.net:8000/live/festas/festas/111.m3u8
+#EXTINF:-1,The Hunger Games A Revolta-Parte 2 (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/396.mkv
+#EXTINF:-1,Só Podiam Ser Irmãs (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/395.mkv
+#EXTINF:-1,Pai Há Só Um (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/394.mkv
+#EXTINF:-1,Os Oito Odiados (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/393.mkv
+#EXTINF:-1,Miss You Already (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/392.mkv
+#EXTINF:-1,Lavalantula (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/391.mkv
+#EXTINF:-1,Krampus O Lado Negro do Natal (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/390.mkv
+#EXTINF:-1,Junto ao Mar (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/389.mkv
+#EXTINF:-1,Hollow Creek (2016)
+http://fastroot.ddns.net:8000/movie/festas/festas/388.mkv
+#EXTINF:-1,Cabin Fever (2016)
+http://fastroot.ddns.net:8000/movie/festas/festas/387.mkv
+#EXTINF:-1,Alvin e os Esquilos A Grande Aventura (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/386.mkv
+#EXTINF:-1,A Ultima Noitada (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/385.mkv
+#EXTINF:-1,A Senhora da Furgoneta (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/384.mkv
+#EXTINF:-1,A Queda de Wall Street (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/383.mkv
+#EXTINF:-1,A Modista (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/382.mkv
+#EXTINF:-1,A Força da Verdade (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/381.mkv
+#EXTINF:-1,Victor Frankenstein (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/380.mkv
+#EXTINF:-1,The Boy - Segue as Regras (2016)
+http://fastroot.ddns.net:8000/movie/festas/festas/379.mkv
+#EXTINF:-1,Terminus (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/378.mkv
+#EXTINF:-1,Standoff (2016)
+http://fastroot.ddns.net:8000/movie/festas/festas/377.mkv
+#EXTINF:-1,Queen of the Desert (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/376.mkv
+#EXTINF:-1,Os Coopers São o Máximo (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/375.mkv
+#EXTINF:-1,O Caso Spotlight (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/370.mkv
+#EXTINF:-1,Jarhead 3 The Siege (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/374.mkv
+#EXTINF:-1,Hyena Road (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/373.mkv
+#EXTINF:-1,Carol (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/372.mkv
+#EXTINF:-1,A Perfect Day (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/371.mkv
+#EXTINF:-1,Velocidade Furiosa 7 (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/176.mkv
+#EXTINF:-1,Transporter: Potência Máxima (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/174.mkv
+#EXTINF:-1,Southpaw (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/172.mkv
+#EXTINF:-1,Sininho e a Lenda do Monstro do Nunca (2014)
+http://fastroot.ddns.net:8000/movie/festas/festas/170.mkv
+#EXTINF:-1,Shrek (2001)
+http://fastroot.ddns.net:8000/movie/festas/festas/164.mkv
+#EXTINF:-1,Perdido em Marte (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/175.mkv
+#EXTINF:-1,Noite em Fuga (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/173.mkv
+#EXTINF:-1,Noah (2014)
+http://fastroot.ddns.net:8000/movie/festas/festas/169.mkv
+#EXTINF:-1,Morte Limpa (2014)
+http://fastroot.ddns.net:8000/movie/festas/festas/167.mkv
+#EXTINF:-1,Kingsman: Serviços Secretos (2014)
+http://fastroot.ddns.net:8000/movie/festas/festas/168.mkv
+#EXTINF:-1,Herbie no Rally de Monte Carlo (1977)
+http://fastroot.ddns.net:8000/movie/festas/festas/163.mkv
+#EXTINF:-1,Extraction (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/171.mkv
+#EXTINF:-1,Eu Sou a Lenda (2007)
+http://fastroot.ddns.net:8000/movie/festas/festas/165.mkv
+#EXTINF:-1,American Sniper (2014)
+http://fastroot.ddns.net:8000/movie/festas/festas/166.mkv
+#EXTINF:-1,The Last Witch Hunter (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/159.mkv
+#EXTINF:-1,Solace Premonições (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/162.mkv
+#EXTINF:-1,Sicário - Infiltrado (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/161.mkv
+#EXTINF:-1,Os Profissionais da Crise (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/160.mkv
+#EXTINF:-1,Lendas do Crime (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/158.mkv
+#EXTINF:-1,Experimenter (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/157.mkv
+#EXTINF:-1,Crimson Peak: A Colina Vermelha (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/151.mkv
+#EXTINF:-1,Cidades de Papel
+http://fastroot.ddns.net:8000/movie/festas/festas/156.mkv
+#EXTINF:-1,Carro da Polícia (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/153.mkv
+#EXTINF:-1,Burnt (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/155.mkv
+#EXTINF:-1,American Hero (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/152.mkv
+#EXTINF:-1,Absolutely Anything - Uma Comédia Intergaláctica (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/150.mkv
+#EXTINF:-1,47 Ronin - A Grande Batalha Samurai (2013)
+http://fastroot.ddns.net:8000/movie/festas/festas/154.mkv
+#EXTINF:-1,Vendetta (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/148.mkv
+#EXTINF:-1,The Walk: O Desafio (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/147.mkv
+#EXTINF:-1,San Andreas (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/146.mkv
+#EXTINF:-1,Paranormal Activity: The Ghost Dimension (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/149.mkv
+#EXTINF:-1,O Segurança do Shopping: Las Vegas (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/145.mkv
+#EXTINF:-1,Mundo Jurássico (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/144.mkv
+#EXTINF:-1,Maze Runner: Provas de Fogo (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/143.mkv
+#EXTINF:-1,Max (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/142.mkv
+#EXTINF:-1,Hitman: Agente 47
+http://fastroot.ddns.net:8000/movie/festas/festas/141.mkv
+#EXTINF:-1,Ex Machina (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/138.mkv
+#EXTINF:-1,A Ponte dos Espiões (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/140.mkv
+#EXTINF:-1,12 Badaladas de Amor (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/139.mkv
+#EXTINF:-1,Sem Saída (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/133.mkv
+#EXTINF:-1,O Excêntrico Mortdecai (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/131.mkv
+#EXTINF:-1,Mission Impossible - Rogue Nation (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/132.mkv
+#EXTINF:-1,Fantastic Four (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/134.mkv
+#EXTINF:-1,Avengers Age of Ultron (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/136.mkv
+#EXTINF:-1,As Cinquenta Sombras de Grey (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/137.mkv
+#EXTINF:-1,American Ultra: Agentes Improváveis (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/135.mkv
+#EXTINF:-1,Mad Max: Estrada da Fúria (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/130.mkv
+#EXTINF:-1,Exterminador: Genisys (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/128.mkv
+#EXTINF:-1,Ascensão de Júpiter (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/129.mkv
+#EXTINF:-1,The Revenant: O Renascido (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/115.mkv
+#EXTINF:-1,Snoopy e Charlie Brown: Peanuts - O Filme (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/116.mkv
+#EXTINF:-1,O Principezinho (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/117.mkv
+#EXTINF:-1,007 Spectre (2015)
+http://fastroot.ddns.net:8000/movie/festas/festas/114.mkv
+#EXTINF:-1,|ES|: TELECINCO
+http://fastroot.ddns.net:8000/live/festas/festas/369.m3u8
+#EXTINF:-1,|ES|: TCM
+http://fastroot.ddns.net:8000/live/festas/festas/368.m3u8
+#EXTINF:-1,|ES|: SYFY
+http://fastroot.ddns.net:8000/live/festas/festas/367.m3u8
+#EXTINF:-1,|ES|: SOL MUSICA
+http://fastroot.ddns.net:8000/live/festas/festas/365.m3u8
+#EXTINF:-1,|ES|: PARAMOUNT CHANNEL
+http://fastroot.ddns.net:8000/live/festas/festas/362.m3u8
+#EXTINF:-1,|ES|: NOVA
+http://fastroot.ddns.net:8000/live/festas/festas/361.m3u8
+#EXTINF:-1,|ES|: NATIONAL GEOGRAPHIC
+http://fastroot.ddns.net:8000/live/festas/festas/359.m3u8
+#EXTINF:-1,|ES|: NAT GEO WILD
+http://fastroot.ddns.net:8000/live/festas/festas/358.m3u8
+#EXTINF:-1,|ES|: MOVISTAR MOTOGP
+http://fastroot.ddns.net:8000/live/festas/festas/356.m3u8
+#EXTINF:-1,|ES|: MOVISTAR F1
+http://fastroot.ddns.net:8000/live/festas/festas/355.m3u8
+#EXTINF:-1,|ES|: LTC
+http://fastroot.ddns.net:8000/live/festas/festas/353.m3u8
+#EXTINF:-1,|ES|: LA SEXTA
+http://fastroot.ddns.net:8000/live/festas/festas/352.m3u8
+#EXTINF:-1,|ES|: LA 2
+http://fastroot.ddns.net:8000/live/festas/festas/351.m3u8
+#EXTINF:-1,|ES|: LA 1
+http://fastroot.ddns.net:8000/live/festas/festas/350.m3u8
+#EXTINF:-1,|ES|: HOLLYWOOD
+http://fastroot.ddns.net:8000/live/festas/festas/349.m3u8
+#EXTINF:-1,|ES|: FRANCE 24
+http://fastroot.ddns.net:8000/live/festas/festas/348.m3u8
+#EXTINF:-1,|ES|: FOX LIFE
+http://fastroot.ddns.net:8000/live/festas/festas/347.m3u8
+#EXTINF:-1,|ES|: FOX
+http://fastroot.ddns.net:8000/live/festas/festas/346.m3u8
+#EXTINF:-1,|ES|: EUROSPORT 2
+http://fastroot.ddns.net:8000/live/festas/festas/345.m3u8
+#EXTINF:-1,|ES|: EUROSPORT 1
+http://fastroot.ddns.net:8000/live/festas/festas/344.m3u8
+#EXTINF:-1,|ES|: DISNEY XD
+http://fastroot.ddns.net:8000/live/festas/festas/341.m3u8
+#EXTINF:-1,|ES|: DISNEY CHANNEL
+http://fastroot.ddns.net:8000/live/festas/festas/340.m3u8
+#EXTINF:-1,|ES|: DISCOVERY CHANNEL
+http://fastroot.ddns.net:8000/live/festas/festas/339.m3u8
+#EXTINF:-1,|ES|: DCINE ESPANOL
+http://fastroot.ddns.net:8000/live/festas/festas/338.m3u8
+#EXTINF:-1,|ES|: CUATRO
+http://fastroot.ddns.net:8000/live/festas/festas/337.m3u8
+#EXTINF:-1,|ES|: COSMO
+http://fastroot.ddns.net:8000/live/festas/festas/336.m3u8
+#EXTINF:-1,|ES|: COMEDY CENTRAL
+http://fastroot.ddns.net:8000/live/festas/festas/335.m3u8
+#EXTINF:-1,|ES|: CAZA Y PESCA
+http://fastroot.ddns.net:8000/live/festas/festas/334.m3u8
+#EXTINF:-1,|ES|: CANAL SUR A
+http://fastroot.ddns.net:8000/live/festas/festas/333.m3u8
+#EXTINF:-1,|ES|: CANAL PANDA
+http://fastroot.ddns.net:8000/live/festas/festas/332.m3u8
+#EXTINF:-1,|ES|: CANAL ODISEA
+http://fastroot.ddns.net:8000/live/festas/festas/331.m3u8
+#EXTINF:-1,|ES|: CANAL HISTORIA
+http://fastroot.ddns.net:8000/live/festas/festas/330.m3u8
+#EXTINF:-1,|ES|: CANAL DECASA
+http://fastroot.ddns.net:8000/live/festas/festas/329.m3u8
+#EXTINF:-1,|ES|: CANAL COCINA
+http://fastroot.ddns.net:8000/live/festas/festas/328.m3u8
+#EXTINF:-1,|ES|: CANAL
+http://fastroot.ddns.net:8000/live/festas/festas/327.m3u8
+#EXTINF:-1,|ES|: CALLE 13
+http://fastroot.ddns.net:8000/live/festas/festas/326.m3u8
+#EXTINF:-1,|ES|: C  XTRA
+http://fastroot.ddns.net:8000/live/festas/festas/325.m3u8
+#EXTINF:-1,|ES|: C  SERIESXTRA
+http://fastroot.ddns.net:8000/live/festas/festas/324.m3u8
+#EXTINF:-1,|ES|: C  SERIES
+http://fastroot.ddns.net:8000/live/festas/festas/323.m3u8
+#EXTINF:-1,|ES|: C  PORTADA
+http://fastroot.ddns.net:8000/live/festas/festas/322.m3u8
+#EXTINF:-1,|ES|: C  LIGA
+http://fastroot.ddns.net:8000/live/festas/festas/321.m3u8
+#EXTINF:-1,|ES|: C  DEPORTES 2
+http://fastroot.ddns.net:8000/live/festas/festas/320.m3u8
+#EXTINF:-1,|ES|: C   GOLF
+http://fastroot.ddns.net:8000/live/festas/festas/319.m3u8
+#EXTINF:-1,|ES|: C   FUTBOL
+http://fastroot.ddns.net:8000/live/festas/festas/318.m3u8
+#EXTINF:-1,|ES|: C   ESTRENOS
+http://fastroot.ddns.net:8000/live/festas/festas/317.m3u8
+#EXTINF:-1,|ES|: C   DEPORTES
+http://fastroot.ddns.net:8000/live/festas/festas/316.m3u8
+#EXTINF:-1,|ES|: C   DCINE
+http://fastroot.ddns.net:8000/live/festas/festas/315.m3u8
+#EXTINF:-1,|ES|: C   COMEDIA
+http://fastroot.ddns.net:8000/live/festas/festas/314.m3u8
+#EXTINF:-1,|ES|: C   ACCI©N
+http://fastroot.ddns.net:8000/live/festas/festas/313.m3u8
+#EXTINF:-1,|ES|: BOING TV
+http://fastroot.ddns.net:8000/live/festas/festas/312.m3u8
+#EXTINF:-1,|ES|: BEIN SPORT
+http://fastroot.ddns.net:8000/live/festas/festas/342.m3u8
+#EXTINF:-1,|ES|: BARCA TV
+http://fastroot.ddns.net:8000/live/festas/festas/311.m3u8
+#EXTINF:-1,|ES|: AXN WHITE
+http://fastroot.ddns.net:8000/live/festas/festas/310.m3u8
+#EXTINF:-1,|ES|: AXN
+http://fastroot.ddns.net:8000/live/festas/festas/309.m3u8
+#EXTINF:-1,|ES|: ARAGON TV
+http://fastroot.ddns.net:8000/live/festas/festas/308.m3u8
+#EXTINF:-1,|ES|: ANTENA 3
+http://fastroot.ddns.net:8000/live/festas/festas/307.m3u8
+#EXTINF:-1,|ES|: AMC
+http://fastroot.ddns.net:8000/live/festas/festas/306.m3u8
+#EXTINF:-1,|ES|: ALJAZEERA ENG
+http://fastroot.ddns.net:8000/live/festas/festas/357.m3u8
+#EXTINF:-1,|ES|: A&E
+http://fastroot.ddns.net:8000/live/festas/festas/305.m3u8
+#EXTINF:-1,|ES|: 40 TV
+http://fastroot.ddns.net:8000/live/festas/festas/304.m3u8
+#EXTINF:-1,|ES|: 24 HORAS
+http://fastroot.ddns.net:8000/live/festas/festas/303.m3u8
+#EXTINF:-1,|FR|: WEO
+http://fastroot.ddns.net:8000/live/festas/festas/302.m3u8
+#EXTINF:-1,|FR|: W9
+http://fastroot.ddns.net:8000/live/festas/festas/301.m3u8
+#EXTINF:-1,|FR|: USHUAIA
+http://fastroot.ddns.net:8000/live/festas/festas/300.m3u8
+#EXTINF:-1,|FR|: TVA
+http://fastroot.ddns.net:8000/live/festas/festas/294.m3u8
+#EXTINF:-1,|FR|: TV5 MONDE
+http://fastroot.ddns.net:8000/live/festas/festas/299.m3u8
+#EXTINF:-1,|FR|: TF1
+http://fastroot.ddns.net:8000/live/festas/festas/297.m3u8
+#EXTINF:-1,|FR|: TEVA
+http://fastroot.ddns.net:8000/live/festas/festas/296.m3u8
+#EXTINF:-1,|FR|: TELETOON
+http://fastroot.ddns.net:8000/live/festas/festas/295.m3u8
+#EXTINF:-1,|FR|: SYFY
+http://fastroot.ddns.net:8000/live/festas/festas/293.m3u8
+#EXTINF:-1,|FR|: SERIE CLUB
+http://fastroot.ddns.net:8000/live/festas/festas/292.m3u8
+#EXTINF:-1,|FR|: SCIENCES E VIE TV
+http://fastroot.ddns.net:8000/live/festas/festas/291.m3u8
+#EXTINF:-1,|FR|: RTS LA UNE
+http://fastroot.ddns.net:8000/live/festas/festas/290.m3u8
+#EXTINF:-1,|FR|: RTS LA DEUX
+http://fastroot.ddns.net:8000/live/festas/festas/289.m3u8
+#EXTINF:-1,|FR|: RTL 9
+http://fastroot.ddns.net:8000/live/festas/festas/288.m3u8
+#EXTINF:-1,|FR|: RMC DECOUVERTE
+http://fastroot.ddns.net:8000/live/festas/festas/287.m3u8
+#EXTINF:-1,|FR|: PLANETE   CI
+http://fastroot.ddns.net:8000/live/festas/festas/286.m3u8
+#EXTINF:-1,|FR|: PLANETE
+http://fastroot.ddns.net:8000/live/festas/festas/285.m3u8
+#EXTINF:-1,|FR|: OCS CITY
+http://fastroot.ddns.net:8000/live/festas/festas/284.m3u8
+#EXTINF:-1,|FR|: NRJ 12
+http://fastroot.ddns.net:8000/live/festas/festas/283.m3u8
+#EXTINF:-1,|FR|: NATIONAL GEO CHANNEL
+http://fastroot.ddns.net:8000/live/festas/festas/282.m3u8
+#EXTINF:-1,|FR|: MANGAS
+http://fastroot.ddns.net:8000/live/festas/festas/281.m3u8
+#EXTINF:-1,|FR|: MA CHAINE SPORT
+http://fastroot.ddns.net:8000/live/festas/festas/298.m3u8
+#EXTINF:-1,|FR|: M6 MUSIC
+http://fastroot.ddns.net:8000/live/festas/festas/280.m3u8
+#EXTINF:-1,|FR|: M6
+http://fastroot.ddns.net:8000/live/festas/festas/279.m3u8
+#EXTINF:-1,|FR|: LA TELE
+http://fastroot.ddns.net:8000/live/festas/festas/278.m3u8
+#EXTINF:-1,|FR|: INFOSPORT
+http://fastroot.ddns.net:8000/live/festas/festas/277.m3u8
+#EXTINF:-1,|FR|: GULLI
+http://fastroot.ddns.net:8000/live/festas/festas/276.m3u8
+#EXTINF:-1,|FR|: FRANCE Ô
+http://fastroot.ddns.net:8000/live/festas/festas/275.m3u8
+#EXTINF:-1,|FR|: FRANCE 5
+http://fastroot.ddns.net:8000/live/festas/festas/274.m3u8
+#EXTINF:-1,|FR|: FRANCE 4
+http://fastroot.ddns.net:8000/live/festas/festas/273.m3u8
+#EXTINF:-1,|FR|: FRANCE 3
+http://fastroot.ddns.net:8000/live/festas/festas/272.m3u8
+#EXTINF:-1,|FR|: FRANCE 24
+http://fastroot.ddns.net:8000/live/festas/festas/271.m3u8
+#EXTINF:-1,|FR|: FRANCE 2
+http://fastroot.ddns.net:8000/live/festas/festas/270.m3u8
+#EXTINF:-1,|FR|: EUROSPORT 2
+http://fastroot.ddns.net:8000/live/festas/festas/268.m3u8
+#EXTINF:-1,|FR|: EUROSPORT 1
+http://fastroot.ddns.net:8000/live/festas/festas/269.m3u8
+#EXTINF:-1,|FR|: DORCEL
+http://fastroot.ddns.net:8000/live/festas/festas/267.m3u8
+#EXTINF:-1,|FR|: DISNEY JUNIOR
+http://fastroot.ddns.net:8000/live/festas/festas/264.m3u8
+#EXTINF:-1,|FR|: D8
+http://fastroot.ddns.net:8000/live/festas/festas/265.m3u8
+#EXTINF:-1,|FR|: D17
+http://fastroot.ddns.net:8000/live/festas/festas/266.m3u8
+#EXTINF:-1,|FR|: CINE POLAR
+http://fastroot.ddns.net:8000/live/festas/festas/259.m3u8
+#EXTINF:-1,|FR|: CINE CLASSIC
+http://fastroot.ddns.net:8000/live/festas/festas/263.m3u8
+#EXTINF:-1,|FR|: CINE   PREMIER
+http://fastroot.ddns.net:8000/live/festas/festas/262.m3u8
+#EXTINF:-1,|FR|: CHERIE 25
+http://fastroot.ddns.net:8000/live/festas/festas/261.m3u8
+#EXTINF:-1,|FR|: CHASSE E PECHE
+http://fastroot.ddns.net:8000/live/festas/festas/260.m3u8
+#EXTINF:-1,|FR|: CANAL J
+http://fastroot.ddns.net:8000/live/festas/festas/258.m3u8
+#EXTINF:-1,|FR|: CANAL   SPORT
+http://fastroot.ddns.net:8000/live/festas/festas/257.m3u8
+#EXTINF:-1,|FR|: CANAL   FRISSON
+http://fastroot.ddns.net:8000/live/festas/festas/252.m3u8
+#EXTINF:-1,|FR|: CANAL   FAMALY
+http://fastroot.ddns.net:8000/live/festas/festas/256.m3u8
+#EXTINF:-1,|FR|: CANAL   EMOTION
+http://fastroot.ddns.net:8000/live/festas/festas/255.m3u8
+#EXTINF:-1,|FR|: CANAL   DECALE
+http://fastroot.ddns.net:8000/live/festas/festas/254.m3u8
+#EXTINF:-1,|FR|: CANAL   CLASSIC
+http://fastroot.ddns.net:8000/live/festas/festas/251.m3u8
+#EXTINF:-1,|FR|: CANAL   CINEMA
+http://fastroot.ddns.net:8000/live/festas/festas/253.m3u8
+#EXTINF:-1,|FR|: CANAL
+http://fastroot.ddns.net:8000/live/festas/festas/250.m3u8
+#EXTINF:-1,|FR|: BOING
+http://fastroot.ddns.net:8000/live/festas/festas/249.m3u8
+#EXTINF:-1,|FR|: BFM TV
+http://fastroot.ddns.net:8000/live/festas/festas/248.m3u8
+#EXTINF:-1,|FR|: BEINSPORT 3
+http://fastroot.ddns.net:8000/live/festas/festas/247.m3u8
+#EXTINF:-1,|FR|: BEINSPORT 2
+http://fastroot.ddns.net:8000/live/festas/festas/246.m3u8
+#EXTINF:-1,|FR|: BEINSPORT 1
+http://fastroot.ddns.net:8000/live/festas/festas/245.m3u8
+#EXTINF:-1,|FR|: ARTE
+http://fastroot.ddns.net:8000/live/festas/festas/244.m3u8
+#EXTINF:-1,|FR|: ANIMAUX
+http://fastroot.ddns.net:8000/live/festas/festas/243.m3u8
+#EXTINF:-1,|FR|: ACTION
+http://fastroot.ddns.net:8000/live/festas/festas/242.m3u8
+#EXTINF:-1,|FR|: 13 EME RUE
+http://fastroot.ddns.net:8000/live/festas/festas/241.m3u8
+#EXTINF:-1,|GER|: 13th STREET
+http://fastroot.ddns.net:8000/live/festas/festas/185.m3u8
+#EXTINF:-1,|GER|: 3SAT
+http://fastroot.ddns.net:8000/live/festas/festas/186.m3u8
+#EXTINF:-1,|GER|: ANIXE HD
+http://fastroot.ddns.net:8000/live/festas/festas/194.m3u8
+#EXTINF:-1,|GER|: ARD
+http://fastroot.ddns.net:8000/live/festas/festas/187.m3u8
+#EXTINF:-1,|GER|: AXN
+http://fastroot.ddns.net:8000/live/festas/festas/188.m3u8
+#EXTINF:-1,|GER|: DISCOVERY CHANNEL
+http://fastroot.ddns.net:8000/live/festas/festas/189.m3u8
+#EXTINF:-1,|GER|: DISNEY CHANNEL
+http://fastroot.ddns.net:8000/live/festas/festas/191.m3u8
+#EXTINF:-1,|GER|: DMAX
+http://fastroot.ddns.net:8000/live/festas/festas/192.m3u8
+#EXTINF:-1,|GER|: FOX
+http://fastroot.ddns.net:8000/live/festas/festas/193.m3u8
+#EXTINF:-1,|GER|: KABEL 1
+http://fastroot.ddns.net:8000/live/festas/festas/195.m3u8
+#EXTINF:-1,|GER|: KIKA
+http://fastroot.ddns.net:8000/live/festas/festas/196.m3u8
+#EXTINF:-1,|GER|: N24
+http://fastroot.ddns.net:8000/live/festas/festas/197.m3u8
+#EXTINF:-1,|GER|: NATIONAL GEO WILD
+http://fastroot.ddns.net:8000/live/festas/festas/198.m3u8
+#EXTINF:-1,|GER|: NATIONAL GEOGRAPHIC
+http://fastroot.ddns.net:8000/live/festas/festas/199.m3u8
+#EXTINF:-1,|GER|: NDR HD
+http://fastroot.ddns.net:8000/live/festas/festas/200.m3u8
+#EXTINF:-1,|GER|: ORF 2
+http://fastroot.ddns.net:8000/live/festas/festas/201.m3u8
+#EXTINF:-1,|GER|: PRO 7
+http://fastroot.ddns.net:8000/live/festas/festas/202.m3u8
+#EXTINF:-1,|GER|: PROSIEBEN
+http://fastroot.ddns.net:8000/live/festas/festas/204.m3u8
+#EXTINF:-1,|GER|: RTL
+http://fastroot.ddns.net:8000/live/festas/festas/205.m3u8
+#EXTINF:-1,|GER|: RTL II
+http://fastroot.ddns.net:8000/live/festas/festas/206.m3u8
+#EXTINF:-1,|GER|: SAT 1
+http://fastroot.ddns.net:8000/live/festas/festas/207.m3u8
+#EXTINF:-1,|GER|: SKY 3D
+http://fastroot.ddns.net:8000/live/festas/festas/208.m3u8
+#EXTINF:-1,|GER|: SKY ACTION
+http://fastroot.ddns.net:8000/live/festas/festas/209.m3u8
+#EXTINF:-1,|GER|: SKY ATLANTIC
+http://fastroot.ddns.net:8000/live/festas/festas/210.m3u8
+#EXTINF:-1,|GER|: SKY CINEMA
+http://fastroot.ddns.net:8000/live/festas/festas/211.m3u8
+#EXTINF:-1,|GER|: SKY CINEMA 24
+http://fastroot.ddns.net:8000/live/festas/festas/212.m3u8
+#EXTINF:-1,|GER|: SKY CINEMA PLUS 24
+http://fastroot.ddns.net:8000/live/festas/festas/203.m3u8
+#EXTINF:-1,|GER|: SKY COMEDY
+http://fastroot.ddns.net:8000/live/festas/festas/213.m3u8
+#EXTINF:-1,|GER|: SKY EMOTION
+http://fastroot.ddns.net:8000/live/festas/festas/214.m3u8
+#EXTINF:-1,|GER|: SKY HITS
+http://fastroot.ddns.net:8000/live/festas/festas/215.m3u8
+#EXTINF:-1,|GER|: SKY NOSTALGIE
+http://fastroot.ddns.net:8000/live/festas/festas/216.m3u8
+#EXTINF:-1,|GER|: SKY SELECT HD2
+http://fastroot.ddns.net:8000/live/festas/festas/222.m3u8
+#EXTINF:-1,|GER|: SKY SELECT HD3
+http://fastroot.ddns.net:8000/live/festas/festas/223.m3u8
+#EXTINF:-1,|GER|: SKY SELECT HD4
+http://fastroot.ddns.net:8000/live/festas/festas/224.m3u8
+#EXTINF:-1,|GER|: SKY SELECT HD5
+http://fastroot.ddns.net:8000/live/festas/festas/225.m3u8
+#EXTINF:-1,|GER|: SKY SELECT HD6
+http://fastroot.ddns.net:8000/live/festas/festas/226.m3u8
+#EXTINF:-1,|GER|: SKY SELECT HD7
+http://fastroot.ddns.net:8000/live/festas/festas/227.m3u8
+#EXTINF:-1,|GER|: SKY SELECT HD8
+http://fastroot.ddns.net:8000/live/festas/festas/228.m3u8
+#EXTINF:-1,|GER|: SKY SPORT BUNDESLIGA 1
+http://fastroot.ddns.net:8000/live/festas/festas/218.m3u8
+#EXTINF:-1,|GER|: SKY SPORT BUNDESLIGA 1 SD
+http://fastroot.ddns.net:8000/live/festas/festas/217.m3u8
+#EXTINF:-1,|GER|: SKY SPORT HD 1
+http://fastroot.ddns.net:8000/live/festas/festas/219.m3u8
+#EXTINF:-1,|GER|: SKY SPORT HD 2
+http://fastroot.ddns.net:8000/live/festas/festas/220.m3u8
+#EXTINF:-1,|GER|: Sky-Select HD1
+http://fastroot.ddns.net:8000/live/festas/festas/221.m3u8
+#EXTINF:-1,|GER|: SPORT 1   HD
+http://fastroot.ddns.net:8000/live/festas/festas/229.m3u8
+#EXTINF:-1,|GER|: SPORT 1 HD
+http://fastroot.ddns.net:8000/live/festas/festas/230.m3u8
+#EXTINF:-1,|GER|: SPORT TIME TV 1
+http://fastroot.ddns.net:8000/live/festas/festas/231.m3u8
+#EXTINF:-1,|GER|: SPORT TIME TV 2
+http://fastroot.ddns.net:8000/live/festas/festas/232.m3u8
+#EXTINF:-1,|GER|: SUPER RTL
+http://fastroot.ddns.net:8000/live/festas/festas/233.m3u8
+#EXTINF:-1,|GER|: SWR
+http://fastroot.ddns.net:8000/live/festas/festas/234.m3u8
+#EXTINF:-1,|GER|: SYFY
+http://fastroot.ddns.net:8000/live/festas/festas/235.m3u8
+#EXTINF:-1,|GER|: TELECLUB SPORT 1
+http://fastroot.ddns.net:8000/live/festas/festas/190.m3u8
+#EXTINF:-1,|GER|: TNT FILM
+http://fastroot.ddns.net:8000/live/festas/festas/236.m3u8
+#EXTINF:-1,|GER|: TNT SERIE
+http://fastroot.ddns.net:8000/live/festas/festas/237.m3u8
+#EXTINF:-1,|GER|: VOX
+http://fastroot.ddns.net:8000/live/festas/festas/238.m3u8
+#EXTINF:-1,|GER|: WDR HD
+http://fastroot.ddns.net:8000/live/festas/festas/239.m3u8
+#EXTINF:-1,|GER|: ZDF HD
+http://fastroot.ddns.net:8000/live/festas/festas/240.m3u8
 
 
 
 
 
-#EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in 
-search free on the Internet I am not responsible for your use 
-[COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na 
-Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
-http://jerrymoz.wordpress.com
 
 
 
@@ -21,321 +790,3177 @@ http://jerrymoz.wordpress.com
 
 
 
-#EXTINF:-1 group-title="FRANCE Channels IPTV
-http://jerrymoz.wordpress.com 
-####################################################################################################################################
 
-#EXTINF:0,oooo_TNT_SAT_FRANCE_oooo
-http://www.t12v.com:8000/live/souad/souad/1185.ts
-#EXTINF:0,FR_TF1_HD
-http://www.t12v.com:8000/live/souad/souad/207.ts
-#EXTINF:0,FR_FRANCE_2_HD
-http://www.t12v.com:8000/live/souad/souad/208.ts
-#EXTINF:0,FR_FRANCE_3_HD
-http://www.t12v.com:8000/live/souad/souad/209.ts
-#EXTINF:0,FR_FRANCE_4_HD
-http://www.t12v.com:8000/live/souad/souad/820.ts
-#EXTINF:0,FR_FRANCE_5_HD
-http://www.t12v.com:8000/live/souad/souad/210.ts
-#EXTINF:0,FR_M6_HD
-http://www.t12v.com:8000/live/souad/souad/216.ts
-#EXTINF:0,FR_ARTE_HD
-http://www.t12v.com:8000/live/souad/souad/866.ts
-#EXTINF:0,FR_CINE_CLUB_HD
-http://www.t12v.com:8000/live/souad/souad/882.ts
-#EXTINF:0,FR_TMC_HD
-http://www.t12v.com:8000/live/souad/souad/226.ts
-#EXTINF:0,FR_RTL_9_HD
-http://www.t12v.com:8000/live/souad/souad/845.ts
-#EXTINF:0,FR_NT1
-http://www.t12v.com:8000/live/souad/souad/949.ts
-#EXTINF:0,FR_TEVA_HD
-http://www.t12v.com:8000/live/souad/souad/870.ts
-#EXTINF:0,FR_D8_HD
-http://www.t12v.com:8000/live/souad/souad/234.ts
-#EXTINF:0,FR_D_17
-http://www.t12v.com:8000/live/souad/souad/819.ts
-#EXTINF:0,FR_W9_HD
-http://www.t12v.com:8000/live/souad/souad/224.ts
-#EXTINF:0,FR_NRJ_12
-http://www.t12v.com:8000/live/souad/souad/1282.ts
-#EXTINF:0,FR_6ter hd
-http://www.t12v.com:8000/live/souad/souad/1814.ts
-#EXTINF:0,oooo_CSAT_CINEMA_oooo
-http://www.t12v.com:8000/live/souad/souad/1191.ts
-#EXTINF:0,FR_CANAL+_HD
-http://www.t12v.com:8000/live/souad/souad/201.ts
-#EXTINF:0,FR_CANAL+_CINEMA_HD
-http://www.t12v.com:8000/live/souad/souad/202.ts
-#EXTINF:0,FR_CANAL+_FAMILY_HD
-http://www.t12v.com:8000/live/souad/souad/204.ts
-#EXTINF:0,FR_CANAL+_DECALE_HD
-http://www.t12v.com:8000/live/souad/souad/203.ts
-#EXTINF:0,FR_CANAL+_SERIES_HD
-http://www.t12v.com:8000/live/souad/souad/868.ts
-#EXTINF:0,FR_CINE+_FRISSON_HD
-http://www.t12v.com:8000/live/souad/souad/877.ts
-#EXTINF:0,FR_CINE+_PREMIER_HD
-http://www.t12v.com:8000/live/souad/souad/878.ts
-#EXTINF:0,FR_CINE+_EMOTION_HD
-http://www.t12v.com:8000/live/souad/souad/875.ts
-#EXTINF:0,FR_CINE+_FAMIZ_HD
-http://www.t12v.com:8000/live/souad/souad/876.ts
-#EXTINF:0,FR_CINE_CLASSIC_HD
-http://www.t12v.com:8000/live/souad/souad/869.ts
-#EXTINF:0,FR_CINE_POLAR
-http://www.t12v.com:8000/live/souad/souad/950.ts
-#EXTINF:0,FR_CINE_FIL
-http://www.t12v.com:8000/live/souad/souad/874.ts
-#EXTINF:0,FR_TCM
-http://www.t12v.com:8000/live/souad/souad/1219.ts
-#EXTINF:0,FR_OCS_CITY
-http://www.t12v.com:8000/live/souad/souad/698.ts
-#EXTINF:0,FR_OCS_CHOC_HD
-http://www.t12v.com:8000/live/souad/souad/959.ts
-#EXTINF:0,FR_OCS_GEANTS
-http://www.t12v.com:8000/live/souad/souad/903.ts
-#EXTINF:0,FR_OCS_MAX
-http://www.t12v.com:8000/live/souad/souad/902.ts
-#EXTINF:0,FR_ACTION
-http://www.t12v.com:8000/live/souad/souad/863.ts
-#EXTINF:0,FR_CINE_FX
-http://www.t12v.com:8000/live/souad/souad/826.ts
-#EXTINF:0,FR_CINE_ETOILE
-http://www.t12v.com:8000/live/souad/souad/873.ts
-#EXTINF:0,oooo_CSAT_ENTERTAINMENT_oooo
-http://www.t12v.com:8000/live/souad/souad/1190.ts
-#EXTINF:0,FR_13EME_RUE_HD
-http://www.t12v.com:8000/live/souad/souad/214.ts
-#EXTINF:0,FR_COMEDIE+
-http://www.t12v.com:8000/live/souad/souad/872.ts
-#EXTINF:0,FR_PARIS_PREMIERE_HD
-http://www.t12v.com:8000/live/souad/souad/181.ts
-#EXTINF:0,FR_SYFY_HD
-http://www.t12v.com:8000/live/souad/souad/95.ts
-#EXTINF:0,FR_AB1
-http://www.t12v.com:8000/live/souad/souad/862.ts
-#EXTINF:0,FR_E_ENTERTAINMENT
-http://www.t12v.com:8000/live/souad/souad/871.ts
-#EXTINF:0,FR_SERIE_CLUB_HD
-http://www.t12v.com:8000/live/souad/souad/225.ts
-#EXTINF:0,FR_JUNE_TV
-http://www.t12v.com:8000/live/souad/souad/231.ts
-#EXTINF:0,FR_AB_1
-http://www.t12v.com:8000/live/souad/souad/227.ts
-#EXTINF:0,oooo_CSAT_INFOS_oooo
-http://www.t12v.com:8000/live/souad/souad/1189.ts
-#EXTINF:0,FR_LCI
-http://www.t12v.com:8000/live/souad/souad/1227.ts
-#EXTINF:0,FR_WEO
-http://www.t12v.com:8000/live/souad/souad/1217.ts
-#EXTINF:0,FR_I_TELE
-http://www.t12v.com:8000/live/souad/souad/213.ts
-#EXTINF:0,FR_BFM_TV
-http://www.t12v.com:8000/live/souad/souad/211.ts
-#EXTINF:0,FR_ESCALES
-http://www.t12v.com:8000/live/souad/souad/861.ts
-#EXTINF:0,FR_TV5_FR
-http://www.t12v.com:8000/live/souad/souad/168.ts
-#EXTINF:0,oooo_CSAT_JEUNESSE_oooo
-http://www.t12v.com:8000/live/souad/souad/1188.ts
-#EXTINF:0,FR_TIJI
-http://www.t12v.com:8000/live/souad/souad/235.ts
-#EXTINF:0,FR_PIWI
-http://www.t12v.com:8000/live/souad/souad/1221.ts
-#EXTINF:0,FR_GULLI
-http://www.t12v.com:8000/live/souad/souad/212.ts
-#EXTINF:0,FR_BOING
-http://www.t12v.com:8000/live/souad/souad/897.ts
-#EXTINF:0,FR_TELETOON
-http://www.t12v.com:8000/live/souad/souad/1178.ts
-#EXTINF:0,FR_TELETOON+
-http://www.t12v.com:8000/live/souad/souad/827.ts
-#EXTINF:0,FR_CANAL_J_HD
-http://www.t12v.com:8000/live/souad/souad/198.ts
-#EXTINF:0,FR_BOOMERANG_HD
-http://www.t12v.com:8000/live/souad/souad/867.ts
-#EXTINF:0,FR_DISNEY_XD
-http://www.t12v.com:8000/live/souad/souad/52.ts
-#EXTINF:0,FR_DISNEY_CHANNEL
-http://www.t12v.com:8000/live/souad/souad/236.ts
-#EXTINF:0,FR_DISNEY_JUNIOR
-http://www.t12v.com:8000/live/souad/souad/853.ts
-#EXTINF:0,FR_DISNEY_CINEMAGIC
-http://www.t12v.com:8000/live/souad/souad/901.ts
-#EXTINF:0,FR_MANGA
-http://www.t12v.com:8000/live/souad/souad/1223.ts
-#EXTINF:0,FR_ZOUZOUS
-http://www.t12v.com:8000/live/souad/souad/881.ts
-#EXTINF:0,FR_MINIMAX
-http://www.t12v.com:8000/live/souad/souad/884.ts
-#EXTINF:0,FR_CARTOON_NETWORK_HD
-http://www.t12v.com:8000/live/souad/souad/218.ts
-#EXTINF:0,oooo_BEIN_SPORT_HD_FRANCE_oooo
-http://www.t12v.com:8000/live/souad/souad/1129.ts
-#EXTINF:0,FR_BEIN_SPORTS_1_HD
-http://www.t12v.com:8000/live/souad/souad/199.ts
-#EXTINF:0,FR_BEIN_SPORTS_2_HD
-http://www.t12v.com:8000/live/souad/souad/200.ts
-#EXTINF:0,FR_BEIN_SPORTS_3_HD
-http://www.t12v.com:8000/live/souad/souad/594.ts
-#EXTINF:0,FR_BEIN_SPORT_MAX_4
-http://www.t12v.com:8000/live/souad/souad/1269.ts
-#EXTINF:0,FR_BEIN_SPORT_MAX_5
-http://www.t12v.com:8000/live/souad/souad/1268.ts
-#EXTINF:0,FR_BEIN_SPORT_MAX_6
-http://www.t12v.com:8000/live/souad/souad/233.ts
-#EXTINF:0,FR_BEIN_SPORT_MAX_7
-http://www.t12v.com:8000/live/souad/souad/232.ts
-#EXTINF:0,FR_BEIN_SPORT_MAX_8
-http://www.t12v.com:8000/live/souad/souad/1232.ts
-#EXTINF:0,oooo_CSAT_SPORT_oooo
-http://www.t12v.com:8000/live/souad/souad/1124.ts
-#EXTINF:0,FR_CANAL+_SPORT_HD
-http://www.t12v.com:8000/live/souad/souad/205.ts
-#EXTINF:0,FR_MA_CHAINE_SPORT
-http://www.t12v.com:8000/live/souad/souad/846.ts
-#EXTINF:0,FR_KOMBAT_SPORT_HD
-http://www.t12v.com:8000/live/souad/souad/171.ts
-#EXTINF:0,FR_INFOSPORT+
-http://www.t12v.com:8000/live/souad/souad/879.ts
-#EXTINF:0,FR_EUROSPORT
-http://www.t12v.com:8000/live/souad/souad/206.ts
-#EXTINF:0,FR_FOOT+
-http://www.t12v.com:8000/live/souad/souad/883.ts
-#EXTINF:0,FR_SPORT+
-http://www.t12v.com:8000/live/souad/souad/167.ts
-#EXTINF:0,FR_SPORTS+
-http://www.t12v.com:8000/live/souad/souad/723.ts
-#EXTINF:0,FR_GOLF+
-http://www.t12v.com:8000/live/souad/souad/112.ts
-#EXTINF:0,FR_OL_TV
-http://www.t12v.com:8000/live/souad/souad/844.ts
-#EXTINF:0,FR_EQUIDIA
-http://www.t12v.com:8000/live/souad/souad/170.ts
-#EXTINF:0,FR_L_EQUIPE_21
-http://www.t12v.com:8000/live/souad/souad/102.ts
-#EXTINF:0,oooo_CSAT_DECOUVERTES_oooo
-http://www.t12v.com:8000/live/souad/souad/497.ts
-#EXTINF:0,FR_PLANETE+_HD
-http://www.t12v.com:8000/live/souad/souad/221.ts
-#EXTINF:0,FR_PLANETE+_CI
-http://www.t12v.com:8000/live/souad/souad/222.ts
-#EXTINF:0,FR_PLANETE_AE_HD
-http://www.t12v.com:8000/live/souad/souad/230.ts
-#EXTINF:0,FR_PLANETE+_THALASSA_HD
-http://www.t12v.com:8000/live/souad/souad/67.ts
-#EXTINF:0,FR_NATIONAL_GEO_HD
-http://www.t12v.com:8000/live/souad/souad/239.ts
-#EXTINF:0,FR_NATIONAL_GEO_WILD_HD
-http://www.t12v.com:8000/live/souad/souad/217.ts
-#EXTINF:0,FR_USHUAIA_TV_HD
-http://www.t12v.com:8000/live/souad/souad/223.ts
-#EXTINF:0,FR_DISCOVERY_SHOWCASE_HD
-http://www.t12v.com:8000/live/souad/souad/80.ts
-#EXTINF:0,FR_DISCOVERY_SCIENCES
-http://www.t12v.com:8000/live/souad/souad/76.ts
-#EXTINF:0,FR_VOYAGE_HD
-http://www.t12v.com:8000/live/souad/souad/84.ts
-#EXTINF:0,FR_ANIMAUX_HD
-http://www.t12v.com:8000/live/souad/souad/865.ts
-#EXTINF:0,FR_CHASSE_ET_PECHE
-http://www.t12v.com:8000/live/souad/souad/860.ts
-#EXTINF:0,FR_SCIENCES_VIE_TV
-http://www.t12v.com:8000/live/souad/souad/1220.ts
-#EXTINF:0,FR_RMC_DECOUVERTE
-http://www.t12v.com:8000/live/souad/souad/83.ts
-#EXTINF:0,oooo_CSAT_ORANGE_SWISS_oooo
-http://www.t12v.com:8000/live/souad/souad/1127.ts
-#EXTINF:0,FR_RTS_LA_UNE_HD
-http://www.t12v.com:8000/live/souad/souad/124.ts
-#EXTINF:0,FR_RTS_1_HD
-http://www.t12v.com:8000/live/souad/souad/145.ts
-#EXTINF:0,FR_RTS_LA_DEUX_HD
-http://www.t12v.com:8000/live/souad/souad/121.ts
-#EXTINF:0,FR_RTS_2_HD
-http://www.t12v.com:8000/live/souad/souad/138.ts
-#EXTINF:0,FR_FRANCE_O
-http://www.t12v.com:8000/live/souad/souad/228.ts
-#EXTINF:0,FR_TV5_MONDE
-http://www.t12v.com:8000/live/souad/souad/1218.ts
-#EXTINF:0,FR_TOUTE_L_HISTOIRE
-http://www.t12v.com:8000/live/souad/souad/880.ts
-#EXTINF:0,FR_ENCYCLO
-http://www.t12v.com:8000/live/souad/souad/864.ts
-#EXTINF:0,FR_BFM_BUSNESS
-http://www.t12v.com:8000/live/souad/souad/219.ts
-#EXTINF:0,FR_CHERIE_25
-http://www.t12v.com:8000/live/souad/souad/169.ts
-#EXTINF:0,oooo_CSAT_MUSIQUE_oooo
-http://www.t12v.com:8000/live/souad/souad/1128.ts
-#EXTINF:0,FR_NRJ
-http://www.t12v.com:8000/live/souad/souad/220.ts
-#EXTINF:0,FR_VH1
-http://www.t12v.com:8000/live/souad/souad/109.ts
-#EXTINF:0,FR_MTV_HITS
-http://www.t12v.com:8000/live/souad/souad/103.ts
-#EXTINF:0,FR_M6_MUSIC
-http://www.t12v.com:8000/live/souad/souad/160.ts
-#EXTINF:0,FR_MCM_POP
-http://www.t12v.com:8000/live/souad/souad/161.ts
-#EXTINF:0,FR_MTV_DANCE_FR
-http://www.t12v.com:8000/live/souad/souad/85.ts
-#EXTINF:0,oooo_CSAT_PPV_VOD_oooo
-http://www.t12v.com:8000/live/souad/souad/1132.ts
-#EXTINF:0,FR_CANAL_PLAY_3D
-http://www.t12v.com:8000/live/souad/souad/1267.ts
-#EXTINF:0,FR_CANAL_PLAY_1
-http://www.t12v.com:8000/live/souad/souad/1266.ts
-#EXTINF:0,FR_CANAL_PLAY_2
-http://www.t12v.com:8000/live/souad/souad/1265.ts
-#EXTINF:0,FR_CANAL_PLAY_3
-http://www.t12v.com:8000/live/souad/souad/1264.ts
-#EXTINF:0,FR_CANAL_PLAY_4
-http://www.t12v.com:8000/live/souad/souad/1263.ts
-#EXTINF:0,FR_CANAL_PLAY_5
-http://www.t12v.com:8000/live/souad/souad/1262.ts
-#EXTINF:0,FR_CANAL_PLAY_6
-http://www.t12v.com:8000/live/souad/souad/1261.ts
-#EXTINF:0,FR_CANAL_PLAY_7
-http://www.t12v.com:8000/live/souad/souad/1260.ts
-#EXTINF:0,FR_CANAL_PLAY_8
-http://www.t12v.com:8000/live/souad/souad/1259.ts
-#EXTINF:0,FR_CANAL_PLAY_9
-http://www.t12v.com:8000/live/souad/souad/1258.ts
-#EXTINF:0,FR_CANAL_PLAY_10
-http://www.t12v.com:8000/live/souad/souad/1257.ts
-#EXTINF:0,FR_CANAL_PLAY_11
-http://www.t12v.com:8000/live/souad/souad/1817.ts
-#EXTINF:0,FR_CANAL_PLAY_12
-http://www.t12v.com:8000/live/souad/souad/1818.ts
-#EXTINF:0,FR_CANAL_PLAY_13
-http://www.t12v.com:8000/live/souad/souad/1819.ts
-#EXTINF:0,FR_CANAL_PLAY_14
-http://www.t12v.com:8000/live/souad/souad/1820.ts
-#EXTINF:0,FR_CANAL_PLAY_15
-http://www.t12v.com:8000/live/souad/souad/1821.ts
-#EXTINF:0,FR_CANAL_PLAY_16
-http://www.t12v.com:8000/live/souad/souad/1822.ts
-#EXTINF:0,FR_CANAL_PLAY_17
-http://www.t12v.com:8000/live/souad/souad/1823.ts
-#EXTINF:0,FR_CANAL_PLAY_18
-http://www.t12v.com:8000/live/souad/souad/1824.ts
-#EXTINF:0,FR_CANAL_PLAY_19
-http://www.t12v.com:8000/live/souad/souad/1825.ts
-#EXTINF:0,FR_CANAL_PLAY_20
-http://www.t12v.com:8000/live/souad/souad/1826.ts
-#EXTINF:0,oooo_CSAT_ADULTES_oooo
-http://www.t12v.com:8000/live/souad/souad/1133.ts
-#EXTINF:0,FR_A_LA_CARTE_X_ADULTES_1
-http://www.t12v.com:8000/live/souad/souad/1271.ts
-#EXTINF:0,FR_XXL
-http://www.t12v.com:8000/live/souad/souad/1270.ts
-#EXTINF:0,FR_DORCEL
-http://www.t12v.com:8000/live/souad/souad/1256.ts
-#EXTINF:0,FR_HUSTLER_HD
-http://www.t12v.com:8000/live/souad/souad/1196.ts
-#EXTINF:0,FR_BLUE_HUSTLER
-http://www.t12v.com:8000/live/souad/souad/1195.ts
-#EXTINF:0,FR_PENTHOUSE_HD
-http://www.t12v.com:8000/live/souad/souad/1194.ts
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,PT-SPORT TV 1 HD 720p
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1329.m3u8
+#EXTINF:-1,PT-SPORT TV 2  HD  720p
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1331.m3u8
+#EXTINF:-1,PT-SPORT TV 3 HD  720p
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1330.m3u8
+#EXTINF:-1,PT-SPORT TV 4  HD  720p
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1332.m3u8
+#EXTINF:-1,PT-SPORT TV 5  SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1328.m3u8
+#EXTINF:-1,PT-BENFICA TV 1  HD 720p
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1335.m3u8
+#EXTINF:-1,PT-BENFICA TV 2 HD   720p
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1336.m3u8
+#EXTINF:-1,PT-SPORTING TV  SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1337.m3u8
+#EXTINF:-1,PT-EUROSPORT  HD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1334.m3u8
+#EXTINF:-1,PT-EUROSPORT 2 SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1370.m3u8
+#EXTINF:-1,PT-SPORT TV AMERICAS ( Canal de Internet )
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1333.m3u8
+#EXTINF:-1,PT-TOROS TV SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1372.m3u8
+#EXTINF:-1,PT-MOTORS TV SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1371.m3u8
+#EXTINF:-1,PT-REAL MADRID TV SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1338.m3u8
+#EXTINF:-1,PT-CHELSEA TV SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1339.m3u8
+#EXTINF:-1,PT-TV CINE 1  HD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1351.m3u8
+#EXTINF:-1,PT-TV CINE 2  HD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1352.m3u8
+#EXTINF:-1,PT-TV CINE 3  HD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1353.m3u8
+#EXTINF:-1,PT-TV CINE 4 HD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1354.m3u8
+#EXTINF:-1,PT-TV SERIES  HD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1355.m3u8
+#EXTINF:-1,PT-MOV  HD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1356.m3u8
+#EXTINF:-1,PT-HOLLYWOD SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1347.m3u8
+#EXTINF:-1,PT-AXN  HD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1357.m3u8
+#EXTINF:-1,PT-FOX  HD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1359.m3u8
+#EXTINF:-1,PT-FOX MOVIES  SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1350.m3u8
+#EXTINF:-1,PT-FOX CRIME  HD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1360.m3u8
+#EXTINF:-1,PT-FOX LIFE  HD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1358.m3u8
+#EXTINF:-1,PT-AMC  SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1346.m3u8
+#EXTINF:-1,PT-E! ENTERTAINMENT  SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1348.m3u8
+#EXTINF:-1,PT-SYFY SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1363.m3u8
+#EXTINF:-1,PT-TVI SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1319.m3u8
+#EXTINF:-1,PT-TVI 24  SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1321.m3u8
+#EXTINF:-1,PT-TV GLOBO PORTUGAL  SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1323.m3u8
+#EXTINF:-1,PT-SIC SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1318.m3u8
+#EXTINF:-1,PT-SIC NOTICIAS  SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1320.m3u8
+#EXTINF:-1,PT-SIC CARAS  SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1326.m3u8
+#EXTINF:-1,PT-RTP INTERNACIONAL SD ( Canal Internet )
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1369.m3u8
+#EXTINF:-1,PT-RTP INFORMAÇÃO  SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1322.m3u8
+#EXTINF:-1,PT-RTP 1  SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1316.m3u8
+#EXTINF:-1,PT-RTP 2  SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1317.m3u8
+#EXTINF:-1,PT-PORTO CANAL  SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1325.m3u8
+#EXTINF:-1,PT-CMTV  SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1324.m3u8
+#EXTINF:-1,PT-CINEMUNDO  SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1349.m3u8
+#EXTINF:-1,PT-FOX NEWS SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1375.m3u8
+#EXTINF:-1,PT-CANAL Q  SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1327.m3u8
+#EXTINF:-1,PT-A&E SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1374.m3u8
+#EXTINF:-1,PT-24 Kitchen  HD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1366.m3u8
+#EXTINF:-1,PT-NATIONAL GEOGRAPHIC HD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1368.m3u8
+#EXTINF:-1,PT-NAT GEO WILD  SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1362.m3u8
+#EXTINF:-1,PT-DISCOVERY SHOWCASE HD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1367.m3u8
+#EXTINF:-1,PT-DISCOVERY CHANNEL  SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1361.m3u8
+#EXTINF:-1,PT-CANAL HISTORIA SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1365.m3u8
+#EXTINF:-1,PT-CACA E PESCA SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1373.m3u8
+#EXTINF:-1,PT-DISNEY JUNIOR SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1343.m3u8
+#EXTINF:-1,PT-DISNEY CHANNEL SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1340.m3u8
+#EXTINF:-1,PT-NICKELODEON  SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1342.m3u8
+#EXTINF:-1,PT-CARTOON NETWORK  SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1345.m3u8
+#EXTINF:-1,PT-BABY TV SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1344.m3u8
+#EXTINF:-1,PT-ODISSEIA SD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1364.m3u8
+#EXTINF:-1,PT-PANDA SD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,ESP - La 1
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1259.m3u8
+#EXTINF:-1,ESP - La 2
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1260.m3u8
+#EXTINF:-1,ESP - Cuatro
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1261.m3u8
+#EXTINF:-1,ESP - Telecinco
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1262.m3u8
+#EXTINF:-1,ESP - La Sexta
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1263.m3u8
+#EXTINF:-1,ESP - Canal
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1264.m3u8
+#EXTINF:-1,ESP - C  Comedia
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1270.m3u8
+#EXTINF:-1,ESP - C  Accion
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1271.m3u8
+#EXTINF:-1,ESP - Canal  Estrenos
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1265.m3u8
+#EXTINF:-1,ESP - Canal  Xtra
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1266.m3u8
+#EXTINF:-1,ESP - C  Series Xtra
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1267.m3u8
+#EXTINF:-1,ESP - D Cine
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1269.m3u8
+#EXTINF:-1,ESP - C  Dcine
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1268.m3u8
+#EXTINF:-1,ESP - AXN
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1272.m3u8
+#EXTINF:-1,ESP - AXN White
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1273.m3u8
+#EXTINF:-1,ESP - Fox
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1274.m3u8
+#EXTINF:-1,ESP - Fox Life
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1275.m3u8
+#EXTINF:-1,ESP - TNT
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1276.m3u8
+#EXTINF:-1,ESP - TCM
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1277.m3u8
+#EXTINF:-1,ESP - Canal  Liga
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1278.m3u8
+#EXTINF:-1,ESP - C  Futbol
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1280.m3u8
+#EXTINF:-1,ESP - Canal  Deportes
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1281.m3u8
+#EXTINF:-1,ESP - Moviestar F1
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1282.m3u8
+#EXTINF:-1,ESP - GOLF
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1283.m3u8
+#EXTINF:-1,ESP - Clan TVE
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1284.m3u8
+#EXTINF:-1,ESP - Nova
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1285.m3u8
+#EXTINF:-1,ESP - Viajar
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1286.m3u8
+#EXTINF:-1,ESP - Cosmopolitan
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1287.m3u8
+#EXTINF:-1,ESP - Calle 13
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1288.m3u8
+#EXTINF:-1,ESP - Comedy Central
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1289.m3u8
+#EXTINF:-1,ESP - Canal Hollywood
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1290.m3u8
+#EXTINF:-1,ESP - SYFY
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1291.m3u8
+#EXTINF:-1,ESP - NATIONAL GEO
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1292.m3u8
+#EXTINF:-1,ESP - NatGeo Wild
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1293.m3u8
+#EXTINF:-1,ESP - Historia
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1294.m3u8
+#EXTINF:-1,ESP - Caza y Pesca
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1295.m3u8
+#EXTINF:-1,ESP - Disney XD
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1296.m3u8
+#EXTINF:-1,ESP - Disney Channel
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1297.m3u8
+#EXTINF:-1,ESP - Disney Junior
+http://xtream.iptv-streamer.com:8000/live/aa/aa/1298.m3u8
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1,==========Spain==========
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7231.m3u8
+#EXTINF:-1,SP: LA1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/33.m3u8
+#EXTINF:-1,SP: LA2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/34.m3u8
+#EXTINF:-1,SP: ANTENA 3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/407.m3u8
+#EXTINF:-1,SP: CUATRO
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/24.m3u8
+#EXTINF:-1,SP: TELECINCO HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7209.m3u8
+#EXTINF:-1,SP: TELECINCO
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/44.m3u8
+#EXTINF:-1,SP: LA SEXTA HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/408.m3u8
+#EXTINF:-1,SP: NEOX
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7194.m3u8
+#EXTINF:-1,SP: NOVA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/42.m3u8
+#EXTINF:-1,SP: MEGA TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7200.m3u8
+#EXTINF:-1,SP: FDF
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/404.m3u8
+#EXTINF:-1,SP: DIVINITY
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7196.m3u8
+#EXTINF:-1,SP: ENERGY
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/405.m3u8
+#EXTINF:-1,SP: ANDALUCIA TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7195.m3u8
+#EXTINF:-1,SP: CANAL+ ACCION
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5.m3u8
+#EXTINF:-1,SP: CANAL+ COMEDIA HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7211.m3u8
+#EXTINF:-1,SP: CANAL+ COMEDIA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/6.m3u8
+#EXTINF:-1,SP: CANAL+ XTRA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/16.m3u8
+#EXTINF:-1,SP: CANAL+ TOROS
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/15.m3u8
+#EXTINF:-1,SP: CANAL+ DCINE HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7210.m3u8
+#EXTINF:-1,SP: CANAL+ DCINE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7224.m3u8
+#EXTINF:-1,SP: CANAL+ SERIES
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/13.m3u8
+#EXTINF:-1,SP: CANAL+ SERIESXTRA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/14.m3u8
+#EXTINF:-1,SP: CANAL+ ESTRENOS
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/9.m3u8
+#EXTINF:-1,SP: CANAL+ DEPORTES
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/8.m3u8
+#EXTINF:-1,SP: CANAL+ DEPORTES 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7197.m3u8
+#EXTINF:-1,SP: CANAL+ LIGA HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/418.m3u8
+#EXTINF:-1,SP: CANAL+ LIGA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/12.m3u8
+#EXTINF:-1,SP: CANAL+ GOLF HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7202.m3u8
+#EXTINF:-1,SP: CANAL+ GOLF
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/11.m3u8
+#EXTINF:-1,SP: CANAL+ FUTBOL
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/10.m3u8
+#EXTINF:-1,SP: Bein Sport HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5983.m3u8
+#EXTINF:-1,SP: Bein Sports
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/587.m3u8
+#EXTINF:-1,SP: Canal
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/415.m3u8
+#EXTINF:-1,SP: Taquilla 9
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5949.m3u8
+#EXTINF:-1,SP: Taquilla 8
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5950.m3u8
+#EXTINF:-1,SP: Taquilla 7
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5951.m3u8
+#EXTINF:-1,SP: Taquilla 6
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5952.m3u8
+#EXTINF:-1,SP: Taquilla 5
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5953.m3u8
+#EXTINF:-1,SP: Taquilla 4
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5954.m3u8
+#EXTINF:-1,SP: Taquilla 3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5955.m3u8
+#EXTINF:-1,SP: Taquilla 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5956.m3u8
+#EXTINF:-1,SP: Taquilla 10
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5957.m3u8
+#EXTINF:-1,SP: Taquilla 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5958.m3u8
+#EXTINF:-1,SP: Movistar MotoGp
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5962.m3u8
+#EXTINF:-1,SP: CANAL COCINA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7201.m3u8
+#EXTINF:-1,SP: PARAMOUNT
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7212.m3u8
+#EXTINF:-1,SP: HBO LATINO
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7215.m3u8
+#EXTINF:-1,SP: COMEDIA CENTRAL
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7216.m3u8
+#EXTINF:-1,SP: Movistar F1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5963.m3u8
+#EXTINF:-1,SP: GOL TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5946.m3u8
+#EXTINF:-1,SP: BARCA TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7213.m3u8
+#EXTINF:-1,SP: SEVILLA FC
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/6006.m3u8
+#EXTINF:-1,SP: Real Madrid tv
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/422.m3u8
+#EXTINF:-1,SP: TyC SPORTS
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/421.m3u8
+#EXTINF:-1,SP: CANAL DECASA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1760.m3u8
+#EXTINF:-1,SP: TV GALICIA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/410.m3u8
+#EXTINF:-1,SP: Proyecto 40
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/426.m3u8
+#EXTINF:-1,SP: CLAN TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/413.m3u8
+#EXTINF:-1,SP: CANAL 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/406.m3u8
+#EXTINF:-1,SP: SOL MUSICA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/411.m3u8
+#EXTINF:-1,SP: BOING
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/409.m3u8
+#EXTINF:-1,SP: TNT
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/46.m3u8
+#EXTINF:-1,SP: TCM
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/43.m3u8
+#EXTINF:-1,SP:  SYFY
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/48.m3u8
+#EXTINF:-1,SP: NICKELODEON
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/40.m3u8
+#EXTINF:-1,SP: NICK JR
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/41.m3u8
+#EXTINF:-1,SP: NATIONAL GEOGRAPHIC
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/38.m3u8
+#EXTINF:-1,SP: NAT GEO WILD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/39.m3u8
+#EXTINF:-1,SP: LA SEXTA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/35.m3u8
+#EXTINF:-1,SP: HISTORIA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/31.m3u8
+#EXTINF:-1,SP: FOX
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/29.m3u8
+#EXTINF:-1,SP: FOX LIFE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/30.m3u8
+#EXTINF:-1,SP: DISNEY XD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/28.m3u8
+#EXTINF:-1,SP: DISNEY JUNIOR
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/27.m3u8
+#EXTINF:-1,SP: DISNEY CHANNEL
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/26.m3u8
+#EXTINF:-1,SP: COMEDY CENTRAL
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/22.m3u8
+#EXTINF:-1,SP: CAZA Y PESCA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/21.m3u8
+#EXTINF:-1,SP: CANAL HOLLYWOOD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/32.m3u8
+#EXTINF:-1,SP: CALLE 13
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/17.m3u8
+#EXTINF:-1,SP: AXN WHITE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4.m3u8
+#EXTINF:-1,SP: AXN
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/3.m3u8
+#EXTINF:-1,SP: A&E
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/2.m3u8
+#EXTINF:-1,SP: VH1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/47.m3u8
+#EXTINF:-1,==========Italy==========
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7237.m3u8
+#EXTINF:-1,IT: Sky Arte HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/134.m3u8
+#EXTINF:-1,IT: Sky Atlantic HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/133.m3u8
+#EXTINF:-1,IT: Sky Atlantic +1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7218.m3u8
+#EXTINF:-1,IT: Sky Cinema 1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/173.m3u8
+#EXTINF:-1,IT: Sky Cinema +1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7217.m3u8
+#EXTINF:-1,IT: Sky Cinema Comedy HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/171.m3u8
+#EXTINF:-1,IT: Sky Cinema Cult HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/170.m3u8
+#EXTINF:-1,IT: Sky Cinema Family HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/169.m3u8
+#EXTINF:-1,IT: Sky Cinema Family +1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7219.m3u8
+#EXTINF:-1,IT: Sky Cinema Max HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/168.m3u8
+#EXTINF:-1,IT: Sky Cinema HITS HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/327.m3u8
+#EXTINF:-1,IT: Sky Cinema Classic HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4550.m3u8
+#EXTINF:-1,IT: Sky Cinema Passion HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/325.m3u8
+#EXTINF:-1,IT: Fox HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/142.m3u8
+#EXTINF:-1,IT: Fox +1 hd
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7220.m3u8
+#EXTINF:-1,IT: Fox life HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/328.m3u8
+#EXTINF:-1,IT: Fox Comedy HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/182.m3u8
+#EXTINF:-1,IT: Fox Crime HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/181.m3u8
+#EXTINF:-1,IT: Fox Sports HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/140.m3u8
+#EXTINF:-1,IT: Fox Animation HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/183.m3u8
+#EXTINF:-1,IT: Premium Action HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1752.m3u8
+#EXTINF:-1,IT: Mediaset italia 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1751.m3u8
+#EXTINF:-1,IT: La7d HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1749.m3u8
+#EXTINF:-1,IT: Italian Fishing TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1747.m3u8
+#EXTINF:-1,IT: DMAX
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1746.m3u8
+#EXTINF:-1,IT: Canale 5 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1743.m3u8
+#EXTINF:-1,IT: ITV Italia
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1744.m3u8
+#EXTINF:-1,IT: Sky Calcio 1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/342.m3u8
+#EXTINF:-1,IT: Sky Calcio 2 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/340.m3u8
+#EXTINF:-1,IT: Sky Calcio 3 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/3090.m3u8
+#EXTINF:-1,IT: Sky Calcio 4 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/3091.m3u8
+#EXTINF:-1,IT: Sky Calcio 5 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/3122.m3u8
+#EXTINF:-1,IT: Calcio 6 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/3123.m3u8
+#EXTINF:-1,IT: Sky Calcio 7 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/3124.m3u8
+#EXTINF:-1,IT: Sky Calcio 8 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/3125.m3u8
+#EXTINF:-1,IT: Sky Calcio 9 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/3126.m3u8
+#EXTINF:-1,IT: Sky Sport motogp HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/126.m3u8
+#EXTINF:-1,IT:  Sky Sport F1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/162.m3u8
+#EXTINF:-1,IT: Sky Sport 1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4554.m3u8
+#EXTINF:-1,IT: Sky Sport 2 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4555.m3u8
+#EXTINF:-1,IT: Sky Sport 3 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/164.m3u8
+#EXTINF:-1,IT: Sky Sport 24 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/165.m3u8
+#EXTINF:-1,IT: Sport Italia
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/321.m3u8
+#EXTINF:-1,IT: Super Tennis HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/125.m3u8
+#EXTINF:-1,IT: Supercalcio HD.
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/322.m3u8
+#EXTINF:-1,IT: Eurosport 1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/185.m3u8
+#EXTINF:-1,IT: Inter Channel
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7223.m3u8
+#EXTINF:-1,IT: Milan Channel
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/380.m3u8
+#EXTINF:-1,IT: Juventus Channel
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7221.m3u8
+#EXTINF:-1,IT: Roma Channel
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7222.m3u8
+#EXTINF:-1,IT: Sky Uno HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/147.m3u8
+#EXTINF:-1,IT: Discovery Sci HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/144.m3u8
+#EXTINF:-1,IT: Gambero Rosso HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/160.m3u8
+#EXTINF:-1,IT: La7 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/156.m3u8
+#EXTINF:-1,IT: Rai Sport 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/344.m3u8
+#EXTINF:-1,IT: Rai Movie
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/346.m3u8
+#EXTINF:-1,IT: Rai Gulp
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/347.m3u8
+#EXTINF:-1,IT: Rai Premium
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/345.m3u8
+#EXTINF:-1,IT: Rai 1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/155.m3u8
+#EXTINF:-1,IT: Rai 2 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/154.m3u8
+#EXTINF:-1,IT: Rai 3 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/153.m3u8
+#EXTINF:-1,IT: Rai 4
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/152.m3u8
+#EXTINF:-1,IT: Rai 5
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/151.m3u8
+#EXTINF:-1,IT: Rete 4 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/150.m3u8
+#EXTINF:-1,IT: RSI La1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/149.m3u8
+#EXTINF:-1,IT: Super
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/319.m3u8
+#EXTINF:-1,IT: Premium Studio Universal
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/320.m3u8
+#EXTINF:-1,IT: Sky TG 24
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/378.m3u8
+#EXTINF:-1,IT: MTV8
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/379.m3u8
+#EXTINF:-1,IT: Focus
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/382.m3u8
+#EXTINF:-1,IT: Fineliving
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/383.m3u8
+#EXTINF:-1,IT: E!
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/384.m3u8
+#EXTINF:-1,IT: Animal Planet
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/390.m3u8
+#EXTINF:-1,IT:  History HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/159.m3u8
+#EXTINF:-1,IT: Discovery Travel Living HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/387.m3u8
+#EXTINF:-1,IT: Crime Investigation HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/331.m3u8
+#EXTINF:-1,IT: Discovery World
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/357.m3u8
+#EXTINF:-1,IT: NatGeo HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/326.m3u8
+#EXTINF:-1,IT: NatGeo People HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/139.m3u8
+#EXTINF:-1,IT: NatGeo Wild HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/179.m3u8
+#EXTINF:-1,IT: Italia 1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/158.m3u8
+#EXTINF:-1,IT: Disney channel
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/385.m3u8
+#EXTINF:-1,IT: CartoonNetwork
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/365.m3u8
+#EXTINF:-1,IT: Disney XD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/329.m3u8
+#EXTINF:-1,IT: Disney Junior
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/355.m3u8
+#EXTINF:-1,IT: Cartonito
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/388.m3u8
+#EXTINF:-1,IT: BBC
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/375.m3u8
+#EXTINF:-1,IT: AXN HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/389.m3u8
+#EXTINF:-1,IT: Alice
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/391.m3u8
+#EXTINF:-1,IT: Mediaset TOP crime
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/318.m3u8
+#EXTINF:-1,IT: Mediaset Canale 5 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/161.m3u8
+#EXTINF:-1,IT: Mediaset extra
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/381.m3u8
+#EXTINF:-1,IT: Premium Discovery HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/330.m3u8
+#EXTINF:-1,IT: Premium Stories
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/348.m3u8
+#EXTINF:-1,IT: Premium Sport HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/349.m3u8
+#EXTINF:-1,IT: Premium Comedy
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/360.m3u8
+#EXTINF:-1,IT: Premium Crime + 24
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/359.m3u8
+#EXTINF:-1,IT: Premium Energy
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/353.m3u8
+#EXTINF:-1,IT: Premium Emotion
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/354.m3u8
+#EXTINF:-1,IT: Premium Cinema HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/361.m3u8
+#EXTINF:-1,IT: Premium Cinema 24 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/364.m3u8
+#EXTINF:-1,IT: Premium Joi
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/350.m3u8
+#EXTINF:-1,IT: Premium Cinema 2 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/362.m3u8
+#EXTINF:-1,IT: Premium Cinema 2 24
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/363.m3u8
+#EXTINF:-1,IT: Premium Action 24 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/377.m3u8
+#EXTINF:-1,IT: Premium Calcio HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/367.m3u8
+#EXTINF:-1,IT: Premium Calcio
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/366.m3u8
+#EXTINF:-1,IT: Premium Calcio 1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/374.m3u8
+#EXTINF:-1,IT: Premium Calcio 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/373.m3u8
+#EXTINF:-1,IT: Premium Calcio 3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/372.m3u8
+#EXTINF:-1,IT: Premium Calcio 4
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/371.m3u8
+#EXTINF:-1,IT: Premium Calcio 5
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/370.m3u8
+#EXTINF:-1,IT: Premium Calcio 6
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/369.m3u8
+#EXTINF:-1,IT: Premium Calcio 7
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/368.m3u8
+#EXTINF:-1,IT: Prima Fila 1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1767.m3u8
+#EXTINF:-1,IT: Prima Fila 2 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/602.m3u8
+#EXTINF:-1,IT: Prima Fila 3 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/589.m3u8
+#EXTINF:-1,IT: Prima Fila 4 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/590.m3u8
+#EXTINF:-1,IT: Prima Fila 5 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/591.m3u8
+#EXTINF:-1,IT: Prima Fila 6 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/592.m3u8
+#EXTINF:-1,IT: Prima Fila 7 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/593.m3u8
+#EXTINF:-1,IT: Prima Fila 8 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/594.m3u8
+#EXTINF:-1,IT: Prima Fila 9 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/595.m3u8
+#EXTINF:-1,IT: Prima Fila 11 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/597.m3u8
+#EXTINF:-1,IT: Prima Fila 10 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/596.m3u8
+#EXTINF:-1,IT: Prima Fila 12 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/598.m3u8
+#EXTINF:-1,IT: Prima Fila 13 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/599.m3u8
+#EXTINF:-1,IT: Prima Fila 14 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/600.m3u8
+#EXTINF:-1,IT: Prima Fila 15 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4551.m3u8
+#EXTINF:-1,IT: Prima Fila 16 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4552.m3u8
+#EXTINF:-1,IT: Prima Fila 17 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4553.m3u8
+#EXTINF:-1,==========Germany==========
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7232.m3u8
+#EXTINF:-1,DE: WDR HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/9200.m3u8
+#EXTINF:-1,DE: Sports 1 USA HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/9208.m3u8
+#EXTINF:-1,DE: Sportdigital HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/9207.m3u8
+#EXTINF:-1,DE: Sony TV HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/9205.m3u8
+#EXTINF:-1,DE: Sky Fan Zone HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/9204.m3u8
+#EXTINF:-1,DE: Discovery Science HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/9206.m3u8
+#EXTINF:-1,DE Super RTL HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/9198.m3u8
+#EXTINF:-1,DE Sixx HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/9203.m3u8
+#EXTINF:-1,DE PRO 7 MAXX
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/9199.m3u8
+#EXTINF:-1,DE Ndr HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/9201.m3u8
+#EXTINF:-1,DE DMAX HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/9202.m3u8
+#EXTINF:-1,DE: ARD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7192.m3u8
+#EXTINF:-1,DE: ZDF KULTUR
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7204.m3u8
+#EXTINF:-1,DE: ZDF
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7193.m3u8
+#EXTINF:-1,DE: Vox HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1765.m3u8
+#EXTINF:-1,DE: TAGESSCHAU 24
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7205.m3u8
+#EXTINF:-1,DE: SKY SELECT 8 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/3089.m3u8
+#EXTINF:-1,DE: SKY SELECT 7 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/3088.m3u8
+#EXTINF:-1,DE: SKY SELECT 6 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/3087.m3u8
+#EXTINF:-1,DE: SKY SELECT 5 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/3086.m3u8
+#EXTINF:-1,DE: SKY SELECT 4 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/3085.m3u8
+#EXTINF:-1,DE: SKY SELECT 3 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/3084.m3u8
+#EXTINF:-1,DE: SKY SELECT 2 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/3083.m3u8
+#EXTINF:-1,DE: SKY SELECT 1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/3082.m3u8
+#EXTINF:-1,DE: N24
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7198.m3u8
+#EXTINF:-1,DE: HISTORY HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7203.m3u8
+#EXTINF:-1,DE: Eurosport HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1764.m3u8
+#EXTINF:-1,DE: Sport 1+ HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1447.m3u8
+#EXTINF:-1,DE: SPORT 1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1448.m3u8
+#EXTINF:-1,DE: Sky Sport News HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1445.m3u8
+#EXTINF:-1,DE: Sky Sport News
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/3719.m3u8
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1443.m3u8
+#EXTINF:-1,DE: Sky Sport 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/3721.m3u8
+#EXTINF:-1,DE: Sky Sport 2.
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/221.m3u8
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1441.m3u8
+#EXTINF:-1,DE: Sky Sport 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/3720.m3u8
+#EXTINF:-1,DE: Sky Sport 1.
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/220.m3u8
+#EXTINF:-1,DE: Sky Sport Austria
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1439.m3u8
+#EXTINF:-1,DE: Sport 1 US HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1446.m3u8
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1431.m3u8
+#EXTINF:-1,DE: Sky Bundesliga 1 weekend only
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7337.m3u8
+#EXTINF:-1,DE: Sky Bundesliga 2 weekend only
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1432.m3u8
+#EXTINF:-1,DE: Sky Bundesliga 3 weekend only
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1433.m3u8
+#EXTINF:-1,DE: Sky Bundesliga 4 weekend only
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7338.m3u8
+#EXTINF:-1,DE: Sky Bundesliga 5 weekend only
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1434.m3u8
+#EXTINF:-1,DE: Sat 1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1430.m3u8
+#EXTINF:-1,DE: RTL HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1429.m3u8
+#EXTINF:-1,DE: Pro Sieben Maxx HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1428.m3u8
+#EXTINF:-1,DE: Pro Sieben HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1427.m3u8
+#EXTINF:-1,DE: Passion
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1426.m3u8
+#EXTINF:-1,DE: N-TV HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1425.m3u8
+#EXTINF:-1,DE: Motorvision TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1424.m3u8
+#EXTINF:-1,DE: Kabel Eins
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1423.m3u8
+#EXTINF:-1,DE: Kabel 1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1422.m3u8
+#EXTINF:-1,DE: Disney Cinemagic
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1421.m3u8
+#EXTINF:-1,DE: Deluxe Music HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1420.m3u8
+#EXTINF:-1,DE: Classica Deutschland
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1419.m3u8
+#EXTINF:-1,DE: TNT Serie
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/239.m3u8
+#EXTINF:-1,DE: TNT Film
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/238.m3u8
+#EXTINF:-1,DE: TLC
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/237.m3u8
+#EXTINF:-1,DE: Syfy HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/236.m3u8
+#EXTINF:-1,DE: SUPER RTL
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/224.m3u8
+#EXTINF:-1,DE: Spiegel Geschichte
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/235.m3u8
+#EXTINF:-1,DE: SKYDESPAU
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/222.m3u8
+#EXTINF:-1,DE: SKYDEBU1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/219.m3u8
+#EXTINF:-1,DE: Sky Nostalgie
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/234.m3u8
+#EXTINF:-1,DE: Sky Krimi
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/233.m3u8
+#EXTINF:-1,DE: Sky Hits
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/232.m3u8
+#EXTINF:-1,DE: Sky Emotion
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/231.m3u8
+#EXTINF:-1,DE: Sky Comedy
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/230.m3u8
+#EXTINF:-1,DE: Sky Cinema24
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/229.m3u8
+#EXTINF:-1,DE: Sky Cinema+1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/228.m3u8
+#EXTINF:-1,DE: Sky Cinema
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/227.m3u8
+#EXTINF:-1,DE: Sky Atlantic
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/226.m3u8
+#EXTINF:-1,DE: Sky Action
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/225.m3u8
+#EXTINF:-1,DE: SIXX HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/218.m3u8
+#EXTINF:-1,DE: RTL2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/212.m3u8
+#EXTINF:-1,DE: RTL1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/211.m3u8
+#EXTINF:-1,DE: RTL Passion
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/216.m3u8
+#EXTINF:-1,DE: RTL NITRO
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/215.m3u8
+#EXTINF:-1,DE: RTL LIVING
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/214.m3u8
+#EXTINF:-1,DE: RTL Crime
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/213.m3u8
+#EXTINF:-1,DE: RomanceTV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/217.m3u8
+#EXTINF:-1,DE: Nick Jr
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/210.m3u8
+#EXTINF:-1,DE: NatGeo Wild DE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/209.m3u8
+#EXTINF:-1,DE: Nat GEO
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/208.m3u8
+#EXTINF:-1,DE: MGM DE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/206.m3u8
+#EXTINF:-1,DE: KinoweltTV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/204.m3u8
+#EXTINF:-1,DE: Junior
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/203.m3u8
+#EXTINF:-1,DE: Jukebox
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/202.m3u8
+#EXTINF:-1,DE: Heimatkanal
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/201.m3u8
+#EXTINF:-1,DE: Kika
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/200.m3u8
+#EXTINF:-1,DE: Fox Serie DE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/199.m3u8
+#EXTINF:-1,DE: FOX
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/198.m3u8
+#EXTINF:-1,DE: DisneyCH DE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/242.m3u8
+#EXTINF:-1,DE: Disney XD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/195.m3u8
+#EXTINF:-1,DE: Disney Junior DE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/194.m3u8
+#EXTINF:-1,DE: Discovery Channel DE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/196.m3u8
+#EXTINF:-1,DE: Classica
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/241.m3u8
+#EXTINF:-1,DE: AXN Action
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/189.m3u8
+#EXTINF:-1,DE: ANIXE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/240.m3u8
+#EXTINF:-1,DE: A E DE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/190.m3u8
+#EXTINF:-1,DE: 13th Street HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/187.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,==========Adults==========
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7245.m3u8
+#EXTINF:-1,XXX: PassionXXX
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1417.m3u8
+#EXTINF:-1,XXX: Sexto Senso
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1415.m3u8
+#EXTINF:-1,XXX: SCT HQ
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1414.m3u8
+#EXTINF:-1,XXX: SCT HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1413.m3u8
+#EXTINF:-1,XXX: Redlight HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1412.m3u8
+#EXTINF:-1,XXX: Privee TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1411.m3u8
+#EXTINF:-1,XXX: Platinum TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1410.m3u8
+#EXTINF:-1,XXX: Pink o TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1409.m3u8
+#EXTINF:-1,XXX: Hustler HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1406.m3u8
+#EXTINF:-1,XXX: Hustler
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1405.m3u8
+#EXTINF:-1,XXX: Venus
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/395.m3u8
+#EXTINF:-1,XXX: Private
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/398.m3u8
+#EXTINF:-1,XXX: PLAYBOY
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/396.m3u8
+#EXTINF:-1,XXX: Penthouse
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/393.m3u8
+#EXTINF:-1,XXX: Boy&Boy
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/399.m3u8
+#EXTINF:-1,XXX: Frenchlover TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/397.m3u8
+#EXTINF:-1,XXX: Brazzers
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/394.m3u8
+#EXTINF:-1,Adults: Czech Streets Helena
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/440.mp4
+#EXTINF:-1,Adults: My Wifes Hot Friend Nicole Johnny
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/469.mp4
+#EXTINF:-1,Adults: My Wife Is My Pornstar  August Ames
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/468.mp4
+#EXTINF:-1,Adults: My Sisters Hot Friend Melissa Moore
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/467.mp4
+#EXTINF:-1,Adults: My Sisters Hot Friend Kate England
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/466.mp4
+#EXTINF:-1,Adults: My GirlfriendsBusty Friend Ashley Adams
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/465.mp4
+#EXTINF:-1,Adults: My Girlfriends Busty Friend  Ashley Adams
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/452.mp4
+#EXTINF:-1,Adults: My Friends Hot Mom Veronica Avluv Eva Notty
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/464.mp4
+#EXTINF:-1,Adults: My Friends Hot Mom Puma Swede
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/463.mp4
+#EXTINF:-1,Adults: My Friends Hot Mom Nora Nair
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/462.mp4
+#EXTINF:-1,Adults: My Friends Hot Mom Jessie Cash
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/461.mp4
+#EXTINF:-1,Adults: My Friends Hot Mom Jessica James
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/460.mp4
+#EXTINF:-1,Adults: My Friends Hot Mom Janessa Jordan
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/459.mp4
+#EXTINF:-1,Adults: My Friends Hot Mom Elexis Monroe
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/458.mp4
+#EXTINF:-1,Adults: My Friends Hot Mom Diana Prince
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/457.mp4
+#EXTINF:-1,Adults: My Friends Hot Mom Demi Dantric
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/456.mp4
+#EXTINF:-1,Adults: My Friends Hot Mom Claudia Valentine
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/455.mp4
+#EXTINF:-1,Adults: My Friends Hot Mom Ava Devine
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/454.mp4
+#EXTINF:-1,Adults: My Friends Hot Mom Alura Jenson
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/453.mp4
+#EXTINF:-1,Adults: My first sex teacher
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/451.mp4
+#EXTINF:-1,Adults: Czech Streets Krystina
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/444.mp4
+#EXTINF:-1,Adults: Czech Streets Tereza
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/435.mp4
+#EXTINF:-1,Adults: Czech Streets Verca
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/439.mp4
+#EXTINF:-1,Adults: Czech Streets 88
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/434.mp4
+#EXTINF:-1,Adults: Czech Streets 83
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/436.mp4
+#EXTINF:-1,Adults: Czech Streets 81
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/433.mp4
+#EXTINF:-1,Adults: BangBus Remy LaCroix
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/430.mp4
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,==========Portugal==========
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7243.m3u8
+#EXTINF:-1,PT: TVI24
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/665.m3u8
+#EXTINF:-1,PT: TVI Reality
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/664.m3u8
+#EXTINF:-1,PT: TV record
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/735.m3u8
+#EXTINF:-1,PT: TVI Ficcao
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/621.m3u8
+#EXTINF:-1,PT: TV Globo
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/669.m3u8
+#EXTINF:-1,PT: TV GLOBO PREMIUM
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/706.m3u8
+#EXTINF:-1,PT: TV CINE 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/701.m3u8
+#EXTINF:-1,PT: TV CINE 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/700.m3u8
+#EXTINF:-1,PT: TV CINE 3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/699.m3u8
+#EXTINF:-1,PT: TV CINE 4
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/698.m3u8
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7252.m3u8
+#EXTINF:-1,PT: SPORT TV 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/676.m3u8
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7253.m3u8
+#EXTINF:-1,PT: SPORT TV 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/675.m3u8
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7254.m3u8
+#EXTINF:-1,PT: SPORT TV 3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/674.m3u8
+#EXTINF:-1,PT: SPORT TV 4
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/673.m3u8
+#EXTINF:-1,PT: SPORT TV 5
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/672.m3u8
+#EXTINF:-1,PT: EUROSPORT HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/681.m3u8
+#EXTINF:-1,PT: Eurosport 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/629.m3u8
+#EXTINF:-1,PT: EUROSPORT 2 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/682.m3u8
+#EXTINF:-1,PT: Eurosport 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/628.m3u8
+#EXTINF:-1,PT: BARCA TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/640.m3u8
+#EXTINF:-1,PT: BENFICA TV 1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/728.m3u8
+#EXTINF:-1,PT: BENFICA TV 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/727.m3u8
+#EXTINF:-1,PT: Chelsea TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/630.m3u8
+#EXTINF:-1,PT: SPORTING TV HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/678.m3u8
+#EXTINF:-1,PT: Motorvision
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/685.m3u8
+#EXTINF:-1,PT: Motors TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/627.m3u8
+#EXTINF:-1,PT: A Bola TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/631.m3u8
+#EXTINF:-1,PT: SIC
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/617.m3u8
+#EXTINF:-1,PT: SIC K
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/655.m3u8
+#EXTINF:-1,PT: SIC Radical
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/667.m3u8
+#EXTINF:-1,PT: SIC Mulher
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/666.m3u8
+#EXTINF:-1,PT: SIC Noticias
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/668.m3u8
+#EXTINF:-1,PT: RTP 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/615.m3u8
+#EXTINF:-1,PT: RTP 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/616.m3u8
+#EXTINF:-1,PT: RTP 3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/659.m3u8
+#EXTINF:-1,PT: RTP MEMORIA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/663.m3u8
+#EXTINF:-1,PT: RTP MADEIRA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/732.m3u8
+#EXTINF:-1,PT: RTP AFRICA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/733.m3u8
+#EXTINF:-1,PT: RTP ACORES
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/734.m3u8
+#EXTINF:-1,PT: Discovery Channel
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/724.m3u8
+#EXTINF:-1,PT: DISCOVERY HD SHOWCASE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/725.m3u8
+#EXTINF:-1,PT: Travel Channel HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/719.m3u8
+#EXTINF:-1,PT: NATIONAL GEO  WILD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/720.m3u8
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/723.m3u8
+#EXTINF:-1,PT: Afro Music
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/641.m3u8
+#EXTINF:-1,PT: E! Entertaunment
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/702.m3u8
+#EXTINF:-1,PT: Odisseia
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/722.m3u8
+#EXTINF:-1,PT: TLC
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/705.m3u8
+#EXTINF:-1,PT: CANAL Historia
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/721.m3u8
+#EXTINF:-1,PT: Hollywood
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/649.m3u8
+#EXTINF:-1,PT: 24KITCHEN HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/708.m3u8
+#EXTINF:-1,PT: VH1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7256.m3u8
+#EXTINF:-1,PT: MTV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/710.m3u8
+#EXTINF:-1,PT: Toros TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/683.m3u8
+#EXTINF:-1,PT:  PORTO Canal
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/680.m3u8
+#EXTINF:-1,PT: PFC
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/679.m3u8
+#EXTINF:-1,PT: SBS Reality
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/671.m3u8
+#EXTINF:-1,PT: CaÃ§a e Pesca
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/684.m3u8
+#EXTINF:-1,PT: BTV 1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/633.m3u8
+#EXTINF:-1,PT: BTV 2 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/677.m3u8
+#EXTINF:-1,PT: BTV 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/662.m3u8
+#EXTINF:-1,PT: Fox HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/651.m3u8
+#EXTINF:-1,PT: Fox Movies
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/646.m3u8
+#EXTINF:-1,PT: Fox Crime HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/647.m3u8
+#EXTINF:-1,PT: FOX SPORTS 2 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/687.m3u8
+#EXTINF:-1,PT: Fox Life HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/711.m3u8
+#EXTINF:-1,PT: Fox Comeny
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/707.m3u8
+#EXTINF:-1,PT: AXN HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/653.m3u8
+#EXTINF:-1,PT: AXN White HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/652.m3u8
+#EXTINF:-1,PT: AXN Black HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/704.m3u8
+#EXTINF:-1,PT: Cinemundo
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/648.m3u8
+#EXTINF:-1,PT: A&E.
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/726.m3u8
+#EXTINF:-1,PT: PANDA BIGGS
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/644.m3u8
+#EXTINF:-1,PT: MOV HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/643.m3u8
+#EXTINF:-1,PT: A&E
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/642.m3u8
+#EXTINF:-1,PT: SYFY
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/645.m3u8
+#EXTINF:-1,PT: CMTV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/625.m3u8
+#EXTINF:-1,PT: AMC
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/654.m3u8
+#EXTINF:-1,PT: NICKELODEON
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/690.m3u8
+#EXTINF:-1,PT: Baby Tv
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/695.m3u8
+#EXTINF:-1,PT: Cartoon
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/694.m3u8
+#EXTINF:-1,PT: JIM JAM
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/692.m3u8
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/689.m3u8
+#EXTINF:-1,PT: CANAL PANDA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/691.m3u8
+#EXTINF:-1,==========Netherlands==========
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7234.m3u8
+#EXTINF:-1,NL: Film 1 Comedy and Kids
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/814.m3u8
+#EXTINF:-1,NL: Film 1 Premiere
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/815.m3u8
+#EXTINF:-1,NL: Veronica
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/750.m3u8
+#EXTINF:-1,NL: Kitchen
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/812.m3u8
+#EXTINF:-1,NL: TV 538
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/801.m3u8
+#EXTINF:-1,NL: Film 1 Action
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/796.m3u8
+#EXTINF:-1,NL: MTV 24
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/816.m3u8
+#EXTINF:-1,NL: Sports 1 Exstra
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/767.m3u8
+#EXTINF:-1,NL: Sport 1 Voetbal
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/769.m3u8
+#EXTINF:-1,NL: Sport 1 Select
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/770.m3u8
+#EXTINF:-1,NL: Sport 1 Racing
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/772.m3u8
+#EXTINF:-1,NL: Sport 1 Golf
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/771.m3u8
+#EXTINF:-1,NL: Sport 1 Extra 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/768.m3u8
+#EXTINF:-1,NL: NPO 101
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/817.m3u8
+#EXTINF:-1,NL: SBS 9
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/749.m3u8
+#EXTINF:-1,NL: SBS 6
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/746.m3u8
+#EXTINF:-1,NL: NPO Zapp Xtra
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/818.m3u8
+#EXTINF:-1,NL: RTV 7
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/811.m3u8
+#EXTINF:-1,NL: CI
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/791.m3u8
+#EXTINF:-1,NL: RTL 8
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/748.m3u8
+#EXTINF:-1,NL: RTL 7
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/747.m3u8
+#EXTINF:-1,NL: RTL 5
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/745.m3u8
+#EXTINF:-1,NL: RTL 4
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/744.m3u8
+#EXTINF:-1,NL: Salem
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/822.m3u8
+#EXTINF:-1,NL: SYFY
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/826.m3u8
+#EXTINF:-1,NL: TV ORANJE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/828.m3u8
+#EXTINF:-1,NL: TLC
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/792.m3u8
+#EXTINF:-1,NL: TV Oost
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/794.m3u8
+#EXTINF:-1,NL: NPO 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/741.m3u8
+#EXTINF:-1,NL: NPO 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/742.m3u8
+#EXTINF:-1,NL: NPO 3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/743.m3u8
+#EXTINF:-1,NL: Nicktoons
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/777.m3u8
+#EXTINF:-1,NL: Nickelodeon
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/779.m3u8
+#EXTINF:-1,NL: Nick Jr
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/780.m3u8
+#EXTINF:-1,NL: NET 5
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/751.m3u8
+#EXTINF:-1,NL: MTV Music 24
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/803.m3u8
+#EXTINF:-1,NL: MTV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/802.m3u8
+#EXTINF:-1,NL: Zigo Sport Racing
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/775.m3u8
+#EXTINF:-1,NL: BBC Entertainment
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/805.m3u8
+#EXTINF:-1,NL: Ketnet
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/785.m3u8
+#EXTINF:-1,NL: Comedy Central extra
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/797.m3u8
+#EXTINF:-1,NL: HBO 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/757.m3u8
+#EXTINF:-1,NL: HBO 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/758.m3u8
+#EXTINF:-1,NL: HBO 3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/759.m3u8
+#EXTINF:-1,NL: Fox Sports 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/761.m3u8
+#EXTINF:-1,NL: Fox Sports 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/762.m3u8
+#EXTINF:-1,NL: Fox Sports 3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/763.m3u8
+#EXTINF:-1,NL: Fox Sports 4
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/764.m3u8
+#EXTINF:-1,NL: Fox Sports 5
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/765.m3u8
+#EXTINF:-1,NL: Fox Sports 6 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/766.m3u8
+#EXTINF:-1,NL: Fox
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/790.m3u8
+#EXTINF:-1,NL: Film1 Sundance
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/754.m3u8
+#EXTINF:-1,NL: Film1 Premiere
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/752.m3u8
+#EXTINF:-1,NL: Film1 Comedy
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/755.m3u8
+#EXTINF:-1,NL: Film1 Action
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/753.m3u8
+#EXTINF:-1,NL: Film 1 Spotlight
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/756.m3u8
+#EXTINF:-1,NL: Zigo Sport
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/773.m3u8
+#EXTINF:-1,NL: Eurosport 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/776.m3u8
+#EXTINF:-1,NL: Zigo Sport Golf
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/774.m3u8
+#EXTINF:-1,NL: E! Entertainment
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/804.m3u8
+#EXTINF:-1,NL: E! Enternainment
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/786.m3u8
+#EXTINF:-1,NL: Canvas
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/806.m3u8
+#EXTINF:-1,NL: Discovery Channel
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/798.m3u8
+#EXTINF:-1,NL: Crime & Investigation.
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/799.m3u8
+#EXTINF:-1,NL: Comedy Central Family
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/789.m3u8
+#EXTINF:-1,NL: Comedy Central Exstra
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/778.m3u8
+#EXTINF:-1,NL: Disney Junior
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/800.m3u8
+#EXTINF:-1,NL: National Geographic
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/807.m3u8
+#EXTINF:-1,NL: Baby TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/781.m3u8
+#EXTINF:-1,NL: AT-5
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/787.m3u8
+#EXTINF:-1,NL: RTV Drenthe
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/810.m3u8
+#EXTINF:-1,NL: 100% NL
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/809.m3u8
+#EXTINF:-1,NL: 192 TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/788.m3u8
+#EXTINF:-1,NL: 13TH Street
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/760.m3u8
+#EXTINF:-1,==========United Kindom==========
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7233.m3u8
+#EXTINF:-1,UK: ITV ENCORE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7206.m3u8
+#EXTINF:-1,UK: CHANNEL 5 STAR
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7208.m3u8
+#EXTINF:-1,UK: CHANNEL 5
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7207.m3u8
+#EXTINF:-1,UK: RTE 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4884.m3u8
+#EXTINF:-1,UK: RTE 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4883.m3u8
+#EXTINF:-1,UK: VH1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1583.m3u8
+#EXTINF:-1,UK: TLC Ireland
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1582.m3u8
+#EXTINF:-1,UK: Bloomberg
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1581.m3u8
+#EXTINF:-1,UK: TCM
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1580.m3u8
+#EXTINF:-1,UK: Sony Movie Channel  1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1579.m3u8
+#EXTINF:-1,UK: Sony Movie Channel
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1578.m3u8
+#EXTINF:-1,UK: Travel Channel
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1577.m3u8
+#EXTINF:-1,UK: Sky Sports News HQ
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1576.m3u8
+#EXTINF:-1,UK: Sky News Ireland
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1574.m3u8
+#EXTINF:-1,UK: Sky News
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1575.m3u8
+#EXTINF:-1,UK: Sky Movies Sci-Fi&Horror
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1573.m3u8
+#EXTINF:-1,UK: Sky Movies Premiere  1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1572.m3u8
+#EXTINF:-1,UK: Sky Movies Premiere
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1571.m3u8
+#EXTINF:-1,UK: Sky Movies Greats
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1570.m3u8
+#EXTINF:-1,UK: Sky Movies Drama&Romance
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1569.m3u8
+#EXTINF:-1,UK: Sky Movies Crime&Thriller
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1568.m3u8
+#EXTINF:-1,UK: Sky Movies Action&Adventure
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1567.m3u8
+#EXTINF:-1,UK: Sky Living Ireland
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1565.m3u8
+#EXTINF:-1,UK: Sky Living  1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1566.m3u8
+#EXTINF:-1,UK: Sky Atlantic Ireland
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1563.m3u8
+#EXTINF:-1,UK: Sky Atlantic  1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1564.m3u8
+#EXTINF:-1,UK: Sky Arts
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1562.m3u8
+#EXTINF:-1,UK: Sky 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1561.m3u8
+#EXTINF:-1,UK: Sky 1  1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1560.m3u8
+#EXTINF:-1,UK: Sky 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1559.m3u8
+#EXTINF:-1,UK: Setanta Ireland
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1558.m3u8
+#EXTINF:-1,UK: Setanta HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1557.m3u8
+#EXTINF:-1,UK: Racing
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1556.m3u8
+#EXTINF:-1,UK: Pick  1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1555.m3u8
+#EXTINF:-1,UK: Pick
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1554.m3u8
+#EXTINF:-1,UK: MTV Classic
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1551.m3u8
+#EXTINF:-1,UK: MTV Base
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1550.m3u8
+#EXTINF:-1,UK: MTV  1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1553.m3u8
+#EXTINF:-1,UK: MTV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1552.m3u8
+#EXTINF:-1,UK: Movies4Men  1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1549.m3u8
+#EXTINF:-1,UK: More 4 Ireland
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1548.m3u8
+#EXTINF:-1,UK: Universal +1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1547.m3u8
+#EXTINF:-1,UK: Syfy +1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1546.m3u8
+#EXTINF:-1,UK: Investigation Discovery Ireland
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1545.m3u8
+#EXTINF:-1,UK: Fox  1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1544.m3u8
+#EXTINF:-1,UK: E4
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1543.m3u8
+#EXTINF:-1,UK: Disney XD  1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1541.m3u8
+#EXTINF:-1,UK: Disney Junior  1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1540.m3u8
+#EXTINF:-1,UK: Disney Channel  1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1539.m3u8
+#EXTINF:-1,UK: Discovery Science Channel
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1538.m3u8
+#EXTINF:-1,UK: Discovery Home&Health
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1537.m3u8
+#EXTINF:-1,UK: Discovery Channel  1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1536.m3u8
+#EXTINF:-1,UK: Community Channel
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1534.m3u8
+#EXTINF:-1,UK: Channel 4 Ireland
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1532.m3u8
+#EXTINF:-1,UK: Cartoonito
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1531.m3u8
+#EXTINF:-1,UK: BT Sport ESPN
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1530.m3u8
+#EXTINF:-1,UK: YESTERDAY
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1013.m3u8
+#EXTINF:-1,UK: WATCH
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1012.m3u8
+#EXTINF:-1,UK: TV3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/952.m3u8
+#EXTINF:-1,UK: TLC
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/955.m3u8
+#EXTINF:-1,UK: Boomerang
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/990.m3u8
+#EXTINF:-1,UK: SYFY
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/979.m3u8
+#EXTINF:-1,UK: SONY MOVIES
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/958.m3u8
+#EXTINF:-1,UK: SKY TWO
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/951.m3u8
+#EXTINF:-1,UK: SKY SPORTS F1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1045.m3u8
+#EXTINF:-1,UK: SKY SPORTS 5
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1044.m3u8
+#EXTINF:-1,UK: SKY SPORTS 4
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1043.m3u8
+#EXTINF:-1,UK: SKY SPORTS 3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1042.m3u8
+#EXTINF:-1,UK: SKY SPORTS 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1041.m3u8
+#EXTINF:-1,UK: SKY SPORTS 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1040.m3u8
+#EXTINF:-1,UK: SKY SPORT NEWS
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1039.m3u8
+#EXTINF:-1,UK: SKY ONE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/950.m3u8
+#EXTINF:-1,UK: SKY MOVIES SHOWCASE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/978.m3u8
+#EXTINF:-1,UK: SKY MOVIES SELECT
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/977.m3u8
+#EXTINF:-1,UK: SKY MOVIES SCI-FI & HORROR
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/976.m3u8
+#EXTINF:-1,UK: SKY MOVIES PREMIER
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/975.m3u8
+#EXTINF:-1,UK: SKY MOVIES MODERN GREATS
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/974.m3u8
+#EXTINF:-1,UK: SKY MOVIES FAMILY
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/973.m3u8
+#EXTINF:-1,UK: SKY MOVIES DRAMA & ROMANCE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/972.m3u8
+#EXTINF:-1,UK: SKY MOVIES DISNEY
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/971.m3u8
+#EXTINF:-1,UK: SKY MOVIES CRIME & THRILLER
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/970.m3u8
+#EXTINF:-1,UK: SKY MOVIES COMEDY
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/969.m3u8
+#EXTINF:-1,UK: SKY MOVIES ACTION & ADVENTURE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/968.m3u8
+#EXTINF:-1,UK: SKY LIVING
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1011.m3u8
+#EXTINF:-1,UK: SKY ATLANTIC
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/967.m3u8
+#EXTINF:-1,UK: SETANTA SPORT IRELAND
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1038.m3u8
+#EXTINF:-1,UK: REALLY
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1009.m3u8
+#EXTINF:-1,UK: REAL LIVES
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/995.m3u8
+#EXTINF:-1,UK: RACING UK
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1037.m3u8
+#EXTINF:-1,UK: QUEST
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1008.m3u8
+#EXTINF:-1,UK: PREMIER SPORTS
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1036.m3u8
+#EXTINF:-1,UK: Viva UK
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/922.m3u8
+#EXTINF:-1,UK: NICKTOONS
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/989.m3u8
+#EXTINF:-1,UK: NICK JR
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/987.m3u8
+#EXTINF:-1,UK: Sky Disney
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/988.m3u8
+#EXTINF:-1,UK: NATIONAL GEOGRAPHIC
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1022.m3u8
+#EXTINF:-1,UK: NAT GEO WILD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1021.m3u8
+#EXTINF:-1,UK: MUTV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1023.m3u8
+#EXTINF:-1,UK: MTV ROCKS
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1017.m3u8
+#EXTINF:-1,UK: MTV MUSIC
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1016.m3u8
+#EXTINF:-1,UK: MTV HITS
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1015.m3u8
+#EXTINF:-1,UK: MTV DANCE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1014.m3u8
+#EXTINF:-1,UK: MOVIES4MEN
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/966.m3u8
+#EXTINF:-1,UK: MOTORS TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1035.m3u8
+#EXTINF:-1,UK: LIVING IT
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/923.m3u8
+#EXTINF:-1,UK: LIVERPOOL FC TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1034.m3u8
+#EXTINF:-1,UK: LIFETIME
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1007.m3u8
+#EXTINF:-1,UK: ITV4
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/940.m3u8
+#EXTINF:-1,UK: ITV3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/939.m3u8
+#EXTINF:-1,UK: ITV2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/938.m3u8
+#EXTINF:-1,UK: ITV1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/937.m3u8
+#EXTINF:-1,UK: ITV BE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/941.m3u8
+#EXTINF:-1,UK: HOME
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1006.m3u8
+#EXTINF:-1,UK: HISTORY
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1005.m3u8
+#EXTINF:-1,UK: H2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1004.m3u8
+#EXTINF:-1,UK: GOLD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/947.m3u8
+#EXTINF:-1,UK: FOX
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/965.m3u8
+#EXTINF:-1,UK: EDEN
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/948.m3u8
+#EXTINF:-1,UK: DISNEY XD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/986.m3u8
+#EXTINF:-1,UK: DISNEY JUNIOR
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/985.m3u8
+#EXTINF:-1,UK: DISNEY CHANNEL
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/984.m3u8
+#EXTINF:-1,UK: DISCOVERY TURBO
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1003.m3u8
+#EXTINF:-1,UK: DISCOVERY SHED
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1002.m3u8
+#EXTINF:-1,UK: DISCOVERY SCIENCE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1001.m3u8
+#EXTINF:-1,UK: DISCOVERY ID
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/924.m3u8
+#EXTINF:-1,UK: DISCOVERY HISTORY
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/999.m3u8
+#EXTINF:-1,UK: DISCOVERY CHANNEL
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/998.m3u8
+#EXTINF:-1,UK: DAVE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/997.m3u8
+#EXTINF:-1,UK: CRIME & INVESTIGATION
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/996.m3u8
+#EXTINF:-1,UK: COMEDY CENTRAL EXTRA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/992.m3u8
+#EXTINF:-1,UK: COMEDY CENTRAL
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/991.m3u8
+#EXTINF:-1,UK: CLUBLAND
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1019.m3u8
+#EXTINF:-1,UK: CHELSEA TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1032.m3u8
+#EXTINF:-1,UK: CBS REALITY
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/961.m3u8
+#EXTINF:-1,UK: CBS DRAMA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/960.m3u8
+#EXTINF:-1,UK: CBS ACTION
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/959.m3u8
+#EXTINF:-1,UK: CBEEBIES
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/983.m3u8
+#EXTINF:-1,UK: CARTOON NETWORK
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/982.m3u8
+#EXTINF:-1,UK: BT SPORT EXTRA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1031.m3u8
+#EXTINF:-1,UK: BT SPORT EUROPE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1030.m3u8
+#EXTINF:-1,UK: BT SPORT 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1029.m3u8
+#EXTINF:-1,UK: BT SPORT 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1028.m3u8
+#EXTINF:-1,UK: BRITISH EUROSPORT 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1027.m3u8
+#EXTINF:-1,UK: BRITISH EUROSPORT 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1026.m3u8
+#EXTINF:-1,UK: BOXNATION
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1025.m3u8
+#EXTINF:-1,UK: BBC 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/933.m3u8
+#EXTINF:-1,UK: BBC 3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/934.m3u8
+#EXTINF:-1,UK: BBC 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/932.m3u8
+#EXTINF:-1,UK: BBC NEWS
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/936.m3u8
+#EXTINF:-1,UK: BBC 4
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/935.m3u8
+#EXTINF:-1,UK: B4U PLUS
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/929.m3u8
+#EXTINF:-1,UK: B4U MUSIC
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/930.m3u8
+#EXTINF:-1,UK: AT THE RACES
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1024.m3u8
+#EXTINF:-1,UK: ANIMAL PLANET
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/994.m3u8
+#EXTINF:-1,==========Sports==========
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7242.m3u8
+#EXTINF:-1,SPORT: Super Sport 4
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1112.m3u8
+#EXTINF:-1,SPORT: Super Sport 3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1113.m3u8
+#EXTINF:-1,SPORT: Super Sport 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1114.m3u8
+#EXTINF:-1,SPORT: Super Sport 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1115.m3u8
+#EXTINF:-1,SPORT: Sport TV 5
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1116.m3u8
+#EXTINF:-1,SPORT: Sport TV 4
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1117.m3u8
+#EXTINF:-1,SPORT: Sport TV 3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1118.m3u8
+#EXTINF:-1,SPORT: Sport TV 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1119.m3u8
+#EXTINF:-1,SPORT: Sport TV 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1120.m3u8
+#EXTINF:-1,SPORT: Sport Klub 3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1121.m3u8
+#EXTINF:-1,SPORT: Sport Klub 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1122.m3u8
+#EXTINF:-1,SPORT: Sport Klub 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1123.m3u8
+#EXTINF:-1,SPORT: Sky Sports News
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1124.m3u8
+#EXTINF:-1,SPORT: Sky Sports F1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1125.m3u8
+#EXTINF:-1,SPORT: Sky Sports 5
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1126.m3u8
+#EXTINF:-1,SPORT: Sky Sports 4
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1127.m3u8
+#EXTINF:-1,SPORT: Sky Sports 3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1128.m3u8
+#EXTINF:-1,SPORT: Sky Sports 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1129.m3u8
+#EXTINF:-1,SPORT: Sky Sports 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1130.m3u8
+#EXTINF:-1,SPORT: Sky Bundesliga HD 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1131.m3u8
+#EXTINF:-1,SPORT: Sky 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1133.m3u8
+#EXTINF:-1,SPORT: Sky 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1134.m3u8
+#EXTINF:-1,SPORT: Setanta Sport
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1135.m3u8
+#EXTINF:-1,SPORT: Prva Plus
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1137.m3u8
+#EXTINF:-1,SPORT: Premiere Sport UK
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1138.m3u8
+#EXTINF:-1,SPORT: Liverpool FC UK
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1139.m3u8
+#EXTINF:-1,SPORT: CTH Stadium 6 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1140.m3u8
+#EXTINF:-1,SPORT: CTH Stadium 5 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1145.m3u8
+#EXTINF:-1,SPORT: CTH Stadium 4 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1141.m3u8
+#EXTINF:-1,SPORT: CTH Stadium 3 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1142.m3u8
+#EXTINF:-1,SPORT: CTH Stadium 2 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1143.m3u8
+#EXTINF:-1,SPORT: CTH Stadium 1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1144.m3u8
+#EXTINF:-1,SPORT: BEINSPORTS 12
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4385.m3u8
+#EXTINF:-1,SPORT: BEINSPORTS 11
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4339.m3u8
+#EXTINF:-1,SPORT: BEINSPORTS 10
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1072.m3u8
+#EXTINF:-1,SPORT: BEINSPORTS 9
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1071.m3u8
+#EXTINF:-1,SPORT: BEINSPORTS 8
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1070.m3u8
+#EXTINF:-1,SPORT: BEINSPORTS 7
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1069.m3u8
+#EXTINF:-1,SPORT: BEINSPORTS 6
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1068.m3u8
+#EXTINF:-1,SPORT: BEINSPORTS 5
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1067.m3u8
+#EXTINF:-1,SPORT: BEINSPORTS 4
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1066.m3u8
+#EXTINF:-1,SPORT: BEINSPORTS 3 FR
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1109.m3u8
+#EXTINF:-1,SPORT: BEINSPORTS 3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1065.m3u8
+#EXTINF:-1,SPORT: BEINSPORTS 2 FR
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1110.m3u8
+#EXTINF:-1,SPORT: BEINSPORTS 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1064.m3u8
+#EXTINF:-1,SPORT: BEINSPORTS 1 FR
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1111.m3u8
+#EXTINF:-1,SPORT: BEINSPORTS 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1063.m3u8
+#EXTINF:-1,SPORT: Arena Sport 5 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1051.m3u8
+#EXTINF:-1,SPORT: Arena Sport 4 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1050.m3u8
+#EXTINF:-1,SPORT: Arena Sport 3 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1049.m3u8
+#EXTINF:-1,SPORT: Arena Sport 2 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1048.m3u8
+#EXTINF:-1,SPORT: Arena Sport 1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1047.m3u8
+#EXTINF:-1,Animation: Sponge Out of Water
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/3718.mp4
+#EXTINF:-1,Animation: Pixels
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/3715.mp4
+#EXTINF:-1,Animation: Penguins of Madagascar
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/3076.mp4
+#EXTINF:-1,Animation: Home
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/3717.mp4
+#EXTINF:-1,Animation: Big Hero
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/3716.mp4
+#EXTINF:-1,Animation: Shrek
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2150.mp4
+#EXTINF:-1,Animation: Alvin and the Chipmunks The Road Chip
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1770.mp4
+#EXTINF:-1,Animation: Toy Story 1
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1762.mp4
+#EXTINF:-1,Animation: Toy Story 2
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1759.mp4
+#EXTINF:-1,Animation: Toy Story 3
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1761.mp4
+#EXTINF:-1,Animation: It - Inside out
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1757.mp4
+#EXTINF:-1,Animation: Finding Nemo
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1753.mp4
+#EXTINF:-1,Animation: How to train your dragon 1
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1758.mp4
+#EXTINF:-1,Animation: It -  How to train your dragon 2
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1755.mp4
+#EXTINF:-1,Movie: Harry Potter And The Philosopher's Stone
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1440.mp4
+#EXTINF:-1,Movie Harry Potter and the Order of the Phoenix
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1444.mp4
+#EXTINF:-1,Movie: Harry Potter And The Prisoner Of Azkaban
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1442.mp4
+#EXTINF:-1,Movie: Harry Potter And The Half Blood Prince
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1438.mp4
+#EXTINF:-1,Movie: Harry Potter And The Goblet of Fire
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1437.mp4
+#EXTINF:-1,Movie: Harry Potter And The Chambers Of Secrets
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1436.mp4
+#EXTINF:-1,Cartoons: Gumball e101
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2152.mp4
+#EXTINF:-1,Cartoons: Gumball e102
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2153.mp4
+#EXTINF:-1,Cartoons: Gumball e103
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2154.mp4
+#EXTINF:-1,Cartoons: Gumball e104
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2155.mp4
+#EXTINF:-1,Cartoons: Gumball e105a
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2156.mp4
+#EXTINF:-1,Cartoons: Gumball e105b
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2157.mp4
+#EXTINF:-1,Cartoons: Gumball e106a
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2158.mp4
+#EXTINF:-1,Cartoons: Gumball e107a
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2159.mp4
+#EXTINF:-1,Cartoons: Gumball e107b
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2160.mp4
+#EXTINF:-1,Cartoons: Gumball e108a
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2161.mp4
+#EXTINF:-1,Cartoons: Gumball e108b
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2162.mp4
+#EXTINF:-1,Cartoons: Gumball e109a
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2163.mp4
+#EXTINF:-1,Cartoons: Gumball e109b
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2164.mp4
+#EXTINF:-1,Cartoons: Gumball e110a
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2165.mp4
+#EXTINF:-1,Cartoons: Gumball e110b
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2166.mp4
+#EXTINF:-1,Cartoons: Gumball e111a
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2167.mp4
+#EXTINF:-1,Cartoons: Gumball e111b
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2168.mp4
+#EXTINF:-1,Cartoons: Gumball e112a
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2169.mp4
+#EXTINF:-1,Cartoons: Gumball e112b
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2170.mp4
+#EXTINF:-1,Cartoons: Gumball e113a
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2171.mp4
+#EXTINF:-1,Cartoons: Gumball e113b
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2172.mp4
+#EXTINF:-1,Cartoons: Gumball e114a
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2173.mp4
+#EXTINF:-1,Cartoons: Gumball e114b
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2174.mp4
+#EXTINF:-1,Cartoons: Gumball e115a
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2175.mp4
+#EXTINF:-1,Cartoons: Gumball e115b
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2176.mp4
+#EXTINF:-1,Cartoons: Gumball e116b
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2177.mp4
+#EXTINF:-1,Cartoons: Gumball e117a
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2178.mp4
+#EXTINF:-1,Cartoons: Gumball e117b
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2179.mp4
+#EXTINF:-1,Cartoons: Gumball e118a
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2180.mp4
+#EXTINF:-1,Cartoons: Gumball e118b
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2181.mp4
+#EXTINF:-1,Cartoons: Gumball e201a
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2182.mp4
+#EXTINF:-1,Cartoons: Gumball e201b
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2183.mp4
+#EXTINF:-1,Cartoons: Gumball e202a
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2184.mp4
+#EXTINF:-1,Cartoons: Gravity falls s1 e1
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1584.mp4
+#EXTINF:-1,Cartoons: Gravity falls s1 e2
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1585.mp4
+#EXTINF:-1,Cartoons: Gravity falls s1 e3
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1586.mp4
+#EXTINF:-1,Cartoons: Gravity falls s1 e4
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1587.mp4
+#EXTINF:-1,Cartoons: Gravity falls s1 e5
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1588.mp4
+#EXTINF:-1,Cartoons: Gravity falls s1 e6
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1589.mp4
+#EXTINF:-1,Cartoons: Gravity falls s1 e7
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1590.mp4
+#EXTINF:-1,Cartoons: Gravity falls s1 e8
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1591.mp4
+#EXTINF:-1,Cartoons: Gravity falls s1 e9
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1592.mp4
+#EXTINF:-1,Cartoons: Gravity falls s1 e10
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1593.mp4
+#EXTINF:-1,Cartoons: Gravity falls s1 e11
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1594.mp4
+#EXTINF:-1,Cartoons: Gravity falls s1 e12
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1595.mp4
+#EXTINF:-1,Cartoons: Gravity falls s1 e13
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1596.mp4
+#EXTINF:-1,Cartoons: Gravity falls s1 e14
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1597.mp4
+#EXTINF:-1,Cartoons: Gravity falls s1 e15
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1598.mp4
+#EXTINF:-1,Cartoons: Gravity falls s1 e16
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1599.mp4
+#EXTINF:-1,Cartoons: Gravity falls s1 e17
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1600.mp4
+#EXTINF:-1,Cartoons: Gravity falls s1 e18
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1601.mp4
+#EXTINF:-1,Cartoons: Gravity falls s1 e19
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1602.mp4
+#EXTINF:-1,Cartoons: Gravity falls s1 e20
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1603.mp4
+#EXTINF:-1,Cartoons: Gravity falls s2 e1
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1604.mp4
+#EXTINF:-1,Cartoons: Gravity falls s2 e2
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1605.mp4
+#EXTINF:-1,Cartoons: Gravity falls s2 e3
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1606.mp4
+#EXTINF:-1,Cartoons: Gravity falls s2 e4
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1607.mp4
+#EXTINF:-1,Cartoons: Gravity falls s2 e5
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1608.mp4
+#EXTINF:-1,Cartoons: Gravity falls s2 e6
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1609.mp4
+#EXTINF:-1,Cartoons: Gravity falls s2 e7
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1610.mp4
+#EXTINF:-1,Cartoons: Gravity falls s2 e8
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1611.mp4
+#EXTINF:-1,Cartoons: Gravity falls s2 e9
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1612.mp4
+#EXTINF:-1,Cartoons: Gravity falls s2 e10
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1613.mp4
+#EXTINF:-1,Cartoons: Ben 10 s1 e1
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1614.mp4
+#EXTINF:-1,Cartoons: Ben 10 s1 e2
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1615.mp4
+#EXTINF:-1,Cartoons: Ben 10 s1 e3
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1616.mp4
+#EXTINF:-1,Cartoons: Ben 10 s1 e4
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1617.mp4
+#EXTINF:-1,Cartoons: Ben 10 s1 e5
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1618.mp4
+#EXTINF:-1,Cartoons: Ben 10 s1 e6
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1619.mp4
+#EXTINF:-1,Cartoons: Ben 10 s1 e7
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1620.mp4
+#EXTINF:-1,Cartoons: Ben 10 s1 e8
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1621.mp4
+#EXTINF:-1,Cartoons: Ben 10 s1 e9
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1622.mp4
+#EXTINF:-1,Cartoons: Ben 10 s1 e10
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1623.mp4
+#EXTINF:-1,Cartoons: Ben 10 s2 e1
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1624.mp4
+#EXTINF:-1,Cartoons: Ben 10 s2 e2
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1625.mp4
+#EXTINF:-1,Cartoons: Ben 10 s2 e3
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1626.mp4
+#EXTINF:-1,Cartoons: Ben 10 s2 e4
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1627.mp4
+#EXTINF:-1,Cartoons: Ben 10 s2 e5
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1628.mp4
+#EXTINF:-1,Cartoons: Ben 10 s2 e6
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1629.mp4
+#EXTINF:-1,Cartoons: Ben 10 s2 e7
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1630.mp4
+#EXTINF:-1,Cartoons: Ben 10 s2 e8
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1631.mp4
+#EXTINF:-1,Cartoons: Ben 10 s2 e9
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1632.mp4
+#EXTINF:-1,Cartoons: Ben 10 s2 e10
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1633.mp4
+#EXTINF:-1,Cartoons: Ben 10 s3 e1
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1634.mp4
+#EXTINF:-1,Cartoons: Ben 10 s3 e2
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1635.mp4
+#EXTINF:-1,Cartoons: Ben 10 s3 e3
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1636.mp4
+#EXTINF:-1,Cartoons: Ben 10 s3 e4
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1637.mp4
+#EXTINF:-1,Cartoons: Ben 10 s3 e5
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1638.mp4
+#EXTINF:-1,Cartoons: Ben 10 s3 e6
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1639.mp4
+#EXTINF:-1,Cartoons: Ben 10 s3 e7
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1640.mp4
+#EXTINF:-1,Cartoons: Ben 10 s3 e8
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1641.mp4
+#EXTINF:-1,Cartoons: Ben 10 s3 e9
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1642.mp4
+#EXTINF:-1,Cartoons: Ben 10 s3 e10
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1643.mp4
+#EXTINF:-1,Cartoons: Ben 10 s4 e1
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1644.mp4
+#EXTINF:-1,Cartoons: Ben 10 s4 e2
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1645.mp4
+#EXTINF:-1,Cartoons: Ben 10 s4 e3
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1681.mp4
+#EXTINF:-1,Cartoons: Ben 10 s4 e4
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1682.mp4
+#EXTINF:-1,Cartoons: Ben 10 s4 e5
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1683.mp4
+#EXTINF:-1,Cartoons: Ben 10 s4 e6
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1684.mp4
+#EXTINF:-1,Cartoons: Ben 10 s4 e7
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1685.mp4
+#EXTINF:-1,Cartoons: Ben 10 s4 e8
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1686.mp4
+#EXTINF:-1,Cartoons: Ben 10 s4 e9
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1687.mp4
+#EXTINF:-1,Cartoons: Ben 10 s4 e10
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1688.mp4
+#EXTINF:-1,Cartoons: Ben 10 s5 e1
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1689.mp4
+#EXTINF:-1,Cartoons: Ben 10 s5 e2
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1690.mp4
+#EXTINF:-1,Cartoons: Ben 10 s5 e3
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1691.mp4
+#EXTINF:-1,Cartoons: Ben 10 s5 e4
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1692.mp4
+#EXTINF:-1,Cartoons: Ben 10 s5 e5
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1693.mp4
+#EXTINF:-1,Cartoons: Ben 10 s5 e6
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1694.mp4
+#EXTINF:-1,Cartoons: Ben 10 s5 e7
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1695.mp4
+#EXTINF:-1,Cartoons: Ben 10 s5 e8
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1696.mp4
+#EXTINF:-1,Cartoons: Ben 10 s5 e9
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1697.mp4
+#EXTINF:-1,Cartoons: Ben 10 s5 e10
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1698.mp4
+#EXTINF:-1,Cartoons: Ben 10 s6 e1
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1699.mp4
+#EXTINF:-1,Cartoons: Ben 10 s6 e2
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1700.mp4
+#EXTINF:-1,Cartoons: Ben 10 s6 e3
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1701.mp4
+#EXTINF:-1,Cartoons: Ben 10 s6 e4
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1702.mp4
+#EXTINF:-1,Cartoons: Ben 10 s6 e5
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1704.mp4
+#EXTINF:-1,Cartoons: Ben 10 s6 e6
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1703.mp4
+#EXTINF:-1,Cartoons: Ben 10 s6 e7
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1705.mp4
+#EXTINF:-1,Cartoons: Ben 10 s6 e8
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1706.mp4
+#EXTINF:-1,Cartoons: Ben 10 s6 e9
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1707.mp4
+#EXTINF:-1,Cartoons: Ben 10 s6 e10
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1708.mp4
+#EXTINF:-1,Cartoons: Ben 10 s7 e1
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1709.mp4
+#EXTINF:-1,Cartoons: Ben 10 s7 e2
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1710.mp4
+#EXTINF:-1,Cartoons: Ben 10 s7 e3
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1711.mp4
+#EXTINF:-1,Cartoons: Ben 10 s7 e5
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1712.mp4
+#EXTINF:-1,Cartoons: Ben 10 s7 e6
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1713.mp4
+#EXTINF:-1,Cartoons: Ben 10 s7 e7
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1714.mp4
+#EXTINF:-1,Cartoons: Ben 10 s7 e8
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1715.mp4
+#EXTINF:-1,Cartoons: Ben 10 s7 e9
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1716.mp4
+#EXTINF:-1,Cartoons: Ben 10 s7 e10
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1717.mp4
+#EXTINF:-1,Cartoons: Ben 10 s8 e1
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1718.mp4
+#EXTINF:-1,Cartoons: Ben 10 s8 e2
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1719.mp4
+#EXTINF:-1,Cartoons: Ben 10 s8 e3
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1720.mp4
+#EXTINF:-1,Cartoons: Ben 10 s8 e4
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1721.mp4
+#EXTINF:-1,Cartoons: Ben 10 s8 e5
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1722.mp4
+#EXTINF:-1,Cartoons: Ben 10 s8 e6
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1723.mp4
+#EXTINF:-1,Cartoons: Ben 10 s8 e7
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1724.mp4
+#EXTINF:-1,Cartoons: Ben 10 s8 e8
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1725.mp4
+#EXTINF:-1,Cartoons: Ben 10 s8 e9
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1726.mp4
+#EXTINF:-1,Cartoons: Ben 10 s8 e10
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1727.mp4
+#EXTINF:-1,Movies: The Hunger Games 2012
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/3710.mp4
+#EXTINF:-1,Movies: The Hunger Games Catching Fire
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/3711.mp4
+#EXTINF:-1,Movies: The Hunger Games Mockingjay
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/3712.mp4
+#EXTINF:-1,Movies: 007 Casino Royale
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/3700.mp4
+#EXTINF:-1,Movies: 007 Quantum of Solace
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/3701.mp4
+#EXTINF:-1,Movies: 007 Skyfall
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/3702.mp4
+#EXTINF:-1,Movies: Tomorrowland
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/3714.mp4
+#EXTINF:-1,Movies: The Wolf of Wall Street
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/3713.mp4
+#EXTINF:-1,Movies: The Death and Life of Bobby Z
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/3709.mp4
+#EXTINF:-1,Movies: Mad Max Fury Road
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/3708.mp4
+#EXTINF:-1,Movies: Jurassic World
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/3707.mp4
+#EXTINF:-1,Movies: Get Hard
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/3706.mp4
+#EXTINF:-1,Movies: Focus
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/3705.mp4
+#EXTINF:-1,Movies: Fifty Shades of Grey
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/3704.mp4
+#EXTINF:-1,Movies: Exodus Gods and Kings
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/3703.mp4
+#EXTINF:-1,Movies: Welcome Back
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/3078.mp4
+#EXTINF:-1,Movies: The Great Gatsby
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/3081.mp4
+#EXTINF:-1,Movies: Me, myself and Irene
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/3080.mp4
+#EXTINF:-1,Movies: Jackass Bad Grandpa
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/3079.mp4
+#EXTINF:-1,Movies: Black Swan
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/3077.mp4
+#EXTINF:-1,Movie: Pirates of the Caribbean On Stranger Tides
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2325.mp4
+#EXTINF:-1,Movie: Pirates of the Caribbean Dead man's chest
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2327.mp4
+#EXTINF:-1,Movie: Pirates of the Caribbean At world's end
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2326.mp4
+#EXTINF:-1,Movie: Star Wars I
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2143.mp4
+#EXTINF:-1,Movie: Star Wars II
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2144.mp4
+#EXTINF:-1,Movie: Star Wars III
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2145.mp4
+#EXTINF:-1,Movie: Star Wars IV
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2146.mp4
+#EXTINF:-1,Movie: Star Wars V
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2147.mp4
+#EXTINF:-1,Movie: Star Wars VI
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2148.mp4
+#EXTINF:-1,Movie: Star Wars VII
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2149.mp4
+#EXTINF:-1,Movie: Pirates of the Caribbean - The curse of the black pearl
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/2151.mp4
+#EXTINF:-1,Movie: Forrest Gump
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1980.mp4
+#EXTINF:-1,Movie: Chinatown
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1979.mp4
+#EXTINF:-1,Movie: 12 angry men
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1978.mp4
+#EXTINF:-1,Movies: The Godfather 1
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1845.mp4
+#EXTINF:-1,Movies: The Godfather 2
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1846.mp4
+#EXTINF:-1,Movies: The Godfather 3
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1847.mp4
+#EXTINF:-1,Movies: Die hard 1
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1836.mp4
+#EXTINF:-1,Movies: Die Hard 2
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1841.mp4
+#EXTINF:-1,Movies: Die Hard 4
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1838.mp4
+#EXTINF:-1,Movies: Bad Boys 1
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1848.mp4
+#EXTINF:-1,Movies: Bad Boys 2
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1849.mp4
+#EXTINF:-1,Movies: Analyze this 1
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1768.mp4
+#EXTINF:-1,Movies: Analyze that 2
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1769.mp4
+#EXTINF:-1,Movies: The silence of the lambs
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1843.mp4
+#EXTINF:-1,Movies: The Last Witch Hunter
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1859.mp4
+#EXTINF:-1,Movies: The Devil Wears Prada
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1858.mp4
+#EXTINF:-1,Movies: The Day After Tomorrow
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1857.mp4
+#EXTINF:-1,Movies: Schindler's list
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1851.mp4
+#EXTINF:-1,Movies: Raging Bull
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1852.mp4
+#EXTINF:-1,Movies: Casablanca
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1850.mp4
+#EXTINF:-1,Movies: Burnt
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1856.mp4
+#EXTINF:-1,Movies: Bridge of Spies
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1855.mp4
+#EXTINF:-1,Movies: Braveheart
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1853.mp4
+#EXTINF:-1,Movies: Big momma's house
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1854.mp4
+#EXTINF:-1,Movies: Fantastic Four
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1763.mp4
+#EXTINF:-1,Movies: Crimson Peak
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/1766.mp4
+#EXTINF:-1,Movie: Everest 2015
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/431.mp4
+#EXTINF:-1,==========France==========
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7238.m3u8
+#EXTINF:-1,FR: TV5 MONDE HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4039.m3u8
+#EXTINF:-1,FR: SERIE CLUB
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4044.m3u8
+#EXTINF:-1,FR: PLANETE +
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4048.m3u8
+#EXTINF:-1,FR: PLANETE + CI
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4046.m3u8
+#EXTINF:-1,FR: DISCOVERY HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4051.m3u8
+#EXTINF:-1,FR: NATIONAL GEO CHANNEL
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4050.m3u8
+#EXTINF:-1,FR: Ma chaine Sports
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4077.m3u8
+#EXTINF:-1,FR: M6 MUSIC
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4053.m3u8
+#EXTINF:-1,FR: INFOSPORT
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4055.m3u8
+#EXTINF:-1,FR: FRANCE 24
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4058.m3u8
+#EXTINF:-1,FR: CINE FX
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4063.m3u8
+#EXTINF:-1,FR: CINE CLASSIC
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4064.m3u8
+#EXTINF:-1,FR: CANAL J
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4067.m3u8
+#EXTINF:-1,FR: CANAL   FRISSON
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4068.m3u8
+#EXTINF:-1,FR: CANAL   FAMALY
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4069.m3u8
+#EXTINF:-1,FR: CANAL   EMOTION
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4070.m3u8
+#EXTINF:-1,FR: CANAL   DECALE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4071.m3u8
+#EXTINF:-1,FR: CANAL   CLASSIC
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4072.m3u8
+#EXTINF:-1,FR: CANAL   CINEMA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4073.m3u8
+#EXTINF:-1,FR: Comedie
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1665.m3u8
+#EXTINF:-1,FR: ACTION
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4090.m3u8
+#EXTINF:-1,FR: Canal   Cinema France
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1669.m3u8
+#EXTINF:-1,FR: BOING
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4075.m3u8
+#EXTINF:-1,FR: BFM TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4076.m3u8
+#EXTINF:-1,FR: ARTE HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1680.m3u8
+#EXTINF:-1,FR: ARTE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4088.m3u8
+#EXTINF:-1,FR: ANIMAUX
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4089.m3u8
+#EXTINF:-1,FR: A LA CARTE 5
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4091.m3u8
+#EXTINF:-1,FR: A LA CARTE 4
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4092.m3u8
+#EXTINF:-1,FR: A LA CARTE 3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4093.m3u8
+#EXTINF:-1,FR: A LA CARTE 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4094.m3u8
+#EXTINF:-1,FR: A LA CARTE 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4095.m3u8
+#EXTINF:-1,FR: W9
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1647.m3u8
+#EXTINF:-1,FR: TMC
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1648.m3u8
+#EXTINF:-1,FR: TF 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1649.m3u8
+#EXTINF:-1,FR: Public Senat
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1650.m3u8
+#EXTINF:-1,FR: Piwi
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1651.m3u8
+#EXTINF:-1,FR: NRJ 12
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1652.m3u8
+#EXTINF:-1,FR: M6
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1653.m3u8
+#EXTINF:-1,FR: Nickelodeon
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1655.m3u8
+#EXTINF:-1,FR: LCP
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1654.m3u8
+#EXTINF:-1,FR: Teva
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1656.m3u8
+#EXTINF:-1,FR: I>Tele
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1657.m3u8
+#EXTINF:-1,FR: Gulli
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1658.m3u8
+#EXTINF:-1,FR: France O
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1659.m3u8
+#EXTINF:-1,FR: France 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1663.m3u8
+#EXTINF:-1,FR: France 3 Sat
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1662.m3u8
+#EXTINF:-1,FR: France 4
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1661.m3u8
+#EXTINF:-1,FR: France 5
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1660.m3u8
+#EXTINF:-1,FR: D8
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1664.m3u8
+#EXTINF:-1,FR: Canal
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1668.m3u8
+#EXTINF:-1,FR: Chasse and Peche
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1666.m3u8
+#EXTINF:-1,FR: Canal   Sport
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1667.m3u8
+#EXTINF:-1,FR: EURONEWS
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4060.m3u8
+#EXTINF:-1,FR: EUROSPORT 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4059.m3u8
+#EXTINF:-1,FR: EUROSPORT 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4087.m3u8
+#EXTINF:-1,FR: BeIn Sport 1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4885.m3u8
+#EXTINF:-1,FR: BeIn Sport 2 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4886.m3u8
+#EXTINF:-1,FR: BeIn Sport 3 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4887.m3u8
+#EXTINF:-1,FR: BeIn Sports Max 4
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1675.m3u8
+#EXTINF:-1,FR: BeIn Sports Max 5
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1674.m3u8
+#EXTINF:-1,FR: BeIn Sports Max 6
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1673.m3u8
+#EXTINF:-1,FR: BeIn Sports Max 7
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1672.m3u8
+#EXTINF:-1,FR: BeIn Sports Max 8
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1671.m3u8
+#EXTINF:-1,==========Greece==========
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7239.m3u8
+#EXTINF:-1,GR: MAD TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5574.m3u8
+#EXTINF:-1,GR: MAD CY
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7246.m3u8
+#EXTINF:-1,GR: Vouli
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1729.m3u8
+#EXTINF:-1,GR: Star
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1730.m3u8
+#EXTINF:-1,GR: SKAI
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1731.m3u8
+#EXTINF:-1,GR: Mega
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1732.m3u8
+#EXTINF:-1,GR: Makedonia
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1733.m3u8
+#EXTINF:-1,GR: ERT HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1734.m3u8
+#EXTINF:-1,GR: ERT 3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1735.m3u8
+#EXTINF:-1,GR: ERT 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1736.m3u8
+#EXTINF:-1,GR: Epsilon TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1738.m3u8
+#EXTINF:-1,GR: Art TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1739.m3u8
+#EXTINF:-1,GR: Ant1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1740.m3u8
+#EXTINF:-1,GR: Alpha TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1741.m3u8
+#EXTINF:-1,==========Albania==========
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7235.m3u8
+#EXTINF:-1,AL: TV Tetova HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4389.m3u8
+#EXTINF:-1,AL: TV Sharri HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4390.m3u8
+#EXTINF:-1,AL: TV Opoja
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4393.m3u8
+#EXTINF:-1,AL: TV Lezha
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4395.m3u8
+#EXTINF:-1,AL: TV Kosova
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4396.m3u8
+#EXTINF:-1,AL: TV Globi Gostivar
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4398.m3u8
+#EXTINF:-1,AL: TV Era
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4399.m3u8
+#EXTINF:-1,AL: TV Dukagjini
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4400.m3u8
+#EXTINF:-1,AL: RTK 1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4435.m3u8
+#EXTINF:-1,AL: RTK 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4436.m3u8
+#EXTINF:-1,AL: RTV 21 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4431.m3u8
+#EXTINF:-1,AL: RTV 21 Junior
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4430.m3u8
+#EXTINF:-1,AL: RTV 21 Popullore HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4427.m3u8
+#EXTINF:-1,AL: RTV 21 Plus HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4428.m3u8
+#EXTINF:-1,AL: RTV 21 MK HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4429.m3u8
+#EXTINF:-1,AL: RTV Sharri
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4426.m3u8
+#EXTINF:-1,AL: Zico TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4387.m3u8
+#EXTINF:-1,AL: Vizion
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4388.m3u8
+#EXTINF:-1,AL: Tribuna TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4411.m3u8
+#EXTINF:-1,AL: Top News
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4412.m3u8
+#EXTINF:-1,AL: Tirana TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4413.m3u8
+#EXTINF:-1,AL: Tip TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4414.m3u8
+#EXTINF:-1,AL: First Channel
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4461.m3u8
+#EXTINF:-1,AL: Film Thriller
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4462.m3u8
+#EXTINF:-1,AL: Film Stinet
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4463.m3u8
+#EXTINF:-1,AL: Film Junior
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4464.m3u8
+#EXTINF:-1,AL: Film Hits 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4465.m3u8
+#EXTINF:-1,AL: Film Aksion
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4466.m3u8
+#EXTINF:-1,AL: Film Thriler
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4368.m3u8
+#EXTINF:-1,AL: Film Nje HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4369.m3u8
+#EXTINF:-1,AL: Film Komedi
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4370.m3u8
+#EXTINF:-1,AL: Film Hits  1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4371.m3u8
+#EXTINF:-1,AL: Film Hits
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4372.m3u8
+#EXTINF:-1,AL: Film Dy HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4373.m3u8
+#EXTINF:-1,AL: Film Drame
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4374.m3u8
+#EXTINF:-1,AL: Film Autor
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4375.m3u8
+#EXTINF:-1,AL: Film Akcion
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4376.m3u8
+#EXTINF:-1,AL: Explorer Shkence
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4377.m3u8
+#EXTINF:-1,AL: Explorer Natyre
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4378.m3u8
+#EXTINF:-1,AL: Explorer History
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4379.m3u8
+#EXTINF:-1,AL: Explorer Shkenca
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4467.m3u8
+#EXTINF:-1,AL: Explorer Natyra
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4468.m3u8
+#EXTINF:-1,AL: Explorer Histori
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4469.m3u8
+#EXTINF:-1,AL: Rrokum HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4437.m3u8
+#EXTINF:-1,AL: Peace TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4439.m3u8
+#EXTINF:-1,AL: Ora News
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4440.m3u8
+#EXTINF:-1,AL: News 24
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4441.m3u8
+#EXTINF:-1,AL: My Music
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4442.m3u8
+#EXTINF:-1,AL: MRTV 2 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4444.m3u8
+#EXTINF:-1,AL: Mekka Live
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4445.m3u8
+#EXTINF:-1,AL: Medina Live
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4446.m3u8
+#EXTINF:-1,AL: Living HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4452.m3u8
+#EXTINF:-1,AL: KTV  HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4453.m3u8
+#EXTINF:-1,AL: KTV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4454.m3u8
+#EXTINF:-1,AL: Koha TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4455.m3u8
+#EXTINF:-1,AL: Klan Kosova HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4456.m3u8
+#EXTINF:-1,AL: Kanali 7
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4457.m3u8
+#EXTINF:-1,AL: Jug TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4458.m3u8
+#EXTINF:-1,AL: Folklorit
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4459.m3u8
+#EXTINF:-1,AL: Elrodi TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4470.m3u8
+#EXTINF:-1,AL: Lugina Sci-Fi HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4448.m3u8
+#EXTINF:-1,AL: Lugina Premiere 1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4449.m3u8
+#EXTINF:-1,AL: Lugina Premiere 2 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4450.m3u8
+#EXTINF:-1,AL: Lugina Premiere 3 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4451.m3u8
+#EXTINF:-1,AL: Dasma TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4472.m3u8
+#EXTINF:-1,AL: Cufo
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4473.m3u8
+#EXTINF:-1,AL: Vizion Plus EST USA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4474.m3u8
+#EXTINF:-1,AL: BBF Music
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4475.m3u8
+#EXTINF:-1,AL: BangBang
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4476.m3u8
+#EXTINF:-1,AL: Ballkan TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4477.m3u8
+#EXTINF:-1,AL: ALB Music
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4480.m3u8
+#EXTINF:-1,AL: Top Channel HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4352.m3u8
+#EXTINF:-1,AL: Top Channel
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4353.m3u8
+#EXTINF:-1,AL: T HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4354.m3u8
+#EXTINF:-1,AL: Stinet
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4359.m3u8
+#EXTINF:-1,AL: Smile
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4360.m3u8
+#EXTINF:-1,AL: Rtk Kosova
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4361.m3u8
+#EXTINF:-1,AL: Ktv Kohavision
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4362.m3u8
+#EXTINF:-1,AL: Klan Tv
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4363.m3u8
+#EXTINF:-1,AL: Klan Kosova
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4364.m3u8
+#EXTINF:-1,AL: Klan HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4365.m3u8
+#EXTINF:-1,AL: Junior Tv
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4366.m3u8
+#EXTINF:-1,AL: Jolly HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4367.m3u8
+#EXTINF:-1,AL: Era Tv
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4380.m3u8
+#EXTINF:-1,AL: Digi Gold
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4381.m3u8
+#EXTINF:-1,AL: Cufo Tv
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4382.m3u8
+#EXTINF:-1,AL: 21 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4383.m3u8
+#EXTINF:-1,AL: ABC News
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4483.m3u8
+#EXTINF:-1,AL: Vizion Plus
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4340.m3u8
+#EXTINF:-1,AL: Tvsh
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4341.m3u8
+#EXTINF:-1,AL: TV Koha
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4342.m3u8
+#EXTINF:-1,AL: SuperSonic TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4417.m3u8
+#EXTINF:-1,AL: Super Sport Kosova 1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4419.m3u8
+#EXTINF:-1,AL: Super Sport Kosova 2 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4418.m3u8
+#EXTINF:-1,AL: Super Sport 1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4424.m3u8
+#EXTINF:-1,AL: Super sport 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4358.m3u8
+#EXTINF:-1,AL: Super Sport 2 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4423.m3u8
+#EXTINF:-1,AL: Super sport 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4357.m3u8
+#EXTINF:-1,AL: Super Sport 3 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4422.m3u8
+#EXTINF:-1,AL: Super sport 3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4356.m3u8
+#EXTINF:-1,AL: Super Sport 4 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4421.m3u8
+#EXTINF:-1,AL: Super sport 4
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4355.m3u8
+#EXTINF:-1,AL: Super Sport 5 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4420.m3u8
+#EXTINF:-1,AL: Tring Sport 1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4404.m3u8
+#EXTINF:-1,AL: Tring Sport 2 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4405.m3u8
+#EXTINF:-1,AL: Tring Sport 3 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4406.m3u8
+#EXTINF:-1,AL: Tring Sport 4 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4407.m3u8
+#EXTINF:-1,AL: Tring Sport News HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4403.m3u8
+#EXTINF:-1,AL: Tring 3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4410.m3u8
+#EXTINF:-1,AL: Tring Festa
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4408.m3u8
+#EXTINF:-1,AL: Tring Comedy
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4409.m3u8
+#EXTINF:-1,AL: Tring Live
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4415.m3u8
+#EXTINF:-1,AL: Tring World
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4343.m3u8
+#EXTINF:-1,AL: Tring Tring
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4344.m3u8
+#EXTINF:-1,AL: Tring Super
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4345.m3u8
+#EXTINF:-1,AL: Tring Shqip
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4346.m3u8
+#EXTINF:-1,AL: Tring Planet
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4347.m3u8
+#EXTINF:-1,AL: Tring Max
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4348.m3u8
+#EXTINF:-1,AL: Tring Life
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4349.m3u8
+#EXTINF:-1,AL: Tring History
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4350.m3u8
+#EXTINF:-1,AL: Tring Fantasy
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4351.m3u8
+#EXTINF:-1,==========Turkey==========
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7244.m3u8
+#EXTINF:-1,TR:Loca_1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4487.m3u8
+#EXTINF:-1,TR: Sinema 1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4514.m3u8
+#EXTINF:-1,TR: Sinema_Platin
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4488.m3u8
+#EXTINF:-1,TR: Sinema_Gold
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4489.m3u8
+#EXTINF:-1,TR: Sinema tv Aksiyon
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4490.m3u8
+#EXTINF:-1,TR: Sinema TV Aile
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4491.m3u8
+#EXTINF:-1,TR: Sinema Korku
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4493.m3u8
+#EXTINF:-1,TR: SHOW TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4515.m3u8
+#EXTINF:-1,TR: SALON 3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4517.m3u8
+#EXTINF:-1,TR: SALON 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4518.m3u8
+#EXTINF:-1,TR: SALON 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4519.m3u8
+#EXTINF:-1,TR: Planet Mutfak
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4520.m3u8
+#EXTINF:-1,TR: Planet Cocuk
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4521.m3u8
+#EXTINF:-1,TR: Moviemax_Premiere
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4494.m3u8
+#EXTINF:-1,TR: Moviemax_Family
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4495.m3u8
+#EXTINF:-1,TR: Moviemax Stars
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4496.m3u8
+#EXTINF:-1,TR: Sinema 2 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4522.m3u8
+#EXTINF:-1,TR: Moviemax Festival
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4497.m3u8
+#EXTINF:-1,TR: Haber Turk
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4523.m3u8
+#EXTINF:-1,TR: LIGTV 4 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4528.m3u8
+#EXTINF:-1,TR: LIGTV 3 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4529.m3u8
+#EXTINF:-1,TR: LIGTV 2 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4530.m3u8
+#EXTINF:-1,TR: LIGTV 1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4531.m3u8
+#EXTINF:-1,TR: CNN Turk
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4534.m3u8
+#EXTINF:-1,TR: KANALTURK HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4535.m3u8
+#EXTINF:-1,TR: KANAL D HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4536.m3u8
+#EXTINF:-1,TR: DREAM TURK
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4541.m3u8
+#EXTINF:-1,TR: DISNEY JUNIOR
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4498.m3u8
+#EXTINF:-1,TR: Disney Channel HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4542.m3u8
+#EXTINF:-1,TR: Discovery Sc
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4543.m3u8
+#EXTINF:-1,TR: Sinema 8 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4499.m3u8
+#EXTINF:-1,TR: Sinema 7 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4500.m3u8
+#EXTINF:-1,TR: Sinema 6 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4501.m3u8
+#EXTINF:-1,TR: Sinema 5 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4502.m3u8
+#EXTINF:-1,TR: Sinema 4 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4503.m3u8
+#EXTINF:-1,TR: Sinema 3 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4504.m3u8
+#EXTINF:-1,TR: Cartoon Network
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4507.m3u8
+#EXTINF:-1,TR: CARTONNETWORK
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4545.m3u8
+#EXTINF:-1,==========USA==========
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7236.m3u8
+#EXTINF:-1,USA: CNN
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7332.m3u8
+#EXTINF:-1,USA: CNBC
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7335.m3u8
+#EXTINF:-1,USA: NBA TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7260.m3u8
+#EXTINF:-1,USA: ESPN HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7333.m3u8
+#EXTINF:-1,USA: DTX
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4568.m3u8
+#EXTINF:-1,USA: DTX HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4597.m3u8
+#EXTINF:-1,USA: TSN 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4587.m3u8
+#EXTINF:-1,USA: TSN 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4584.m3u8
+#EXTINF:-1,USA: TSN 3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4579.m3u8
+#EXTINF:-1,USA: TSN 4
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4578.m3u8
+#EXTINF:-1,USA: Astro SUPERSPORT 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4580.m3u8
+#EXTINF:-1,USA: Astro SUPERSPORT 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4581.m3u8
+#EXTINF:-1,USA: Astro SUPERSPORT 3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4582.m3u8
+#EXTINF:-1,USA: Astro SUPERSPORT 4
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7251.m3u8
+#EXTINF:-1,USA: Fox Sport 1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7258.m3u8
+#EXTINF:-1,USA: Fox Sport 2 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7259.m3u8
+#EXTINF:-1,USA: AFM NEWS
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4583.m3u8
+#EXTINF:-1,USA: AFM MOVIES
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4588.m3u8
+#EXTINF:-1,USA: AFM SPORTS
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4591.m3u8
+#EXTINF:-1,USA: AFM SPORT HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4589.m3u8
+#EXTINF:-1,USA: AFM  PLUSE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4596.m3u8
+#EXTINF:-1,USA: Fashion TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4576.m3u8
+#EXTINF:-1,USA: SPECTRUM
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4572.m3u8
+#EXTINF:-1,USA: PRIME PACIFIC
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4571.m3u8
+#EXTINF:-1,USA: PRIME ATLANTIC
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4570.m3u8
+#EXTINF:-1,USA: GLOBAL MONTREAL
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4569.m3u8
+#EXTINF:-1,USA: DISCOVERY SHOWCASE HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4567.m3u8
+#EXTINF:-1,USA: DISCOVERY SCIENCE HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4566.m3u8
+#EXTINF:-1,USA: DISCOVERY ID XTRA HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4565.m3u8
+#EXTINF:-1,USA: AFN SPORTS HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4564.m3u8
+#EXTINF:-1,USA: AFN SPORTS 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4563.m3u8
+#EXTINF:-1,USA: AFN SPORTS
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4562.m3u8
+#EXTINF:-1,USA: AFN NEWS
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4561.m3u8
+#EXTINF:-1,USA: AFN MOVIE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4560.m3u8
+#EXTINF:-1,USA: AFM PULSE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4559.m3u8
+#EXTINF:-1,USA: ABC NEWS
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/4558.m3u8
+#EXTINF:-1,It VODs: Whiplash (2014)
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4660.mp4
+#EXTINF:-1,It VODs: Un Piccione seduto su un ramo (2014)
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4658.mp4
+#EXTINF:-1,It VODs: The Search (2014)
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4657.mp4
+#EXTINF:-1,It VODs: The Iceman (2012)
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4656.mp4
+#EXTINF:-1,It VODs: The Hunter (2011)
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4655.mp4
+#EXTINF:-1,It VODs: The Exorcism of Emily Rose
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4654.mp4
+#EXTINF:-1,It VODs: Seventh Son (2014)
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4653.mp4
+#EXTINF:-1,It VODs: Sette Note In Nero (1977)
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4652.mp4
+#EXTINF:-1,It VODs: Romeo and Juliet (2013)
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4651.mp4
+#EXTINF:-1,It VODs: Robin Hood - Principe Dei Ladri (1991)
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4650.mp4
+#EXTINF:-1,It VODs: Perfidia(2014)
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4649.mp4
+#EXTINF:-1,It VODs: Oliver and company
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4648.mp4
+#EXTINF:-1,It VODs: Nottetempo
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4647.mp4
+#EXTINF:-1,It VODs: Motel the Big man
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4646.mp4
+#EXTINF:-1,It VODs: Men Women and Children
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4645.mp4
+#EXTINF:-1,It VODs: Maraviglioso Boccaccio (2015)
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4644.mp4
+#EXTINF:-1,It VODs: Leoni (2014)
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4643.mp4
+#EXTINF:-1,It VODs: Le quattro piume (2002)
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4642.mp4
+#EXTINF:-1,It VODs: L'ultimo samurai (2003)
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4641.mp4
+#EXTINF:-1,It VODs: Jupiter Ascending (2015)
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4640.mp4
+#EXTINF:-1,It VODs: Inherent Vice Vizio di forma (2014)
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4639.mp4
+#EXTINF:-1,It VODs: Il Segreto del suo volto Phoenix
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4638.mp4
+#EXTINF:-1,It VODs: Harry Potter e l'Ordine della Fenice (2007)
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4637.mp4
+#EXTINF:-1,It VODs: Gemma Bovery (2014)
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4636.mp4
+#EXTINF:-1,It VODs: Focus (2015)
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4635.mp4
+#EXTINF:-1,It VODs: Fire In The Sky - Bagliori Nel Buio (1993)
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4634.mp4
+#EXTINF:-1,It VODs: Exodus - Dei e Re (2014)
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4633.mp4
+#EXTINF:-1,It VODs: Automata (2014)
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4631.mp4
+#EXTINF:-1,It VODs: Affittasi ladra (1987)
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4630.mp4
+#EXTINF:-1,It VODs: A Proposito Di Henry (1991)
+http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/4629.mp4
+#EXTINF:-1,==========Ex-Yu==========
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7240.m3u8
+#EXTINF:-1,EX-YU: TV 1000
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7263.m3u8
+#EXTINF:-1,EX-YU: SPORT KLUB 1 HR
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7319.m3u8
+#EXTINF:-1,EX-YU: SPORT KLUB 2 HR
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7320.m3u8
+#EXTINF:-1,EX-YU: SPORT KLUB 3 HR
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7321.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 1 HR
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7324.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 2 HR
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7325.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 3 HR
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7326.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 4 HR
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7327.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 5 HR
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7328.m3u8
+#EXTINF:-1,EX-YU: RTV 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7295.m3u8
+#EXTINF:-1,EX-YU: RTS 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7274.m3u8
+#EXTINF:-1,EX-YU: RTS 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7275.m3u8
+#EXTINF:-1,EX-YU: RTL PASSION [HR]
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7272.m3u8
+#EXTINF:-1,EX-YU: RTL LIVING
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7269.m3u8
+#EXTINF:-1,EX-YU: RTL KOCKICA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7270.m3u8
+#EXTINF:-1,EX-YU: RTL CRIME
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7271.m3u8
+#EXTINF:-1,EX-YU: RTL
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7267.m3u8
+#EXTINF:-1,EX-YU: RTL 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7268.m3u8
+#EXTINF:-1,EX-YU: OBN
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7276.m3u8
+#EXTINF:-1,EX-YU: NOVA HR
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7286.m3u8
+#EXTINF:-1,EX-YU: NICKELODEON
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7306.m3u8
+#EXTINF:-1,EX-YU: NATIONAL GEOGRAPHIC [HR]
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7302.m3u8
+#EXTINF:-1,EX-YU: N1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7303.m3u8
+#EXTINF:-1,EX-YU: MINIMAX
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7305.m3u8
+#EXTINF:-1,EX-YU: MINI
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7304.m3u8
+#EXTINF:-1,EX-YU: KLASIK TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7315.m3u8
+#EXTINF:-1,EX-YU: HRT 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7278.m3u8
+#EXTINF:-1,EX-YU: HRT 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7279.m3u8
+#EXTINF:-1,EX-YU: HRT 3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7280.m3u8
+#EXTINF:-1,EX-YU: HRT 4
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7281.m3u8
+#EXTINF:-1,EX-YU: HISTORY CHANNEL
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7300.m3u8
+#EXTINF:-1,EX-YU: HBO COMEDY
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7288.m3u8
+#EXTINF:-1,EX-YU: HBO ADRIA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7287.m3u8
+#EXTINF:-1,EX-YU: HAYATOVCI
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7293.m3u8
+#EXTINF:-1,EX-YU: HAYAT FOLK
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7294.m3u8
+#EXTINF:-1,EX-YU: HAYAT BIH
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7292.m3u8
+#EXTINF:-1,EX-YU: HAYAT
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7291.m3u8
+#EXTINF:-1,EX-YU: HAPPY
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7296.m3u8
+#EXTINF:-1,EX-YU: GRAND TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7307.m3u8
+#EXTINF:-1,EX-YU: FTV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7273.m3u8
+#EXTINF:-1,EX-YU: FOX MOVIES
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7285.m3u8
+#EXTINF:-1,EX-YU: FOX LIFE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7283.m3u8
+#EXTINF:-1,EX-YU: FOX CRIME
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7284.m3u8
+#EXTINF:-1,EX-YU: FOX
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7282.m3u8
+#EXTINF:-1,EX-YU: FACE TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7313.m3u8
+#EXTINF:-1,EX-YU: EUROSPORT 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7317.m3u8
+#EXTINF:-1,EX-YU: EUROSPORT 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7318.m3u8
+#EXTINF:-1,EX-YU: DOMA TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7314.m3u8
+#EXTINF:-1,EX-YU: DM SAT
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7312.m3u8
+#EXTINF:-1,EX-YU: DISCOVERY CHANNEL
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7301.m3u8
+#EXTINF:-1,EX-YU: CINESTAR PREMIERE 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7265.m3u8
+#EXTINF:-1,EX-YU: CINESTAR PREMIERE 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7266.m3u8
+#EXTINF:-1,EX-YU: CINESTAR ACTION
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7264.m3u8
+#EXTINF:-1,EX-YU: CINEMAX
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7289.m3u8
+#EXTINF:-1,EX-YU: CINEMAX 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7290.m3u8
+#EXTINF:-1,EX-YU: BN MUSIC
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7311.m3u8
+#EXTINF:-1,EX-YU: B 92
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7308.m3u8
+#EXTINF:-1,EX-YU: ATV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7277.m3u8
+#EXTINF:-1,EX-YU: ATLAS TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7297.m3u8
+#EXTINF:-1,EX-YU: ANIMAL PLANET
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7299.m3u8
+#EXTINF:-1,EX-YU: AL JAZEERA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7316.m3u8
+#EXTINF:-1,EX-YU: 24 KITCHEN
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7298.m3u8
+#EXTINF:-1,EX-YU: PRVA PLUS
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5512.m3u8
+#EXTINF:-1,EX-YU: PINK ZABAVA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5519.m3u8
+#EXTINF:-1,EX-YU: PINK WORLD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5527.m3u8
+#EXTINF:-1,EX-YU: PINK WESTERN
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5524.m3u8
+#EXTINF:-1,EX-YU: PINK THRILLER
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5526.m3u8
+#EXTINF:-1,EX-YU: PINK SOAP
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5511.m3u8
+#EXTINF:-1,EX-YU: PINK SCI-FI & FANTASY
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5528.m3u8
+#EXTINF:-1,EX-YU: PINK ROMANCE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5525.m3u8
+#EXTINF:-1,EX-YU: PINK REALITY
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5520.m3u8
+#EXTINF:-1,EX-YU: PINK PREMIUM
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5523.m3u8
+#EXTINF:-1,EX-YU: PINK PLUS
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5510.m3u8
+#EXTINF:-1,EX-YU: PINK PEDIA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5517.m3u8
+#EXTINF:-1,EX-YU: PINK M
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5506.m3u8
+#EXTINF:-1,EX-YU: PINK KIDS
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5509.m3u8
+#EXTINF:-1,EX-YU: PINK HORROR
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5522.m3u8
+#EXTINF:-1,EX-YU: PINK FOLK 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5514.m3u8
+#EXTINF:-1,EX-YU: PINK FOLK 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5513.m3u8
+#EXTINF:-1,EX-YU: PINK FILM
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5508.m3u8
+#EXTINF:-1,EX-YU: PINK FAMLIY
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5515.m3u8
+#EXTINF:-1,EX-YU: PINK EXTRA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5516.m3u8
+#EXTINF:-1,EX-YU: PINK CRIME & MISTERY
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5529.m3u8
+#EXTINF:-1,EX-YU: PINK COMEDY
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5521.m3u8
+#EXTINF:-1,EX-YU: PINK BH
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5507.m3u8
+#EXTINF:-1,EX-YU: PINK ACTION
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5518.m3u8
+#EXTINF:-1,EX-YU: PINK 3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5504.m3u8
+#EXTINF:-1,EX-YU: PINK 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5505.m3u8
+#EXTINF:-1,EX-YU: PINK 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/5503.m3u8
+#EXTINF:-1,==========Arabic==========
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7241.m3u8
+#EXTINF:-1,AR: OSN YAHALA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7950.m3u8
+#EXTINF:-1,AR: OSN Ya Hala Shabab
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7951.m3u8
+#EXTINF:-1,AR: OSN YA HALA DRAMA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7952.m3u8
+#EXTINF:-1,AR: OSN StAR: World
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7936.m3u8
+#EXTINF:-1,AR: OSN On Demand
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7937.m3u8
+#EXTINF:-1,AR: OSN Movies stAR: HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7938.m3u8
+#EXTINF:-1,AR: OSN Movies Kids
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7944.m3u8
+#EXTINF:-1,AR: OSN Movies First More HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7945.m3u8
+#EXTINF:-1,AR: OSN Movies Festival
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7946.m3u8
+#EXTINF:-1,AR: OSN Movies Drama HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7947.m3u8
+#EXTINF:-1,AR: OSN Movies Box Office 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7939.m3u8
+#EXTINF:-1,AR: OSN Movies Box Office 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7940.m3u8
+#EXTINF:-1,AR: OSN Movie Premiere
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7942.m3u8
+#EXTINF:-1,AR: OSN MOVIE ACTION
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7955.m3u8
+#EXTINF:-1,AR: OSN MOVIE ACTION 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7956.m3u8
+#EXTINF:-1,AR: OSN MOVIE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7954.m3u8
+#EXTINF:-1,AR: OSN MBC  DRAMA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7933.m3u8
+#EXTINF:-1,AR: OSN Hahala HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7941.m3u8
+#EXTINF:-1,AR: OSN First HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7948.m3u8
+#EXTINF:-1,AR: OSN Discovery Science
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7949.m3u8
+#EXTINF:-1,AR: OSN Cinema 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7934.m3u8
+#EXTINF:-1,AR: OSN Cinema 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7935.m3u8
+#EXTINF:-1,AR: Star Cinema
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7929.m3u8
+#EXTINF:-1,AR: Star Cinema 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7930.m3u8
+#EXTINF:-1,AR: Star Cinema 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7931.m3u8
+#EXTINF:-1,AR: Somaliland National TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7896.m3u8
+#EXTINF:-1,AR: Saudi 24
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7895.m3u8
+#EXTINF:-1,AR: Sama Dubai
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7893.m3u8
+#EXTINF:-1,AR: Noor TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7886.m3u8
+#EXTINF:-1,AR: Noor Dubai
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7887.m3u8
+#EXTINF:-1,AR: MTV Lebanon
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7883.m3u8
+#EXTINF:-1,AR: Mobahat TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7882.m3u8
+#EXTINF:-1,AR: MBC1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7589.m3u8
+#EXTINF:-1,AR: MBC2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7590.m3u8
+#EXTINF:-1,AR: MBC3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7601.m3u8
+#EXTINF:-1,AR: MBC4
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7591.m3u8
+#EXTINF:-1,AR: MBC PRO SP1 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7598.m3u8
+#EXTINF:-1,AR: MBC PRO SP2 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7599.m3u8
+#EXTINF:-1,AR: MBC PRO SP3 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7600.m3u8
+#EXTINF:-1,AR: MBC Masr 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7915.m3u8
+#EXTINF:-1,AR: MBC Masr 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7916.m3u8
+#EXTINF:-1,AR: MBC MASR2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7596.m3u8
+#EXTINF:-1,AR: MBC MAX
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7593.m3u8
+#EXTINF:-1,AR: MBC masr
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7595.m3u8
+#EXTINF:-1,AR: MBC Drama
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7597.m3u8
+#EXTINF:-1,AR: MBC bollywood
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7594.m3u8
+#EXTINF:-1,AR: MBC Action
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7592.m3u8
+#EXTINF:-1,AR: MBC 1
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7911.m3u8
+#EXTINF:-1,AR: MBC 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7912.m3u8
+#EXTINF:-1,AR: MBC 3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7913.m3u8
+#EXTINF:-1,AR: MBC 4
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7914.m3u8
+#EXTINF:-1,AR: LBC Sat
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7879.m3u8
+#EXTINF:-1,AR: Future TV Int
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7877.m3u8
+#EXTINF:-1,AR: Fadak TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7876.m3u8
+#EXTINF:-1,AR: Dubai One
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7875.m3u8
+#EXTINF:-1,AR: Dubai Drama
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7909.m3u8
+#EXTINF:-1,AR: CBC Drama
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7908.m3u8
+#EXTINF:-1,AR: Cartoon Network
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7903.m3u8
+#EXTINF:-1,AR: Cairo Drama
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7907.m3u8
+#EXTINF:-1,AR: Cairo Cinema
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7906.m3u8
+#EXTINF:-1,AR: Belqees TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7874.m3u8
+#EXTINF:-1,AR: Arrabbia
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7872.m3u8
+#EXTINF:-1,AR: Almayadeen
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7904.m3u8
+#EXTINF:-1,AR: Al Seha Waljamal
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7870.m3u8
+#EXTINF:-1,AR: Al Ruqya 2
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7868.m3u8
+#EXTINF:-1,AR: Al Sahraa 3
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7869.m3u8
+#EXTINF:-1,AR: Al Resalah
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7867.m3u8
+#EXTINF:-1,AR: Al Masdar
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7866.m3u8
+#EXTINF:-1,AR: Al Ma Aly
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7864.m3u8
+#EXTINF:-1,AR: Al Khalij
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7863.m3u8
+#EXTINF:-1,AR: Al Jazeera Mubasher
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7862.m3u8
+#EXTINF:-1,AR: Al Jazeera
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7861.m3u8
+#EXTINF:-1,AR: Al Aoula Laayoune
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7859.m3u8
+#EXTINF:-1,AR: Al Aoula Inter
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7858.m3u8
+#EXTINF:-1,AR: Al Amaken
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7857.m3u8
+#EXTINF:-1,AR: Al Alam
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7856.m3u8
+#EXTINF:-1,AR: AD Drama
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7905.m3u8
+#EXTINF:-1,AR: A TV
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7855.m3u8
+#EXTINF:-1,==========Poland==========
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7932.m3u8
+#EXTINF:-1,POL: TVP SPORT
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7391.m3u8
+#EXTINF:-1,POL: POLSAT SPORT NEWS
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7384.m3u8
+#EXTINF:-1,POL: POLSAT SPORT EXTRA
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7349.m3u8
+#EXTINF:-1,POL: POLSAT SPORT
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7383.m3u8
+#EXTINF:-1,POL: POLSAT PLAY
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7382.m3u8
+#EXTINF:-1,POL: POLSAT NEWS
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7381.m3u8
+#EXTINF:-1,POL: POLSAT FILM
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7380.m3u8
+#EXTINF:-1,POL: ORANGE SPORT
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7363.m3u8
+#EXTINF:-1,POL: NATIONAL GEOGRAPHIC
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7377.m3u8
+#EXTINF:-1,POL: EUROSPORT
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7367.m3u8
+#EXTINF:-1,POL: DISNEY JUNIOR
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7374.m3u8
+#EXTINF:-1,POL: DISCOVERY SCIENCE
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7368.m3u8
+#EXTINF:-1,POL: DISCOVERY CHANNEL
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7369.m3u8
+#EXTINF:-1,POL: COMEDY CENTRAL
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7373.m3u8
+#EXTINF:-1,POL: CANAL  SPORT 2 HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7360.m3u8
+#EXTINF:-1,POL: ANIMAL PLANET HD
+http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7370.m3u8
+
+
+
+
+
+
+
+
+
