@@ -6,8 +6,7 @@
 #EXTINF:-1 tvg-logo="tuga.png" group-title="ADULT", [COLOR white][B][COLOR red]||[/COLOR]ADULT XXX [COLOR red]||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 ####################################################################################################################################
-                                                   #EXTINF:-1,==========Adults==========
-                                                   http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7245.m3u8
+ 
 
 #EXTINF:-1,[COLOR green] XXX [/COLOR]
 http://46.249.213.93/iPhone/HLS_TS/broadcast/hot_shots-tablet.3gp/hot_shots-tablet.3gp-mr649k.m3u8
@@ -222,7 +221,7 @@ http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/2123.m3u8
 http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/2124.m3u8
 #EXTINF:-1,HOTCLUB 19 HD LIVE
 http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/2125.m3u8
-26.3.2016
+
 #EXTINF:0,DORCEL +18
 http://62.210.251.236:80/live?channelId=101&uid=1&deviceUser=Bdkv9TQnWCUX4NyB&devicePass=YpUV2shC79mdnsmg
 #EXTINF:0,CENTOX +18
@@ -235,8 +234,8 @@ Brazzers TV Europe
 http://hls.svc.moyo.tv/hls/CH_BRAZZERSTV/bw1758000/variant.m3u8?version=1
 Playboy TV
 http://hls.svc.moyo.tv/hls/CH_PLAYBOYTV/bw1758000/variant.m3u8?version=1
-25.3.2016
-#EXTM3U
+
+
 #EXTINF:-1,egoist.tv
 http://5.152.199.130/iptv/2A58VZ6Q2V/526/index.m3u8 
 #EXTINF:-1,P layboy TV
@@ -259,15 +258,12 @@ http://server6.balkantvmedia.com:8080/XXX1?u=user1610:p=ibccL97n
 http://server5.balkantvmedia.com:8080/XXX2?u=user1610:p=ibccL97n
 #EXTINF:-1 tvg-name="XXX3" tvg-logo="",XXX3
 http://server5.balkantvmedia.com:8080/XXX3?u=user1610:p=ibccL97n
-23.3.2016
+
 http://83.136.86.101:19001/play/HOT
 http://83.136.86.101:19001/play/Free-X
 http://83.136.86.101:19001/play/CandyMan
 
 
-http://pastebin.com/raw/MuUW4saX
-22.3.2016
-#EXTM3U
 #EXTİNF:-1,?? GİRLS(??)
 http://edge2.everyon.tv/etv2sb/phd10501/playlist.m3u8
 #EXTİNF:-1,?? PLAYY 19+
@@ -304,7 +300,7 @@ http://strimer6.iptv-max.com:80/live?channelId=840&uid=3389&deviceUser=lejla&dev
 #EXTINF:-1,Satisfaction
 http://strimer8.iptv-max.com:80/live?channelId=897&uid=3389&deviceUser=lejla&devicePass=12345 
 
-20.3.2016
+
 
 #EXTINF:-1,HOT
 http://fastroot.ddns.net:8000/live/acara/acara/113.m3u8
@@ -345,10 +341,8 @@ http://balkanstream.com/stream/XXX8/amy/amy
 #EXTINF:0, XXX 9
 #EXTVLCOPT:network-caching=4500
 http://balkanstream.com/stream/XXX9/amy/amy
-19.3.2016
 
-#EXTINF:-1,---- ADULTI ----
-http://TheAvengersTeam.ns0.it:8000/live/antonioo/antonioo/1874.m3u8
+
 #EXTINF:-1,SCT
 http://TheAvengersTeam.ns0.it:8000/live/antonioo/antonioo/2408.m3u8
 #EXTINF:-1,XXX-Blacked
@@ -478,6 +472,10 @@ http://galleries.3Dcatchyfetish.com/tube/007/trailer.f4v
 http://galleries.3Dcatchyfetish.com/tube/008/trailer.f4v
 #EXTINF:-1,XXXVOD3D-9+18 3D
 http://galleries.3Dcatchyfetish.com/tube/009/trailer.f4v
+
+
+
+
 #EXTİNF:0,1
 http://ru-porn.Tv/videofile?id=11750&hq=high&ex=mp4
 #EXTİNF:0,2
@@ -640,7 +638,7 @@ http://anysex.com/get_file/1/f3846b9c434f29d8bc9e6124122b9399/193000/193742/1937
 #EXTINF:-1,XXX-Babes 9
 http://anysex.com/get_file/1/e14c8e773b9a3ed22ce42000db76a91a/203000/203211/203211.mp4/
 
-#EXTM3U 
+
 
 
 
@@ -813,3 +811,17 @@ http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/436.mp4
 http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/433.mp4
 #EXTINF:-1,Adults: BangBus Remy LaCroix
 http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/430.mp4
+
+####################################################################################################################################
+#EXTINF:-1 tvg-logo="tuga.png" group-title="ADULT", [COLOR white][B][COLOR red]||[/COLOR]ADULT XXX [COLOR red]||[/COLOR][/B][/COLOR]
+http://jerrymoz.wordpress.com
+####################################################################################################################################
+
+
+<item>       
+<title>[COLOR red] [I]TESTE IPTV[/I] [/COLOR] </title>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw/MuUW4saX</externallink>
+<thumbnail>http://i58.tinypic.com/zmjvo5.jpg</thumbnail>
+<fanart>http://www.teledigitaal.net/wp-content/uploads/2015/10/527705051.jpg</fanart>
+</item>
