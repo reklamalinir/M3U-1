@@ -1,827 +1,268 @@
-#EXTM3U 
-
-
-
-####################################################################################################################################
-#EXTINF:-1 tvg-logo="tuga.png" group-title="ADULT", [COLOR white][B][COLOR red]||[/COLOR]ADULT XXX [COLOR red]||[/COLOR][/B][/COLOR]
-http://jerrymoz.wordpress.com
-####################################################################################################################################
- 
-
-#EXTINF:-1,[COLOR green] XXX [/COLOR]
-http://46.249.213.93/iPhone/HLS_TS/broadcast/hot_shots-tablet.3gp/hot_shots-tablet.3gp-mr649k.m3u8
-#EXTINF:-1,[COLOR green] sexy[/COLOR]
-http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
-#EXTINF:-1,[COLOR green] 1SCT [/COLOR]
-rtmp://31.220.0.66/pull playpath=xxx1?keys=w20u-coQrP_XNoVjiU1pxw&keyt=1443233037 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
-#EXTINF:-1,[COLOR green] BRAZZERS EUROPE [/COLOR]
-http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
-#EXTINF:-1,[COLOR green]RUSSIA NIGHT[/COLOR]
-http://j.mp/ZCH_C01_RUSNIGHT2_sly?.m3u8
-#EXTINF:-1,[COLOR green] OLAOLA [/COLOR]
-http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
-#EXTINF:-1,[COLOR green] PRIVATE [/COLOR]
-http://178.33.126.213:1935/leved/privateCom/.m3u8
-#EXTINF:-1,[COLOR green] PASSI XXX [/COLOR]
-http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-#EXTINF:-1,[COLOR green] ADULT TOP PREMIUM [/COLOR]
-http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
-#EXTINF:-1,[COLOR green] JASMIN CHANNEL [/COLOR]
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-#EXTINF:-1,[COLOR green] BELLA CLUB[/COLOR]
-rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
-#EXTINF:-1,[COLOR green] BELLA CLUB[/COLOR]
-http://46.249.213.87/iPhone/broadcast/bellaluz-iphone.3gp/bellaluz-iphone.3gp-mr413k.m3u8
-#EXTINF:-1,[COLOR green] EVT 2 [/COLOR]
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
-#EXTINF:-1,[COLOR violet]hustler tv[/COLOR]
-http://178.21.120.198:1935/live3/_definst_/mp4:hustlertv/playlist.m3u8
-#EXTINF:-1,[COLOR violet]Hustler hd[/COLOR]
-http://178.21.120.198:1935/live3/_definst_/mp4:hustlerhd/playlist.m3u8
-#EXTINF:-1,[COLOR violet]Private.com[/COLOR] clicar varias vezes
-http://178.33.126.213:1935/leved/privateCom/.m3u8
-#EXTINF:-1,[COLOR violet]Venus[/COLOR][COLOR yellow] fusaka list[/COLOR]
-rtmp://edge2.everyon.tv/etv2/phd1005
-#EXTINF:-1,[COLOR violet] HUSTLER HD][/COLOR] 
-http://78.31.65.171:20000/live/BzvDRtU6PK/76c9nAGXhv/90.ts
-#EXTINF:-1,[COLOR violet] REDLIGHT [/COLOR]
-
-
-
-
-#EXTINF:-1,==========Adults==========
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7245.m3u8
-#EXTINF:-1,XXX: PassionXXX
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1417.m3u8
-#EXTINF:-1,XXX: Sexto Senso
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1415.m3u8
-#EXTINF:-1,XXX: SCT HQ
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1414.m3u8
-#EXTINF:-1,XXX: SCT HD
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1413.m3u8
-#EXTINF:-1,XXX: Redlight HD
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1412.m3u8
-#EXTINF:-1,XXX: Privee TV
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1411.m3u8
-#EXTINF:-1,XXX: Platinum TV
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1410.m3u8
-#EXTINF:-1,XXX: Pink o TV
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1409.m3u8
-#EXTINF:-1,XXX: Hustler HD
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1406.m3u8
-#EXTINF:-1,XXX: Hustler
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1405.m3u8
-#EXTINF:-1,XXX: Venus
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/395.m3u8
-#EXTINF:-1,XXX: Private
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/398.m3u8
-#EXTINF:-1,XXX: PLAYBOY
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/396.m3u8
-#EXTINF:-1,XXX: Penthouse
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/393.m3u8
-#EXTINF:-1,XXX: Boy&Boy
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/399.m3u8
-#EXTINF:-1,XXX: Frenchlover TV
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/397.m3u8
-#EXTINF:-1,XXX: Brazzers
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/394.m3u8
-
-
-
-
-
-
-#EXTINF:-1, Satisfaction HD
-http://bit.ly/1HSxcD3
-#EXTINF:-1, SCT
-http://bit.ly/1SLEOHU
-#EXTINF:0 tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png" group-title="Passion XXX", PASSION XXX SD
-http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png" group-title="JapanAV", JAPAN AV: VOD 1
-rtmp://edge2.everyon.tv/etv2/pld1008
-
-#EXTINF:0 tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png" group-title="JapanAV", JAPAN AV: VOD 2
-http://edge2.everyon.tv/etv2/pld1008/Cookiemonster.m3u8
-
-#EXTINF:0 tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png" group-title="JapanAV", JAPAN AV: VOD 3
-http://edge2.everyon.tv/etv2/pld1003/Cookiemonster.m3u8
-
-#EXTINF:0 tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png" group-title="JapanAV", JAPAN AV: VOD 4
-http://edge2.everyon.tv/etv2/pld1005/Cookiemonster.m3u8
-
-#EXTINF:0 tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png" group-title="JapanAV", JAPAN AV: VOD 5
-http://edge2.everyon.tv:1935/etv2/phd1006/paz.m3u8
-
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/jj/jasmin_tv_lu.png" group-title="Adults", JAZMIN TV
-rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
-
-#EXTINF:-1, JUST SEX
-http://46.182.25.34:1935/tv/1420/playlist.m3u8
-
-#EXTINF:-1, BABE STATION
-http://publish.thewebstream.co:1935/bsx24/mpegts1.stream/playlist.m3u8
-
-#EXTINF:-1,Babestation  EXtra
-http://46.105.116.159:1935/cellcast/encoder72/.m3u8
-
-#EXTINF:-1,BABES SPORTING
-http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
-
-#EXTİNF:-1, PASSION XXX
-http://q.gs/9830047/sex3todokodi
-
-#EXTINF:-1, PASSION XXX (opt2)
-http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-
-#EXTİNF:-1, XXX
-http://q.gs/9830047/sex4todokodi
-
-#EXTINF:-1, Brazzers Europe
-http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
-
-#EXTINF:-1, XXX1
-http://46.105.116.159:1935/cellcast/encoder22/.m3u8
-
-#EXTINF:-1, OLALA
-http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
-
-#EXTINF:-1,HOT SHOTS
-http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
-
-#EXTINF:-1,CS Sex +18 ADULT (low quality)
-mmsh://tv.webmisto.cz:7000
-
-#EXTINF:-1,Jasmin
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-
-#EXTINF:-1,Power Girls TV HD
-http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
-
-#EXTINF:-1,BABE_XXX
-http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
-
-#EXTINF:-1,Hustler HD
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/1583.m3u8
-#EXTINF:-1,Penthouse HD
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/3353.m3u8
-#EXTINF:-1,Super One HD
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/1573.m3u8
-#EXTINF:-1,Redlight HD
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/1576.m3u8
-#EXTINF:-1,Exotica tv
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/2758.m3u8
-#EXTINF:-1,Playboy TV
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/2760.m3u8
-#EXTINF:-1,CentoxCento
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/1811.m3u8
-#EXTINF:-1,PinkO TV
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/1582.m3u8
-#EXTINF:-1,Passion XXX
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/2759.m3u8
-#EXTINF:-1,Sexto senso
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/1578.m3u8
-#EXTINF:-1,-------HOTCLUB LIVE--------
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/2106.m3u8
-#EXTINF:-1,HOTCLUB 1 HD LIVE
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/2107.m3u8
-#EXTINF:-1,HOTCLUB 2 HD LIVE
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/2108.m3u8
-#EXTINF:-1,HOTCLUB 3 HD LIVE
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/2109.m3u8
-#EXTINF:-1,HOTCLUB 4 HD LIVE
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/2110.m3u8
-#EXTINF:-1,HOTCLUB 5 HD LIVE
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/2111.m3u8
-#EXTINF:-1,HOTCLUB 6 HD LIVE
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/2112.m3u8
-#EXTINF:-1,HOTCLUB 7 HD LIVE
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/2113.m3u8
-#EXTINF:-1,HOTCLUB 8 HD LIVE
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/2114.m3u8
-#EXTINF:-1,HOTCLUB 9 HD LIVE
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/2115.m3u8
-#EXTINF:-1,HOTCLUB 10 HD LIVE
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/2116.m3u8
-#EXTINF:-1,HOTCLUB 11 HD LIVE
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/2117.m3u8
-#EXTINF:-1,HOTCLUB 12 HD LIVE
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/2118.m3u8
-#EXTINF:-1,HOTCLUB 13 HD LIVE
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/2119.m3u8
-#EXTINF:-1,HOTCLUB 14 HD LIVE
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/2120.m3u8
-#EXTINF:-1,HOTCLUB 15 HD LIVE
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/2121.m3u8
-#EXTINF:-1,HOTCLUB 16 HD LIVE
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/2122.m3u8
-#EXTINF:-1,HOTCLUB 17 HD LIVE
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/2123.m3u8
-#EXTINF:-1,HOTCLUB 18 HD LIVE
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/2124.m3u8
-#EXTINF:-1,HOTCLUB 19 HD LIVE
-http://calcaterraiptv.dyndns.tv:8877/live/alessandro2/alessandro3/2125.m3u8
-
-#EXTINF:0,DORCEL +18
-http://62.210.251.236:80/live?channelId=101&uid=1&deviceUser=Bdkv9TQnWCUX4NyB&devicePass=YpUV2shC79mdnsmg
-#EXTINF:0,CENTOX +18
-http://62.210.251.236:80/live?channelId=102&uid=1&deviceUser=Bdkv9TQnWCUX4NyB&devicePass=YpUV2shC79mdnsmg
-#EXTINF:0,BRAZZERS +18
-http://62.210.251.236:80/live?channelId=103&uid=1&deviceUser=Bdkv9TQnWCUX4NyB&devicePass=YpUV2shC79mdnsmg
-#EXTINF:0,REDLIGHT HD +18
-http://62.210.251.236:80/live?channelId=89&uid=1&deviceUser=Bdkv9TQnWCUX4NyB&devicePass=YpUV2shC79mdnsmg
-Brazzers TV Europe
-http://hls.svc.moyo.tv/hls/CH_BRAZZERSTV/bw1758000/variant.m3u8?version=1
-Playboy TV
-http://hls.svc.moyo.tv/hls/CH_PLAYBOYTV/bw1758000/variant.m3u8?version=1
-
-
-#EXTINF:-1,egoist.tv
-http://5.152.199.130/iptv/2A58VZ6Q2V/526/index.m3u8 
-#EXTINF:-1,P layboy TV
-http://5.152.199.130/iptv/2A58VZ6Q2V/527/index.m3u8
-#EXTINF:-1,Russian night
-http://5.152.199.130/iptv/2A58VZ6Q2V/147/index.m3u8 
-#EXTINF:0,HUSTLER +18
-http://62.210.251.236:80/live?channelId=101&uid=19&deviceUser=test123&devicePass=test123456
-#EXTINF:0,CENTOX +18
-http://62.210.251.236:80/live?channelId=102&uid=19&deviceUser=test123&devicePass=test123456
-#EXTINF:0,BRAZZERS +18
-http://62.210.251.236:80/live?channelId=103&uid=19&deviceUser=test123&devicePass=test123456
-#EXTINF:0,REDLIGHT HD +18
-http://62.210.251.236:80/live?channelId=89&uid=19&deviceUser=test123&devicePass=test123456
-#EXTINF:0,JASMIN TV HD +18
-http://62.210.251.236:80/live?channelId=199&uid=19&deviceUser=test123&devicePass=test123456
-#EXTINF:-1 tvg-name="XXX1" tvg-logo="",XXX1
-http://server6.balkantvmedia.com:8080/XXX1?u=user1610:p=ibccL97n
-#EXTINF:-1 tvg-name="XXX2" tvg-logo="",XXX2
-http://server5.balkantvmedia.com:8080/XXX2?u=user1610:p=ibccL97n
-#EXTINF:-1 tvg-name="XXX3" tvg-logo="",XXX3
-http://server5.balkantvmedia.com:8080/XXX3?u=user1610:p=ibccL97n
-
-http://83.136.86.101:19001/play/HOT
-http://83.136.86.101:19001/play/Free-X
-http://83.136.86.101:19001/play/CandyMan
-
-
-#EXTİNF:-1,?? GİRLS(??)
-http://edge2.everyon.tv/etv2sb/phd10501/playlist.m3u8
-#EXTİNF:-1,?? PLAYY 19+
-http://edge2.everyon.tv/etv2sb/phd10769/playlist.m3u8
-#EXTİNF:-1,?? THE ??
-http://edge2.everyon.tv/etv2sb/phd10771/playlist.m3u8
-
-#EXTINF:-1,Balkan erotic
-http://strimer2.iptv-max.com:80/live?channelId=400&uid=3389&deviceUser=lejla&devicePass=12345
-#EXTINF:-1,Playhouse
-http://strimer6.iptv-max.com:80/live?channelId=452&uid=3389&deviceUser=lejla&devicePass=12345
-#EXTINF:-1,XxX Plus 3D
-http://strimer8.iptv-max.com:80/live?channelId=17&uid=3389&deviceUser=lejla&devicePass=12345
-#EXTINF:-1,Pink Erotic 
-http://strimer3.iptv-max.com:80/live?channelId=29&uid=3389&deviceUser=lejla&devicePass=12345
-#EXTINF:-1,Pink Erotic
-http://strimer3.iptv-max.com:80/live?channelId=134&uid=3389&deviceUser=lejla&devicePass=12345
-#EXTINF:-1,Pink Erotic
-http://strimer5.iptv-max.com:80/live?channelId=431&uid=3389&deviceUser=lejla&devicePass=12345
-#EXTINF:-1,HOT plesure
-http://strimer6.iptv-max.com:80/live?channelId=482&uid=3389&deviceUser=lejla&devicePass=12345
-#EXTINF:-1,XXX vod 1
-http://strimer4.iptv-max.com:80/live?channelId=508&uid=3389&deviceUser=lejla&devicePass=12345
-#EXTINF:-1,XXX vod 2
-http://strimer4.iptv-max.com:80/live?channelId=509&uid=3389&deviceUser=lejla&devicePass=12345
-#EXTINF:-1,Venus TV
-http://nl.streamer.iptv-max.com:80/live?channelId=587&uid=3389&deviceUser=lejla&devicePass=12345
-#EXTINF:-1,Hot CLub 1
-http://nl.streamer.iptv-max.com:80/live?channelId=588&uid=3389&deviceUser=lejla&devicePass=12345
-#EXTINF:-1,RED XXX
-http://strimer6.iptv-max.com:80/live?channelId=839&uid=3389&deviceUser=lejla&devicePass=12345
-#EXTINF:-1,Hustler Tv HD
-http://strimer6.iptv-max.com:80/live?channelId=840&uid=3389&deviceUser=lejla&devicePass=12345
-#EXTINF:-1,Satisfaction
-http://strimer8.iptv-max.com:80/live?channelId=897&uid=3389&deviceUser=lejla&devicePass=12345 
-
-
-
-#EXTINF:-1,HOT
-http://fastroot.ddns.net:8000/live/acara/acara/113.m3u8
-#EXTINF:-1,PENTHOUSE HD1
-http://fastroot.ddns.net:8000/live/acara/acara/110.m3u8
-#EXTINF:-1,PLAYBOY
-http://fastroot.ddns.net:8000/live/acara/acara/112.m3u8
-#EXTINF:-1,VENUS
-http://fastroot.ddns.net:8000/live/acara/acara/111.m3u8
-#EXTINF:-1,|FR|: DORCEL
-http://fastroot.ddns.net:8000/live/acara/acara/267.m3u8
-
-
-#EXTINF:0, XXX 1
-#EXTVLCOPT:network-caching=4500
-http://balkanstream.com/stream/XXX1/amy/amy
-#EXTINF:0, XXX 2
-#EXTVLCOPT:network-caching=4500
-http://balkanstream.com/stream/XXX3/amy/amy
-#EXTINF:0, XXX 3
-#EXTVLCOPT:network-caching=4500
-http://balkanstream.com/stream/XXX3/amy/a
-#EXTINF:0, XXX 4
-#EXTVLCOPT:network-caching=4500
-http://balkanstream.com/stream/XXX4/amy/amy
-#EXTINF:0, XXX 5
-#EXTVLCOPT:network-caching=4500
-http://balkanstream.com/stream/XXX5/amy/amy
-#EXTINF:0, XXX 6
-#EXTVLCOPT:network-caching=4500
-http://balkanstream.com/stream/XXX6/amy/amy
-#EXTINF:0, XXX 7
-#EXTVLCOPT:network-caching=4500
-http://balkanstream.com/stream/XXX7/amy/amy
-#EXTINF:0, XXX 8
-#EXTVLCOPT:network-caching=4500
-http://balkanstream.com/stream/XXX8/amy/amy
-#EXTINF:0, XXX 9
-#EXTVLCOPT:network-caching=4500
-http://balkanstream.com/stream/XXX9/amy/amy
-
-
-#EXTINF:-1,SCT
-http://TheAvengersTeam.ns0.it:8000/live/antonioo/antonioo/2408.m3u8
-#EXTINF:-1,XXX-Blacked
-http://TheAvengersTeam.ns0.it:8000/live/antonioo/antonioo/1958.m3u8
-#EXTINF:-1,Passion XXX
-http://TheAvengersTeam.ns0.it:8000/live/antonioo/antonioo/1957.m3u8
-#EXTINF:-1,Sexto Senso
-http://TheAvengersTeam.ns0.it:8000/live/antonioo/antonioo/1956.m3u8
-#EXTINF:-1,Russian Night
-http://TheAvengersTeam.ns0.it:8000/live/antonioo/antonioo/1955.m3u8
-#EXTINF:-1,Dorcel tv
-http://TheAvengersTeam.ns0.it:8000/live/antonioo/antonioo/1954.m3u8
-#EXTINF:-1,XXX-Tv Girl
-http://TheAvengersTeam.ns0.it:8000/live/antonioo/antonioo/1953.m3u8
-#EXTINF:-1,Pinko TV
-http://TheAvengersTeam.ns0.it:8000/live/antonioo/antonioo/1876.m3u8
-#EXTINF:-1,CentoXCento
-http://TheAvengersTeam.ns0.it:8000/live/antonioo/antonioo/1877.m3u8
-#EXTINF:-1,Dorcel XXX
-http://TheAvengersTeam.ns0.it:8000/live/antonioo/antonioo/1875.m3u8
-#EXTINF:-1,Exotica TV
-http://TheAvengersTeam.ns0.it:8000/live/antonioo/antonioo/1879.m3u8
-#EXTINF:-1,XXX Babes
-http://TheAvengersTeam.ns0.it:8000/live/antonioo/antonioo/1878.m3u8
-#EXTINF:-1,IT: Hot Club 1 HD
-http://TheAvengersTeam.ns0.it:8000/live/antonioo/antonioo/2069.m3u8
-#EXTINF:-1,IT: Hot Club 2 HD
-http://TheAvengersTeam.ns0.it:8000/live/antonioo/antonioo/2070.m3u8
-#EXTINF:-1,IT: Hot Club 3 HD
-http://TheAvengersTeam.ns0.it:8000/live/antonioo/antonioo/2071.m3u8
-#EXTINF:-1,IT: Hot Club 4 HD
-http://TheAvengersTeam.ns0.it:8000/live/antonioo/antonioo/2072.m3u8
-#EXTINF:-1,IT: Hot Club 5 HD
-http://TheAvengersTeam.ns0.it:8000/live/antonioo/antonioo/2073.m3u8
-#EXTINF:-1,IT: Hot Club 6 HD
-http://TheAvengersTeam.ns0.it:8000/live/antonioo/antonioo/2074.m3u8
-#EXTINF:-1,IT: Hot Club 7 HD
-http://TheAvengersTeam.ns0.it:8000/live/antonioo/antonioo/2075.m3u8
-#EXTINF:-1,IT: Hot Club 8 HD
-http://TheAvengersTeam.ns0.it:8000/live/antonioo/antonioo/2076.m3u8
-#EXTINF:-1,IT: Hot Club 9 HD
-http://TheAvengersTeam.ns0.it:8000/live/antonioo/antonioo/2077.m3u8
-#EXTINF:-1,IT: Hot Club 10 HD
-http://TheAvengersTeam.ns0.it:8000/live/antonioo/antonioo/2078.m3u8
-
-#EXTINF:-1,PINK EROTIC 1
-http://opasnivirus.dynns.com:8000/live/Ilijakljajic/Ilijakljajic932016/164.m3u8
-#EXTINF:-1,PINK EROTIC 2
-http://opasnivirus.dynns.com:8000/live/Ilijakljajic/Ilijakljajic932016/165.m3u8
-#EXTINF:-1,PINK EROTIC 3
-http://opasnivirus.dynns.com:8000/live/Ilijakljajic/Ilijakljajic932016/166.m3u8
-#EXTINF:-1,PINK EROTIC 4
-http://opasnivirus.dynns.com:8000/live/Ilijakljajic/Ilijakljajic932016/167.m3u8
-#EXTINF:-1,BRAZERS TV
-http://opasnivirus.dynns.com:8000/live/Ilijakljajic/Ilijakljajic932016/168.m3u8
-#EXTINF:-1,HUSTLER TV
-http://opasnivirus.dynns.com:8000/live/Ilijakljajic/Ilijakljajic932016/169.m3u8
-#EXTINF:-1,PRIVATE TV
-http://opasnivirus.dynns.com:8000/live/Ilijakljajic/Ilijakljajic932016/170.m3u8
-
-
-
-
-#EXTINF:-1,XXXVOD3D-+18 3D
-http://galleries.3Dcatchyfetish.com/tube/027/trailer.f4v
-#EXTINF:-1,XXXVOD3D-1+18 3D
-http://galleries.3dcatchyfetish.com/tube/001/trailer.f4v
-#EXTINF:-1,XXXVOD3D-10+18 3D
-http://galleries.3Dcatchyfetish.com/tube/010/trailer.f4v
-#EXTINF:-1,XXXVOD3D-11+18 3D
-http://galleries.3Dcatchyfetish.com/tube/011/trailer.f4v
-#EXTINF:-1,XXXVOD3D-12+18 3D
-http://galleries.3Dcatchyfetish.com/tube/012/trailer.f4v
-#EXTINF:-1,XXXVOD3D-13+18 3D
-http://galleries.3Dcatchyfetish.com/tube/013/trailer.f4v
-#EXTINF:-1,XXXVOD3D-14+18 3D
-http://galleries.3Dcatchyfetish.com/tube/014/trailer.f4v
-#EXTINF:-1,XXXVOD3D-15+18 3D
-http://galleries.3Dcatchyfetish.com/tube/015/trailer.f4v
-#EXTINF:-1,XXXVOD3D-16+18 3D
-http://galleries.3Dcatchyfetish.com/tube/016/trailer.f4v
-#EXTINF:-1,XXXVOD3D-17+18 3D
-http://galleries.3Dcatchyfetish.com/tube/017/trailer.f4v
-#EXTINF:-1,XXXVOD3D-18+18 3D
-http://galleries.3Dcatchyfetish.com/tube/018/trailer.f4v
-#EXTINF:-1,XXXVOD3D-19+18 3D
-http://galleries.3Dcatchyfetish.com/tube/019/trailer.f4v
-#EXTINF:-1,XXXVOD3D-2+18 3D
-http://galleries.3dcatchyfetish.com/tube/002/trailer.f4v
-#EXTINF:-1,XXXVOD3D-20+18 3D
-http://galleries.3Dcatchyfetish.com/tube/020/trailer.f4v
-#EXTINF:-1,XXXVOD3D-21+18 3D
-http://galleries.3Dcatchyfetish.com/tube/021/trailer.f4v
-#EXTINF:-1,XXXVOD3D-22+18 3D
-http://galleries.3Dcatchyfetish.com/tube/022/trailer.f4v
-#EXTINF:-1,XXXVOD3D-23+18 3D
-http://galleries.3Dcatchyfetish.com/tube/023/trailer.f4v
-#EXTINF:-1,XXXVOD3D-24+18 3D
-http://galleries.3Dcatchyfetish.com/tube/024/trailer.f4v
-#EXTINF:-1,XXXVOD3D-25+18 3D
-http://galleries.3Dcatchyfetish.com/tube/025/trailer.f4v
-#EXTINF:-1,XXXVOD3D-26+18 3D
-http://galleries.3Dcatchyfetish.com/tube/026/trailer.f4v
-#EXTINF:-1,XXXVOD3D-27+18 3D
-http://galleries.3Dcatchyfetish.com/tube/028/trailer.f4v
-#EXTINF:-1,XXXVOD3D-28+18 3D
-http://galleries.3Dcatchyfetish.com/tube/029/trailer.f4v
-#EXTINF:-1,XXXVOD3D-29+18 3D
-http://galleries.3Dcatchyfetish.com/tube/030/trailer.f4v
-#EXTINF:-1,XXXVOD3D-3+18 3D
-http://galleries.3dcatchyfetish.com/tube/003/trailer.f4v
-#EXTINF:-1,XXXVOD3D-30+18 3D
-http://galleries.3Dcatchyfetish.com/tube/031/trailer.f4v
-#EXTINF:-1,XXXVOD3D-31+18 3D
-http://galleries.3Dcatchyfetish.com/tube/032/trailer.f4v
-#EXTINF:-1,XXXVOD3D-32+18 3D
-http://galleries.3Dcatchyfetish.com/tube/033/trailer.f4v
-#EXTINF:-1,XXXVOD3D-4+18 3D
-http://galleries.3dcatchyfetish.com/tube/004/trailer.f4v
-#EXTINF:-1,XXXVOD3D-5+18 3D
-http://galleries.3Dcatchyfetish.com/tube/005/trailer.f4v
-#EXTINF:-1,XXXVOD3D-6+18 3D
-http://galleries.3Dcatchyfetish.com/tube/006/trailer.f4v
-#EXTINF:-1,XXXVOD3D-7+18 3D
-http://galleries.3Dcatchyfetish.com/tube/007/trailer.f4v
-#EXTINF:-1,XXXVOD3D-8+18 3D
-http://galleries.3Dcatchyfetish.com/tube/008/trailer.f4v
-#EXTINF:-1,XXXVOD3D-9+18 3D
-http://galleries.3Dcatchyfetish.com/tube/009/trailer.f4v
-
-
-
-
-#EXTİNF:0,1
-http://ru-porn.Tv/videofile?id=11750&hq=high&ex=mp4
-#EXTİNF:0,2
-http://ru-porn.Tv/videofile?id=14686&hq=high&ex=mp4
-#EXTİNF:0,3
-http://ru-porn.Tv/videofile?id=12826&hq=high&ex=mp4
-#EXTİNF:0,4
-http://ru-porn.Tv/videofile?id=13284&hq=high&ex=mp4
-#EXTİNF:0,5
-http://ru-porn.tv/videofile?id=14660&hq=high&ex=mp4
-#EXTİNF:0,6
-http://ru-porn.tv/videofile?id=14625&hq=high&ex=mp4
-#EXTİNF:0,7
-http://ru-porn.tv/videofile?id=14336&hq=high&ex=mp4
-#EXTİNF:0,8
-http://ru-porn.tv/videofile?id=14553&hq=high&ex=mp4
-#EXTİNF:0,9
-http://ru-porn.tv/videofile?id=14585&hq=high&ex=mp4
-#EXTİNF:0,10
-http://ru-porn.tv/videofile?id=14434&hq=high&ex=mp4
-#EXTİNF:0,11
-http://ru-porn.tv/videofile?id=14556&hq=high&ex=mp4
-#EXTİNF:0,12
-http://ru-porn.tv/videofile?id=14458&hq=high&ex=mp4
-#EXTİNF:0,13
-http://ru-porn.tv/videofile?id=14527&hq=high&ex=mp4
-#EXTİNF:0,14
-http://ru-porn.tv/videofile?id=14382&hq=high&ex=mp4
-#EXTİNF:0,15
-http://ru-porn.tv/videofile?id=14441&hq=high&ex=mp4
-#EXTİNF:0,16
-http://ru-porn.tv/videofile?id=14390&hq=high&ex=mp4
-#EXTİNF:0,17
-http://ru-porn.tv/videofile?id=13709&hq=high&ex=mp4
-#EXTİNF:0,18
-http://ru-porn.tv/videofile?id=14517&hq=high&ex=mp4
-#EXTİNF:0,19
-http://ru-porn.tv/videofile?id=14345&hq=high&ex=mp4
-#EXTİNF:0,20
-http://ru-porn.tv/videofile?id=14283&hq=high&ex=mp4
-#EXTİNF:0,21
-http://ru-porn.tv/videofile?id=14398&hq=high&ex=mp4
-#EXTİNF:0,22
-http://ru-porn.tv/videofile?id=14266&hq=high&ex=mp4
-#EXTİNF:0,23
-http://ru-porn.tv/videofile?id=91&hq=high&ex=mp4
-#EXTİNF:0,24
-http://ru-porn.tv/videofile?id=2359&hq=medium&ex=mp4
-#EXTİNF:0,25
-http://ru-porn.tv/videofile?id=2384&hq=medium&ex=mp4
-#EXTİNF:0,26
-http://ru-porn.tv/videofile?id=10743&hq=medium&ex=mp4
-#EXTİNF:0,27
-http://ru-porn.tv/videofile?id=10766&hq=high&ex=mp4
-#EXTİNF:0,28
-http://ru-porn.tv/videofile?id=10789&hq=high&ex=mp4
-#EXTİNF:0,29
-http://ru-porn.tv/videofile?id=10792&hq=medium&ex=mp4
-#EXTİNF:0,30
-http://ru-porn.tv/videofile?id=10800&hq=low&ex=mp4
-#EXTİNF:0,31
-http://ru-porn.tv/videofile?id=10777&hq=low&ex=mp4
-#EXTİNF:0,32
-http://ru-porn.tv/videofile?id=10785&hq=high&ex=mp4
-#EXTİNF:0,33
-http://ru-porn.tv/videofile?id=10711&hq=high&ex=mp4
-#EXTİNF:0,34
-http://ru-porn.tv/videofile?id=10696&hq=medium&ex=mp4
-#EXTİNF:0,35
-http://ru-porn.tv/videofile?id=10695&hq=medium&ex=mp4
-#EXTİNF:0,36
-http://ru-porn.tv/videofile?id=10704&hq=high&ex=mp4
-#EXTİNF:0,37
-http://ru-porn.tv/videofile?id=10703&hq=medium&ex=mp4
-#EXTİNF:0,38
-http://ru-porn.tv/videofile?id=10668&hq=medium&ex=mp4
-#EXTİNF:0,39
-http://ru-porn.tv/videofile?id=10639&hq=medium&ex=mp4
-#EXTİNF:0,40
-http://ru-porn.tv/videofile?id=10630&hq=medium&ex=mp4
-#EXTİNF:0,41
-http://ru-porn.tv/videofile?id=10641&hq=medium&ex=mp4
-#EXTİNF:0,42
-http://ru-porn.tv/videofile?id=10660&hq=medium&ex=mp4
-#EXTİNF:0,43
-http://ru-porn.tv/videofile?id=10616&hq=medium&ex=mp4
-#EXTİNF:0,44
-http://ru-porn.tv/videofile?id=10608&hq=high&ex=mp4
-#EXTİNF:0,45
-http://ru-porn.tv/videofile?id=10607&hq=high&ex=mp4
-#EXTİNF:0,46
-http://ru-porn.tv/videofile?id=10598&hq=medium&ex=mp4
-#EXTİNF:0,47
-http://ru-porn.tv/videofile?id=10591&hq=medium&ex=mp4
-#EXTİNF:0,48
-http://ru-porn.tv/videofile?id=11174&hq=high&ex=mp4
-#EXTİNF:0,49
-http://ru-porn.tv/videofile?id=11188&hq=high&ex=mp4
-#EXTİNF:0,50
-http://ru-porn.tv/videofile?id=11182&hq=high&ex=mp4
-
-#EXTINF:-1,Adult 4K: VOD1
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
-#EXTINF:-1,Adult 4K: VOD10
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
-#EXTINF:-1,Adult 4K: VOD11
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
-#EXTINF:-1,Adult 4K: VOD2
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
-#EXTINF:-1,Adult 4K: VOD3
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
-#EXTINF:-1,Adult 4K: VOD4
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
-#EXTINF:-1,Adult 4K: VOD5
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
-#EXTINF:-1,Adult 4K: VOD6
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
-#EXTINF:-1,Adult 4K: VOD7
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
-#EXTINF:-1,Adult 4K: VOD8
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
-#EXTINF:-1,Adult 4K: VOD9
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
-#EXTINF:-1,XXX-Babes 1
-http://anysex.com/get_file/1/36c3f94673b9a0e998f5cf48a5dbae48/184000/184753/184753.mp4/
-#EXTINF:-1,XXX-Babes 10
-http://anysex.com/get_file/1/07d3eb53f530b5b9dce8585df1882e95/203000/203802/203802.mp4/
-#EXTINF:-1,XXX-Babes 11
-http://anysex.com/get_file/1/0f750593e9c13a97d1372da7ba5ff03d/182000/182756/182756.mp4/
-#EXTINF:-1,XXX-Babes 12
-http://anysex.com/get_file/1/ff756e8a922190e541ffb28fc1d0899c/182000/182758/182758.mp4/
-#EXTINF:-1,XXX-Babes 14
-http://anysex.com/get_file/1/8796f0bd1e8e71882aa295e9191b9296/191000/191215/191215.mp4/
-#EXTINF:-1,XXX-Babes 15
-http://anysex.com/get_file/1/5173e1412a034da36e71f85ed0ad1846/203000/203201/203201.mp4/
-#EXTINF:-1,XXX-Babes 16
-http://anysex.com/get_file/1/05aea56460ffe6544e25c74d5e8d603f/203000/203203/203203.mp4/
-#EXTINF:-1,XXX-Babes 17
-http://finevids.xxx/get_file/1/3d6feb808a0edfcedea916dfbed0f428/82000/82103/82103.mp4/
-#EXTINF:-1,XXX-Babes 18
-http://finevids.xxx/get_file/1/197767f6be9c3d33665cde6f29d4f8fb/81000/81697/81697.mp4/
-#EXTINF:-1,XXX-Babes 19
-http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4/
-#EXTINF:-1,XXX-Babes 2
-http://anysex.com/get_file/1/fbb2fa94aaba78f34860bbaad1e245c2/202000/202080/202080.mp4/
-#EXTINF:-1,XXX-Babes 20
-http://finevids.xxx/get_file/1/0a0b117bc9a6a1ed64c0ced9cedc4f0c/81000/81667/81667.mp4/
-#EXTINF:-1,XXX-Babes 3
-http://anysex.com/get_file/1/7f1ab8fb692cdd03eceaa260c957393b/200000/200149/200149.mp4/
-#EXTINF:-1,XXX-Babes 4
-http://anysex.com/get_file/1/99441daeb374ea78124532d200b98c9d/204000/204522/204522.mp4/
-#EXTINF:-1,XXX-Babes 5
-http://anysex.com/get_file/1/96383cc05aedc07402e7b2dea40e505c/186000/186265/186265.mp4/
-#EXTINF:-1,XXX-Babes 6
-http://anysex.com/get_file/1/0dd12485608c09bc44a29b52b2f027cc/184000/184508/184508.mp4/
-#EXTINF:-1,XXX-Babes 7
-http://anysex.com/get_file/1/1d759b669f1a44309556024be91f9923/193000/193615/193615.mp4/
-#EXTINF:-1,XXX-Babes 8
-http://anysex.com/get_file/1/f3846b9c434f29d8bc9e6124122b9399/193000/193742/193742.mp4/
-#EXTINF:-1,XXX-Babes 9
-http://anysex.com/get_file/1/e14c8e773b9a3ed22ce42000db76a91a/203000/203211/203211.mp4/
-
-
-
-
-
-####################################################################################################################################
-#EXTINF:-1 tvg-logo="tuga.png" group-title="ADULT", [COLOR white][B][COLOR red]||[/COLOR]ADULT XXX [COLOR red]||[/COLOR][/B][/COLOR]
-http://jerrymoz.wordpress.com
-####################################################################################################################################
-
-
-#EXTINF:-1,[COLOR green] XXX [/COLOR]
-http://46.249.213.93/iPhone/HLS_TS/broadcast/hot_shots-tablet.3gp/hot_shots-tablet.3gp-mr649k.m3u8
-#EXTINF:-1,[COLOR green] sexy[/COLOR]
-http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
-#EXTINF:-1,[COLOR green] 1SCT [/COLOR]
-rtmp://31.220.0.66/pull playpath=xxx1?keys=w20u-coQrP_XNoVjiU1pxw&keyt=1443233037 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
-#EXTINF:-1,[COLOR green] BRAZZERS EUROPE [/COLOR]
-http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
-#EXTINF:-1,[COLOR green]RUSSIA NIGHT[/COLOR]
-http://j.mp/ZCH_C01_RUSNIGHT2_sly?.m3u8
-#EXTINF:-1,[COLOR green] OLAOLA [/COLOR]
-http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
-#EXTINF:-1,[COLOR green] PRIVATE [/COLOR]
-http://178.33.126.213:1935/leved/privateCom/.m3u8
-#EXTINF:-1,[COLOR green] PASSI XXX [/COLOR]
-http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-#EXTINF:-1,[COLOR green] ADULT TOP PREMIUM [/COLOR]
-http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
-#EXTINF:-1,[COLOR green] JASMIN CHANNEL [/COLOR]
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-#EXTINF:-1,[COLOR green] BELLA CLUB[/COLOR]
-rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
-#EXTINF:-1,[COLOR green] BELLA CLUB[/COLOR]
-http://46.249.213.87/iPhone/broadcast/bellaluz-iphone.3gp/bellaluz-iphone.3gp-mr413k.m3u8
-#EXTINF:-1,[COLOR green] EVT 2 [/COLOR]
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
-#EXTINF:-1,[COLOR violet]hustler tv[/COLOR]
-http://178.21.120.198:1935/live3/_definst_/mp4:hustlertv/playlist.m3u8
-#EXTINF:-1,[COLOR violet]Hustler hd[/COLOR]
-http://178.21.120.198:1935/live3/_definst_/mp4:hustlerhd/playlist.m3u8
-#EXTINF:-1,[COLOR violet]Private.com[/COLOR] clicar varias vezes
-http://178.33.126.213:1935/leved/privateCom/.m3u8
-#EXTINF:-1,[COLOR violet]Venus[/COLOR][COLOR yellow] fusaka list[/COLOR]
-rtmp://edge2.everyon.tv/etv2/phd1005
-#EXTINF:-1,[COLOR violet] HUSTLER HD][/COLOR] 
-http://78.31.65.171:20000/live/BzvDRtU6PK/76c9nAGXhv/90.ts
-#EXTINF:-1,[COLOR violet] REDLIGHT [/COLOR]
-
-#EXTINF:-1,[COLOR violet] REDLIGHT [/COLOR]
-
-#EXTINF:-1,[COLOR green]
-
-#EXTINF:-1,[COLOR green]
-
-#EXTINF:-1,[COLOR green]
-
-#‎EXTINF?:-1,  4K: VOD1
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
-#EXTINF:-1,  4K: VOD2
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
-#EXTINF:-1,  4K: VOD3
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
-#EXTINF:-1,  4K: VOD4
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
-#EXTINF:-1,  4K: VOD5
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
-#EXTINF:-1, 4K: VOD6
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
-#EXTINF:-1,  4K: VOD7
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
-#EXTINF:-1,  4K: VOD8
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
-#EXTINF:-1,  4K: VOD9
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
-#EXTINF:-1, 4K: VOD10
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
-#EXTINF:-1,  4K: VOD11
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
-
-
-
-
-
-#EXTINF:-1,==========Adults==========
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/7245.m3u8
-#EXTINF:-1,XXX: PassionXXX
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1417.m3u8
-#EXTINF:-1,XXX: Sexto Senso
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1415.m3u8
-#EXTINF:-1,XXX: SCT HQ
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1414.m3u8
-#EXTINF:-1,XXX: SCT HD
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1413.m3u8
-#EXTINF:-1,XXX: Redlight HD
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1412.m3u8
-#EXTINF:-1,XXX: Privee TV
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1411.m3u8
-#EXTINF:-1,XXX: Platinum TV
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1410.m3u8
-#EXTINF:-1,XXX: Pink o TV
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1409.m3u8
-#EXTINF:-1,XXX: Hustler HD
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1406.m3u8
-#EXTINF:-1,XXX: Hustler
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/1405.m3u8
-#EXTINF:-1,XXX: Venus
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/395.m3u8
-#EXTINF:-1,XXX: Private
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/398.m3u8
-#EXTINF:-1,XXX: PLAYBOY
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/396.m3u8
-#EXTINF:-1,XXX: Penthouse
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/393.m3u8
-#EXTINF:-1,XXX: Boy&Boy
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/399.m3u8
-#EXTINF:-1,XXX: Frenchlover TV
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/397.m3u8
-#EXTINF:-1,XXX: Brazzers
-http://iptv.alphacs.tv:8080/live/iptvsat/19842005/394.m3u8
-#EXTINF:-1,Adults: Czech Streets Helena
-http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/440.mp4
-#EXTINF:-1,Adults: My Wifes Hot Friend Nicole Johnny
-http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/469.mp4
-#EXTINF:-1,Adults: My Wife Is My Pornstar  August Ames
-http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/468.mp4
-#EXTINF:-1,Adults: My Sisters Hot Friend Melissa Moore
-http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/467.mp4
-#EXTINF:-1,Adults: My Sisters Hot Friend Kate England
-http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/466.mp4
-#EXTINF:-1,Adults: My GirlfriendsBusty Friend Ashley Adams
-http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/465.mp4
-#EXTINF:-1,Adults: My Girlfriends Busty Friend  Ashley Adams
-http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/452.mp4
-#EXTINF:-1,Adults: My Friends Hot Mom Veronica Avluv Eva Notty
-http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/464.mp4
-#EXTINF:-1,Adults: My Friends Hot Mom Puma Swede
-http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/463.mp4
-#EXTINF:-1,Adults: My Friends Hot Mom Nora Nair
-http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/462.mp4
-#EXTINF:-1,Adults: My Friends Hot Mom Jessie Cash
-http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/461.mp4
-#EXTINF:-1,Adults: My Friends Hot Mom Jessica James
-http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/460.mp4
-#EXTINF:-1,Adults: My Friends Hot Mom Janessa Jordan
-http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/459.mp4
-#EXTINF:-1,Adults: My Friends Hot Mom Elexis Monroe
-http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/458.mp4
-#EXTINF:-1,Adults: My Friends Hot Mom Diana Prince
-http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/457.mp4
-#EXTINF:-1,Adults: My Friends Hot Mom Demi Dantric
-http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/456.mp4
-#EXTINF:-1,Adults: My Friends Hot Mom Claudia Valentine
-http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/455.mp4
-#EXTINF:-1,Adults: My Friends Hot Mom Ava Devine
-http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/454.mp4
-#EXTINF:-1,Adults: My Friends Hot Mom Alura Jenson
-http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/453.mp4
-#EXTINF:-1,Adults: My first sex teacher
-http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/451.mp4
-#EXTINF:-1,Adults: Czech Streets Krystina
-http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/444.mp4
-#EXTINF:-1,Adults: Czech Streets Tereza
-http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/435.mp4
-#EXTINF:-1,Adults: Czech Streets Verca
-http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/439.mp4
-#EXTINF:-1,Adults: Czech Streets 88
-http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/434.mp4
-#EXTINF:-1,Adults: Czech Streets 83
-http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/436.mp4
-#EXTINF:-1,Adults: Czech Streets 81
-http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/433.mp4
-#EXTINF:-1,Adults: BangBus Remy LaCroix
-http://iptv.alphacs.tv:8080/movie/iptvsat/19842005/430.mp4
-
-####################################################################################################################################
-#EXTINF:-1 tvg-logo="tuga.png" group-title="ADULT", [COLOR white][B][COLOR red]||[/COLOR]ADULT XXX [COLOR red]||[/COLOR][/B][/COLOR]
-http://jerrymoz.wordpress.com
-####################################################################################################################################
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+<item>       
+<title>[COLOR red]SPAIN[/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://pastebin.com/raw/zb0bZEqy</externallink>
+<thumbnail>http://s3.postimg.org/8ex9f3rwj/bandeira_espanha.png</thumbnail>
+<fanart>http://www.coxandkingsusa.com/resources/images/countries/spain.jpg</fanart>
+</item>
+
+<item>       
+<title>[COLOR red] SPAIN 2[/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://pastebin.com/raw/HnriLGB3</externallink>
+<thumbnail>http://s3.postimg.org/8ex9f3rwj/bandeira_espanha.png</thumbnail>
+<fanart>http://www.coxandkingsusa.com/resources/images/countries/spain.jpg</fanart>
+</item>
+
+
+<item> 
+<title>[COLOR red] [I]MOTORSPORTS[/I] [/COLOR]</title>
+<thumbnail>http://memeburn.com/wp-content/uploads/brazil-e1328192831309.jpg</thumbnail>
+<fanart>http://media.collegetimes.com/uploads/2014/05/Christ-The-Redeemer-Statue-Rio-de-Janeiro-Brazil-wide-wallpapers.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw/aPJjEdXJ</externallink>
+</subitem>
+</item>
+
+
+<item>
+<title>[COLOR red] [I]MOTORSPORTS[/I] [/COLOR]</title>
+<thumbnail>https://catherinephotographyblog.files.wordpress.com/2015/07/ducati-weekend-at-calabogie-motorsports-park-june-27-2015-_dsc4708.jpg</thumbnail>
+<fanart>http://autoaction.com.au/wp-content/uploads/2015/01/J5R8719.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw/v1WZGFw7</externallink>
+</item>
+
+<item> 
+<title>[COLOR blue] [I]WWE NXT[/I] [/COLOR]</title>
+<sportsdevil>http://sports4u.tv/channel/wwe-network-live-streaming/</sportsdevil>
+<referer>http://sports4u.tv/channel/wwe-network-live-streaming/</referer>
+<thumbnail>https://blog-blogmediainc.netdna-ssl.com/upload/SportsBlogcom/10770645/0430996001457630369_filepicker.png</thumbnail>
+</subitem>
+</item>
+
+<item> 
+<title>[COLOR red] [I]BRAZILIAN TV[/I] [/COLOR]</title>
+<thumbnail>http://memeburn.com/wp-content/uploads/brazil-e1328192831309.jpg</thumbnail>
+<fanart>http://media.collegetimes.com/uploads/2014/05/Christ-The-Redeemer-Statue-Rio-de-Janeiro-Brazil-wide-wallpapers.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw/aPJjEdXJ</externallink>
+</subitem>
+</item>
+
+<item>               
+<title>[COLOR red] [I]CANADIAN TV[/I] [/COLOR] </title>
+<thumbnail>http://jaquikarr.com/members/wp-content/uploads/2015/07/Flag-Canadian.jpg</thumbnail>
+<fanart>http://whenonearth.net/wp-content/uploads/2015/02/Beautiful-Niagara-Falls-Ontario-Canada.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com/raw/98S6BHjj</externallink>
+</subitem>
+</item>
+
+<item>             
+<title>[COLOR red] [I]USA TV[/I] [/COLOR] </title>
+<thumbnail>http://www.kuhnglobal.net/wp-content/uploads/2013/01/2009-usa-flag-graphics.jpg</thumbnail>
+<fanart>http://f.fwallpapers.com/images/beautiful-chicago-illinois-usa-4.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw/cnSA8yVD</externallink>
+</subitem>
+</item>
+
+<item>             
+<title>[COLOR red] [I]UK TV[/I] [/COLOR] </title>
+<thumbnail>http://traditionalmarket.co.uk/wp-content/uploads/2015/02/uk-flag.jpg</thumbnail>
+<fanart>http://static1.squarespace.com/static/54e6a8f5e4b012d86510a340/t/55ea0aede4b09394880674c3/1441401584057/united-kingdom+image+for+web.jpg?format=1500w</fanart>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw/KzS24ig6</externallink>
+</subitem>
+</item>
+
+
+
+<item>              
+<title>[COLOR red] [I]ITALIAN TV[/I] [/COLOR] </title>
+<thumbnail>http://onedayinitaly.com/wp-content/uploads/2014/05/italian-flag.jpg</thumbnail>
+<fanart>https://walkingtree.org/wp-content/uploads/2015/09/Elia-Locardi-Whispers-From-The-Past-The-Colosseum-Rome-Italy-1280-WM.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw/Fj4Tx5bS</externallink>
+</subitem>
+</item>
+
+<item>              
+<title>[COLOR red] [I]FRENCH TV[/I] [/COLOR] </title>
+<thumbnail>http://www.pieniadz.pl/archiwum/geografia/flagi_godla_itp/francja_flaga_1.jpg</thumbnail>
+<fanart>http://edmontonwho.org/wp-content/uploads/2014/12/paris-france.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com/raw/9B5VZT1W</externallink>
+</item>
+
+<item>               
+<title>[COLOR red] [I]ROMANIAN TV[/I] [/COLOR] </title>
+<thumbnail>http://t15.deviantart.net/EBc7dtFyj0XQSAAUQ4K_RGJ6Kjk=/300x200/filters:fixed_height(100,100):origin()/pre07/7550/th/pre/i/2015/103/6/6/romania_realistic_flag_by_judalei2k11-d8o5kf0.png</thumbnail>
+<fanart>https://romaniadacia.files.wordpress.com/2012/08/timisoara-2-romanian-cities-beautiful-european-cities-beautiful-romanian-landscapes.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com/raw/3WF68ah2</externallink>
+</item>
+
+<item>             
+<title>[COLOR red] [I]PHILIPPINES TV[/I] [/COLOR] </title>
+<thumbnail>http://orig01.deviantart.net/e8c8/f/2009/171/d/3/realistic_philippine_flag_by_shintalz.jpg</thumbnail>
+<fanart>http://paktravel.net/wp-content/uploads/2015/01/Philippines.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com/raw/wtyb4YC0</externallink>
+</item>
+
+
+<item>       
+<title>[COLOR red] [I]ENGLISH STAND UP[/I] [/COLOR]</title>
+<link>http://Ignorame</link>
+<externallink>http://pastebin.com/raw/BFEeJgrZ</externallink>
+<thumbnail>http://hookedoneverything.com/wp-content/uploads/2015/08/Kevin-Hart-standup.jpg</thumbnail>
+</item>
+
+<item>       
+<title>[COLOR red] [I]PORTUGUESE STAND UP[/I] [/COLOR]</title>
+<link>http://Ignorame</link>
+<externallink>http://pastebin.com/raw/xa2UfHpT</externallink>
+<thumbnail>https://i.ytimg.com/vi/u3YlRbb1Zi4/maxresdefault.jpg</thumbnail>
+</item>
+
+<item>       
+<title>[COLOR red] [I]TELERURAL (PT)[/I] [/COLOR]</title>
+<link>http://Ignorame</link>
+<externallink>http://pastebin.com/raw/uSivuyJG</externallink>
+<thumbnail>http://4.bp.blogspot.com/-0Gpou_rXx1c/T_21cCs8KfI/AAAAAAAAAvM/ZxKzeHyl5tQ/s320/Telerural.jpg</thumbnail>
+</item>
+
+<item>       
+<title>[COLOR red] [I]GATO FEDORENTO - ZÉ CARLOS (PT)[/I] [/COLOR]</title>
+<link>http://Ignorame</link>
+<externallink>http://pastebin.com/raw/cXpeJXce</externallink>
+<thumbnail>http://s19.postimg.org/tmgcga1ib/gato_fedorento_ze_carlos_1410.jpg</thumbnail>
+</item>
+
+<channel>
+<title>[COLOR red] [I]MUSIC[/I] [/COLOR]</title>
+<thumbnail>https://tiestoclublife.files.wordpress.com/2014/09/dj_tiesto_club_life_img389.jpg</thumbnail>
+<fanart>https://tiestoclublife.files.wordpress.com/2014/09/dj_tiesto_club_life_img389.jpg</fanart>
+</subitem>
+
+<item>       
+<title>[COLOR red] [I]LIVE RADIO STATIONS[/I] [/COLOR]</title>
+<link>http://Ignorame</link>
+<externallink>http://pastebin.com/raw/kYGyaJAA</externallink>
+<thumbnail>http://d1hw6n3yxknhky.cloudfront.net/000125841_prevstill.jpeg</thumbnail>
+<fanart>http://iloveradio.eu/images/hpimage_5417721cda855-2.png</fanart>
+</item>
+
+<item>       
+<title>[COLOR red] [I]LIVE MUSIC STATIONS[/I] [/COLOR]</title>
+<link>http://Ignorame</link>
+<externallink>http://pastebin.com/raw/ikty9w5c</externallink>
+<thumbnail>http://d1hw6n3yxknhky.cloudfront.net/000125841_prevstill.jpeg</thumbnail>
+<fanart>http://iloveradio.eu/images/hpimage_5417721cda855-2.png</fanart>
+</item>
+
+<item>       
+<title>[COLOR red] [I]WEEKLY TOP 20 CHART[/I] [/COLOR] </title>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw.php?i=xXXejjFz</externallink>
+<thumbnail>http://i61.tinypic.com/nq5wfr.png</thumbnail>
+<fanart>http://www.cmt.com/sitewide/assets/img/franchiselogos/top_20_countdown-430x250.jpg</fanart>
+</item>
+
+<item>       
+<title>[COLOR red] [I]PORTUGUESE DESGARRADAS[/I] [/COLOR] </title>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw/X56EJiuw</externallink>
+<thumbnail>http://www.discotoni.com/loja/images/742.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/U9LCl8-ULCk/maxresdefault.jpg</fanart>
+</item>
+
+
+
+
+
+<item>       
+<title>[COLOR red] [I]TUNISIA TV[/I] [/COLOR] </title>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw/KELdKEzH</externallink>
+<thumbnail>http://wallpaperscraft.com/image/linkin_park_concert_action_microphone_guitars_2174_1920x1080.jpg</thumbnail>
+<fanart>http://slvrrm.com/wp-content/uploads/2014/08/tiesto-music-live-concert-club-wallpaper-1920x1200.jpg</fanart>
+</item>
+
+
+
+<item>       
+<title>[COLOR red] [I]MUSIC CONCERTS[/I] [/COLOR] </title>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw.php?i=Q0pk8kyg</externallink>
+<thumbnail>http://wallpaperscraft.com/image/linkin_park_concert_action_microphone_guitars_2174_1920x1080.jpg</thumbnail>
+<fanart>http://slvrrm.com/wp-content/uploads/2014/08/tiesto-music-live-concert-club-wallpaper-1920x1200.jpg</fanart>
+</item>
+
+<item>       
+<title>[COLOR red] [I]MP3 STREAMS[/I] [/COLOR] </title>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw.php?i=3jM6v6ti</externallink>
+<thumbnail>http://i57.tinypic.com/2cyfkmc.png</thumbnail>
+<fanart>http://img.hqhdwalls.com/uploads/wallpaper/thumb728/dan/dancing-hair-drunkenly-dance-girl-wallpaper-53c9a5c616552.jpg</fanart>
+</item>
+
+<item>       
+<title>[COLOR red] [I]DJ MIXES[/I] [/COLOR] </title>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw.php?i=XbPkAh2V</externallink>
+<thumbnail>http://i64.tinypic.com/2h7go76.jpg</thumbnail>
+<fanart>http://i58.tinypic.com/4t9c1x.jpg</fanart>
+</item>
+
+<item>       
+<title>[COLOR red] [I]WAYBACK PLAYBACK[/I] [/COLOR] </title>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw.php?i=m9qyNBdW</externallink>
+<thumbnail>https://i.ytimg.com/vi/D0b3ZtNfFqw/default.jpg</thumbnail>
+<fanart>http://i62.tinypic.com/98gj6s.jpg</fanart>
+</item>
+
+<item>       
+<title>[COLOR red] [I]KARAOKE NIGHTS[/I] [/COLOR] </title>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw.php?i=6SnNn0BP</externallink>
+<thumbnail>http://i58.tinypic.com/zmjvo5.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/i87RGQGKmko/maxresdefault.jpg</fanart>
+</item>
+
+
+<item>       
+<title>[COLOR red] [I]PORNO TV[/I] [/COLOR] </title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/djlopesdacosta/M3U/master/m3u%20playlists/ADULT.m3u</externallink>
+<thumbnail>http://media.merchantcircle.com/37258455/guide-adult_full.jpeg</thumbnail>
+<fanart>https://i.ytimg.com/vi/lqKETAP5RDs/maxresdefault.jpg</fanart>
+</item>
+
 
 
 <item>       
 <title>[COLOR red] [I]TESTE IPTV[/I] [/COLOR] </title>
 <link>http://ignorame</link>
-<externallink>http://pastebin.com/raw/MuUW4saX</externallink>
+<externallink>https://raw.githubusercontent.com/djlopesdacosta/M3U/master/m3u%20playlists/TESTES.m3u</externallink>
 <thumbnail>http://i58.tinypic.com/zmjvo5.jpg</thumbnail>
 <fanart>http://www.teledigitaal.net/wp-content/uploads/2015/10/527705051.jpg</fanart>
 </item>
+
+
+
+<item>
+<title>[COLOR red] [I]COMEDY TV[/I] [/COLOR]</title>
+<thumbnail>https://www.humber.ca/scapa/assets/images/events/comedy02.jpg</thumbnail>
+<fanart>http://zingerzcomedyclub.com/wp-content/uploads/2014/11/o-STAGE-MICROPHONE-facebook.jpg</fanart>
+</item>
+
+
