@@ -814,3 +814,138 @@ http://originstream5.rai.it/italy/smil:raiyoyo.smil/chunklist_b900000.m3u8
 http://originstream7.rai.it/italy/smil:raipremium.smil/chunklist_b1800000.m3u8
 #EXTINF:0,SPORT ITALIA
 http://spi.hystream.com:1935/spilive/spistream/livestream.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1,TVI 24 SD
+http://37.59.155.97:8000/live/vlad/vlad/1321.m3u8
+#EXTINF:-1,TV SERIES HD
+http://37.59.155.97:8000/live/vlad/vlad/1355.m3u8
+#EXTINF:-1,TV GLOBO PORTUGAL SD
+http://37.59.155.97:8000/live/vlad/vlad/1323.m3u8
+#EXTINF:-1,PT-TV CINE 4 HD
+http://37.59.155.97:8000/live/vlad/vlad/1354.m3u8
+#EXTINF:-1,TV CINE 3 HD
+http://37.59.155.97:8000/live/vlad/vlad/1353.m3u8
+#EXTINF:-1,TV CINE 2 HD
+http://37.59.155.97:8000/live/vlad/vlad/1352.m3u8
+#EXTINF:-1,TV CINE 1 HD
+http://37.59.155.97:8000/live/vlad/vlad/1351.m3u8
+#EXTINF:-1,TOROS TV SD
+http://37.59.155.97:8000/live/vlad/vlad/1372.m3u8
+#EXTINF:-1,PT-SYFY SD
+http://37.59.155.97:8000/live/vlad/vlad/1363.m3u8
+#EXTINF:-1,PT-SPORTING TV SD
+http://37.59.155.97:8000/live/vlad/vlad/1337.m3u8
+#EXTINF:-1,PT-SPORT TV AMERICAS ( Canal de Internet )
+http://37.59.155.97:8000/live/vlad/vlad/1333.m3u8
+#EXTINF:-1,PT-SPORT TV 5 SD
+http://37.59.155.97:8000/live/vlad/vlad/1328.m3u8
+#EXTINF:-1,PT-SPORT TV 4 HD 720p
+http://37.59.155.97:8000/live/vlad/vlad/1332.m3u8
+#EXTINF:-1,PT-SPORT TV 3 HD 720p
+http://37.59.155.97:8000/live/vlad/vlad/1330.m3u8
+#EXTINF:-1,PT-SPORT TV 2 HD 720p
+http://37.59.155.97:8000/live/vlad/vlad/1331.m3u8
+#EXTINF:-1,PT-SPORT TV 1 HD 720p
+http://37.59.155.97:8000/live/vlad/vlad/1329.m3u8
+#EXTINF:-1,PT-SIC SD
+http://37.59.155.97:8000/live/vlad/vlad/1318.m3u8
+#EXTINF:-1,PT-SIC NOTICIAS SD
+http://37.59.155.97:8000/live/vlad/vlad/1320.m3u8
+#EXTINF:-1,PT-SIC CARAS SD
+http://37.59.155.97:8000/live/vlad/vlad/1326.m3u8
+#EXTINF:-1,PT-RTP INTERNACIONAL SD ( Canal Internet )
+http://37.59.155.97:8000/live/vlad/vlad/1369.m3u8
+#EXTINF:-1,PT-RTP INFORMAÃ‡Ä‚O SD
+http://37.59.155.97:8000/live/vlad/vlad/1322.m3u8
+#EXTINF:-1,PT-RTP 2 SD
+http://37.59.155.97:8000/live/vlad/vlad/1317.m3u8
+#EXTINF:-1,PT-RTP 1 SD
+http://37.59.155.97:8000/live/vlad/vlad/1316.m3u8
+#EXTINF:-1,PT-REAL MADRID TV SD
+http://37.59.155.97:8000/live/vlad/vlad/1338.m3u8
+#EXTINF:-1,PT-PORTO CANAL SD
+http://37.59.155.97:8000/live/vlad/vlad/1325.m3u8
+#EXTINF:-1,PT-PANDA SD
+http://37.59.155.97:8000/live/vlad/vlad/1341.m3u8
+#EXTINF:-1,PT-ODISSEIA SD
+http://37.59.155.97:8000/live/vlad/vlad/1364.m3u8
+#EXTINF:-1,PT-NICKELODEON SD
+http://37.59.155.97:8000/live/vlad/vlad/1342.m3u8
+#EXTINF:-1,PT-NATIONAL GEOGRAPHIC HD
+http://37.59.155.97:8000/live/vlad/vlad/1368.m3u8
+#EXTINF:-1,PT-NAT GEO WILD SD
+http://37.59.155.97:8000/live/vlad/vlad/1362.m3u8
+#EXTINF:-1,PT-MOV HD
+http://37.59.155.97:8000/live/vlad/vlad/1356.m3u8
+#EXTINF:-1,PT-MOTORS TV SD
+http://37.59.155.97:8000/live/vlad/vlad/1371.m3u8
+#EXTINF:-1,PT-HOLLYWOD SD
+http://37.59.155.97:8000/live/vlad/vlad/1347.m3u8
+#EXTINF:-1,PT-FOX NEWS SD
+http://37.59.155.97:8000/live/vlad/vlad/1375.m3u8
+#EXTINF:-1,PT-FOX MOVIES SD
+http://37.59.155.97:8000/live/vlad/vlad/1350.m3u8
+#EXTINF:-1,PT-FOX LIFE HD
+http://37.59.155.97:8000/live/vlad/vlad/1358.m3u8
+#EXTINF:-1,PT-FOX CRIME HD
+http://37.59.155.97:8000/live/vlad/vlad/1360.m3u8
+#EXTINF:-1,PT-FOX HD
+http://37.59.155.97:8000/live/vlad/vlad/1359.m3u8
+#EXTINF:-1,PT-EUROSPORT 2 SD
+http://37.59.155.97:8000/live/vlad/vlad/1370.m3u8
+#EXTINF:-1,PT-EUROSPORT HD
+http://37.59.155.97:8000/live/vlad/vlad/1334.m3u8
+#EXTINF:-1,PT-E! ENTERTAINMENT SD
+http://37.59.155.97:8000/live/vlad/vlad/1348.m3u8
+#EXTINF:-1,PT-DISNEY JUNIOR SD
+http://37.59.155.97:8000/live/vlad/vlad/1343.m3u8
+#EXTINF:-1,PT-DISNEY CHANNEL SD
+http://37.59.155.97:8000/live/vlad/vlad/1340.m3u8
+#EXTINF:-1,PT-DISCOVERY SHOWCASE HD
+http://37.59.155.97:8000/live/vlad/vlad/1367.m3u8
+#EXTINF:-1,PT-DISCOVERY CHANNEL SD
+http://37.59.155.97:8000/live/vlad/vlad/1361.m3u8
+#EXTINF:-1,PT-CMTV SD
+http://37.59.155.97:8000/live/vlad/vlad/1324.m3u8
+#EXTINF:-1,PT-CINEMUNDO SD
+http://37.59.155.97:8000/live/vlad/vlad/1349.m3u8
+#EXTINF:-1,PT-CHELSEA TV SD
+http://37.59.155.97:8000/live/vlad/vlad/1339.m3u8
+#EXTINF:-1,PT-CARTOON NETWORK SD
+http://37.59.155.97:8000/live/vlad/vlad/1345.m3u8
+#EXTINF:-1,PT-CANAL Q SD
+http://37.59.155.97:8000/live/vlad/vlad/1327.m3u8
+#EXTINF:-1,PT-CANAL HISTORIA SD
+http://37.59.155.97:8000/live/vlad/vlad/1365.m3u8
+#EXTINF:-1,PT-CACA E PESCA SD
+http://37.59.155.97:8000/live/vlad/vlad/1373.m3u8
+#EXTINF:-1,PT-BENFICA TV 2 HD 720p
+http://37.59.155.97:8000/live/vlad/vlad/1336.m3u8
+#EXTINF:-1,PT-BENFICA TV 1 HD 720p
+http://37.59.155.97:8000/live/vlad/vlad/1335.m3u8
+#EXTINF:-1,PT-BABY TV SD
+http://37.59.155.97:8000/live/vlad/vlad/1344.m3u8
+#EXTINF:-1,PT-AXN HD
+http://37.59.155.97:8000/live/vlad/vlad/1357.m3u8
+#EXTINF:-1,PT-AMC SD
+http://37.59.155.97:8000/live/vlad/vlad/1346.m3u8
+#EXTINF:-1,PT-A&ampE SD
+http://37.59.155.97:8000/live/vlad/vlad/1374.m3u8
+#EXTINF:-1,PT-24 Kitchen HD
+http://37.59.155.97:8000/live/vlad/vlad/1366.m3u8
+
+
+
+
+
+
+
+
+
+
