@@ -1,7 +1,12 @@
 #EXTM3U 
 
 
-
+#EXTINF:0,OLALA 18+ (Adult) (US) (English)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
+#EXTINF:0,Spice Tv 18+ (Adult) (US) (English)
+rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499
+#EXTINF:0,Brazzers Europe 18+ (Adult) (UK) (English)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
 
 #EXTINF:-1,[COLOR green] XXX [/COLOR]
 http://46.249.213.93/iPhone/HLS_TS/broadcast/hot_shots-tablet.3gp/hot_shots-tablet.3gp-mr649k.m3u8
