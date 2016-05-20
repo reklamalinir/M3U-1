@@ -1,0 +1,1035 @@
+#EXTM3U
+#EXTINF:-1,RTP 1
+http://fastroot.ddns.net:8000/live/hugo/hugo/1.ts
+#EXTINF:-1,RTP 1 FULL-HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/415.ts
+#EXTINF:-1,RTP 1 (LOW)
+http://fastroot.ddns.net:8000/live/hugo/hugo/124.ts
+#EXTINF:-1,RTP 2
+http://fastroot.ddns.net:8000/live/hugo/hugo/2.ts
+#EXTINF:-1,RTP 2 (LOW)
+http://fastroot.ddns.net:8000/live/hugo/hugo/125.ts
+#EXTINF:-1,SIC
+http://fastroot.ddns.net:8000/live/hugo/hugo/3.ts
+#EXTINF:-1,SIC HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/406.ts
+#EXTINF:-1,SIC (LOW)
+http://fastroot.ddns.net:8000/live/hugo/hugo/126.ts
+#EXTINF:-1,TVI
+http://fastroot.ddns.net:8000/live/hugo/hugo/4.ts
+#EXTINF:-1,TVI (LOW)
+http://fastroot.ddns.net:8000/live/hugo/hugo/127.ts
+#EXTINF:-1,SIC NOTICIAS
+http://fastroot.ddns.net:8000/live/hugo/hugo/5.ts
+#EXTINF:-1,TVI 24
+http://fastroot.ddns.net:8000/live/hugo/hugo/6.ts
+#EXTINF:-1,RTP 3
+http://fastroot.ddns.net:8000/live/hugo/hugo/7.ts
+#EXTINF:-1,SIC MULHER
+http://fastroot.ddns.net:8000/live/hugo/hugo/8.ts
+#EXTINF:-1,SIC RADICAL
+http://fastroot.ddns.net:8000/live/hugo/hugo/9.ts
+#EXTINF:-1,CANAL Q
+http://fastroot.ddns.net:8000/live/hugo/hugo/10.ts
+#EXTINF:-1,PORTO CANAL
+http://fastroot.ddns.net:8000/live/hugo/hugo/11.ts
+#EXTINF:-1,RTP MEMORIA
+http://fastroot.ddns.net:8000/live/hugo/hugo/12.ts
+#EXTINF:-1,RTP AFRICA
+http://fastroot.ddns.net:8000/live/hugo/hugo/13.ts
+#EXTINF:-1,RTP MADEIRA
+http://fastroot.ddns.net:8000/live/hugo/hugo/14.ts
+#EXTINF:-1,RTP ACORES
+http://fastroot.ddns.net:8000/live/hugo/hugo/15.ts
+#EXTINF:-1,CMTV
+http://fastroot.ddns.net:8000/live/hugo/hugo/16.ts
+#EXTINF:-1,TVC1 HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/17.ts
+#EXTINF:-1,TVC 1 HD (LOW)
+http://fastroot.ddns.net:8000/live/hugo/hugo/177.ts
+#EXTINF:-1,TVC2 HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/18.ts
+#EXTINF:-1,TVC 2 HD (LOW)
+http://fastroot.ddns.net:8000/live/hugo/hugo/178.ts
+#EXTINF:-1,TVC3 HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/19.ts
+#EXTINF:-1,TVC 3 HD (LOW)
+http://fastroot.ddns.net:8000/live/hugo/hugo/179.ts
+#EXTINF:-1,TVC4 HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/20.ts
+#EXTINF:-1,TVC 4 HD (LOW)
+http://fastroot.ddns.net:8000/live/hugo/hugo/180.ts
+#EXTINF:-1,HOLLYWOOD
+http://fastroot.ddns.net:8000/live/hugo/hugo/21.ts
+#EXTINF:-1,HOLLYWOOD HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/22.ts
+#EXTINF:-1,FOX MOVIES
+http://fastroot.ddns.net:8000/live/hugo/hugo/23.ts
+#EXTINF:-1,CINEMUNDO
+http://fastroot.ddns.net:8000/live/hugo/hugo/24.ts
+#EXTINF:-1,MOV HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/25.ts
+#EXTINF:-1,AXN HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/26.ts
+#EXTINF:-1,AXN HD (LOW)
+http://fastroot.ddns.net:8000/live/hugo/hugo/182.ts
+#EXTINF:-1,AXN WHITE HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/27.ts
+#EXTINF:-1,AXN WHITE HD (LOW)
+http://fastroot.ddns.net:8000/live/hugo/hugo/183.ts
+#EXTINF:-1,AXN BLACK HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/28.ts
+#EXTINF:-1,AXN BLACK HD (LOW)
+http://fastroot.ddns.net:8000/live/hugo/hugo/184.ts
+#EXTINF:-1,FOX HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/29.ts
+#EXTINF:-1,FOX LIFE HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/30.ts
+#EXTINF:-1,FOX CRIME HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/31.ts
+#EXTINF:-1,SYFY
+http://fastroot.ddns.net:8000/live/hugo/hugo/32.ts
+#EXTINF:-1,FOX COMEDY
+http://fastroot.ddns.net:8000/live/hugo/hugo/33.ts
+#EXTINF:-1,E! ENTERTAINMENT
+http://fastroot.ddns.net:8000/live/hugo/hugo/34.ts
+#EXTINF:-1,CBS REALITY
+http://fastroot.ddns.net:8000/live/hugo/hugo/35.ts
+#EXTINF:-1,TV SERIES HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/36.ts
+#EXTINF:-1,TVC SERIES (LOW)
+http://fastroot.ddns.net:8000/live/hugo/hugo/181.ts
+#EXTINF:-1,TVI FICÇAO
+http://fastroot.ddns.net:8000/live/hugo/hugo/37.ts
+#EXTINF:-1,SIC CARAS
+http://fastroot.ddns.net:8000/live/hugo/hugo/38.ts
+#EXTINF:-1,TVI REALITY
+http://fastroot.ddns.net:8000/live/hugo/hugo/39.ts
+#EXTINF:-1,CAMARA REALITY
+http://fastroot.ddns.net:8000/live/hugo/hugo/40.ts
+#EXTINF:-1,MOSAICO TVI REALiTY
+http://fastroot.ddns.net:8000/live/hugo/hugo/41.ts
+#EXTINF:-1,SPORTV 1
+http://fastroot.ddns.net:8000/live/hugo/hugo/42.ts
+#EXTINF:-1,SPORTV 1 HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/48.ts
+#EXTINF:-1,SPORTV 1 FULL-HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/407.ts
+#EXTINF:-1,SPORTV 1 HD (LOW)
+http://fastroot.ddns.net:8000/live/hugo/hugo/43.ts
+#EXTINF:-1,SPORTV 2
+http://fastroot.ddns.net:8000/live/hugo/hugo/44.ts
+#EXTINF:-1,SPORTV 2 HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/49.ts
+#EXTINF:-1,SPORTV 2 FULL-HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/408.ts
+#EXTINF:-1,SPORTV 2 HD (LOW)
+http://fastroot.ddns.net:8000/live/hugo/hugo/118.ts
+#EXTINF:-1,SPORTV 3
+http://fastroot.ddns.net:8000/live/hugo/hugo/45.ts
+#EXTINF:-1,SPORTV 3 HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/50.ts
+#EXTINF:-1,SPORTV 3 FULL-HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/409.ts
+#EXTINF:-1,SPORTV 3 HD (LOW)
+http://fastroot.ddns.net:8000/live/hugo/hugo/119.ts
+#EXTINF:-1,SPORTV 4
+http://fastroot.ddns.net:8000/live/hugo/hugo/46.ts
+#EXTINF:-1,SPORTV 4 HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/51.ts
+#EXTINF:-1,SPORTV 4 FULL-HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/410.ts
+#EXTINF:-1,SPORTV 4 HD (LOW)
+http://fastroot.ddns.net:8000/live/hugo/hugo/120.ts
+#EXTINF:-1,SPORTV 5
+http://fastroot.ddns.net:8000/live/hugo/hugo/47.ts
+#EXTINF:-1,SPORTV 5 HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/52.ts
+#EXTINF:-1,SPORTV 5 FULL-HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/411.ts
+#EXTINF:-1,SPORTV 5 HD (LOW)
+http://fastroot.ddns.net:8000/live/hugo/hugo/121.ts
+#EXTINF:-1,BTV 1
+http://fastroot.ddns.net:8000/live/hugo/hugo/53.ts
+#EXTINF:-1,BTV 1 HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/56.ts
+#EXTINF:-1,BTV 1 FULL-HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/412.ts
+#EXTINF:-1,BTV 1 HD (LOW)
+http://fastroot.ddns.net:8000/live/hugo/hugo/54.ts
+#EXTINF:-1,BTV 2
+http://fastroot.ddns.net:8000/live/hugo/hugo/55.ts
+#EXTINF:-1,BTV 2 HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/57.ts
+#EXTINF:-1,BTV 2 FULL-HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/413.ts
+#EXTINF:-1,BTV 2 HD (LOW)
+http://fastroot.ddns.net:8000/live/hugo/hugo/122.ts
+#EXTINF:-1,SPORTING TV
+http://fastroot.ddns.net:8000/live/hugo/hugo/58.ts
+#EXTINF:-1,SPORTING TV HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/59.ts
+#EXTINF:-1,SPORTING HD (LOW)
+http://fastroot.ddns.net:8000/live/hugo/hugo/123.ts
+#EXTINF:-1,EUROSPORT 1 HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/60.ts
+#EXTINF:-1,EUROSPORT 2
+http://fastroot.ddns.net:8000/live/hugo/hugo/61.ts
+#EXTINF:-1,EUROSPORT NEWS
+http://fastroot.ddns.net:8000/live/hugo/hugo/62.ts
+#EXTINF:-1,FIGHT NETWORK FULL-HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/414.ts
+#EXTINF:-1,MOTORVISION
+http://fastroot.ddns.net:8000/live/hugo/hugo/63.ts
+#EXTINF:-1,MOTORS TV
+http://fastroot.ddns.net:8000/live/hugo/hugo/64.ts
+#EXTINF:-1,PFC
+http://fastroot.ddns.net:8000/live/hugo/hugo/65.ts
+#EXTINF:-1,REAL MADRID TV
+http://fastroot.ddns.net:8000/live/hugo/hugo/66.ts
+#EXTINF:-1,CHELSEA TV
+http://fastroot.ddns.net:8000/live/hugo/hugo/67.ts
+#EXTINF:-1,FUEL TV
+http://fastroot.ddns.net:8000/live/hugo/hugo/68.ts
+#EXTINF:-1,A BOLA TV
+http://fastroot.ddns.net:8000/live/hugo/hugo/69.ts
+#EXTINF:-1,CACAVISION
+http://fastroot.ddns.net:8000/live/hugo/hugo/70.ts
+#EXTINF:-1,CAÇA E PESCA
+http://fastroot.ddns.net:8000/live/hugo/hugo/71.ts
+#EXTINF:-1,TOROS TV
+http://fastroot.ddns.net:8000/live/hugo/hugo/72.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/73.ts
+#EXTINF:-1,NAT GEO WILD
+http://fastroot.ddns.net:8000/live/hugo/hugo/74.ts
+#EXTINF:-1,DISCOVERY HD SHOWCASE
+http://fastroot.ddns.net:8000/live/hugo/hugo/75.ts
+#EXTINF:-1,DISCOVERY
+http://fastroot.ddns.net:8000/live/hugo/hugo/76.ts
+#EXTINF:-1,TLC
+http://fastroot.ddns.net:8000/live/hugo/hugo/77.ts
+#EXTINF:-1,ODISSEIA
+http://fastroot.ddns.net:8000/live/hugo/hugo/78.ts
+#EXTINF:-1,A&E
+http://fastroot.ddns.net:8000/live/hugo/hugo/79.ts
+#EXTINF:-1,RECORD NEWS
+http://fastroot.ddns.net:8000/live/hugo/hugo/80.ts
+#EXTINF:-1,FOX NEWS
+http://fastroot.ddns.net:8000/live/hugo/hugo/81.ts
+#EXTINF:-1,GLOBO PREMIUM
+http://fastroot.ddns.net:8000/live/hugo/hugo/83.ts
+#EXTINF:-1,GLOBO PORTUGAL
+http://fastroot.ddns.net:8000/live/hugo/hugo/84.ts
+#EXTINF:-1,TV RECORD
+http://fastroot.ddns.net:8000/live/hugo/hugo/85.ts
+#EXTINF:-1,EURONEWS
+http://fastroot.ddns.net:8000/live/hugo/hugo/86.ts
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/87.ts
+#EXTINF:-1,BABY TV
+http://fastroot.ddns.net:8000/live/hugo/hugo/90.ts
+#EXTINF:-1,SIC K
+http://fastroot.ddns.net:8000/live/hugo/hugo/91.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://fastroot.ddns.net:8000/live/hugo/hugo/92.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://fastroot.ddns.net:8000/live/hugo/hugo/93.ts
+#EXTINF:-1,CARTOON NETWORK
+http://fastroot.ddns.net:8000/live/hugo/hugo/94.ts
+#EXTINF:-1,JIM JAM
+http://fastroot.ddns.net:8000/live/hugo/hugo/95.ts
+#EXTINF:-1,PANDA BIGGS
+http://fastroot.ddns.net:8000/live/hugo/hugo/96.ts
+#EXTINF:-1,PANDA
+http://fastroot.ddns.net:8000/live/hugo/hugo/97.ts
+#EXTINF:-1,NICKELODEON
+http://fastroot.ddns.net:8000/live/hugo/hugo/98.ts
+#EXTINF:-1,CANAL HISTORIA
+http://fastroot.ddns.net:8000/live/hugo/hugo/99.ts
+#EXTINF:-1,BLOOMBERG
+http://fastroot.ddns.net:8000/live/hugo/hugo/89.ts
+#EXTINF:-1,OUTDOOR HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/88.ts
+#EXTINF:-1,FOOD NETWORK HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/101.ts
+#EXTINF:-1,24 KITCHEN HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/100.ts
+#EXTINF:-1,TRACE URBAN
+http://fastroot.ddns.net:8000/live/hugo/hugo/102.ts
+#EXTINF:-1,AMC
+http://fastroot.ddns.net:8000/live/hugo/hugo/104.ts
+#EXTINF:-1,VH1
+http://fastroot.ddns.net:8000/live/hugo/hugo/105.ts
+#EXTINF:-1,AFRO MUSIC
+http://fastroot.ddns.net:8000/live/hugo/hugo/107.ts
+#EXTINF:-1,MTV PORTUGAL
+http://fastroot.ddns.net:8000/live/hugo/hugo/108.ts
+#EXTINF:-1,MCM POP
+http://fastroot.ddns.net:8000/live/hugo/hugo/109.ts
+#EXTINF:-1,C- MUSIC
+http://fastroot.ddns.net:8000/live/hugo/hugo/106.ts
+#EXTINF:-1,HOT
+http://fastroot.ddns.net:8000/live/hugo/hugo/113.ts
+#EXTINF:-1,HOT FULL-HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/416.ts
+#EXTINF:-1,PENTHOUSE HD1
+http://fastroot.ddns.net:8000/live/hugo/hugo/110.ts
+#EXTINF:-1,PLAYBOY
+http://fastroot.ddns.net:8000/live/hugo/hugo/112.ts
+#EXTINF:-1,PLAYBOY HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/417.ts
+#EXTINF:-1,VENUS
+http://fastroot.ddns.net:8000/live/hugo/hugo/111.ts
+#EXTINF:-1,Frank and Cindy (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/583.mkv
+#EXTINF:-1,Hush (2016)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/584.mkv
+#EXTINF:-1,Uma Noite Fora do Palácio (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/558.mkv
+#EXTINF:-1,A Floresta (2016)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/534.mkv
+#EXTINF:-1,99 Casas (2014)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/533.mkv
+#EXTINF:-1,45 Anos (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/532.mkv
+#EXTINF:-1,Zero Tolerance (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/560.mkv
+#EXTINF:-1,Yosemite (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/531.mkv
+#EXTINF:-1,Yip Man 3 (2015
+http://fastroot.ddns.net:8000/movie/hugo/hugo/530.mkv
+#EXTINF:-1,War Room (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/529.mkv
+#EXTINF:-1,Verdade (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/559.mkv
+#EXTINF:-1,The Survivalist (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/528.mkv
+#EXTINF:-1,The Overnight (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/557.mkv
+#EXTINF:-1,The Lobster (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/556.mkv
+#EXTINF:-1,The Keeping Room (2014)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/555.mkv
+#EXTINF:-1,The Devil's Pact (2014)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/554.mkv
+#EXTINF:-1,Star Wars: O Despertar da Força (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/527.mkv
+#EXTINF:-1,Species: The Awakening (2007)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/526.mkv
+#EXTINF:-1,Southbound (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/553.mkv
+#EXTINF:-1,Sem Compromissos (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/552.mkv
+#EXTINF:-1,Samurai Cop 2 Deadly Vengeance (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/551.mkv
+#EXTINF:-1,Remember (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/525.mkv
+#EXTINF:-1,Quarto (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/550.mkv
+#EXTINF:-1,Point Break - Caçadores de Emoções (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/524.mkv
+#EXTINF:-1,O Segredo dos Seus Olhos (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/549.mkv
+#EXTINF:-1,O Panda do Kung Fu 3 (2016)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/548.mkv
+#EXTINF:-1,O Cadáver de Anna Fritz (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/547.mkv
+#EXTINF:-1,Moonwalkers (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/546.mkv
+#EXTINF:-1,Misconduct (2016)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/545.mkv
+#EXTINF:-1,Lake Eerie (2016)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/544.mkv
+#EXTINF:-1,Forsaken (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/543.mkv
+#EXTINF:-1,Extraction - Ameaça Global (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/542.mkv
+#EXTINF:-1,Dementia (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/541.mkv
+#EXTINF:-1,Debug (2014)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/540.mkv
+#EXTINF:-1,Creed O Legado de Rocky (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/539.mkv
+#EXTINF:-1,Backtrack (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/538.mkv
+#EXTINF:-1,Ao Som da Vida (2014)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/537.mkv
+#EXTINF:-1,Another World (2014)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/536.mkv
+#EXTINF:-1,Anjos e Sombras (2016)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/535.mkv
+#EXTINF:-1,Pee-wee's Big Holiday (2016)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/404.mkv
+#EXTINF:-1,Orgulho e Preconceito e Guerra (2016)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/403.mkv
+#EXTINF:-1,Jem e as Hologramas (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/402.mkv
+#EXTINF:-1,Fourth Man Out (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/401.mkv
+#EXTINF:-1,Digging for Fire (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/400.mkv
+#EXTINF:-1,As Sufragistas (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/399.mkv
+#EXTINF:-1,Alex of Venice (2014)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/398.mkv
+#EXTINF:-1,A 5ª Vaga (2016)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/397.mkv
+#EXTINF:-1,The Hunger Games A Revolta-Parte 2 (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/396.mkv
+#EXTINF:-1,Só Podiam Ser Irmãs (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/395.mkv
+#EXTINF:-1,Pai Há Só Um (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/394.mkv
+#EXTINF:-1,Os Oito Odiados (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/393.mkv
+#EXTINF:-1,Miss You Already (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/392.mkv
+#EXTINF:-1,Lavalantula (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/391.mkv
+#EXTINF:-1,Krampus O Lado Negro do Natal (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/390.mkv
+#EXTINF:-1,Junto ao Mar (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/389.mkv
+#EXTINF:-1,Hollow Creek (2016)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/388.mkv
+#EXTINF:-1,Cabin Fever (2016)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/387.mkv
+#EXTINF:-1,Alvin e os Esquilos A Grande Aventura (2015)Audio PT
+http://fastroot.ddns.net:8000/movie/hugo/hugo/386.mkv
+#EXTINF:-1,A Ultima Noitada (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/385.mkv
+#EXTINF:-1,A Senhora da Furgoneta (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/384.mkv
+#EXTINF:-1,A Queda de Wall Street (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/383.mkv
+#EXTINF:-1,A Modista (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/382.mkv
+#EXTINF:-1,A Força da Verdade (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/381.mkv
+#EXTINF:-1,Victor Frankenstein (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/380.mkv
+#EXTINF:-1,The Boy - Segue as Regras (2016)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/379.mkv
+#EXTINF:-1,Terminus (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/378.mkv
+#EXTINF:-1,Standoff (2016)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/377.mkv
+#EXTINF:-1,Queen of the Desert (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/376.mkv
+#EXTINF:-1,Os Coopers São o Máximo (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/375.mkv
+#EXTINF:-1,O Caso Spotlight (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/370.mkv
+#EXTINF:-1,Jarhead 3 The Siege (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/374.mkv
+#EXTINF:-1,Hyena Road (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/373.mkv
+#EXTINF:-1,Carol (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/372.mkv
+#EXTINF:-1,A Perfect Day (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/371.mkv
+#EXTINF:-1,Velocidade Furiosa 7 (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/176.mkv
+#EXTINF:-1,Transporter: Potência Máxima (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/174.mkv
+#EXTINF:-1,Southpaw (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/172.mkv
+#EXTINF:-1,Sininho e a Lenda do Monstro do Nunca (2014)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/170.mkv
+#EXTINF:-1,Shrek (2001)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/164.mkv
+#EXTINF:-1,Perdido em Marte (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/175.mkv
+#EXTINF:-1,Noite em Fuga (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/173.mkv
+#EXTINF:-1,Noah (2014)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/169.mkv
+#EXTINF:-1,Morte Limpa (2014)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/167.mkv
+#EXTINF:-1,Kingsman: Serviços Secretos (2014)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/168.mkv
+#EXTINF:-1,Herbie no Rally de Monte Carlo (1977)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/163.mkv
+#EXTINF:-1,Extraction (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/171.mkv
+#EXTINF:-1,Eu Sou a Lenda (2007)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/165.mkv
+#EXTINF:-1,American Sniper (2014)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/166.mkv
+#EXTINF:-1,The Last Witch Hunter (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/159.mkv
+#EXTINF:-1,Solace Premonições (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/162.mkv
+#EXTINF:-1,Sicário - Infiltrado (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/161.mkv
+#EXTINF:-1,Os Profissionais da Crise (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/160.mkv
+#EXTINF:-1,Lendas do Crime (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/158.mkv
+#EXTINF:-1,Experimenter (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/157.mkv
+#EXTINF:-1,Crimson Peak: A Colina Vermelha (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/151.mkv
+#EXTINF:-1,Cidades de Papel
+http://fastroot.ddns.net:8000/movie/hugo/hugo/156.mkv
+#EXTINF:-1,Carro da Polícia (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/153.mkv
+#EXTINF:-1,Burnt (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/155.mkv
+#EXTINF:-1,American Hero (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/152.mkv
+#EXTINF:-1,Absolutely Anything - Uma Comédia Intergaláctica (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/150.mkv
+#EXTINF:-1,47 Ronin - A Grande Batalha Samurai (2013)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/154.mkv
+#EXTINF:-1,Vendetta (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/148.mkv
+#EXTINF:-1,The Walk: O Desafio (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/147.mkv
+#EXTINF:-1,San Andreas (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/146.mkv
+#EXTINF:-1,Paranormal Activity: The Ghost Dimension (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/149.mkv
+#EXTINF:-1,O Segurança do Shopping: Las Vegas (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/145.mkv
+#EXTINF:-1,Mundo Jurássico (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/144.mkv
+#EXTINF:-1,Maze Runner: Provas de Fogo (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/143.mkv
+#EXTINF:-1,Max (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/142.mkv
+#EXTINF:-1,Hitman: Agente 47
+http://fastroot.ddns.net:8000/movie/hugo/hugo/141.mkv
+#EXTINF:-1,Ex Machina (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/138.mkv
+#EXTINF:-1,A Ponte dos Espiões (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/140.mkv
+#EXTINF:-1,12 Badaladas de Amor (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/139.mkv
+#EXTINF:-1,Sem Saída (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/133.mkv
+#EXTINF:-1,O Excêntrico Mortdecai (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/131.mkv
+#EXTINF:-1,Mission Impossible - Rogue Nation (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/132.mkv
+#EXTINF:-1,Fantastic Four (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/134.mkv
+#EXTINF:-1,Avengers Age of Ultron (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/136.mkv
+#EXTINF:-1,As Cinquenta Sombras de Grey (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/137.mkv
+#EXTINF:-1,American Ultra: Agentes Improváveis (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/135.mkv
+#EXTINF:-1,Mad Max: Estrada da Fúria (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/130.mkv
+#EXTINF:-1,Exterminador: Genisys (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/128.mkv
+#EXTINF:-1,Ascensão de Júpiter (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/129.mkv
+#EXTINF:-1,The Revenant: O Renascido (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/115.mkv
+#EXTINF:-1,Snoopy e Charlie Brown: Peanuts - O Filme (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/116.mkv
+#EXTINF:-1,O Principezinho (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/117.mkv
+#EXTINF:-1,007 Spectre (2015)
+http://fastroot.ddns.net:8000/movie/hugo/hugo/114.mkv
+#EXTINF:-1,11.22.63.S01E01
+http://fastroot.ddns.net:8000/movie/hugo/hugo/418.mkv
+#EXTINF:-1,11.22.63 S01E02
+http://fastroot.ddns.net:8000/movie/hugo/hugo/419.mkv
+#EXTINF:-1,11.22.63. S01E03
+http://fastroot.ddns.net:8000/movie/hugo/hugo/420.mkv
+#EXTINF:-1,11.22.63 S01E04
+http://fastroot.ddns.net:8000/movie/hugo/hugo/421.mkv
+#EXTINF:-1,11.22.63. S01E05
+http://fastroot.ddns.net:8000/movie/hugo/hugo/422.mkv
+#EXTINF:-1,11.22.63. S01E06
+http://fastroot.ddns.net:8000/movie/hugo/hugo/423.mkv
+#EXTINF:-1,Anatomia de Grey (2005) S12E01
+http://fastroot.ddns.net:8000/movie/hugo/hugo/497.mkv
+#EXTINF:-1,Anatomia de Grey (2005) S12E02
+http://fastroot.ddns.net:8000/movie/hugo/hugo/498.mkv
+#EXTINF:-1,Anatomia de Grey (2005) S12E03
+http://fastroot.ddns.net:8000/movie/hugo/hugo/499.mkv
+#EXTINF:-1,Anatomia de Grey (2005) S12E04
+http://fastroot.ddns.net:8000/movie/hugo/hugo/500.mkv
+#EXTINF:-1,Anatomia de Grey (2005) S12E05
+http://fastroot.ddns.net:8000/movie/hugo/hugo/501.mkv
+#EXTINF:-1,Anatomia de Grey (2005) S12E06
+http://fastroot.ddns.net:8000/movie/hugo/hugo/502.mkv
+#EXTINF:-1,Anatomia de Grey (2005) S12E07
+http://fastroot.ddns.net:8000/movie/hugo/hugo/503.mkv
+#EXTINF:-1,Anatomia de Grey (2005) S12E08
+http://fastroot.ddns.net:8000/movie/hugo/hugo/504.mkv
+#EXTINF:-1,Anatomia de Grey (2005) S12E09
+http://fastroot.ddns.net:8000/movie/hugo/hugo/505.mkv
+#EXTINF:-1,Anatomia de Grey (2005) S12E10
+http://fastroot.ddns.net:8000/movie/hugo/hugo/506.mkv
+#EXTINF:-1,Anatomia de Grey (2005) S12E11
+http://fastroot.ddns.net:8000/movie/hugo/hugo/507.mkv
+#EXTINF:-1,Anatomia de Grey (2005) S12E12
+http://fastroot.ddns.net:8000/movie/hugo/hugo/508.mkv
+#EXTINF:-1,Anatomia de Grey (2005) S12E13
+http://fastroot.ddns.net:8000/movie/hugo/hugo/509.mkv
+#EXTINF:-1,Anatomia de Grey (2005) S12E14
+http://fastroot.ddns.net:8000/movie/hugo/hugo/510.mkv
+#EXTINF:-1,Anatomia de Grey (2005) S12E15
+http://fastroot.ddns.net:8000/movie/hugo/hugo/511.mkv
+#EXTINF:-1,Anatomia de Grey (2005) S12E16
+http://fastroot.ddns.net:8000/movie/hugo/hugo/512.mkv
+#EXTINF:-1,Castle (2009) S08E01
+http://fastroot.ddns.net:8000/movie/hugo/hugo/427.mkv
+#EXTINF:-1,Castle (2009) S08E02
+http://fastroot.ddns.net:8000/movie/hugo/hugo/428.mkv
+#EXTINF:-1,Castle(2009) S08E03
+http://fastroot.ddns.net:8000/movie/hugo/hugo/429.mkv
+#EXTINF:-1,Castle(2009) S08E04
+http://fastroot.ddns.net:8000/movie/hugo/hugo/430.mkv
+#EXTINF:-1,Castle(2009) S08E05
+http://fastroot.ddns.net:8000/movie/hugo/hugo/431.mkv
+#EXTINF:-1,Castle(2009) S08E06
+http://fastroot.ddns.net:8000/movie/hugo/hugo/432.mkv
+#EXTINF:-1,Castle(2009) S08E07
+http://fastroot.ddns.net:8000/movie/hugo/hugo/433.mkv
+#EXTINF:-1,Castle(2009) S08E08
+http://fastroot.ddns.net:8000/movie/hugo/hugo/434.mkv
+#EXTINF:-1,Castle(2009) S08E09
+http://fastroot.ddns.net:8000/movie/hugo/hugo/435.mkv
+#EXTINF:-1,Castle(2009) S08E10
+http://fastroot.ddns.net:8000/movie/hugo/hugo/436.mkv
+#EXTINF:-1,Castle(2009) S08E11
+http://fastroot.ddns.net:8000/movie/hugo/hugo/437.mkv
+#EXTINF:-1,Castle(2009) S08E12
+http://fastroot.ddns.net:8000/movie/hugo/hugo/438.mkv
+#EXTINF:-1,Castle(2009) S08E13
+http://fastroot.ddns.net:8000/movie/hugo/hugo/439.mkv
+#EXTINF:-1,Castle (2009) S08E14
+http://fastroot.ddns.net:8000/movie/hugo/hugo/440.mkv
+#EXTINF:-1,Castle (2009) S08E15
+http://fastroot.ddns.net:8000/movie/hugo/hugo/441.mkv
+#EXTINF:-1,Damien S01E01
+http://fastroot.ddns.net:8000/movie/hugo/hugo/424.mkv
+#EXTINF:-1,Damien S01E02
+http://fastroot.ddns.net:8000/movie/hugo/hugo/425.mkv
+#EXTINF:-1,Damien S01E03
+http://fastroot.ddns.net:8000/movie/hugo/hugo/426.mkv
+#EXTINF:-1,Empire (2015) S02E01
+http://fastroot.ddns.net:8000/movie/hugo/hugo/513.mkv
+#EXTINF:-1,Empire (2015) S02E02
+http://fastroot.ddns.net:8000/movie/hugo/hugo/514.mkv
+#EXTINF:-1,Empire (2015) S02E03
+http://fastroot.ddns.net:8000/movie/hugo/hugo/515.mkv
+#EXTINF:-1,Empire (2015) S02E04
+http://fastroot.ddns.net:8000/movie/hugo/hugo/516.mkv
+#EXTINF:-1,Empire (2015) S02E05
+http://fastroot.ddns.net:8000/movie/hugo/hugo/517.mkv
+#EXTINF:-1,Empire (2015)  S02E06
+http://fastroot.ddns.net:8000/movie/hugo/hugo/518.mkv
+#EXTINF:-1,Empire (2015) S02E07
+http://fastroot.ddns.net:8000/movie/hugo/hugo/519.mkv
+#EXTINF:-1,Empire (2015) S02E08
+http://fastroot.ddns.net:8000/movie/hugo/hugo/520.mkv
+#EXTINF:-1,Empire (2015) S02E09
+http://fastroot.ddns.net:8000/movie/hugo/hugo/521.mkv
+#EXTINF:-1,Empire (2015) S02E10
+http://fastroot.ddns.net:8000/movie/hugo/hugo/522.mkv
+#EXTINF:-1,Empire (2015) S02E11
+http://fastroot.ddns.net:8000/movie/hugo/hugo/523.mkv
+#EXTINF:-1,Mentes Criminosas (2005) S11E01
+http://fastroot.ddns.net:8000/movie/hugo/hugo/442.mkv
+#EXTINF:-1,Mentes Criminosas (2005) S11E02
+http://fastroot.ddns.net:8000/movie/hugo/hugo/443.mkv
+#EXTINF:-1,Mentes Criminosas (2005) S11E03
+http://fastroot.ddns.net:8000/movie/hugo/hugo/444.mkv
+#EXTINF:-1,Mentes Criminosas (2005) S11E04
+http://fastroot.ddns.net:8000/movie/hugo/hugo/445.mkv
+#EXTINF:-1,Mentes Criminosas (2005) S11E05
+http://fastroot.ddns.net:8000/movie/hugo/hugo/446.mkv
+#EXTINF:-1,Mentes Criminosas (2005) S11E06
+http://fastroot.ddns.net:8000/movie/hugo/hugo/447.mkv
+#EXTINF:-1,Mentes Criminosas (2005) S11E07
+http://fastroot.ddns.net:8000/movie/hugo/hugo/448.mkv
+#EXTINF:-1,Mentes Criminosas (2005) S11E08
+http://fastroot.ddns.net:8000/movie/hugo/hugo/449.mkv
+#EXTINF:-1,Mentes Criminosas (2005) S11E09
+http://fastroot.ddns.net:8000/movie/hugo/hugo/450.mkv
+#EXTINF:-1,Mentes Criminosas (2005) S11E10
+http://fastroot.ddns.net:8000/movie/hugo/hugo/451.mkv
+#EXTINF:-1,Mentes Criminosas (2005) S11E11
+http://fastroot.ddns.net:8000/movie/hugo/hugo/452.mkv
+#EXTINF:-1,Mentes Criminosas (2005) S11E12
+http://fastroot.ddns.net:8000/movie/hugo/hugo/453.mkv
+#EXTINF:-1,Mentes Criminosas (2005) S11E13
+http://fastroot.ddns.net:8000/movie/hugo/hugo/454.mkv
+#EXTINF:-1,Mentes Criminosas (2005) S11E14
+http://fastroot.ddns.net:8000/movie/hugo/hugo/455.mkv
+#EXTINF:-1,Mentes Criminosas (2005) S11E15
+http://fastroot.ddns.net:8000/movie/hugo/hugo/456.mkv
+#EXTINF:-1,Mentes Criminosas (2005) S11E16
+http://fastroot.ddns.net:8000/movie/hugo/hugo/457.mkv
+#EXTINF:-1,Mentes Criminosas (2005) S11E17
+http://fastroot.ddns.net:8000/movie/hugo/hugo/458.mkv
+#EXTINF:-1,Mentes Criminosas (2005) S11E18
+http://fastroot.ddns.net:8000/movie/hugo/hugo/459.mkv
+#EXTINF:-1,Mentes Criminosas (2005) S11E19
+http://fastroot.ddns.net:8000/movie/hugo/hugo/460.mkv
+#EXTINF:-1,|ES|: TELECINCO
+http://fastroot.ddns.net:8000/live/hugo/hugo/369.ts
+#EXTINF:-1,|ES|: TCM
+http://fastroot.ddns.net:8000/live/hugo/hugo/368.ts
+#EXTINF:-1,|ES|: SYFY
+http://fastroot.ddns.net:8000/live/hugo/hugo/367.ts
+#EXTINF:-1,|ES|: SOL MUSICA
+http://fastroot.ddns.net:8000/live/hugo/hugo/365.ts
+#EXTINF:-1,|ES|: PARAMOUNT CHANNEL
+http://fastroot.ddns.net:8000/live/hugo/hugo/362.ts
+#EXTINF:-1,|ES|: NOVA
+http://fastroot.ddns.net:8000/live/hugo/hugo/361.ts
+#EXTINF:-1,|ES|: NATIONAL GEOGRAPHIC
+http://fastroot.ddns.net:8000/live/hugo/hugo/359.ts
+#EXTINF:-1,|ES|: NAT GEO WILD
+http://fastroot.ddns.net:8000/live/hugo/hugo/358.ts
+#EXTINF:-1,|ES|: MOVISTAR MOTOGP
+http://fastroot.ddns.net:8000/live/hugo/hugo/356.ts
+#EXTINF:-1,|ES|: MOVISTAR F1
+http://fastroot.ddns.net:8000/live/hugo/hugo/355.ts
+#EXTINF:-1,|ES|: LTC
+http://fastroot.ddns.net:8000/live/hugo/hugo/353.ts
+#EXTINF:-1,|ES|: LA SEXTA
+http://fastroot.ddns.net:8000/live/hugo/hugo/352.ts
+#EXTINF:-1,|ES|: LA 2
+http://fastroot.ddns.net:8000/live/hugo/hugo/351.ts
+#EXTINF:-1,|ES|: LA 1
+http://fastroot.ddns.net:8000/live/hugo/hugo/350.ts
+#EXTINF:-1,|ES|: HOLLYWOOD
+http://fastroot.ddns.net:8000/live/hugo/hugo/349.ts
+#EXTINF:-1,|ES|: FRANCE 24
+http://fastroot.ddns.net:8000/live/hugo/hugo/348.ts
+#EXTINF:-1,|ES|: FOX LIFE
+http://fastroot.ddns.net:8000/live/hugo/hugo/347.ts
+#EXTINF:-1,|ES|: FOX
+http://fastroot.ddns.net:8000/live/hugo/hugo/346.ts
+#EXTINF:-1,|ES|: EUROSPORT 2
+http://fastroot.ddns.net:8000/live/hugo/hugo/345.ts
+#EXTINF:-1,|ES|: EUROSPORT 1
+http://fastroot.ddns.net:8000/live/hugo/hugo/344.ts
+#EXTINF:-1,|ES|: DISNEY XD
+http://fastroot.ddns.net:8000/live/hugo/hugo/341.ts
+#EXTINF:-1,|ES|: DISNEY CHANNEL
+http://fastroot.ddns.net:8000/live/hugo/hugo/340.ts
+#EXTINF:-1,|ES|: DISCOVERY CHANNEL
+http://fastroot.ddns.net:8000/live/hugo/hugo/339.ts
+#EXTINF:-1,|ES|: DCINE ESPANOL
+http://fastroot.ddns.net:8000/live/hugo/hugo/338.ts
+#EXTINF:-1,|ES|: CUATRO
+http://fastroot.ddns.net:8000/live/hugo/hugo/337.ts
+#EXTINF:-1,|ES|: COSMO
+http://fastroot.ddns.net:8000/live/hugo/hugo/336.ts
+#EXTINF:-1,|ES|: COMEDY CENTRAL
+http://fastroot.ddns.net:8000/live/hugo/hugo/335.ts
+#EXTINF:-1,|ES|: CAZA Y PESCA
+http://fastroot.ddns.net:8000/live/hugo/hugo/334.ts
+#EXTINF:-1,|ES|: CANAL SUR A
+http://fastroot.ddns.net:8000/live/hugo/hugo/333.ts
+#EXTINF:-1,|ES|: CANAL PANDA
+http://fastroot.ddns.net:8000/live/hugo/hugo/332.ts
+#EXTINF:-1,|ES|: CANAL ODISEA
+http://fastroot.ddns.net:8000/live/hugo/hugo/331.ts
+#EXTINF:-1,|ES|: CANAL HISTORIA
+http://fastroot.ddns.net:8000/live/hugo/hugo/330.ts
+#EXTINF:-1,|ES|: CANAL DECASA
+http://fastroot.ddns.net:8000/live/hugo/hugo/329.ts
+#EXTINF:-1,|ES|: CANAL COCINA
+http://fastroot.ddns.net:8000/live/hugo/hugo/328.ts
+#EXTINF:-1,|ES|: CANAL
+http://fastroot.ddns.net:8000/live/hugo/hugo/327.ts
+#EXTINF:-1,|ES|: CALLE 13
+http://fastroot.ddns.net:8000/live/hugo/hugo/326.ts
+#EXTINF:-1,|ES|: C  XTRA
+http://fastroot.ddns.net:8000/live/hugo/hugo/325.ts
+#EXTINF:-1,|ES|: C  SERIESXTRA
+http://fastroot.ddns.net:8000/live/hugo/hugo/324.ts
+#EXTINF:-1,|ES|: C  SERIES
+http://fastroot.ddns.net:8000/live/hugo/hugo/323.ts
+#EXTINF:-1,|ES|: C  PORTADA
+http://fastroot.ddns.net:8000/live/hugo/hugo/322.ts
+#EXTINF:-1,|ES|: C  LIGA
+http://fastroot.ddns.net:8000/live/hugo/hugo/321.ts
+#EXTINF:-1,|ES|: C  DEPORTES 2
+http://fastroot.ddns.net:8000/live/hugo/hugo/320.ts
+#EXTINF:-1,|ES|: C   GOLF
+http://fastroot.ddns.net:8000/live/hugo/hugo/319.ts
+#EXTINF:-1,|ES|: C   FUTBOL
+http://fastroot.ddns.net:8000/live/hugo/hugo/318.ts
+#EXTINF:-1,|ES|: C   ESTRENOS
+http://fastroot.ddns.net:8000/live/hugo/hugo/317.ts
+#EXTINF:-1,|ES|: C   DEPORTES
+http://fastroot.ddns.net:8000/live/hugo/hugo/316.ts
+#EXTINF:-1,|ES|: C   DCINE
+http://fastroot.ddns.net:8000/live/hugo/hugo/315.ts
+#EXTINF:-1,|ES|: C   COMEDIA
+http://fastroot.ddns.net:8000/live/hugo/hugo/314.ts
+#EXTINF:-1,|ES|: C   ACCI©N
+http://fastroot.ddns.net:8000/live/hugo/hugo/313.ts
+#EXTINF:-1,|ES|: BOING TV
+http://fastroot.ddns.net:8000/live/hugo/hugo/312.ts
+#EXTINF:-1,|ES|: BEIN SPORT
+http://fastroot.ddns.net:8000/live/hugo/hugo/342.ts
+#EXTINF:-1,|ES|: BARCA TV
+http://fastroot.ddns.net:8000/live/hugo/hugo/311.ts
+#EXTINF:-1,|ES|: AXN WHITE
+http://fastroot.ddns.net:8000/live/hugo/hugo/310.ts
+#EXTINF:-1,|ES|: AXN
+http://fastroot.ddns.net:8000/live/hugo/hugo/309.ts
+#EXTINF:-1,|ES|: ARAGON TV
+http://fastroot.ddns.net:8000/live/hugo/hugo/308.ts
+#EXTINF:-1,|ES|: ANTENA 3
+http://fastroot.ddns.net:8000/live/hugo/hugo/307.ts
+#EXTINF:-1,|ES|: AMC
+http://fastroot.ddns.net:8000/live/hugo/hugo/306.ts
+#EXTINF:-1,|ES|: ALJAZEERA ENG
+http://fastroot.ddns.net:8000/live/hugo/hugo/357.ts
+#EXTINF:-1,|ES|: A&E
+http://fastroot.ddns.net:8000/live/hugo/hugo/305.ts
+#EXTINF:-1,|ES|: 40 TV
+http://fastroot.ddns.net:8000/live/hugo/hugo/304.ts
+#EXTINF:-1,|ES|: 24 HORAS
+http://fastroot.ddns.net:8000/live/hugo/hugo/303.ts
+#EXTINF:-1,|FR|: WEO
+http://fastroot.ddns.net:8000/live/hugo/hugo/302.ts
+#EXTINF:-1,|FR|: W9
+http://fastroot.ddns.net:8000/live/hugo/hugo/301.ts
+#EXTINF:-1,|FR|: USHUAIA
+http://fastroot.ddns.net:8000/live/hugo/hugo/300.ts
+#EXTINF:-1,|FR|: TVA
+http://fastroot.ddns.net:8000/live/hugo/hugo/294.ts
+#EXTINF:-1,|FR|: TV5 MONDE
+http://fastroot.ddns.net:8000/live/hugo/hugo/299.ts
+#EXTINF:-1,|FR|: TF1
+http://fastroot.ddns.net:8000/live/hugo/hugo/297.ts
+#EXTINF:-1,|FR|: TEVA
+http://fastroot.ddns.net:8000/live/hugo/hugo/296.ts
+#EXTINF:-1,|FR|: TELETOON
+http://fastroot.ddns.net:8000/live/hugo/hugo/295.ts
+#EXTINF:-1,|FR|: SYFY
+http://fastroot.ddns.net:8000/live/hugo/hugo/293.ts
+#EXTINF:-1,|FR|: SERIE CLUB
+http://fastroot.ddns.net:8000/live/hugo/hugo/292.ts
+#EXTINF:-1,|FR|: SCIENCES E VIE TV
+http://fastroot.ddns.net:8000/live/hugo/hugo/291.ts
+#EXTINF:-1,|FR|: RTS LA UNE
+http://fastroot.ddns.net:8000/live/hugo/hugo/290.ts
+#EXTINF:-1,|FR|: RTS LA DEUX
+http://fastroot.ddns.net:8000/live/hugo/hugo/289.ts
+#EXTINF:-1,|FR|: RTL 9
+http://fastroot.ddns.net:8000/live/hugo/hugo/288.ts
+#EXTINF:-1,|FR|: RMC DECOUVERTE
+http://fastroot.ddns.net:8000/live/hugo/hugo/287.ts
+#EXTINF:-1,|FR|: PLANETE   CI
+http://fastroot.ddns.net:8000/live/hugo/hugo/286.ts
+#EXTINF:-1,|FR|: PLANETE
+http://fastroot.ddns.net:8000/live/hugo/hugo/285.ts
+#EXTINF:-1,|FR|: OCS CITY
+http://fastroot.ddns.net:8000/live/hugo/hugo/284.ts
+#EXTINF:-1,|FR|: NRJ 12
+http://fastroot.ddns.net:8000/live/hugo/hugo/283.ts
+#EXTINF:-1,|FR|: NATIONAL GEO CHANNEL
+http://fastroot.ddns.net:8000/live/hugo/hugo/282.ts
+#EXTINF:-1,|FR|: MANGAS
+http://fastroot.ddns.net:8000/live/hugo/hugo/281.ts
+#EXTINF:-1,|FR|: MA CHAINE SPORT
+http://fastroot.ddns.net:8000/live/hugo/hugo/298.ts
+#EXTINF:-1,|FR|: M6 MUSIC
+http://fastroot.ddns.net:8000/live/hugo/hugo/280.ts
+#EXTINF:-1,|FR|: M6
+http://fastroot.ddns.net:8000/live/hugo/hugo/279.ts
+#EXTINF:-1,|FR|: LA TELE
+http://fastroot.ddns.net:8000/live/hugo/hugo/278.ts
+#EXTINF:-1,|FR|: INFOSPORT
+http://fastroot.ddns.net:8000/live/hugo/hugo/277.ts
+#EXTINF:-1,|FR|: GULLI
+http://fastroot.ddns.net:8000/live/hugo/hugo/276.ts
+#EXTINF:-1,|FR|: FRANCE Ô
+http://fastroot.ddns.net:8000/live/hugo/hugo/275.ts
+#EXTINF:-1,|FR|: FRANCE 5
+http://fastroot.ddns.net:8000/live/hugo/hugo/274.ts
+#EXTINF:-1,|FR|: FRANCE 4
+http://fastroot.ddns.net:8000/live/hugo/hugo/273.ts
+#EXTINF:-1,|FR|: FRANCE 3
+http://fastroot.ddns.net:8000/live/hugo/hugo/272.ts
+#EXTINF:-1,|FR|: FRANCE 24
+http://fastroot.ddns.net:8000/live/hugo/hugo/271.ts
+#EXTINF:-1,|FR|: FRANCE 2
+http://fastroot.ddns.net:8000/live/hugo/hugo/270.ts
+#EXTINF:-1,|FR|: EUROSPORT 2
+http://fastroot.ddns.net:8000/live/hugo/hugo/268.ts
+#EXTINF:-1,|FR|: EUROSPORT 1
+http://fastroot.ddns.net:8000/live/hugo/hugo/269.ts
+#EXTINF:-1,|FR|: DORCEL
+http://fastroot.ddns.net:8000/live/hugo/hugo/267.ts
+#EXTINF:-1,|FR|: DISNEY JUNIOR
+http://fastroot.ddns.net:8000/live/hugo/hugo/264.ts
+#EXTINF:-1,|FR|: D8
+http://fastroot.ddns.net:8000/live/hugo/hugo/265.ts
+#EXTINF:-1,|FR|: D17
+http://fastroot.ddns.net:8000/live/hugo/hugo/266.ts
+#EXTINF:-1,|FR|: CINE POLAR
+http://fastroot.ddns.net:8000/live/hugo/hugo/259.ts
+#EXTINF:-1,|FR|: CINE CLASSIC
+http://fastroot.ddns.net:8000/live/hugo/hugo/263.ts
+#EXTINF:-1,|FR|: CINE   PREMIER
+http://fastroot.ddns.net:8000/live/hugo/hugo/262.ts
+#EXTINF:-1,|FR|: CHERIE 25
+http://fastroot.ddns.net:8000/live/hugo/hugo/261.ts
+#EXTINF:-1,|FR|: CHASSE E PECHE
+http://fastroot.ddns.net:8000/live/hugo/hugo/260.ts
+#EXTINF:-1,|FR|: CANAL J
+http://fastroot.ddns.net:8000/live/hugo/hugo/258.ts
+#EXTINF:-1,|FR|: CANAL   SPORT
+http://fastroot.ddns.net:8000/live/hugo/hugo/257.ts
+#EXTINF:-1,|FR|: CANAL   FRISSON
+http://fastroot.ddns.net:8000/live/hugo/hugo/252.ts
+#EXTINF:-1,|FR|: CANAL   FAMALY
+http://fastroot.ddns.net:8000/live/hugo/hugo/256.ts
+#EXTINF:-1,|FR|: CANAL   EMOTION
+http://fastroot.ddns.net:8000/live/hugo/hugo/255.ts
+#EXTINF:-1,|FR|: CANAL   DECALE
+http://fastroot.ddns.net:8000/live/hugo/hugo/254.ts
+#EXTINF:-1,|FR|: CANAL   CLASSIC
+http://fastroot.ddns.net:8000/live/hugo/hugo/251.ts
+#EXTINF:-1,|FR|: CANAL   CINEMA
+http://fastroot.ddns.net:8000/live/hugo/hugo/253.ts
+#EXTINF:-1,|FR|: CANAL
+http://fastroot.ddns.net:8000/live/hugo/hugo/250.ts
+#EXTINF:-1,|FR|: BOING
+http://fastroot.ddns.net:8000/live/hugo/hugo/249.ts
+#EXTINF:-1,|FR|: BFM TV
+http://fastroot.ddns.net:8000/live/hugo/hugo/248.ts
+#EXTINF:-1,|FR|: BEINSPORT 3
+http://fastroot.ddns.net:8000/live/hugo/hugo/247.ts
+#EXTINF:-1,|FR|: BEINSPORT 2
+http://fastroot.ddns.net:8000/live/hugo/hugo/246.ts
+#EXTINF:-1,|FR|: BEINSPORT 1
+http://fastroot.ddns.net:8000/live/hugo/hugo/245.ts
+#EXTINF:-1,|FR|: ARTE
+http://fastroot.ddns.net:8000/live/hugo/hugo/244.ts
+#EXTINF:-1,|FR|: ANIMAUX
+http://fastroot.ddns.net:8000/live/hugo/hugo/243.ts
+#EXTINF:-1,|FR|: ACTION
+http://fastroot.ddns.net:8000/live/hugo/hugo/242.ts
+#EXTINF:-1,|FR|: 13 EME RUE
+http://fastroot.ddns.net:8000/live/hugo/hugo/241.ts
+#EXTINF:-1,|GER|: 13th STREET
+http://fastroot.ddns.net:8000/live/hugo/hugo/185.ts
+#EXTINF:-1,|GER|: 3SAT
+http://fastroot.ddns.net:8000/live/hugo/hugo/186.ts
+#EXTINF:-1,|GER|: ANIXE HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/194.ts
+#EXTINF:-1,|GER|: ARD
+http://fastroot.ddns.net:8000/live/hugo/hugo/187.ts
+#EXTINF:-1,|GER|: AXN
+http://fastroot.ddns.net:8000/live/hugo/hugo/188.ts
+#EXTINF:-1,|GER|: DISCOVERY CHANNEL
+http://fastroot.ddns.net:8000/live/hugo/hugo/189.ts
+#EXTINF:-1,|GER|: DISNEY CHANNEL
+http://fastroot.ddns.net:8000/live/hugo/hugo/191.ts
+#EXTINF:-1,|GER|: DMAX
+http://fastroot.ddns.net:8000/live/hugo/hugo/192.ts
+#EXTINF:-1,|GER|: FOX
+http://fastroot.ddns.net:8000/live/hugo/hugo/193.ts
+#EXTINF:-1,|GER|: KABEL 1
+http://fastroot.ddns.net:8000/live/hugo/hugo/195.ts
+#EXTINF:-1,|GER|: KIKA
+http://fastroot.ddns.net:8000/live/hugo/hugo/196.ts
+#EXTINF:-1,|GER|: N24
+http://fastroot.ddns.net:8000/live/hugo/hugo/197.ts
+#EXTINF:-1,|GER|: NATIONAL GEO WILD
+http://fastroot.ddns.net:8000/live/hugo/hugo/198.ts
+#EXTINF:-1,|GER|: NATIONAL GEOGRAPHIC
+http://fastroot.ddns.net:8000/live/hugo/hugo/199.ts
+#EXTINF:-1,|GER|: NDR HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/200.ts
+#EXTINF:-1,|GER|: ORF 2
+http://fastroot.ddns.net:8000/live/hugo/hugo/201.ts
+#EXTINF:-1,|GER|: PRO 7
+http://fastroot.ddns.net:8000/live/hugo/hugo/202.ts
+#EXTINF:-1,|GER|: PROSIEBEN
+http://fastroot.ddns.net:8000/live/hugo/hugo/204.ts
+#EXTINF:-1,|GER|: RTL
+http://fastroot.ddns.net:8000/live/hugo/hugo/205.ts
+#EXTINF:-1,|GER|: RTL II
+http://fastroot.ddns.net:8000/live/hugo/hugo/206.ts
+#EXTINF:-1,|GER|: SAT 1
+http://fastroot.ddns.net:8000/live/hugo/hugo/207.ts
+#EXTINF:-1,|GER|: SKY 3D
+http://fastroot.ddns.net:8000/live/hugo/hugo/208.ts
+#EXTINF:-1,|GER|: SKY ACTION
+http://fastroot.ddns.net:8000/live/hugo/hugo/209.ts
+#EXTINF:-1,|GER|: SKY ATLANTIC
+http://fastroot.ddns.net:8000/live/hugo/hugo/210.ts
+#EXTINF:-1,|GER|: SKY CINEMA
+http://fastroot.ddns.net:8000/live/hugo/hugo/211.ts
+#EXTINF:-1,|GER|: SKY CINEMA 24
+http://fastroot.ddns.net:8000/live/hugo/hugo/212.ts
+#EXTINF:-1,|GER|: SKY CINEMA PLUS 24
+http://fastroot.ddns.net:8000/live/hugo/hugo/203.ts
+#EXTINF:-1,|GER|: SKY COMEDY
+http://fastroot.ddns.net:8000/live/hugo/hugo/213.ts
+#EXTINF:-1,|GER|: SKY EMOTION
+http://fastroot.ddns.net:8000/live/hugo/hugo/214.ts
+#EXTINF:-1,|GER|: SKY HITS
+http://fastroot.ddns.net:8000/live/hugo/hugo/215.ts
+#EXTINF:-1,|GER|: SKY NOSTALGIE
+http://fastroot.ddns.net:8000/live/hugo/hugo/216.ts
+#EXTINF:-1,|GER|: SKY SELECT HD2
+http://fastroot.ddns.net:8000/live/hugo/hugo/222.ts
+#EXTINF:-1,|GER|: SKY SELECT HD3
+http://fastroot.ddns.net:8000/live/hugo/hugo/223.ts
+#EXTINF:-1,|GER|: SKY SELECT HD4
+http://fastroot.ddns.net:8000/live/hugo/hugo/224.ts
+#EXTINF:-1,|GER|: SKY SELECT HD5
+http://fastroot.ddns.net:8000/live/hugo/hugo/225.ts
+#EXTINF:-1,|GER|: SKY SELECT HD6
+http://fastroot.ddns.net:8000/live/hugo/hugo/226.ts
+#EXTINF:-1,|GER|: SKY SELECT HD7
+http://fastroot.ddns.net:8000/live/hugo/hugo/227.ts
+#EXTINF:-1,|GER|: SKY SELECT HD8
+http://fastroot.ddns.net:8000/live/hugo/hugo/228.ts
+#EXTINF:-1,|GER|: SKY SPORT BUNDESLIGA 1
+http://fastroot.ddns.net:8000/live/hugo/hugo/218.ts
+#EXTINF:-1,|GER|: SKY SPORT BUNDESLIGA 1 SD
+http://fastroot.ddns.net:8000/live/hugo/hugo/217.ts
+#EXTINF:-1,|GER|: SKY SPORT HD 1
+http://fastroot.ddns.net:8000/live/hugo/hugo/219.ts
+#EXTINF:-1,|GER|: SKY SPORT HD 2
+http://fastroot.ddns.net:8000/live/hugo/hugo/220.ts
+#EXTINF:-1,|GER|: Sky-Select HD1
+http://fastroot.ddns.net:8000/live/hugo/hugo/221.ts
+#EXTINF:-1,|GER|: SPORT 1   HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/229.ts
+#EXTINF:-1,|GER|: SPORT 1 HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/230.ts
+#EXTINF:-1,|GER|: SPORT TIME TV 1
+http://fastroot.ddns.net:8000/live/hugo/hugo/231.ts
+#EXTINF:-1,|GER|: SPORT TIME TV 2
+http://fastroot.ddns.net:8000/live/hugo/hugo/232.ts
+#EXTINF:-1,|GER|: SUPER RTL
+http://fastroot.ddns.net:8000/live/hugo/hugo/233.ts
+#EXTINF:-1,|GER|: SWR
+http://fastroot.ddns.net:8000/live/hugo/hugo/234.ts
+#EXTINF:-1,|GER|: SYFY
+http://fastroot.ddns.net:8000/live/hugo/hugo/235.ts
+#EXTINF:-1,|GER|: TELECLUB SPORT 1
+http://fastroot.ddns.net:8000/live/hugo/hugo/190.ts
+#EXTINF:-1,|GER|: TNT FILM
+http://fastroot.ddns.net:8000/live/hugo/hugo/236.ts
+#EXTINF:-1,|GER|: TNT SERIE
+http://fastroot.ddns.net:8000/live/hugo/hugo/237.ts
+#EXTINF:-1,|GER|: VOX
+http://fastroot.ddns.net:8000/live/hugo/hugo/238.ts
+#EXTINF:-1,|GER|: WDR HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/239.ts
+#EXTINF:-1,|GER|: ZDF HD
+http://fastroot.ddns.net:8000/live/hugo/hugo/240.ts
