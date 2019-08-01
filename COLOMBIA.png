@@ -1,3 +1,244 @@
-Server:"[COLOR white]TV COLOMBIA[/COLOR]  [COLOR lime]SERVIDOR 1[/COLOR]" URL="https://apktvsupertuga.000webhostapp.com/submundo/SUB-MENUS/LISTA%20IPTV.m3u"; regex"CO"
+#EXTM3U
+#EXTINF:-1,PT: 24 Kitchen
+http://force102.com:8080/alikoklu/kokluali/20275
+#EXTINF:-1,PT: A Bola TV
+http://force102.com:8080/alikoklu/kokluali/20274
+#EXTINF:-1,PT: AMC
+http://force102.com:8080/alikoklu/kokluali/20273
+#EXTINF:-1,PT: AXN Black HD
+http://force102.com:8080/alikoklu/kokluali/20272
+#EXTINF:-1,PT: AXN White
+http://force102.com:8080/alikoklu/kokluali/20271
+#EXTINF:-1,PT: Baby TV
+http://force102.com:8080/alikoklu/kokluali/20270
+#EXTINF:-1,PT: Barca TV
+http://force102.com:8080/alikoklu/kokluali/20269
+#EXTINF:-1,PT: Benfica TV HD
+http://force102.com:8080/alikoklu/kokluali/20268
+#EXTINF:-1,PT: Biggs
+http://force102.com:8080/alikoklu/kokluali/20267
+#EXTINF:-1,PT: Caça e Pesca
+http://force102.com:8080/alikoklu/kokluali/20266
+#EXTINF:-1,PT: CAÇAVISION
+http://force102.com:8080/alikoklu/kokluali/20265
+#EXTINF:-1,PT: Canal Q
+http://force102.com:8080/alikoklu/kokluali/20264
+#EXTINF:-1,PT: CBS Reality
+http://force102.com:8080/alikoklu/kokluali/20262
+#EXTINF:-1,PT: Cinemundo
+http://force102.com:8080/alikoklu/kokluali/20261
+#EXTINF:-1,PT: Discovery Channel
+http://force102.com:8080/alikoklu/kokluali/20260
+#EXTINF:-1,PT: Discovery Showcase
+http://force102.com:8080/alikoklu/kokluali/20259
+#EXTINF:-1,PT: Disney Channel
+http://force102.com:8080/alikoklu/kokluali/20258
+#EXTINF:-1,PT: Disney Junior
+http://force102.com:8080/alikoklu/kokluali/20257
+#EXTINF:-1,PT: Eleven Sports 1HD
+http://force102.com:8080/alikoklu/kokluali/20256
+#EXTINF:-1,PT: Eleven Sports 2HD
+http://force102.com:8080/alikoklu/kokluali/20255
+#EXTINF:-1,PT: Eleven Sports 3HD
+http://force102.com:8080/alikoklu/kokluali/20254
+#EXTINF:-1,PT: Eleven Sports 4HD
+http://force102.com:8080/alikoklu/kokluali/20253
+#EXTINF:-1,PT: Eleven Sports 5HD
+http://force102.com:8080/alikoklu/kokluali/20252
+#EXTINF:-1,PT: Eleven Sports 6HD
+http://force102.com:8080/alikoklu/kokluali/20251
+#EXTINF:-1,PT: Eurosport 1
+http://force102.com:8080/alikoklu/kokluali/20250
+#EXTINF:-1,PT: Eurosport 2
+http://force102.com:8080/alikoklu/kokluali/20249
+#EXTINF:-1,PT: FOX Comedy
+http://force102.com:8080/alikoklu/kokluali/20248
+#EXTINF:-1,PT: Fox Crime
+http://force102.com:8080/alikoklu/kokluali/20247
+#EXTINF:-1,PT: FOX HD
+http://force102.com:8080/alikoklu/kokluali/20246
+#EXTINF:-1,PT: FOX Life HD
+http://force102.com:8080/alikoklu/kokluali/20245
+#EXTINF:-1,PT: FOX Movies
+http://force102.com:8080/alikoklu/kokluali/20244
+#EXTINF:-1,PT: Fuel TV
+http://force102.com:8080/alikoklu/kokluali/20243
+#EXTINF:-1,PT: Historia
+http://force102.com:8080/alikoklu/kokluali/20242
+#EXTINF:-1,PT: Hollywood
+http://force102.com:8080/alikoklu/kokluali/20241
+#EXTINF:-1,PT: JimJam
+http://force102.com:8080/alikoklu/kokluali/20240
+#EXTINF:-1,PT: Kombat Sport
+http://force102.com:8080/alikoklu/kokluali/20239
+#EXTINF:-1,PT: Motorvision
+http://force102.com:8080/alikoklu/kokluali/20238
+#EXTINF:-1,PT: Nat Geo
+http://force102.com:8080/alikoklu/kokluali/20237
+#EXTINF:-1,PT: Nat Geo Wild
+http://force102.com:8080/alikoklu/kokluali/20236
+#EXTINF:-1,PT: Nickelodeon
+http://force102.com:8080/alikoklu/kokluali/20235
+#EXTINF:-1,PT: Odissea
+http://force102.com:8080/alikoklu/kokluali/20234
+#EXTINF:-1,PT: PFC
+http://force102.com:8080/alikoklu/kokluali/20233
+#EXTINF:-1,PT: Porto Canal
+http://force102.com:8080/alikoklu/kokluali/20232
+#EXTINF:-1,PT: Real Madrid TV
+http://force102.com:8080/alikoklu/kokluali/20231
+#EXTINF:-1,PT: RTP Africa
+http://force102.com:8080/alikoklu/kokluali/20230
+#EXTINF:-1,PT: SIC
+http://force102.com:8080/alikoklu/kokluali/20229
+#EXTINF:-1,PT: SIC CARAS
+http://force102.com:8080/alikoklu/kokluali/20228
+#EXTINF:-1,PT: SIC K
+http://force102.com:8080/alikoklu/kokluali/20227
+#EXTINF:-1,PT: SIC Radical
+http://force102.com:8080/alikoklu/kokluali/20226
+#EXTINF:-1,PT: Sport TV
+http://force102.com:8080/alikoklu/kokluali/20225
+#EXTINF:-1,PT: Sport TV 1HD
+http://force102.com:8080/alikoklu/kokluali/20224
+#EXTINF:-1,PT: Sport TV 2HD
+http://force102.com:8080/alikoklu/kokluali/20223
+#EXTINF:-1,PT: Sport TV 3HD
+http://force102.com:8080/alikoklu/kokluali/20222
+#EXTINF:-1,PT: Sport TV 4 HD
+http://force102.com:8080/alikoklu/kokluali/20221
+#EXTINF:-1,PT: Sport TV 5 HD
+http://force102.com:8080/alikoklu/kokluali/20220
+#EXTINF:-1,PT: Sporting TV
+http://force102.com:8080/alikoklu/kokluali/20219
+#EXTINF:-1,PT: SYFY
+http://force102.com:8080/alikoklu/kokluali/20218
+#EXTINF:-1,PT: TLC
+http://force102.com:8080/alikoklu/kokluali/20217
+#EXTINF:-1,PT: Toros TV
+http://force102.com:8080/alikoklu/kokluali/20216
+#EXTINF:-1,PT: TV Globo
+http://force102.com:8080/alikoklu/kokluali/20215
+#EXTINF:-1,PT: TV Globo Premium
+http://force102.com:8080/alikoklu/kokluali/20214
+#EXTINF:-1,PT: TV Record
+http://force102.com:8080/alikoklu/kokluali/20213
+#EXTINF:-1,PT: TVi Reality
+http://force102.com:8080/alikoklu/kokluali/20212
 
-Server:"[COLOR white]TV COLOMBIA[/COLOR]  [COLOR lime]SERVIDOR 2[/COLOR]" URL="https://apktvsupertuga.000webhostapp.com/submundo/SUB-MENUS/LISTA%20IPTV%202.m3u"; regex"CO"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1,(PT) 24 Kitchen HD
+http://ott.localx.club:80/saban/erdogan/10298
+#EXTINF:-1,(PT) AMC
+http://ott.localx.club:80/saban/erdogan/10317
+#EXTINF:-1,(PT) AXN Black HD
+http://ott.localx.club:80/saban/erdogan/10316
+#EXTINF:-1,(PT) AXN HD
+http://ott.localx.club:80/saban/erdogan/10315
+#EXTINF:-1,(PT) AXN White HD
+http://ott.localx.club:80/saban/erdogan/10314
+#EXTINF:-1,(PT) BTV 1 HD
+http://ott.localx.club:80/saban/erdogan/10297
+#EXTINF:-1,(PT) Cinemundo
+http://ott.localx.club:80/saban/erdogan/10313
+#EXTINF:-1,(PT) CMTV
+http://ott.localx.club:80/saban/erdogan/10294
+#EXTINF:-1,(PT) Discovery HD  Showcase
+http://ott.localx.club:80/saban/erdogan/10296
+#EXTINF:-1,(PT) Eurosport 1 HD
+http://ott.localx.club:80/saban/erdogan/10318
+#EXTINF:-1,(PT) FOX Crime HD
+http://ott.localx.club:80/saban/erdogan/10312
+#EXTINF:-1,(PT) FOX HD
+http://ott.localx.club:80/saban/erdogan/10311
+#EXTINF:-1,(PT) FOX Life HD
+http://ott.localx.club:80/saban/erdogan/10310
+#EXTINF:-1,(PT) Globo Premium
+http://ott.localx.club:80/saban/erdogan/10293
+#EXTINF:-1,(PT) Historia
+http://ott.localx.club:80/saban/erdogan/10286
+#EXTINF:-1,(PT) Hollywood
+http://ott.localx.club:80/saban/erdogan/10309
+#EXTINF:-1,(PT) National Geographic HD
+http://ott.localx.club:80/saban/erdogan/10292
+#EXTINF:-1,(PT) RTP 1
+http://ott.localx.club:80/saban/erdogan/10303
+#EXTINF:-1,(PT) RTP 2
+http://ott.localx.club:80/saban/erdogan/10302
+#EXTINF:-1,(PT) RTP 3
+http://ott.localx.club:80/saban/erdogan/10301
+#EXTINF:-1,(PT) RTP Madeira
+http://ott.localx.club:80/saban/erdogan/10300
+#EXTINF:-1,(PT) RTP Memрria
+http://ott.localx.club:80/saban/erdogan/10299
+#EXTINF:-1,(PT) SIC
+http://ott.localx.club:80/saban/erdogan/10291
+#EXTINF:-1,(PT) SIC Caras
+http://ott.localx.club:80/saban/erdogan/10290
+#EXTINF:-1,(PT) SIC K
+http://ott.localx.club:80/saban/erdogan/10289
+#EXTINF:-1,(PT) SIC Radical
+http://ott.localx.club:80/saban/erdogan/10288
+#EXTINF:-1,(PT) SPORT TV
+http://ott.localx.club:80/saban/erdogan/10319
+#EXTINF:-1,(PT) SPORT TV 1 HD
+http://ott.localx.club:80/saban/erdogan/10324
+#EXTINF:-1,(PT) SPORT TV 2 HD
+http://ott.localx.club:80/saban/erdogan/10323
+#EXTINF:-1,(PT) SPORT TV 3 HD
+http://ott.localx.club:80/saban/erdogan/10322
+#EXTINF:-1,(PT) SPORT TV 4
+http://ott.localx.club:80/saban/erdogan/10321
+#EXTINF:-1,(PT) SPORT TV 5
+http://ott.localx.club:80/saban/erdogan/10320
+#EXTINF:-1,(PT) Travel Channel HD
+http://ott.localx.club:80/saban/erdogan/10295
+#EXTINF:-1,(PT) TVCine 1 HD
+http://ott.localx.club:80/saban/erdogan/10307
+#EXTINF:-1,(PT) TVCine 2 HD
+http://ott.localx.club:80/saban/erdogan/10306
+#EXTINF:-1,(PT) TVCine 3 HD
+http://ott.localx.club:80/saban/erdogan/10305
+#EXTINF:-1,(PT) TVCine 4 HD
+http://ott.localx.club:80/saban/erdogan/10304
+#EXTINF:-1,(PT) TVI 24
+http://ott.localx.club:80/saban/erdogan/10287
+#EXTINF:-1,(PT) TVSeries HD
+http://ott.localx.club:80/saban/erdogan/10308
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
